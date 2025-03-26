@@ -48,5 +48,5 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add combine/combine-youtube.json korea/*.json
-          git commit -m "🔄 Update JSON files (GitHub Actions)" || echo "No changes to commit"
+          git commit -m "Combine Update JSON - $(date +"%Y-%m-%d")" || echo "No changes to commit"
           git push origin main
