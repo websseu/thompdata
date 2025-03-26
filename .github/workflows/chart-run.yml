@@ -52,6 +52,10 @@ jobs:
           git add youtube/**/*.json
           git commit -m "Youtube Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
+          python3 world-apple.py
+          git add apple/**/*.json
+          git commit -m "Apple Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
       # 6. 변경사항 푸시
       - name: Push changes
         uses: ad-m/github-push-action@master
