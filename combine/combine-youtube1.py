@@ -4,11 +4,15 @@ import json
 # 병합할 폴더 지정
 base_folder = "youtube"
 
-# 최종 JSON 파일 이름
-output_file = "combine/combine-youtube.json"
+# 최종 JSON 파일 경로
+output_folder = "combine"
+output_file = os.path.join(output_folder, "combine-youtube.json")
 
 # 중복 제거를 위한 딕셔너리
 unique_data = {}
+
+# 🔹 폴더가 없으면 생성
+os.makedirs(output_folder, exist_ok=True)
 
 # youtube 폴더 내부의 모든 JSON 파일을 탐색
 for root, _, files in os.walk(base_folder):
