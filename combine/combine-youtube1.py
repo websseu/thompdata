@@ -11,7 +11,7 @@ output_file = os.path.join(output_folder, "combine-youtube.json")
 # 중복 제거를 위한 딕셔너리
 unique_data = {}
 
-# 🔹 폴더가 없으면 생성
+# 폴더가 없으면 생성
 os.makedirs(output_folder, exist_ok=True)
 
 # youtube 폴더 내부의 모든 JSON 파일을 탐색
@@ -49,9 +49,12 @@ for root, _, files in os.walk(base_folder):
 # 중복 제거된 데이터를 리스트로 변환
 combined_data = list(unique_data.values())
 
-# 최종 데이터 JSON 파일로 저장
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(combined_data, f, ensure_ascii=False, indent=2)
+# JSON 파일이 비어있으면 저장하지 않음
+if combined_data:
+    # 최종 데이터 JSON 파일로 저장
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(combined_data, f, ensure_ascii=False, indent=2)
 
-# 완료 메시지 출력
-print(f"✅ youtube 폴더 데이터를 중복 제거 후 {output_file} 파일로 합쳤습니다! (필드: title, artist, image, youtubeID)")
+    print(f"✅ youtube 폴더 데이터를 중복 제거 후 {output_file} 파일로 합쳤습니다! (필드: title, artist, image, youtubeID)")
+else:
+    print("⚠️ 병합할 데이터가 없습니다. JSON 파일을 생성하지 않습니다.")
