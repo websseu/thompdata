@@ -5,7 +5,7 @@ import json
 base_folder = "youtube"
 
 # 최종 JSON 파일 이름
-output_file = "combine-youtube.json"
+output_file = "combine/combine-youtube.json"
 
 # 중복 제거를 위한 딕셔너리
 unique_data = {}

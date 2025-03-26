@@ -1,0 +1,30 @@
+name: Run Combine Scripts
+
+on:
+  schedule:
+    - cron: '0 20 * * *' # UTC 20:00 → 한국시간(KST) 05:00
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  run-combine-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9' # 원하는 파이썬 버전
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt || echo "No requirements.txt found"
+
+      - name: Run combine-youtube1.py
+        run: python combine/combine-youtube1.py
+
+      - name: Run combine-youtube2.py
+        run: python combine/combine-youtube2.py
