@@ -15,7 +15,7 @@
 
 ## 🛠 사용 기술
 
-- PPython 3.x
+- Python 3.x
 - Requests / Selenium (사이트별 요청 방식 다름)
 - BeautifulSoup (HTML 파싱)
 - Pandas (데이터 정리 및 JSON 저장)
