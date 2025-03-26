@@ -1,716 +1,722 @@
 [
-    {
-        "ranking": "1",
-        "title": "Missing You (Do You Know)",
-        "artist": "High Watah",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/55/9a/f2559a07-9af1-b48f-3b0d-0ff96fee2757/10720.jpg/80x80bb.webp",
-        "appleID": "missing-you-do-you-know/1790300214"
-    },
-    {
-        "ranking": "2",
-        "title": "One Number Away",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/83/bf/3c83bf3e-bf4a-7e69-5668-d55f5a8e38e0/886446460840.jpg/80x80bb.webp",
-        "appleID": "one-number-away/1228888135"
-    },
-    {
-        "ranking": "3",
-        "title": "The Motto",
-        "artist": "Tiësto",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/62/e0/b562e0fa-bde1-e785-00e1-9a6d8190b5a6/5059460347205.jpg/80x80bb.webp",
-        "appleID": "the-motto/1778067295"
-    },
-    {
-        "ranking": "4",
-        "title": "A VIBE",
-        "artist": "Victor J Sefo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/62/49/2d624908-4f14-e815-ea55-75082dcc11ec/10721.jpg/80x80bb.webp",
-        "appleID": "a-vibe/1790330042"
-    },
-    {
-        "ranking": "5",
-        "title": "Nobody Gets Me",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "nobody-gets-me/1657869532",
-        "spotifyID": "5Y35SjAfXjjG0sFQ3KOxmm"
-    },
-    {
-        "ranking": "6",
-        "title": "One Call Away (feat. Sean Rii)",
-        "artist": "JAHBOY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/18/62/df186213-aece-246c-22bb-5eeed213f8d9/6244.jpg/80x80bb.webp",
-        "appleID": "one-call-away-feat-sean-rii/1708143739"
-    },
-    {
-        "ranking": "7",
-        "title": "Lifetime",
-        "artist": "Topshakaz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/4f/c5/4f4fc5aa-6e82-d53e-6bbc-a86ae3e40cd6/8882.jpg/80x80bb.webp",
-        "appleID": "lifetime/1752574275"
-    },
-    {
-        "ranking": "8",
-        "title": "Dreamin",
-        "artist": "PARTYNEXTDOOR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/d9/61/b9d961e2-44e7-52cf-eda8-d671a650f649/47085.jpg/80x80bb.webp",
-        "appleID": "dreamin/1777722381",
-        "spotifyID": "35sZOqVnTQNIGWGURrFdLh"
-    },
-    {
-        "ranking": "9",
-        "title": "Snooze",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492",
-        "youtubeID": "LDY_XyxBu8A",
-        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
-    },
-    {
-        "ranking": "10",
-        "title": "Love You Anyway",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "love-you-anyway/1666738582"
-    },
-    {
-        "ranking": "11",
-        "title": "Where the Wild Things Are",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "where-the-wild-things-are/1666738581"
-    },
-    {
-        "ranking": "12",
-        "title": "Dive (Recorded At Sound Stage Nashville)",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/98/63/a4986322-f776-e2f2-a798-e0a7040b64af/196589585066.jpg/80x80bb.webp",
-        "appleID": "dive-recorded-at-sound-stage-nashville/1651313788"
-    },
-    {
-        "ranking": "13",
-        "title": "Even Though I'm Leaving",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/d3/ea/9ad3eab9-1aab-204b-da70-0006dcdba6c9/886448390374.jpg/80x80bb.webp",
-        "appleID": "even-though-im-leaving/1510448705"
-    },
-    {
-        "ranking": "14",
-        "title": "Beautiful Crazy",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/4b/59/f44b59a2-62c7-e9c7-df8b-4b8e7d772b41/886447048443.jpg/80x80bb.webp",
-        "appleID": "beautiful-crazy/1376707066"
-    },
-    {
-        "ranking": "15",
-        "title": "4 Tha Hustlaz",
-        "artist": "Topshakaz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/bb/e2/c6bbe2d9-94e8-1369-49ba-ca501fcbb129/9029.jpg/80x80bb.webp",
-        "appleID": "4-tha-hustlaz/1754048139"
-    },
-    {
-        "ranking": "16",
-        "title": "M a k e  I t  T o  T h e  M o r n i n g",
-        "artist": "PARTYNEXTDOOR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/de/c5/0ddec5e3-42f6-c550-6227-55dcd7d6b89a/39029.jpg/80x80bb.webp",
-        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855",
-        "spotifyID": "12VH4g5pTMZmrUVzfJq7F7"
-    },
-    {
-        "ranking": "17",
-        "title": "Better Now",
-        "artist": "Post Malone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/80x80bb.webp",
-        "appleID": "better-now/1373517313"
-    },
-    {
-        "ranking": "18",
-        "title": "Every Little Bit of You",
-        "artist": "Spawnbreezie",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/5d/2a/7c5d2a87-383b-1fc8-d4eb-c780e632364f/859713344372_cover.jpg/80x80bb.webp",
-        "appleID": "every-little-bit-of-you/920434129"
-    },
-    {
-        "ranking": "19",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "artist": "Post Malone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
-        "youtubeID": "4QIZE708gJ4"
-    },
-    {
-        "ranking": "20",
-        "title": "Kold Blooded Soulja",
-        "artist": "Topshakaz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/60/46/4a6046ef-3ff4-979f-1045-da423ec14973/8978.jpg/80x80bb.webp",
-        "appleID": "kold-blooded-soulja/1752576904"
-    },
-    {
-        "ranking": "21",
-        "title": "My Best (feat. Victor J Sefo & Will84)",
-        "artist": "DJ Noiz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/f0/1e/8ff01e5d-cd50-1bfe-58a9-6f0e740b9f49/4157.jpg/80x80bb.webp",
-        "appleID": "my-best-feat-victor-j-sefo-will84/1669413740"
-    },
-    {
-        "ranking": "22",
-        "title": "Carry My Heart",
-        "artist": "Myshaan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427",
-        "youtubeID": "N9Welk1i-XM"
-    },
-    {
-        "ranking": "23",
-        "title": "Under the Influence",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
-        "appleID": "under-the-influence/1481623864"
-    },
-    {
-        "ranking": "24",
-        "title": "You Complete Me",
-        "artist": "Nesian N.I.N.E.",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/86/a2/17/mzi.ymhjxdyu.jpg/80x80bb.webp",
-        "appleID": "you-complete-me/332587645"
-    },
-    {
-        "ranking": "25",
-        "title": "Yippee Ki Yay (feat. Anoyd & International Santo)",
-        "artist": "Chris Webby",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a9/5a/95/a95a9530-9f65-388c-a3e1-071f37ea4abe/27742.jpg/80x80bb.webp",
-        "appleID": "yippee-ki-yay-feat-anoyd-international-santo/1665459760"
-    },
-    {
-        "ranking": "26",
-        "title": "Piña Colada Boy (Radio Edit)",
-        "artist": "Baby Alice",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/39/35/51/393551f2-f445-de29-d729-f614f5b5d853/884977616323.jpg/80x80bb.webp",
-        "appleID": "pi%C3%B1a-colada-boy-radio-edit/369701496"
-    },
-    {
-        "ranking": "27",
-        "title": "All of Me",
-        "artist": "Jah Cure",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/54/80/a7/5480a755-efe9-e3e7-03a3-03b0cdf0d3ea/054645258166.jpg/80x80bb.webp",
-        "appleID": "all-of-me/1006066348"
-    },
-    {
-        "ranking": "28",
-        "title": "Sun and Moon",
-        "artist": "Anees",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/ab/d3/a7abd33a-6025-37fb-7fca-87849d20b8b9/66647.jpg/80x80bb.webp",
-        "appleID": "sun-and-moon/1688481962"
-    },
-    {
-        "ranking": "29",
-        "title": "Beautiful Things",
-        "artist": "Benson Boone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124",
-        "youtubeID": "Oa_RSwwpPaA"
-    },
-    {
-        "ranking": "30",
-        "title": "Work from Home (feat. Ty Dolla $ign)",
-        "artist": "Fifth Harmony",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/3b/da/733bda99-d0c8-02b2-db8f-ae9a87a5d933/886445740448.jpg/80x80bb.webp",
-        "appleID": "work-from-home-feat-ty-dolla-%24ign/1087445213"
-    },
-    {
-        "ranking": "31",
-        "title": "Every Night Every Morning",
-        "artist": "Maoli",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618",
-        "youtubeID": "20k90wvdLco"
-    },
-    {
-        "ranking": "32",
-        "title": "2 You",
-        "artist": "Mariah the Scientist",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/79/38/8f793876-4bce-b939-bf64-726fb6b28d30/886449365159.jpg/80x80bb.webp",
-        "appleID": "2-you/1571821966"
-    },
-    {
-        "ranking": "33",
-        "title": "Trap Queen",
-        "artist": "Fetty Wap",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/7f/1c/a67f1c2e-6fcb-1bcd-2260-eb7f4b3d75c3/mzm.nopiamsw.jpg/80x80bb.webp",
-        "appleID": "trap-queen/1039459590"
-    },
-    {
-        "ranking": "34",
-        "title": "Last Rodeo",
-        "artist": "Restless Road",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/57/da/b157da8d-c4eb-abbf-f5ad-dca2e3c1d6da/196871169189.jpg/80x80bb.webp",
-        "appleID": "last-rodeo/1689456723"
-    },
-    {
-        "ranking": "35",
-        "title": "Johnny Dang",
-        "artist": "That Mexican OT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/c9/5d/11c95d34-a5ec-03c3-f2d7-27a20497347e/23UMGIM57881.rgb.jpg/80x80bb.webp",
-        "appleID": "johnny-dang/1688613668"
-    },
-    {
-        "ranking": "36",
-        "title": "Think of Me (feat. Chris Young)",
-        "artist": "Onetox",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/73/a5/3b73a5ce-c535-dcdc-b972-de13016e49a0/6199.jpg/80x80bb.webp",
-        "appleID": "think-of-me-feat-chris-young/1707737869"
-    },
-    {
-        "ranking": "37",
-        "title": "Let Me Love You",
-        "artist": "J Boog",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/37/f6/fd/37f6fded-37b6-2e32-60a0-aee4f7c4d104/888915222799_cover.jpg/80x80bb.webp",
-        "appleID": "let-me-love-you/1166289999"
-    },
-    {
-        "ranking": "38",
-        "title": "Last Night",
-        "artist": "Morgan Wallen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/cc/00/86cc001c-2efc-9ebb-8290-17f4f3ba3e4a/23UMGIM08087.rgb.jpg/80x80bb.webp",
-        "appleID": "last-night/1667990774",
-        "youtubeID": "bUjPPBxbQrQ",
-        "spotifyID": "7K3BhSpAxZBznislvUMVtn"
-    },
-    {
-        "ranking": "39",
-        "title": "Solomon Girl",
-        "artist": "DMP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/f7/ce/61/f7ce616d-d730-8ef1-2dba-dc46fa7fe4e8/cover.jpg/80x80bb.webp",
-        "appleID": "solomon-girl/641458941"
-    },
-    {
-        "ranking": "40",
-        "title": "Head Over Boots",
-        "artist": "Jon Pardi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/59/6b/fe596b62-b89b-776e-ce73-2b5d3ab8484d/16UMGIM11343.rgb.jpg/80x80bb.webp",
-        "appleID": "head-over-boots/1440847742"
-    },
-    {
-        "ranking": "41",
-        "title": "Before I Leave",
-        "artist": "Jah Cure",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/a6/27/18a627a3-d3fb-45c1-7b35-5332d7c466f2/0.jpg/80x80bb.webp",
-        "appleID": "before-i-leave/1556659227"
-    },
-    {
-        "ranking": "42",
-        "title": "Mercy",
-        "artist": "Brett Young",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/68/3a/e1683a62-929c-c4dd-6139-93869866d95e/17UMGIM01226.rgb.jpg/80x80bb.webp",
-        "appleID": "mercy/1551982240"
-    },
-    {
-        "ranking": "43",
-        "title": "Something in the Orange (Z&E's Version)",
-        "artist": "Zach Bryan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ee/cb/00/eecb00f1-05ea-b9ea-2a56-2c67957de43e/093624870487.jpg/80x80bb.webp",
-        "appleID": "something-in-the-orange/1620419734",
-        "spotifyID": "3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-        "ranking": "44",
-        "title": "Need To Not",
-        "artist": "Jordan Davis",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/19/5b/12195b9a-1ac0-4ded-03da-e034ce80ac8c/21UMGIM22433.rgb.jpg/80x80bb.webp",
-        "appleID": "need-to-not/1563946220"
-    },
-    {
-        "ranking": "45",
-        "title": "Beer Never Broke My Heart",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/55/08/8155084d-26e7-e914-35b0-8bbe6edf2668/886448691341.jpg/80x80bb.webp",
-        "appleID": "beer-never-broke-my-heart/1527782145"
-    },
-    {
-        "ranking": "46",
-        "title": "Catch",
-        "artist": "Brett Young",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/04/5b/29/045b291d-49e8-ab5b-d092-32425546891b/18OPBMR00089.rgb.jpg/80x80bb.webp",
-        "appleID": "catch/1435520801"
-    },
-    {
-        "ranking": "47",
-        "title": "Remember Him That Way",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/30/cd/9530cd97-d001-99d9-ac2e-32c2633f6ec3/196872117424.jpg/80x80bb.webp",
-        "appleID": "remember-him-that-way/1750297454"
-    },
-    {
-        "ranking": "48",
-        "title": "In Case I Ain't Around",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/30/cd/9530cd97-d001-99d9-ac2e-32c2633f6ec3/196872117424.jpg/80x80bb.webp",
-        "appleID": "in-case-i-aint-around/1750297445"
-    },
-    {
-        "ranking": "49",
-        "title": "5 Leaf Clover",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "5-leaf-clover/1666738587"
-    },
-    {
-        "ranking": "50",
-        "title": "Better Together",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/d3/ea/9ad3eab9-1aab-204b-da70-0006dcdba6c9/886448390374.jpg/80x80bb.webp",
-        "appleID": "better-together/1510449612"
-    },
-    {
-        "ranking": "51",
-        "title": "On My Way to You",
-        "artist": "Cody Johnson",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c1/de/f7/c1def77c-ca13-34ca-6a83-cff6697a9e2a/093624903604.jpg/80x80bb.webp",
-        "appleID": "on-my-way-to-you/1439113154"
-    },
-    {
-        "ranking": "52",
-        "title": "Must've Never Met You",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/4b/59/f44b59a2-62c7-e9c7-df8b-4b8e7d772b41/886447048443.jpg/80x80bb.webp",
-        "appleID": "mustve-never-met-you/1376707065"
-    },
-    {
-        "ranking": "53",
-        "title": "Rumor",
-        "artist": "Lee Brice",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/83/8f/51838f82-c7a2-8f70-ca73-9f7a9c534ffc/79452_-_Lee_Brice.png/80x80bb.webp",
-        "appleID": "rumor/1278567741"
-    },
-    {
-        "ranking": "54",
-        "title": "Lonely Eyes",
-        "artist": "Chris Young",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d7/f3/77/d7f377e4-1e1c-275b-5da6-53d2225214ad/886444092715.jpg/80x80bb.webp",
-        "appleID": "lonely-eyes/672733764"
-    },
-    {
-        "ranking": "55",
-        "title": "I Am That Man",
-        "artist": "Brooks & Dunn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/5a/99/3c5a9960-95e9-20de-c5af-99cc38f613f4/886443386594.jpg/80x80bb.webp",
-        "appleID": "i-am-that-man/516421168"
-    },
-    {
-        "ranking": "56",
-        "title": "Cleaning This Gun (Come on In Boy)",
-        "artist": "Rodney Atkins",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/23/82/0f/23820f64-a917-3975-e637-1df917ef01e4/mzi.dcfpgkmn.jpg/80x80bb.webp",
-        "appleID": "cleaning-this-gun-come-on-in-boy/162357834"
-    },
-    {
-        "ranking": "57",
-        "title": "30 For 30 (with Kendrick Lamar)",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/bd/88/97bd8804-7d3e-e6c8-0532-ff22877b931c/196871766890.jpg/80x80bb.webp",
-        "appleID": "30-for-30-with-kendrick-lamar/1786643047"
-    },
-    {
-        "ranking": "58",
-        "title": "Sleep At Night",
-        "artist": "Onetox",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/30/5b/51305b1a-8896-2b4f-e3f2-d96449a3efc9/7460.jpg/80x80bb.webp",
-        "appleID": "sleep-at-night/1708004368"
-    },
-    {
-        "ranking": "59",
-        "title": "Summer Serenade",
-        "artist": "Myshaan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/c6/dc/a8c6dc05-05e9-c571-d46b-6755dedbe65a/10683.jpg/80x80bb.webp",
-        "appleID": "summer-serenade/1790128102"
-    },
-    {
-        "ranking": "60",
-        "title": "Can I",
-        "artist": "Kehlani",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/5b/cc/9a5bccbb-e46a-5fc1-1ff9-155d4f90d42b/075679821706.jpg/80x80bb.webp",
-        "appleID": "can-i/1510639904"
-    },
-    {
-        "ranking": "61",
-        "title": "Chemtrails Over the Country Club",
-        "artist": "Lana Del Rey",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/79/c5/7479c518-a8ba-2054-b978-c87293194260/20UM1IM09851.rgb.jpg/80x80bb.webp",
-        "appleID": "chemtrails-over-the-country-club/1545567750"
-    },
-    {
-        "ranking": "62",
-        "title": "Forget Me Nots",
-        "artist": "Patrice Rushen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/1b/e9/521be9ab-8516-4d17-988b-88f89b1d0845/0730003317255.png/80x80bb.webp",
-        "appleID": "forget-me-nots/1319585761"
-    },
-    {
-        "ranking": "63",
-        "title": "Back On The Ledge",
-        "artist": "SAINt JHN",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/0c/75/b00c75da-1944-e55d-636a-e38be621065f/22CRGIM34066.rgb.jpg/80x80bb.webp",
-        "appleID": "back-on-the-ledge/1712189656"
-    },
-    {
-        "ranking": "64",
-        "title": "Ransom (feat. 6LACK & Kehlani)",
-        "artist": "SAINt JHN",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/0c/75/b00c75da-1944-e55d-636a-e38be621065f/22CRGIM34066.rgb.jpg/80x80bb.webp",
-        "appleID": "ransom-feat-6lack-kehlani/1712189409"
-    },
-    {
-        "ranking": "65",
-        "title": "Come My Way",
-        "artist": "DJ Noiz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/91/73/459173f2-5fcf-8332-3dfa-4b3a04e730a2/4120.jpg/80x80bb.webp",
-        "appleID": "come-my-way/1669236480"
-    },
-    {
-        "ranking": "66",
-        "title": "Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",
-        "artist": "DJ Khaled",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/f6/9e/02f69e64-9f7b-8c15-c0a4-4dec2860fb44/886445975833.jpg/80x80bb.webp",
-        "appleID": "do-you-mind-feat-nicki-minaj-chris-brown-august-alsina/1127989702"
-    },
-    {
-        "ranking": "67",
-        "title": "gloria",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "gloria/1781270555",
-        "youtubeID": "G5YwhjCywvw"
-    },
-    {
-        "ranking": "68",
-        "title": "Bitch, Don't Kill My Vibe (Remix) [feat. Emeli Sandé]",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/89/78/d7/8978d7b3-e462-b3da-55db-79c874c6f0e5/00602537455294.rgb.jpg/80x80bb.webp",
-        "appleID": "bitch-dont-kill-my-vibe-remix-feat-emeli-sand%C3%A9/1445302616"
-    },
-    {
-        "ranking": "69",
-        "title": "Geni Kwaimani",
-        "artist": "Onetox",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/30/5b/51305b1a-8896-2b4f-e3f2-d96449a3efc9/7460.jpg/80x80bb.webp",
-        "appleID": "geni-kwaimani/1708004373"
-    },
-    {
-        "ranking": "70",
-        "title": "Tomorrow Comes",
-        "artist": "Sean Rii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/da/ef/ebdaef16-16bf-afbb-4573-0ed950da8944/6758.jpg/80x80bb.webp",
-        "appleID": "tomorrow-comes/1717545019"
-    },
-    {
-        "ranking": "71",
-        "title": "Monica Lewinsky, Election Year (feat. DaBaby & A Boogie wit da Hoodie)",
-        "artist": "SAINt JHN",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/0c/75/b00c75da-1944-e55d-636a-e38be621065f/22CRGIM34066.rgb.jpg/80x80bb.webp",
-        "appleID": "monica-lewinsky-election-year-feat-dababy-a-boogie/1712189162"
-    },
-    {
-        "ranking": "72",
-        "title": "Risky",
-        "artist": "Sean Rii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/5d/cb/0e5dcbab-12d7-6d07-abab-fa829d52e998/6897.jpg/80x80bb.webp",
-        "appleID": "risky/1719576827"
-    },
-    {
-        "ranking": "73",
-        "title": "Don't Leave Me (feat. Kugypt)",
-        "artist": "Sean Rii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/40/05/2a400583-6b7f-f952-a1f6-5d0817979c93/6766.jpg/80x80bb.webp",
-        "appleID": "dont-leave-me-feat-kugypt/1717732485"
-    },
-    {
-        "ranking": "74",
-        "title": "So Into You",
-        "artist": "Onetox",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/30/5b/51305b1a-8896-2b4f-e3f2-d96449a3efc9/7460.jpg/80x80bb.webp",
-        "appleID": "so-into-you/1708004230"
-    },
-    {
-        "ranking": "75",
-        "title": "So Long (Remastered)",
-        "artist": "Lomez Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8b/4a/b0/8b4ab00c-af6e-1ede-f8b3-926aa07017f7/3679.jpg/80x80bb.webp",
-        "appleID": "so-long-remastered/1661938745"
-    },
-    {
-        "ranking": "76",
-        "title": "She Don't Want Me Love",
-        "artist": "Swiss",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/ea/46/efea461e-422b-f68f-6236-fdb4f6c71a5e/9421031746346.jpg/80x80bb.webp",
-        "appleID": "she-dont-want-me-love/1774861691"
-    },
-    {
-        "ranking": "77",
-        "title": "Throw Signs (feat. Jack & Jack)",
-        "artist": "Sammy Wilk",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/0e/df/720edfeb-79ed-6b84-e639-d460873316f1/FRSH013.jpg/80x80bb.webp",
-        "appleID": "throw-signs-feat-jack-jack/1100595466"
-    },
-    {
-        "ranking": "78",
-        "title": "All The Stars",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7c/f9/0f7cf9a6-651f-53ae-e374-6be14630bfae/18UMGIM00001.rgb.jpg/80x80bb.webp",
-        "appleID": "all-the-stars/1440906939"
-    },
-    {
-        "ranking": "79",
-        "title": "Ofa Mai (feat. Konecs & Vili Langi)",
-        "artist": "DJ Noiz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/84/6a/10846af3-74a1-d2ed-5751-070842c369ef/4094.jpg/80x80bb.webp",
-        "appleID": "ofa-mai-feat-konecs-vili-langi/1670364933"
-    },
-    {
-        "ranking": "80",
-        "title": "Girls Need Love",
-        "artist": "Summer Walker",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/80x80bb.webp",
-        "appleID": "girls-need-love/1438765134"
-    },
-    {
-        "ranking": "81",
-        "title": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167",
-        "youtubeID": "H58vbez_m4E"
-    },
-    {
-        "ranking": "82",
-        "title": "Bring Me Your Cup",
-        "artist": "UB40",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/bb/79/afbb7946-da06-42ad-645f-9b409e9b41be/00077778822950.jpg/80x80bb.webp",
-        "appleID": "bring-me-your-cup/724099077"
-    },
-    {
-        "ranking": "83",
-        "title": "Open Arms (feat. Travis Scott)",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "open-arms-feat-travis-scott/1657869546"
-    },
-    {
-        "ranking": "84",
-        "title": "No Love",
-        "artist": "Summer Walker",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/8c/bf/f08cbffc-1101-f974-a2d3-38381d8ed506/21UM1IM23130.rgb.jpg/80x80bb.webp",
-        "appleID": "no-love/1590029546"
-    },
-    {
-        "ranking": "85",
-        "title": "Don't Worry (feat. Sabrina Antoinette)",
-        "artist": "Sammy Wilk",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/0e/df/720edfeb-79ed-6b84-e639-d460873316f1/FRSH013.jpg/80x80bb.webp",
-        "appleID": "dont-worry-feat-sabrina-antoinette/1100595468"
-    },
-    {
-        "ranking": "86",
-        "title": "Travelin' Soldier",
-        "artist": "Maoli",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/ce/48/3fce48b5-9058-cfea-7d3d-b21aeeb2deba/0.jpg/80x80bb.webp",
-        "appleID": "travelin-soldier/1760203664"
-    },
-    {
-        "ranking": "87",
-        "title": "Karim Lewa",
-        "artist": "Sean Rii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/4c/03/904c033a-49d2-db88-40eb-23961b520b71/6869.jpg/80x80bb.webp",
-        "appleID": "karim-lewa/1719043403"
-    },
-    {
-        "ranking": "88",
-        "title": "Aesop Mountain",
-        "artist": "Andy Thorn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5c/1c/19/5c1c1907-4c54-38ea-3482-8e21bcd6faee/artwork.jpg/80x80bb.webp",
-        "appleID": "aesop-mountain/1634662298"
-    },
-    {
-        "ranking": "89",
-        "title": "Broke Heart Break",
-        "artist": "Maoli",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/22/b3/b122b3d5-be58-585a-12f8-bd42720444ed/0.jpg/80x80bb.webp",
-        "appleID": "broke-heart-break/1769671163"
-    },
-    {
-        "ranking": "90",
-        "title": "Beautiful Scars",
-        "artist": "Maximillian",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/ff/e9/55ffe97f-e873-caf7-bd71-0cfd39435610/00602577511356.rgb.jpg/80x80bb.webp",
-        "appleID": "beautiful-scars/1451931714"
-    },
-    {
-        "ranking": "91",
-        "title": "F2F",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "f2f/1657869529"
-    },
-    {
-        "ranking": "92",
-        "title": "Lifetime, Pt. 2",
-        "artist": "Topshakaz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/ba/2f/cfba2fa8-1b00-ff5e-ce35-e76d7abd69ea/8912.jpg/80x80bb.webp",
-        "appleID": "lifetime-pt-2/1752787836"
-    },
-    {
-        "ranking": "93",
-        "title": "Lost In Our Yesterday",
-        "artist": "Eleftherios",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/15/ac/2d15ac76-8a9f-2b11-5f07-a178e408723e/artwork.jpg/80x80bb.webp",
-        "appleID": "lost-in-our-yesterday/1745875222"
-    },
-    {
-        "ranking": "94",
-        "title": "OUTERSPACE (feat. Baby Keem)",
-        "artist": "Don Toliver",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/ca/a0/fccaa0f7-0c60-0f80-ab06-5b3c7e23e240/075679767868.jpg/80x80bb.webp",
-        "appleID": "outerspace-feat-baby-keem/1587804202"
-    },
-    {
-        "ranking": "95",
-        "title": "How Lucky",
-        "artist": "Etu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/c7/2a/e6c72a1b-a4a9-3e83-3862-cebc04b4b6e8/5629.jpg/80x80bb.webp",
-        "appleID": "how-lucky/1764725350"
-    },
-    {
-        "ranking": "96",
-        "title": "You Found Yours",
-        "artist": "Luke Combs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "you-found-yours/1666738531"
-    },
-    {
-        "ranking": "97",
-        "title": "By My Side",
-        "artist": "Iamsu!",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/99/bb/85/99bb85cb-4d52-43e6-b5a5-a770f9424f22/859717244272_cover.jpg/80x80bb.webp",
-        "appleID": "by-my-side/1148156267"
-    },
-    {
-        "ranking": "98",
-        "title": "Comfort Zone",
-        "artist": "Busy Signal",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/03/09/b2/mzi.zpgqdojy.jpg/80x80bb.webp",
-        "appleID": "comfort-zone/375206918"
-    },
-    {
-        "ranking": "99",
-        "title": "California Love (feat. Roger Troutman & Dr. Dre)",
-        "artist": "2Pac",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/aa/07/db/aa07db20-0b14-d09c-ead7-5b9e3680cb76/00602527051840.rgb.jpg/80x80bb.webp",
-        "appleID": "california-love-feat-roger-troutman-dr-dre/1440764598"
-    },
-    {
-        "ranking": "100",
-        "title": "All My Friends (feat. Tinashe & Chance The Rapper)",
-        "artist": "Snakehips",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/94/eb/e594eb76-ed23-5cf2-b218-2f08443b71c0/886445508918.jpg/80x80bb.webp",
-        "appleID": "all-my-friends-feat-tinashe-chance-the-rapper/1045683066"
-    }
+  {
+    "ranking": "1",
+    "title": "Missing You (Do You Know)",
+    "artist": "High Watah",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/55/9a/f2559a07-9af1-b48f-3b0d-0ff96fee2757/10720.jpg/80x80bb.webp",
+    "appleID": "missing-you-do-you-know/1790300214"
+  },
+  {
+    "ranking": "2",
+    "title": "One Number Away",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/83/bf/3c83bf3e-bf4a-7e69-5668-d55f5a8e38e0/886446460840.jpg/80x80bb.webp",
+    "appleID": "one-number-away/1228888135"
+  },
+  {
+    "ranking": "3",
+    "title": "The Motto",
+    "artist": "Tiësto",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/62/e0/b562e0fa-bde1-e785-00e1-9a6d8190b5a6/5059460347205.jpg/80x80bb.webp",
+    "appleID": "the-motto/1778067295"
+  },
+  {
+    "ranking": "4",
+    "title": "A VIBE",
+    "artist": "Victor J Sefo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/62/49/2d624908-4f14-e815-ea55-75082dcc11ec/10721.jpg/80x80bb.webp",
+    "appleID": "a-vibe/1790330042"
+  },
+  {
+    "ranking": "5",
+    "title": "Nobody Gets Me",
+    "artist": "SZA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+    "appleID": "nobody-gets-me/1657869532",
+    "spotifyID": "5Y35SjAfXjjG0sFQ3KOxmm"
+  },
+  {
+    "ranking": "6",
+    "title": "One Call Away (feat. Sean Rii)",
+    "artist": "JAHBOY",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/18/62/df186213-aece-246c-22bb-5eeed213f8d9/6244.jpg/80x80bb.webp",
+    "appleID": "one-call-away-feat-sean-rii/1708143739"
+  },
+  {
+    "ranking": "7",
+    "title": "Lifetime",
+    "artist": "Topshakaz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/4f/c5/4f4fc5aa-6e82-d53e-6bbc-a86ae3e40cd6/8882.jpg/80x80bb.webp",
+    "appleID": "lifetime/1752574275"
+  },
+  {
+    "ranking": "8",
+    "title": "Dreamin",
+    "artist": "PARTYNEXTDOOR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/d9/61/b9d961e2-44e7-52cf-eda8-d671a650f649/47085.jpg/80x80bb.webp",
+    "appleID": "dreamin/1777722381",
+    "spotifyID": "35sZOqVnTQNIGWGURrFdLh"
+  },
+  {
+    "ranking": "9",
+    "title": "Snooze",
+    "artist": "SZA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+    "appleID": "snooze/1657869492",
+    "youtubeID": "LDY_XyxBu8A",
+    "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
+  },
+  {
+    "ranking": "10",
+    "title": "Love You Anyway",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+    "appleID": "love-you-anyway/1666738582"
+  },
+  {
+    "ranking": "11",
+    "title": "Where the Wild Things Are",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+    "appleID": "where-the-wild-things-are/1666738581",
+    "youtubeID": "aoJwvnDuAR0"
+  },
+  {
+    "ranking": "12",
+    "title": "Dive (Recorded At Sound Stage Nashville)",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/98/63/a4986322-f776-e2f2-a798-e0a7040b64af/196589585066.jpg/80x80bb.webp",
+    "appleID": "dive-recorded-at-sound-stage-nashville/1651313788"
+  },
+  {
+    "ranking": "13",
+    "title": "Even Though I'm Leaving",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/d3/ea/9ad3eab9-1aab-204b-da70-0006dcdba6c9/886448390374.jpg/80x80bb.webp",
+    "appleID": "even-though-im-leaving/1510448705"
+  },
+  {
+    "ranking": "14",
+    "title": "Beautiful Crazy",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/4b/59/f44b59a2-62c7-e9c7-df8b-4b8e7d772b41/886447048443.jpg/80x80bb.webp",
+    "appleID": "beautiful-crazy/1376707066",
+    "youtubeID": "rItv9i6c7AY"
+  },
+  {
+    "ranking": "15",
+    "title": "4 Tha Hustlaz",
+    "artist": "Topshakaz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/bb/e2/c6bbe2d9-94e8-1369-49ba-ca501fcbb129/9029.jpg/80x80bb.webp",
+    "appleID": "4-tha-hustlaz/1754048139"
+  },
+  {
+    "ranking": "16",
+    "title": "M a k e  I t  T o  T h e  M o r n i n g",
+    "artist": "PARTYNEXTDOOR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/de/c5/0ddec5e3-42f6-c550-6227-55dcd7d6b89a/39029.jpg/80x80bb.webp",
+    "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855",
+    "spotifyID": "12VH4g5pTMZmrUVzfJq7F7"
+  },
+  {
+    "ranking": "17",
+    "title": "Better Now",
+    "artist": "Post Malone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/80x80bb.webp",
+    "appleID": "better-now/1373517313"
+  },
+  {
+    "ranking": "18",
+    "title": "Every Little Bit of You",
+    "artist": "Spawnbreezie",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/5d/2a/7c5d2a87-383b-1fc8-d4eb-c780e632364f/859713344372_cover.jpg/80x80bb.webp",
+    "appleID": "every-little-bit-of-you/920434129"
+  },
+  {
+    "ranking": "19",
+    "title": "I Had Some Help (feat. Morgan Wallen)",
+    "artist": "Post Malone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+    "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+    "youtubeID": "4QIZE708gJ4"
+  },
+  {
+    "ranking": "20",
+    "title": "Kold Blooded Soulja",
+    "artist": "Topshakaz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/60/46/4a6046ef-3ff4-979f-1045-da423ec14973/8978.jpg/80x80bb.webp",
+    "appleID": "kold-blooded-soulja/1752576904"
+  },
+  {
+    "ranking": "21",
+    "title": "My Best (feat. Victor J Sefo & Will84)",
+    "artist": "DJ Noiz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/f0/1e/8ff01e5d-cd50-1bfe-58a9-6f0e740b9f49/4157.jpg/80x80bb.webp",
+    "appleID": "my-best-feat-victor-j-sefo-will84/1669413740"
+  },
+  {
+    "ranking": "22",
+    "title": "Carry My Heart",
+    "artist": "Myshaan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
+    "appleID": "carry-my-heart/1779243427",
+    "youtubeID": "N9Welk1i-XM"
+  },
+  {
+    "ranking": "23",
+    "title": "Under the Influence",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+    "appleID": "under-the-influence/1481623864",
+    "youtubeID": "pfxyk1glEq4"
+  },
+  {
+    "ranking": "24",
+    "title": "You Complete Me",
+    "artist": "Nesian N.I.N.E.",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/86/a2/17/mzi.ymhjxdyu.jpg/80x80bb.webp",
+    "appleID": "you-complete-me/332587645"
+  },
+  {
+    "ranking": "25",
+    "title": "Yippee Ki Yay (feat. Anoyd & International Santo)",
+    "artist": "Chris Webby",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a9/5a/95/a95a9530-9f65-388c-a3e1-071f37ea4abe/27742.jpg/80x80bb.webp",
+    "appleID": "yippee-ki-yay-feat-anoyd-international-santo/1665459760"
+  },
+  {
+    "ranking": "26",
+    "title": "Piña Colada Boy (Radio Edit)",
+    "artist": "Baby Alice",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/39/35/51/393551f2-f445-de29-d729-f614f5b5d853/884977616323.jpg/80x80bb.webp",
+    "appleID": "pi%C3%B1a-colada-boy-radio-edit/369701496"
+  },
+  {
+    "ranking": "27",
+    "title": "All of Me",
+    "artist": "Jah Cure",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/54/80/a7/5480a755-efe9-e3e7-03a3-03b0cdf0d3ea/054645258166.jpg/80x80bb.webp",
+    "appleID": "all-of-me/1006066348"
+  },
+  {
+    "ranking": "28",
+    "title": "Sun and Moon",
+    "artist": "Anees",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/ab/d3/a7abd33a-6025-37fb-7fca-87849d20b8b9/66647.jpg/80x80bb.webp",
+    "appleID": "sun-and-moon/1688481962"
+  },
+  {
+    "ranking": "29",
+    "title": "Beautiful Things",
+    "artist": "Benson Boone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+    "appleID": "beautiful-things/1724488124",
+    "youtubeID": "Oa_RSwwpPaA"
+  },
+  {
+    "ranking": "30",
+    "title": "Work from Home (feat. Ty Dolla $ign)",
+    "artist": "Fifth Harmony",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/3b/da/733bda99-d0c8-02b2-db8f-ae9a87a5d933/886445740448.jpg/80x80bb.webp",
+    "appleID": "work-from-home-feat-ty-dolla-%24ign/1087445213"
+  },
+  {
+    "ranking": "31",
+    "title": "Every Night Every Morning",
+    "artist": "Maoli",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
+    "appleID": "every-night-every-morning/1761629618",
+    "youtubeID": "20k90wvdLco"
+  },
+  {
+    "ranking": "32",
+    "title": "2 You",
+    "artist": "Mariah the Scientist",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/79/38/8f793876-4bce-b939-bf64-726fb6b28d30/886449365159.jpg/80x80bb.webp",
+    "appleID": "2-you/1571821966"
+  },
+  {
+    "ranking": "33",
+    "title": "Trap Queen",
+    "artist": "Fetty Wap",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/7f/1c/a67f1c2e-6fcb-1bcd-2260-eb7f4b3d75c3/mzm.nopiamsw.jpg/80x80bb.webp",
+    "appleID": "trap-queen/1039459590",
+    "youtubeID": "i_kF4zLNKio"
+  },
+  {
+    "ranking": "34",
+    "title": "Last Rodeo",
+    "artist": "Restless Road",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/57/da/b157da8d-c4eb-abbf-f5ad-dca2e3c1d6da/196871169189.jpg/80x80bb.webp",
+    "appleID": "last-rodeo/1689456723"
+  },
+  {
+    "ranking": "35",
+    "title": "Johnny Dang",
+    "artist": "That Mexican OT",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/c9/5d/11c95d34-a5ec-03c3-f2d7-27a20497347e/23UMGIM57881.rgb.jpg/80x80bb.webp",
+    "appleID": "johnny-dang/1688613668"
+  },
+  {
+    "ranking": "36",
+    "title": "Think of Me (feat. Chris Young)",
+    "artist": "Onetox",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/73/a5/3b73a5ce-c535-dcdc-b972-de13016e49a0/6199.jpg/80x80bb.webp",
+    "appleID": "think-of-me-feat-chris-young/1707737869"
+  },
+  {
+    "ranking": "37",
+    "title": "Let Me Love You",
+    "artist": "J Boog",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/37/f6/fd/37f6fded-37b6-2e32-60a0-aee4f7c4d104/888915222799_cover.jpg/80x80bb.webp",
+    "appleID": "let-me-love-you/1166289999"
+  },
+  {
+    "ranking": "38",
+    "title": "Last Night",
+    "artist": "Morgan Wallen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/cc/00/86cc001c-2efc-9ebb-8290-17f4f3ba3e4a/23UMGIM08087.rgb.jpg/80x80bb.webp",
+    "appleID": "last-night/1667990774",
+    "youtubeID": "bUjPPBxbQrQ",
+    "spotifyID": "7K3BhSpAxZBznislvUMVtn"
+  },
+  {
+    "ranking": "39",
+    "title": "Solomon Girl",
+    "artist": "DMP",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/f7/ce/61/f7ce616d-d730-8ef1-2dba-dc46fa7fe4e8/cover.jpg/80x80bb.webp",
+    "appleID": "solomon-girl/641458941"
+  },
+  {
+    "ranking": "40",
+    "title": "Head Over Boots",
+    "artist": "Jon Pardi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/59/6b/fe596b62-b89b-776e-ce73-2b5d3ab8484d/16UMGIM11343.rgb.jpg/80x80bb.webp",
+    "appleID": "head-over-boots/1440847742"
+  },
+  {
+    "ranking": "41",
+    "title": "Before I Leave",
+    "artist": "Jah Cure",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/a6/27/18a627a3-d3fb-45c1-7b35-5332d7c466f2/0.jpg/80x80bb.webp",
+    "appleID": "before-i-leave/1556659227"
+  },
+  {
+    "ranking": "42",
+    "title": "Mercy",
+    "artist": "Brett Young",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/68/3a/e1683a62-929c-c4dd-6139-93869866d95e/17UMGIM01226.rgb.jpg/80x80bb.webp",
+    "appleID": "mercy/1551982240"
+  },
+  {
+    "ranking": "43",
+    "title": "Something in the Orange (Z&E's Version)",
+    "artist": "Zach Bryan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ee/cb/00/eecb00f1-05ea-b9ea-2a56-2c67957de43e/093624870487.jpg/80x80bb.webp",
+    "appleID": "something-in-the-orange/1620419734",
+    "spotifyID": "3WMj8moIAXJhHsyLaqIIHI",
+    "youtubeID": "lA8F9sIhGdg"
+  },
+  {
+    "ranking": "44",
+    "title": "Need To Not",
+    "artist": "Jordan Davis",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/19/5b/12195b9a-1ac0-4ded-03da-e034ce80ac8c/21UMGIM22433.rgb.jpg/80x80bb.webp",
+    "appleID": "need-to-not/1563946220"
+  },
+  {
+    "ranking": "45",
+    "title": "Beer Never Broke My Heart",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/55/08/8155084d-26e7-e914-35b0-8bbe6edf2668/886448691341.jpg/80x80bb.webp",
+    "appleID": "beer-never-broke-my-heart/1527782145"
+  },
+  {
+    "ranking": "46",
+    "title": "Catch",
+    "artist": "Brett Young",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/04/5b/29/045b291d-49e8-ab5b-d092-32425546891b/18OPBMR00089.rgb.jpg/80x80bb.webp",
+    "appleID": "catch/1435520801"
+  },
+  {
+    "ranking": "47",
+    "title": "Remember Him That Way",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/30/cd/9530cd97-d001-99d9-ac2e-32c2633f6ec3/196872117424.jpg/80x80bb.webp",
+    "appleID": "remember-him-that-way/1750297454"
+  },
+  {
+    "ranking": "48",
+    "title": "In Case I Ain't Around",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/30/cd/9530cd97-d001-99d9-ac2e-32c2633f6ec3/196872117424.jpg/80x80bb.webp",
+    "appleID": "in-case-i-aint-around/1750297445"
+  },
+  {
+    "ranking": "49",
+    "title": "5 Leaf Clover",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+    "appleID": "5-leaf-clover/1666738587"
+  },
+  {
+    "ranking": "50",
+    "title": "Better Together",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/d3/ea/9ad3eab9-1aab-204b-da70-0006dcdba6c9/886448390374.jpg/80x80bb.webp",
+    "appleID": "better-together/1510449612"
+  },
+  {
+    "ranking": "51",
+    "title": "On My Way to You",
+    "artist": "Cody Johnson",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c1/de/f7/c1def77c-ca13-34ca-6a83-cff6697a9e2a/093624903604.jpg/80x80bb.webp",
+    "appleID": "on-my-way-to-you/1439113154"
+  },
+  {
+    "ranking": "52",
+    "title": "Must've Never Met You",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/4b/59/f44b59a2-62c7-e9c7-df8b-4b8e7d772b41/886447048443.jpg/80x80bb.webp",
+    "appleID": "mustve-never-met-you/1376707065"
+  },
+  {
+    "ranking": "53",
+    "title": "Rumor",
+    "artist": "Lee Brice",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/83/8f/51838f82-c7a2-8f70-ca73-9f7a9c534ffc/79452_-_Lee_Brice.png/80x80bb.webp",
+    "appleID": "rumor/1278567741"
+  },
+  {
+    "ranking": "54",
+    "title": "Lonely Eyes",
+    "artist": "Chris Young",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d7/f3/77/d7f377e4-1e1c-275b-5da6-53d2225214ad/886444092715.jpg/80x80bb.webp",
+    "appleID": "lonely-eyes/672733764"
+  },
+  {
+    "ranking": "55",
+    "title": "I Am That Man",
+    "artist": "Brooks & Dunn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/5a/99/3c5a9960-95e9-20de-c5af-99cc38f613f4/886443386594.jpg/80x80bb.webp",
+    "appleID": "i-am-that-man/516421168"
+  },
+  {
+    "ranking": "56",
+    "title": "Cleaning This Gun (Come on In Boy)",
+    "artist": "Rodney Atkins",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/23/82/0f/23820f64-a917-3975-e637-1df917ef01e4/mzi.dcfpgkmn.jpg/80x80bb.webp",
+    "appleID": "cleaning-this-gun-come-on-in-boy/162357834"
+  },
+  {
+    "ranking": "57",
+    "title": "30 For 30 (with Kendrick Lamar)",
+    "artist": "SZA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/bd/88/97bd8804-7d3e-e6c8-0532-ff22877b931c/196871766890.jpg/80x80bb.webp",
+    "appleID": "30-for-30-with-kendrick-lamar/1786643047",
+    "youtubeID": "NEnephbahLA"
+  },
+  {
+    "ranking": "58",
+    "title": "Sleep At Night",
+    "artist": "Onetox",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/30/5b/51305b1a-8896-2b4f-e3f2-d96449a3efc9/7460.jpg/80x80bb.webp",
+    "appleID": "sleep-at-night/1708004368"
+  },
+  {
+    "ranking": "59",
+    "title": "Summer Serenade",
+    "artist": "Myshaan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/c6/dc/a8c6dc05-05e9-c571-d46b-6755dedbe65a/10683.jpg/80x80bb.webp",
+    "appleID": "summer-serenade/1790128102"
+  },
+  {
+    "ranking": "60",
+    "title": "Can I",
+    "artist": "Kehlani",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/5b/cc/9a5bccbb-e46a-5fc1-1ff9-155d4f90d42b/075679821706.jpg/80x80bb.webp",
+    "appleID": "can-i/1510639904"
+  },
+  {
+    "ranking": "61",
+    "title": "Chemtrails Over the Country Club",
+    "artist": "Lana Del Rey",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/79/c5/7479c518-a8ba-2054-b978-c87293194260/20UM1IM09851.rgb.jpg/80x80bb.webp",
+    "appleID": "chemtrails-over-the-country-club/1545567750"
+  },
+  {
+    "ranking": "62",
+    "title": "Forget Me Nots",
+    "artist": "Patrice Rushen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/1b/e9/521be9ab-8516-4d17-988b-88f89b1d0845/0730003317255.png/80x80bb.webp",
+    "appleID": "forget-me-nots/1319585761"
+  },
+  {
+    "ranking": "63",
+    "title": "Back On The Ledge",
+    "artist": "SAINt JHN",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/0c/75/b00c75da-1944-e55d-636a-e38be621065f/22CRGIM34066.rgb.jpg/80x80bb.webp",
+    "appleID": "back-on-the-ledge/1712189656"
+  },
+  {
+    "ranking": "64",
+    "title": "Ransom (feat. 6LACK & Kehlani)",
+    "artist": "SAINt JHN",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/0c/75/b00c75da-1944-e55d-636a-e38be621065f/22CRGIM34066.rgb.jpg/80x80bb.webp",
+    "appleID": "ransom-feat-6lack-kehlani/1712189409"
+  },
+  {
+    "ranking": "65",
+    "title": "Come My Way",
+    "artist": "DJ Noiz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/91/73/459173f2-5fcf-8332-3dfa-4b3a04e730a2/4120.jpg/80x80bb.webp",
+    "appleID": "come-my-way/1669236480"
+  },
+  {
+    "ranking": "66",
+    "title": "Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",
+    "artist": "DJ Khaled",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/f6/9e/02f69e64-9f7b-8c15-c0a4-4dec2860fb44/886445975833.jpg/80x80bb.webp",
+    "appleID": "do-you-mind-feat-nicki-minaj-chris-brown-august-alsina/1127989702"
+  },
+  {
+    "ranking": "67",
+    "title": "gloria",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "gloria/1781270555",
+    "youtubeID": "G5YwhjCywvw"
+  },
+  {
+    "ranking": "68",
+    "title": "Bitch, Don't Kill My Vibe (Remix) [feat. Emeli Sandé]",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/89/78/d7/8978d7b3-e462-b3da-55db-79c874c6f0e5/00602537455294.rgb.jpg/80x80bb.webp",
+    "appleID": "bitch-dont-kill-my-vibe-remix-feat-emeli-sand%C3%A9/1445302616"
+  },
+  {
+    "ranking": "69",
+    "title": "Geni Kwaimani",
+    "artist": "Onetox",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/30/5b/51305b1a-8896-2b4f-e3f2-d96449a3efc9/7460.jpg/80x80bb.webp",
+    "appleID": "geni-kwaimani/1708004373"
+  },
+  {
+    "ranking": "70",
+    "title": "Tomorrow Comes",
+    "artist": "Sean Rii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/da/ef/ebdaef16-16bf-afbb-4573-0ed950da8944/6758.jpg/80x80bb.webp",
+    "appleID": "tomorrow-comes/1717545019"
+  },
+  {
+    "ranking": "71",
+    "title": "Monica Lewinsky, Election Year (feat. DaBaby & A Boogie wit da Hoodie)",
+    "artist": "SAINt JHN",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/0c/75/b00c75da-1944-e55d-636a-e38be621065f/22CRGIM34066.rgb.jpg/80x80bb.webp",
+    "appleID": "monica-lewinsky-election-year-feat-dababy-a-boogie/1712189162"
+  },
+  {
+    "ranking": "72",
+    "title": "Risky",
+    "artist": "Sean Rii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/5d/cb/0e5dcbab-12d7-6d07-abab-fa829d52e998/6897.jpg/80x80bb.webp",
+    "appleID": "risky/1719576827"
+  },
+  {
+    "ranking": "73",
+    "title": "Don't Leave Me (feat. Kugypt)",
+    "artist": "Sean Rii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/40/05/2a400583-6b7f-f952-a1f6-5d0817979c93/6766.jpg/80x80bb.webp",
+    "appleID": "dont-leave-me-feat-kugypt/1717732485"
+  },
+  {
+    "ranking": "74",
+    "title": "So Into You",
+    "artist": "Onetox",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/30/5b/51305b1a-8896-2b4f-e3f2-d96449a3efc9/7460.jpg/80x80bb.webp",
+    "appleID": "so-into-you/1708004230"
+  },
+  {
+    "ranking": "75",
+    "title": "So Long (Remastered)",
+    "artist": "Lomez Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8b/4a/b0/8b4ab00c-af6e-1ede-f8b3-926aa07017f7/3679.jpg/80x80bb.webp",
+    "appleID": "so-long-remastered/1661938745"
+  },
+  {
+    "ranking": "76",
+    "title": "She Don't Want Me Love",
+    "artist": "Swiss",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/ea/46/efea461e-422b-f68f-6236-fdb4f6c71a5e/9421031746346.jpg/80x80bb.webp",
+    "appleID": "she-dont-want-me-love/1774861691"
+  },
+  {
+    "ranking": "77",
+    "title": "Throw Signs (feat. Jack & Jack)",
+    "artist": "Sammy Wilk",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/0e/df/720edfeb-79ed-6b84-e639-d460873316f1/FRSH013.jpg/80x80bb.webp",
+    "appleID": "throw-signs-feat-jack-jack/1100595466"
+  },
+  {
+    "ranking": "78",
+    "title": "All The Stars",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7c/f9/0f7cf9a6-651f-53ae-e374-6be14630bfae/18UMGIM00001.rgb.jpg/80x80bb.webp",
+    "appleID": "all-the-stars/1440906939"
+  },
+  {
+    "ranking": "79",
+    "title": "Ofa Mai (feat. Konecs & Vili Langi)",
+    "artist": "DJ Noiz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/84/6a/10846af3-74a1-d2ed-5751-070842c369ef/4094.jpg/80x80bb.webp",
+    "appleID": "ofa-mai-feat-konecs-vili-langi/1670364933"
+  },
+  {
+    "ranking": "80",
+    "title": "Girls Need Love",
+    "artist": "Summer Walker",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/80x80bb.webp",
+    "appleID": "girls-need-love/1438765134"
+  },
+  {
+    "ranking": "81",
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+    "appleID": "not-like-us/1744776167",
+    "youtubeID": "H58vbez_m4E"
+  },
+  {
+    "ranking": "82",
+    "title": "Bring Me Your Cup",
+    "artist": "UB40",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/bb/79/afbb7946-da06-42ad-645f-9b409e9b41be/00077778822950.jpg/80x80bb.webp",
+    "appleID": "bring-me-your-cup/724099077"
+  },
+  {
+    "ranking": "83",
+    "title": "Open Arms (feat. Travis Scott)",
+    "artist": "SZA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+    "appleID": "open-arms-feat-travis-scott/1657869546"
+  },
+  {
+    "ranking": "84",
+    "title": "No Love",
+    "artist": "Summer Walker",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/8c/bf/f08cbffc-1101-f974-a2d3-38381d8ed506/21UM1IM23130.rgb.jpg/80x80bb.webp",
+    "appleID": "no-love/1590029546"
+  },
+  {
+    "ranking": "85",
+    "title": "Don't Worry (feat. Sabrina Antoinette)",
+    "artist": "Sammy Wilk",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/0e/df/720edfeb-79ed-6b84-e639-d460873316f1/FRSH013.jpg/80x80bb.webp",
+    "appleID": "dont-worry-feat-sabrina-antoinette/1100595468"
+  },
+  {
+    "ranking": "86",
+    "title": "Travelin' Soldier",
+    "artist": "Maoli",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/ce/48/3fce48b5-9058-cfea-7d3d-b21aeeb2deba/0.jpg/80x80bb.webp",
+    "appleID": "travelin-soldier/1760203664"
+  },
+  {
+    "ranking": "87",
+    "title": "Karim Lewa",
+    "artist": "Sean Rii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/4c/03/904c033a-49d2-db88-40eb-23961b520b71/6869.jpg/80x80bb.webp",
+    "appleID": "karim-lewa/1719043403"
+  },
+  {
+    "ranking": "88",
+    "title": "Aesop Mountain",
+    "artist": "Andy Thorn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5c/1c/19/5c1c1907-4c54-38ea-3482-8e21bcd6faee/artwork.jpg/80x80bb.webp",
+    "appleID": "aesop-mountain/1634662298"
+  },
+  {
+    "ranking": "89",
+    "title": "Broke Heart Break",
+    "artist": "Maoli",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/22/b3/b122b3d5-be58-585a-12f8-bd42720444ed/0.jpg/80x80bb.webp",
+    "appleID": "broke-heart-break/1769671163"
+  },
+  {
+    "ranking": "90",
+    "title": "Beautiful Scars",
+    "artist": "Maximillian",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/ff/e9/55ffe97f-e873-caf7-bd71-0cfd39435610/00602577511356.rgb.jpg/80x80bb.webp",
+    "appleID": "beautiful-scars/1451931714"
+  },
+  {
+    "ranking": "91",
+    "title": "F2F",
+    "artist": "SZA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+    "appleID": "f2f/1657869529"
+  },
+  {
+    "ranking": "92",
+    "title": "Lifetime, Pt. 2",
+    "artist": "Topshakaz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/ba/2f/cfba2fa8-1b00-ff5e-ce35-e76d7abd69ea/8912.jpg/80x80bb.webp",
+    "appleID": "lifetime-pt-2/1752787836"
+  },
+  {
+    "ranking": "93",
+    "title": "Lost In Our Yesterday",
+    "artist": "Eleftherios",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/15/ac/2d15ac76-8a9f-2b11-5f07-a178e408723e/artwork.jpg/80x80bb.webp",
+    "appleID": "lost-in-our-yesterday/1745875222"
+  },
+  {
+    "ranking": "94",
+    "title": "OUTERSPACE (feat. Baby Keem)",
+    "artist": "Don Toliver",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/ca/a0/fccaa0f7-0c60-0f80-ab06-5b3c7e23e240/075679767868.jpg/80x80bb.webp",
+    "appleID": "outerspace-feat-baby-keem/1587804202"
+  },
+  {
+    "ranking": "95",
+    "title": "How Lucky",
+    "artist": "Etu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/c7/2a/e6c72a1b-a4a9-3e83-3862-cebc04b4b6e8/5629.jpg/80x80bb.webp",
+    "appleID": "how-lucky/1764725350"
+  },
+  {
+    "ranking": "96",
+    "title": "You Found Yours",
+    "artist": "Luke Combs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+    "appleID": "you-found-yours/1666738531"
+  },
+  {
+    "ranking": "97",
+    "title": "By My Side",
+    "artist": "Iamsu!",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/99/bb/85/99bb85cb-4d52-43e6-b5a5-a770f9424f22/859717244272_cover.jpg/80x80bb.webp",
+    "appleID": "by-my-side/1148156267"
+  },
+  {
+    "ranking": "98",
+    "title": "Comfort Zone",
+    "artist": "Busy Signal",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/03/09/b2/mzi.zpgqdojy.jpg/80x80bb.webp",
+    "appleID": "comfort-zone/375206918"
+  },
+  {
+    "ranking": "99",
+    "title": "California Love (feat. Roger Troutman & Dr. Dre)",
+    "artist": "2Pac",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/aa/07/db/aa07db20-0b14-d09c-ead7-5b9e3680cb76/00602527051840.rgb.jpg/80x80bb.webp",
+    "appleID": "california-love-feat-roger-troutman-dr-dre/1440764598"
+  },
+  {
+    "ranking": "100",
+    "title": "All My Friends (feat. Tinashe & Chance The Rapper)",
+    "artist": "Snakehips",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/94/eb/e594eb76-ed23-5cf2-b218-2f08443b71c0/886445508918.jpg/80x80bb.webp",
+    "appleID": "all-my-friends-feat-tinashe-chance-the-rapper/1045683066"
+  }
 ]

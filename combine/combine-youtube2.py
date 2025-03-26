@@ -2,6 +2,8 @@ import os
 import json
 import re
 
+# 2. Korea 파일과 비교 후 youtubeID 추가
+
 # 파일 경로 설정
 youtube_file = "combine/combine-youtube.json"
 korea_folder = "korea"
@@ -12,7 +14,7 @@ def clean_text(text):
 
 # combine-youtube.json 파일 확인
 if not os.path.exists(youtube_file):
-    print(f"❌ 오류: {youtube_file} 파일이 존재하지 않습니다. 먼저 combine-youtube1.py를 실행하세요!")
+    print(f"오류: {youtube_file} 파일이 존재하지 않습니다. 먼저 combine-youtube1.py를 실행하세요!")
     exit(1)  # 스크립트 종료
 
 # Step 1: combine-youtube.json 데이터 로드
@@ -20,7 +22,7 @@ try:
     with open(youtube_file, "r", encoding="utf-8") as f:
         youtube_data = json.load(f)
 except json.JSONDecodeError:
-    print(f"❌ 오류: {youtube_file} 파일이 올바른 JSON 형식이 아닙니다!")
+    print(f"오류: {youtube_file} 파일이 올바른 JSON 형식이 아닙니다!")
     exit(1)
 
 # youtube 데이터에서 (title, artist) -> youtubeID 매핑 딕셔너리 생성
@@ -32,7 +34,7 @@ youtube_dict = {
 
 # Step 2: korea 폴더 내부의 JSON 파일을 수정
 if not os.path.exists(korea_folder):
-    print(f"❌ 오류: {korea_folder} 폴더가 존재하지 않습니다!")
+    print(f"오류: {korea_folder} 폴더가 존재하지 않습니다!")
     exit(1)
 
 for root, _, files in os.walk(korea_folder):

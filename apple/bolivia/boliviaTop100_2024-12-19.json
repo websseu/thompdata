@@ -1,759 +1,767 @@
 [
-    {
-        "ranking": "1",
-        "title": "Khé?",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293",
-        "youtubeID": "7SNycTMOF74",
-        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
-    },
-    {
-        "ranking": "2",
-        "title": "Qué Pasaría...",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
-        "youtubeID": "g08y_x83d5E",
-        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
-    },
-    {
-        "ranking": "3",
-        "title": "EL CLúB",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/7a/aa/fe7aaaea-640a-30b4-17b0-11a3272e28f1/199066130155.jpg/80x80bb.webp",
-        "appleID": "el-cl%C3%BAb/1783419694",
-        "youtubeID": "7f6SxWMOpdU",
-        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
-    },
-    {
-        "ranking": "4",
-        "title": "Tú Con Él",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "t%C3%BA-con-%C3%A9l/1775462856",
-        "youtubeID": "NC4wwAtyBA8",
-        "spotifyID": "2eQFYGegTZaObk2kuBz83Z"
-    },
-    {
-        "ranking": "5",
-        "title": "Tu Boda",
-        "artist": "Óscar Maydon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
-        "appleID": "tu-boda/1769510706",
-        "youtubeID": "_ymicn0_GYc",
-        "spotifyID": "1cOboCuWYI2osTOfolMRS6"
-    },
-    {
-        "ranking": "6",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221",
-        "youtubeID": "ekr2nIex040",
-        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-        "ranking": "7",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "8",
-        "title": "Q U E V A S H A C E R H O Y ?",
-        "artist": "Omar Courtz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
-        "appleID": "q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559"
-    },
-    {
-        "ranking": "9",
-        "title": "LUNA",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
-        "appleID": "luna/1719170507"
-    },
-    {
-        "ranking": "10",
-        "title": "Si Antes Te Hubiera Conocido",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539",
-        "youtubeID": "QCZZwZQ4qNs",
-        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-        "ranking": "11",
-        "title": "Cosas Pendientes",
-        "artist": "Maluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/51/1e/0e511e91-3327-6fe2-c0cf-b0ef3a34d941/196872618396.jpg/80x80bb.webp",
-        "appleID": "cosas-pendientes/1777477770",
-        "youtubeID": "6vPhcRew8hA",
-        "spotifyID": "0iVEujJcafOBnxa654fJYu"
-    },
-    {
-        "ranking": "12",
-        "title": "SORRY 4 THAT MUCH",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
-        "appleID": "sorry-4-that-much/1750132050",
-        "youtubeID": "Q2ftMmazZCU",
-        "spotifyID": "63pLfjK6FvcYJYMGwtHjd6"
-    },
-    {
-        "ranking": "13",
-        "title": "SE ME OLVIDA",
-        "artist": "Maisak",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/10/6e/32106ef5-e548-6997-3ac5-f1d8351740cb/24UMGIM91467.rgb.jpg/80x80bb.webp",
-        "appleID": "se-me-olvida/1764375272"
-    },
-    {
-        "ranking": "14",
-        "title": "Moscow Mule",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625",
-        "spotifyID": "6Xom58OOXk2SoU711L2IXO",
-        "youtubeID": "p38WgakuYDo"
-    },
-    {
-        "ranking": "15",
-        "title": "LA CANCIÓN",
-        "artist": "J Balvin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
-        "appleID": "la-canci%C3%B3n/1470146813"
-    },
-    {
-        "ranking": "16",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142",
-        "youtubeID": "V9PVRfjEBTI"
-    },
-    {
-        "ranking": "17",
-        "title": "La Foto",
-        "artist": "Luis Vega",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/d5/29/a9d529aa-2c12-6b5b-eb67-f1ae6f3cd547/7509848030864.jpg/80x80bb.webp",
-        "appleID": "la-foto/1759642319",
-        "youtubeID": "AA2HFtHbe_A",
-        "spotifyID": "1BSijYfeMpjKCzfROYNKh7"
-    },
-    {
-        "ranking": "18",
-        "title": "DEGENERE (feat. benny blanco)",
-        "artist": "Myke Towers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
-        "appleID": "degenere-feat-benny-blanco/1773311762"
-    },
-    {
-        "ranking": "19",
-        "title": "NEL",
-        "artist": "Fuerza Regida",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
-        "appleID": "nel/1759045296",
-        "youtubeID": "fZcrCrHnYBw",
-        "spotifyID": "5AH31dDNgxCMGDdxubNNn4"
-    },
-    {
-        "ranking": "20",
-        "title": "Tití Me Preguntó",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "tit%C3%AD-me-pregunt%C3%B3/1622045635"
-    },
-    {
-        "ranking": "21",
-        "title": "Vete",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
-        "appleID": "vete/1500776923"
-    },
-    {
-        "ranking": "22",
-        "title": "Brickell",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/03/cf480322-e907-87b3-e933-217d2a73892e/24UMGIM42176.rgb.jpg/80x80bb.webp",
-        "appleID": "brickell/1740674376"
-    },
-    {
-        "ranking": "23",
-        "title": "Amor de Vago",
-        "artist": "La T y la M",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b9/30/14b93096-2675-1697-d581-55f3f7ba4d8a/cover.jpg/80x80bb.webp",
-        "appleID": "amor-de-vago/1761198544"
-    },
-    {
-        "ranking": "24",
-        "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/80x80bb.webp",
-        "appleID": "57-feat-ovy-on-the-drums-j-balvin-maluma-ryan-castro-blessd/1777888950"
-    },
-    {
-        "ranking": "25",
-        "title": "Déjame Entrar",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "d%C3%A9jame-entrar/1775462852",
-        "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb",
-        "youtubeID": "UUzmHevEneY"
-    },
-    {
-        "ranking": "26",
-        "title": "Se Fue",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "se-fue/1775463295"
-    },
-    {
-        "ranking": "27",
-        "title": "Nueva Era",
-        "artist": "Duki",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "appleID": "nueva-era/1774333597"
-    },
-    {
-        "ranking": "28",
-        "title": "MÍRAME REMIX",
-        "artist": "Blessd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/9d/c8/ae9dc8cf-f667-f964-ea4b-cad562de4a8c/5021732585769.jpg/80x80bb.webp",
-        "appleID": "m%C3%ADrame-remix/1783432792"
-    },
-    {
-        "ranking": "29",
-        "title": "PERRO NEGRO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
-        "appleID": "perro-negro/1710983279"
-    },
-    {
-        "ranking": "30",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "appleID": "gata-only/1727813561"
-    },
-    {
-        "ranking": "31",
-        "title": "ADIVINO",
-        "artist": "Myke Towers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/79/1e/6c791e10-d063-a4ad-45d7-047581c289cb/5021732285218.jpg/80x80bb.webp",
-        "appleID": "adivino/1742211556"
-    },
-    {
-        "ranking": "32",
-        "title": "DILUVIO",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "appleID": "diluvio/1695651429",
-        "spotifyID": "2kz1YOhJiNubjigR1gB1VX"
-    },
-    {
-        "ranking": "33",
-        "title": "GRAN VÍA",
-        "artist": "Quevedo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/6c/d6/216cd611-56e0-07bf-fdf6-5322796f7ccb/198846802275.jpg/80x80bb.webp",
-        "appleID": "gran-v%C3%ADa/1780125579"
-    },
-    {
-        "ranking": "34",
-        "title": "Hey Mor (feat. Feid)",
-        "artist": "Ozuna",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
-        "appleID": "hey-mor-feat-feid/1646180883"
-    },
-    {
-        "ranking": "35",
-        "title": "MOJABI GHOST",
-        "artist": "Tainy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/da/1f/adda1f4a-f2d3-fe31-c965-e0753d2990ad/196922654572_Cover.jpg/80x80bb.webp",
-        "appleID": "mojabi-ghost/1709197783"
-    },
-    {
-        "ranking": "36",
-        "title": "Qué Onda",
-        "artist": "Calle 24",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-onda/1705125233"
-    },
-    {
-        "ranking": "37",
-        "title": "SI NO ES CONTIGO (REMIX)",
-        "artist": "Cris MJ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/fc/bc/91fcbc2c-2920-e950-907c-eac90b45c828/198846710273.jpg/80x80bb.webp",
-        "appleID": "si-no-es-contigo/1746602973",
-        "youtubeID": "vX1fgqKXSsk",
-        "spotifyID": "5Uptvz6j1sjDKxidAcnH2L"
-    },
-    {
-        "ranking": "38",
-        "title": "Yonaguni",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
-        "appleID": "yonaguni/1570323056"
-    },
-    {
-        "ranking": "39",
-        "title": "Perdonarte ¿Para Qué?",
-        "artist": "Los Ángeles Azules",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/2c/b4/262cb426-29f2-c9ce-b3be-37273fdd8727/196922985393_Cover.jpg/80x80bb.webp",
-        "appleID": "perdonarte-para-qu%C3%A9/1747011711"
-    },
-    {
-        "ranking": "40",
-        "title": "DEPORTIVO",
-        "artist": "Blessd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/18/58/53185856-5150-3ef5-9412-64a9503e8886/5021732544186.jpg/80x80bb.webp",
-        "appleID": "deportivo/1778254205"
-    },
-    {
-        "ranking": "41",
-        "title": "Feliz Cumpleaños Ferxxo",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
-        "appleID": "feliz-cumplea%C3%B1os-ferxxo/1645032135",
-        "spotifyID": "2CeKVsFFXG4QzA415QygGb"
-    },
-    {
-        "ranking": "42",
-        "title": "Ojitos Lindos",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "ojitos-lindos/1622045962"
-    },
-    {
-        "ranking": "43",
-        "title": "AMARGURA",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
-        "appleID": "amargura/1670246089",
-        "spotifyID": "505v13epFXodT9fVAJ6h8k"
-    },
-    {
-        "ranking": "44",
-        "title": "LA INOCENTE",
-        "artist": "Mora",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/41/85/8e418597-e72f-9998-a0d1-1cd40f55d6e9/196626706898.jpg/80x80bb.webp",
-        "appleID": "la-inocente/1617075257"
-    },
-    {
-        "ranking": "45",
-        "title": "ERROR 403",
-        "artist": "Lu de la Tower",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/8d/56/6c8d5643-ff2f-169a-9521-91e8d4503e69/8447053027417.jpg/80x80bb.webp",
-        "appleID": "error-403/1716952959"
-    },
-    {
-        "ranking": "46",
-        "title": "Efecto",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "efecto/1622045954"
-    },
-    {
-        "ranking": "47",
-        "title": "Un Finde  CROSSOVER #2",
-        "artist": "Big One",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/a3/cc/d9a3cccd-75e5-df27-f6db-f77a4fac9520/197188448271.jpg/80x80bb.webp",
-        "appleID": "un-finde-crossover-2/1679644998"
-    },
-    {
-        "ranking": "48",
-        "title": "ETA (feat. Yan Block & Omar Courtz) [RMX]",
-        "artist": "ROA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/5e/ca/b75eca45-4841-451d-1f4f-b238cc5bc263/24UM1IM31015.rgb.jpg/80x80bb.webp",
-        "appleID": "eta-feat-yan-block-omar-courtz-rmx/1783210841"
-    },
-    {
-        "ranking": "49",
-        "title": "capaz (merengueton)",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/67/89/2b6789bc-cf89-3c62-78a3-1f221e1c70cc/47155.jpg/80x80bb.webp",
-        "appleID": "capaz-merengueton/1778536681"
-    },
-    {
-        "ranking": "50",
-        "title": "Según Quién",
-        "artist": "Maluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/bb/56/17bb564e-a9a9-f533-e68a-be28cde81c94/196871359399.jpg/80x80bb.webp",
-        "appleID": "seg%C3%BAn-qui%C3%A9n/1702255474"
-    },
-    {
-        "ranking": "51",
-        "title": "QLONA",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
-        "appleID": "qlona/1699662671"
-    },
-    {
-        "ranking": "52",
-        "title": "Espresso Martini",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "espresso-martini/1775462861"
-    },
-    {
-        "ranking": "53",
-        "title": "Ferxxo 100",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
-        "appleID": "ferxxo-100/1645032528"
-    },
-    {
-        "ranking": "54",
-        "title": "Pa' Que La Pases Bien",
-        "artist": "Arcángel",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
-        "appleID": "pa-que-la-pases-bien/1247228818",
-        "spotifyID": "1pLCpA1RN8avJxSD3ZCwhj"
-    },
-    {
-        "ranking": "55",
-        "title": "Voy A Desaparecer",
-        "artist": "Luis Vega",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/63/cb/a963cb43-5739-0a30-562c-e2fc14147a69/198500025453.jpg/80x80bb.webp",
-        "appleID": "voy-a-desaparecer/1727072112"
-    },
-    {
-        "ranking": "56",
-        "title": "Piel",
-        "artist": "Tiago PZK",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/de/51/12de510a-5c68-39d1-defe-ca3afcfe9932/5054197965104.jpg/80x80bb.webp",
-        "appleID": "piel/1726078071"
-    },
-    {
-        "ranking": "57",
-        "title": "Me Porto Bonito",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "me-porto-bonito/1622045634"
-    },
-    {
-        "ranking": "58",
-        "title": "EL LOKERÓN",
-        "artist": "Tito Double P",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
-        "appleID": "el-loker%C3%B3n/1761412372",
-        "youtubeID": "54YpK2I6BM8"
-    },
-    {
-        "ranking": "59",
-        "title": "LA FALDA",
-        "artist": "Myke Towers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/f9/40/fdf9402c-95ae-8152-17b0-984649c6172a/5054197903205.jpg/80x80bb.webp",
-        "appleID": "la-falda/1717187395",
-        "spotifyID": "7iUtQNMRB8ZkKC4AmEuCJC"
-    },
-    {
-        "ranking": "60",
-        "title": "Soltera",
-        "artist": "Shakira",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
-        "appleID": "soltera/1769406416",
-        "youtubeID": "oBofuVYDoG4",
-        "spotifyID": "3OJDtCdYs8QJnui708tEU3"
-    },
-    {
-        "ranking": "61",
-        "title": "Committed",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "committed/1775462859"
-    },
-    {
-        "ranking": "62",
-        "title": "El Ultimo Amor",
-        "artist": "Luis Vega",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/18/08/b0180879-f0de-adf7-1af4-288afca314fb/196032990201.jpg/80x80bb.webp",
-        "appleID": "el-ultimo-amor/1782189079",
-        "spotifyID": "5ApJUoZ4OGBF9FcequqPY5"
-    },
-    {
-        "ranking": "63",
-        "title": "DÁKITI",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
-        "appleID": "d%C3%A1kiti/1542103620"
-    },
-    {
-        "ranking": "64",
-        "title": "11 PM",
-        "artist": "Maluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/c5/c2/09c5c2c4-b022-bcbe-a3ab-7e85e1d7084d/886447616321.jpg/80x80bb.webp",
-        "appleID": "11-pm/1461912470"
-    },
-    {
-        "ranking": "65",
-        "title": "Yandel 150",
-        "artist": "Yandel",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6c/73/8f/6c738fd4-53cd-36f1-c8fe-0f20ba2f31d8/197187733972.jpg/80x80bb.webp",
-        "appleID": "yandel-150/1660312782"
-    },
-    {
-        "ranking": "66",
-        "title": "POR QUÉ SERÁ",
-        "artist": "Grupo Frontera",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/b2/7c/5cb27c01-7799-8e77-b3ee-817107625550/cover.jpg/80x80bb.webp",
-        "appleID": "por-qu%C3%A9-ser%C3%A1/1743186573"
-    },
-    {
-        "ranking": "67",
-        "title": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-        "artist": "Stromae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/80x80bb.webp",
-        "appleID": "ma-meilleure-ennemie-from-the-series-arcane-league/1767032201"
-    },
-    {
-        "ranking": "68",
-        "title": "TE MUDASTE",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
-        "appleID": "te-mudaste/1542102922"
-    },
-    {
-        "ranking": "69",
-        "title": "Tuyo",
-        "artist": "Mora",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/4b/16/564b1602-3cdf-04ad-d0a0-b47f63656663/196006084233.jpg/80x80bb.webp",
-        "appleID": "tuyo/1552010795"
-    },
-    {
-        "ranking": "70",
-        "title": "FILTRO",
-        "artist": "De Parranda",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/95/dd/6a95ddf9-1db5-1f4b-0042-5ec64f6eb5b3/196032662917.jpg/80x80bb.webp",
-        "appleID": "filtro/1716646913"
-    },
-    {
-        "ranking": "71",
-        "title": "Doblexxó",
-        "artist": "J Balvin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/f0/93/74f0939f-1c77-9cfd-9d60-3c8ce91e77ea/24UMGIM64063.rgb.jpg/80x80bb.webp",
-        "appleID": "doblexx%C3%B3/1756223677"
-    },
-    {
-        "ranking": "72",
-        "title": "Bailando Conmigo",
-        "artist": "Luis Vega",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/74/ac/d774ac92-9acd-5bba-4daa-8b2bfc7e7a74/198015983392.jpg/80x80bb.webp",
-        "appleID": "bailando-conmigo/1747630347",
-        "spotifyID": "4d4cW91CpcogH1COrpNaH2"
-    },
-    {
-        "ranking": "73",
-        "title": "Pa' Que Te Acuerdes  CROSSOVER #8",
-        "artist": "Big One",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/69/aa/3069aacd-c2bd-c97a-70d3-5b3378e89ff5/198846341750.jpg/80x80bb.webp",
-        "appleID": "pa-que-te-acuerdes-crossover-8/1769234524"
-    },
-    {
-        "ranking": "74",
-        "title": "La Bachata",
-        "artist": "Manuel Turizo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/70/11/df701101-9f0f-3c43-ff6d-2186235d7e9c/196589129123.jpg/80x80bb.webp",
-        "appleID": "la-bachata/1624563284",
-        "spotifyID": "3tt9i3Hhzq84dPS8H7iSiJ"
-    },
-    {
-        "ranking": "75",
-        "title": "Callaita",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
-        "appleID": "callaita/1465503235"
-    },
-    {
-        "ranking": "76",
-        "title": "LOKERA",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/0f/ef/990fefcb-db12-0cf0-90f9-44115c095c73/196589764720.jpg/80x80bb.webp",
-        "appleID": "lokera/1665295987"
-    },
-    {
-        "ranking": "77",
-        "title": "Mírame",
-        "artist": "Blessd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/b6/80/40b68000-f1d2-7169-4eeb-029f90e37c82/5021732285225.jpg/80x80bb.webp",
-        "appleID": "m%C3%ADrame/1741002143"
-    },
-    {
-        "ranking": "78",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144",
-        "youtubeID": "IWKyykQBRKo",
-        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-        "ranking": "79",
-        "title": "Ni Me Conozco",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "ni-me-conozco/1775462866",
-        "spotifyID": "0xyWkRMb09qdCDhloehCsi"
-    },
-    {
-        "ranking": "80",
-        "title": "HOLLYWOOD",
-        "artist": "Peso Pluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
-        "appleID": "hollywood/1748016028"
-    },
-    {
-        "ranking": "81",
-        "title": "Cúrame",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/13/c3/5813c326-a7fa-f792-77e1-8310d9c80742/886449738724.jpg/80x80bb.webp",
-        "appleID": "c%C3%BArame/1596868397"
-    },
-    {
-        "ranking": "82",
-        "title": "EL AMOR DE SU VIDA",
-        "artist": "Grupo Frontera",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/31/00/7231009e-bae9-23d4-cb3f-c8e60203502d/cover.jpg/80x80bb.webp",
-        "appleID": "el-amor-de-su-vida/1703284801"
-    },
-    {
-        "ranking": "83",
-        "title": "DONDE SE APRENDE A QUERER?",
-        "artist": "Mora",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/aa/25/1caa25e7-2a5a-8091-4d7a-bd39a0549834/197189639050.jpg/80x80bb.webp",
-        "appleID": "donde-se-aprende-a-querer/1704060593"
-    },
-    {
-        "ranking": "84",
-        "title": "Me Rehúso",
-        "artist": "Danny Ocean",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/8c/26/388c26af-a2d3-bb9c-391d-bf02e3b2319c/190296949630.jpg/80x80bb.webp",
-        "appleID": "me-reh%C3%BAso/1248528301",
-        "youtubeID": "LbKcHy9cav0",
-        "spotifyID": "6ifUES3keWjwXgae8pXI3o"
-    },
-    {
-        "ranking": "85",
-        "title": "Holanda",
-        "artist": "JHAYCO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/c6/ff/a6c6ff16-b92a-72f6-600c-112d69305cd6/23UMGIM80474.rgb.jpg/80x80bb.webp",
-        "appleID": "holanda/1699106722"
-    },
-    {
-        "ranking": "86",
-        "title": "Santa",
-        "artist": "Rvssian",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/3b/65/783b6546-bf40-4583-1064-1d4946a82f50/196871978293.jpg/80x80bb.webp",
-        "appleID": "santa/1738270376"
-    },
-    {
-        "ranking": "87",
-        "title": "un x100to",
-        "artist": "Grupo Frontera",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/74/4d/b6744dbd-77ed-413a-3777-5ac6a2e780eb/197188732554.jpg/80x80bb.webp",
-        "appleID": "un-x100to/1682500319"
-    },
-    {
-        "ranking": "88",
-        "title": "Hoy",
-        "artist": "Valentino Merlo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/14/98/6d149887-7ef8-05fd-c267-eebc1e9439c1/085365426566.jpg/80x80bb.webp",
-        "appleID": "hoy/1747362089"
-    },
-    {
-        "ranking": "89",
-        "title": "ROSONES",
-        "artist": "Tito Double P",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/75/0d/30750d8c-20c7-5c80-f9be-97b7fd6fcfc5/199066153628.jpg/80x80bb.webp",
-        "appleID": "rosones/1783211314",
-        "spotifyID": "0LTwdL5yZ6YOTEGUQPFuSN",
-        "youtubeID": "hrhu8OE4WMM"
-    },
-    {
-        "ranking": "90",
-        "title": "Normal",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
-        "appleID": "normal/1645032552",
-        "spotifyID": "0T2pB7P1VdXPhLdQZ488uH"
-    },
-    {
-        "ranking": "91",
-        "title": "QUÉ PRETENDES",
-        "artist": "J Balvin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pretendes/1470146805"
-    },
-    {
-        "ranking": "92",
-        "title": "Ya No Vuelvas (Versión Cuarteto)",
-        "artist": "Luck Ra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/18/ee/af18eee1-3b5d-4ea1-9780-9a59bde0b38d/196589708892.jpg/80x80bb.webp",
-        "appleID": "ya-no-vuelvas-versi%C3%B3n-cuarteto/1656791788"
-    },
-    {
-        "ranking": "93",
-        "title": "MI EX TENÍA RAZÓN",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
-        "appleID": "mi-ex-ten%C3%ADa-raz%C3%B3n/1699662669",
-        "spotifyID": "54zcJnb3tp9c5OVKREZ1Is"
-    },
-    {
-        "ranking": "94",
-        "title": "Desenfocao'",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/13/c3/5813c326-a7fa-f792-77e1-8310d9c80742/886449738724.jpg/80x80bb.webp",
-        "appleID": "desenfocao/1596868402"
-    },
-    {
-        "ranking": "95",
-        "title": "UWAIE",
-        "artist": "Kapo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
-        "appleID": "uwaie/1761902101",
-        "youtubeID": "spbagny8OjM",
-        "spotifyID": "5QjmUqgpPQgXgg4606DqZF"
-    },
-    {
-        "ranking": "96",
-        "title": "Hecha Pa' Mí",
-        "artist": "Grupo Frontera",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/a3/8e/74a38e0a-8aad-a7f7-1d0b-6672bcd91bae/cover.jpg/80x80bb.webp",
-        "appleID": "hecha-pa-m%C3%AD/1769185167",
-        "youtubeID": "IbE7peGTpmc",
-        "spotifyID": "1uGUbgZuO1kD1JZ0UeFupN"
-    },
-    {
-        "ranking": "97",
-        "title": "La Morocha",
-        "artist": "Luck Ra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/9b/cd/869bcda4-b00b-d03d-cfd5-3da458924acc/196871259309.jpg/80x80bb.webp",
-        "appleID": "la-morocha/1695210251"
-    },
-    {
-        "ranking": "98",
-        "title": "ALV",
-        "artist": "Arcángel",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/08/ab/b908ab97-c8d6-bf7c-837b-ae8556afda83/197190360073.jpg/80x80bb.webp",
-        "appleID": "alv/1716453465"
-    },
-    {
-        "ranking": "99",
-        "title": "Contacto Cero",
-        "artist": "Luis Vega",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/b4/87/8cb487bc-d097-d114-2a61-5687c92e6f98/198025274909.jpg/80x80bb.webp",
-        "appleID": "contacto-cero/1747626847"
-    },
-    {
-        "ranking": "100",
-        "title": "Hawái",
-        "artist": "Maluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/4a/ab/6f4aab37-196a-3df8-a584-baf24772ed59/886448614913.jpg/80x80bb.webp",
-        "appleID": "haw%C3%A1i/1523698843",
-        "youtubeID": "pK060iUFWXg",
-        "spotifyID": "1yoMvmasuxZfqHEipJhRbp"
-    }
+  {
+    "ranking": "1",
+    "title": "Khé?",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "kh%C3%A9/1775463293",
+    "youtubeID": "7SNycTMOF74",
+    "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
+  },
+  {
+    "ranking": "2",
+    "title": "Qué Pasaría...",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+    "youtubeID": "g08y_x83d5E",
+    "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
+  },
+  {
+    "ranking": "3",
+    "title": "EL CLúB",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/7a/aa/fe7aaaea-640a-30b4-17b0-11a3272e28f1/199066130155.jpg/80x80bb.webp",
+    "appleID": "el-cl%C3%BAb/1783419694",
+    "youtubeID": "7f6SxWMOpdU",
+    "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
+  },
+  {
+    "ranking": "4",
+    "title": "Tú Con Él",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "t%C3%BA-con-%C3%A9l/1775462856",
+    "youtubeID": "NC4wwAtyBA8",
+    "spotifyID": "2eQFYGegTZaObk2kuBz83Z"
+  },
+  {
+    "ranking": "5",
+    "title": "Tu Boda",
+    "artist": "Óscar Maydon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
+    "appleID": "tu-boda/1769510706",
+    "youtubeID": "_ymicn0_GYc",
+    "spotifyID": "1cOboCuWYI2osTOfolMRS6"
+  },
+  {
+    "ranking": "6",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221",
+    "youtubeID": "ekr2nIex040",
+    "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
+  },
+  {
+    "ranking": "7",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "8",
+    "title": "Q U E V A S H A C E R H O Y ?",
+    "artist": "Omar Courtz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+    "appleID": "q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559"
+  },
+  {
+    "ranking": "9",
+    "title": "LUNA",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+    "appleID": "luna/1719170507"
+  },
+  {
+    "ranking": "10",
+    "title": "Si Antes Te Hubiera Conocido",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+    "appleID": "si-antes-te-hubiera-conocido/1752031539",
+    "youtubeID": "QCZZwZQ4qNs",
+    "spotifyID": "6WatFBLVB0x077xWeoVc2k"
+  },
+  {
+    "ranking": "11",
+    "title": "Cosas Pendientes",
+    "artist": "Maluma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/51/1e/0e511e91-3327-6fe2-c0cf-b0ef3a34d941/196872618396.jpg/80x80bb.webp",
+    "appleID": "cosas-pendientes/1777477770",
+    "youtubeID": "6vPhcRew8hA",
+    "spotifyID": "0iVEujJcafOBnxa654fJYu"
+  },
+  {
+    "ranking": "12",
+    "title": "SORRY 4 THAT MUCH",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
+    "appleID": "sorry-4-that-much/1750132050",
+    "youtubeID": "Q2ftMmazZCU",
+    "spotifyID": "63pLfjK6FvcYJYMGwtHjd6"
+  },
+  {
+    "ranking": "13",
+    "title": "SE ME OLVIDA",
+    "artist": "Maisak",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/10/6e/32106ef5-e548-6997-3ac5-f1d8351740cb/24UMGIM91467.rgb.jpg/80x80bb.webp",
+    "appleID": "se-me-olvida/1764375272"
+  },
+  {
+    "ranking": "14",
+    "title": "Moscow Mule",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+    "appleID": "moscow-mule/1622045625",
+    "spotifyID": "6Xom58OOXk2SoU711L2IXO",
+    "youtubeID": "p38WgakuYDo"
+  },
+  {
+    "ranking": "15",
+    "title": "LA CANCIÓN",
+    "artist": "J Balvin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+    "appleID": "la-canci%C3%B3n/1470146813"
+  },
+  {
+    "ranking": "16",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "birds-of-a-feather/1739659142",
+    "youtubeID": "V9PVRfjEBTI"
+  },
+  {
+    "ranking": "17",
+    "title": "La Foto",
+    "artist": "Luis Vega",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/d5/29/a9d529aa-2c12-6b5b-eb67-f1ae6f3cd547/7509848030864.jpg/80x80bb.webp",
+    "appleID": "la-foto/1759642319",
+    "youtubeID": "AA2HFtHbe_A",
+    "spotifyID": "1BSijYfeMpjKCzfROYNKh7"
+  },
+  {
+    "ranking": "18",
+    "title": "DEGENERE (feat. benny blanco)",
+    "artist": "Myke Towers",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
+    "appleID": "degenere-feat-benny-blanco/1773311762",
+    "youtubeID": "jg4mZak7wzQ"
+  },
+  {
+    "ranking": "19",
+    "title": "NEL",
+    "artist": "Fuerza Regida",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
+    "appleID": "nel/1759045296",
+    "youtubeID": "fZcrCrHnYBw",
+    "spotifyID": "5AH31dDNgxCMGDdxubNNn4"
+  },
+  {
+    "ranking": "20",
+    "title": "Tití Me Preguntó",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+    "appleID": "tit%C3%AD-me-pregunt%C3%B3/1622045635"
+  },
+  {
+    "ranking": "21",
+    "title": "Vete",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+    "appleID": "vete/1500776923"
+  },
+  {
+    "ranking": "22",
+    "title": "Brickell",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/03/cf480322-e907-87b3-e933-217d2a73892e/24UMGIM42176.rgb.jpg/80x80bb.webp",
+    "appleID": "brickell/1740674376"
+  },
+  {
+    "ranking": "23",
+    "title": "Amor de Vago",
+    "artist": "La T y la M",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b9/30/14b93096-2675-1697-d581-55f3f7ba4d8a/cover.jpg/80x80bb.webp",
+    "appleID": "amor-de-vago/1761198544"
+  },
+  {
+    "ranking": "24",
+    "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/80x80bb.webp",
+    "appleID": "57-feat-ovy-on-the-drums-j-balvin-maluma-ryan-castro-blessd/1777888950"
+  },
+  {
+    "ranking": "25",
+    "title": "Déjame Entrar",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "d%C3%A9jame-entrar/1775462852",
+    "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb",
+    "youtubeID": "UUzmHevEneY"
+  },
+  {
+    "ranking": "26",
+    "title": "Se Fue",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "se-fue/1775463295"
+  },
+  {
+    "ranking": "27",
+    "title": "Nueva Era",
+    "artist": "Duki",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+    "appleID": "nueva-era/1774333597"
+  },
+  {
+    "ranking": "28",
+    "title": "MÍRAME REMIX",
+    "artist": "Blessd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/9d/c8/ae9dc8cf-f667-f964-ea4b-cad562de4a8c/5021732585769.jpg/80x80bb.webp",
+    "appleID": "m%C3%ADrame-remix/1783432792"
+  },
+  {
+    "ranking": "29",
+    "title": "PERRO NEGRO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+    "appleID": "perro-negro/1710983279"
+  },
+  {
+    "ranking": "30",
+    "title": "Gata Only",
+    "artist": "FloyyMenor",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+    "appleID": "gata-only/1727813561"
+  },
+  {
+    "ranking": "31",
+    "title": "ADIVINO",
+    "artist": "Myke Towers",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/79/1e/6c791e10-d063-a4ad-45d7-047581c289cb/5021732285218.jpg/80x80bb.webp",
+    "appleID": "adivino/1742211556"
+  },
+  {
+    "ranking": "32",
+    "title": "DILUVIO",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+    "appleID": "diluvio/1695651429",
+    "spotifyID": "2kz1YOhJiNubjigR1gB1VX",
+    "youtubeID": "Bp3Ytv-v918"
+  },
+  {
+    "ranking": "33",
+    "title": "GRAN VÍA",
+    "artist": "Quevedo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/6c/d6/216cd611-56e0-07bf-fdf6-5322796f7ccb/198846802275.jpg/80x80bb.webp",
+    "appleID": "gran-v%C3%ADa/1780125579"
+  },
+  {
+    "ranking": "34",
+    "title": "Hey Mor (feat. Feid)",
+    "artist": "Ozuna",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
+    "appleID": "hey-mor-feat-feid/1646180883"
+  },
+  {
+    "ranking": "35",
+    "title": "MOJABI GHOST",
+    "artist": "Tainy",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/da/1f/adda1f4a-f2d3-fe31-c965-e0753d2990ad/196922654572_Cover.jpg/80x80bb.webp",
+    "appleID": "mojabi-ghost/1709197783"
+  },
+  {
+    "ranking": "36",
+    "title": "Qué Onda",
+    "artist": "Calle 24",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
+    "appleID": "qu%C3%A9-onda/1705125233"
+  },
+  {
+    "ranking": "37",
+    "title": "SI NO ES CONTIGO (REMIX)",
+    "artist": "Cris MJ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/fc/bc/91fcbc2c-2920-e950-907c-eac90b45c828/198846710273.jpg/80x80bb.webp",
+    "appleID": "si-no-es-contigo/1746602973",
+    "youtubeID": "vX1fgqKXSsk",
+    "spotifyID": "5Uptvz6j1sjDKxidAcnH2L"
+  },
+  {
+    "ranking": "38",
+    "title": "Yonaguni",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+    "appleID": "yonaguni/1570323056"
+  },
+  {
+    "ranking": "39",
+    "title": "Perdonarte ¿Para Qué?",
+    "artist": "Los Ángeles Azules",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/2c/b4/262cb426-29f2-c9ce-b3be-37273fdd8727/196922985393_Cover.jpg/80x80bb.webp",
+    "appleID": "perdonarte-para-qu%C3%A9/1747011711"
+  },
+  {
+    "ranking": "40",
+    "title": "DEPORTIVO",
+    "artist": "Blessd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/18/58/53185856-5150-3ef5-9412-64a9503e8886/5021732544186.jpg/80x80bb.webp",
+    "appleID": "deportivo/1778254205"
+  },
+  {
+    "ranking": "41",
+    "title": "Feliz Cumpleaños Ferxxo",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
+    "appleID": "feliz-cumplea%C3%B1os-ferxxo/1645032135",
+    "spotifyID": "2CeKVsFFXG4QzA415QygGb"
+  },
+  {
+    "ranking": "42",
+    "title": "Ojitos Lindos",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+    "appleID": "ojitos-lindos/1622045962"
+  },
+  {
+    "ranking": "43",
+    "title": "AMARGURA",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+    "appleID": "amargura/1670246089",
+    "spotifyID": "505v13epFXodT9fVAJ6h8k"
+  },
+  {
+    "ranking": "44",
+    "title": "LA INOCENTE",
+    "artist": "Mora",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/41/85/8e418597-e72f-9998-a0d1-1cd40f55d6e9/196626706898.jpg/80x80bb.webp",
+    "appleID": "la-inocente/1617075257"
+  },
+  {
+    "ranking": "45",
+    "title": "ERROR 403",
+    "artist": "Lu de la Tower",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/8d/56/6c8d5643-ff2f-169a-9521-91e8d4503e69/8447053027417.jpg/80x80bb.webp",
+    "appleID": "error-403/1716952959"
+  },
+  {
+    "ranking": "46",
+    "title": "Efecto",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+    "appleID": "efecto/1622045954"
+  },
+  {
+    "ranking": "47",
+    "title": "Un Finde  CROSSOVER #2",
+    "artist": "Big One",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/a3/cc/d9a3cccd-75e5-df27-f6db-f77a4fac9520/197188448271.jpg/80x80bb.webp",
+    "appleID": "un-finde-crossover-2/1679644998"
+  },
+  {
+    "ranking": "48",
+    "title": "ETA (feat. Yan Block & Omar Courtz) [RMX]",
+    "artist": "ROA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/5e/ca/b75eca45-4841-451d-1f4f-b238cc5bc263/24UM1IM31015.rgb.jpg/80x80bb.webp",
+    "appleID": "eta-feat-yan-block-omar-courtz-rmx/1783210841"
+  },
+  {
+    "ranking": "49",
+    "title": "capaz (merengueton)",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/67/89/2b6789bc-cf89-3c62-78a3-1f221e1c70cc/47155.jpg/80x80bb.webp",
+    "appleID": "capaz-merengueton/1778536681"
+  },
+  {
+    "ranking": "50",
+    "title": "Según Quién",
+    "artist": "Maluma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/bb/56/17bb564e-a9a9-f533-e68a-be28cde81c94/196871359399.jpg/80x80bb.webp",
+    "appleID": "seg%C3%BAn-qui%C3%A9n/1702255474"
+  },
+  {
+    "ranking": "51",
+    "title": "QLONA",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+    "appleID": "qlona/1699662671"
+  },
+  {
+    "ranking": "52",
+    "title": "Espresso Martini",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "espresso-martini/1775462861"
+  },
+  {
+    "ranking": "53",
+    "title": "Ferxxo 100",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
+    "appleID": "ferxxo-100/1645032528"
+  },
+  {
+    "ranking": "54",
+    "title": "Pa' Que La Pases Bien",
+    "artist": "Arcángel",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+    "appleID": "pa-que-la-pases-bien/1247228818",
+    "spotifyID": "1pLCpA1RN8avJxSD3ZCwhj",
+    "youtubeID": "hQ2RAXBqgf0"
+  },
+  {
+    "ranking": "55",
+    "title": "Voy A Desaparecer",
+    "artist": "Luis Vega",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/63/cb/a963cb43-5739-0a30-562c-e2fc14147a69/198500025453.jpg/80x80bb.webp",
+    "appleID": "voy-a-desaparecer/1727072112"
+  },
+  {
+    "ranking": "56",
+    "title": "Piel",
+    "artist": "Tiago PZK",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/de/51/12de510a-5c68-39d1-defe-ca3afcfe9932/5054197965104.jpg/80x80bb.webp",
+    "appleID": "piel/1726078071"
+  },
+  {
+    "ranking": "57",
+    "title": "Me Porto Bonito",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+    "appleID": "me-porto-bonito/1622045634"
+  },
+  {
+    "ranking": "58",
+    "title": "EL LOKERÓN",
+    "artist": "Tito Double P",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+    "appleID": "el-loker%C3%B3n/1761412372",
+    "youtubeID": "54YpK2I6BM8"
+  },
+  {
+    "ranking": "59",
+    "title": "LA FALDA",
+    "artist": "Myke Towers",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/f9/40/fdf9402c-95ae-8152-17b0-984649c6172a/5054197903205.jpg/80x80bb.webp",
+    "appleID": "la-falda/1717187395",
+    "spotifyID": "7iUtQNMRB8ZkKC4AmEuCJC"
+  },
+  {
+    "ranking": "60",
+    "title": "Soltera",
+    "artist": "Shakira",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
+    "appleID": "soltera/1769406416",
+    "youtubeID": "oBofuVYDoG4",
+    "spotifyID": "3OJDtCdYs8QJnui708tEU3"
+  },
+  {
+    "ranking": "61",
+    "title": "Committed",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "committed/1775462859"
+  },
+  {
+    "ranking": "62",
+    "title": "El Ultimo Amor",
+    "artist": "Luis Vega",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/18/08/b0180879-f0de-adf7-1af4-288afca314fb/196032990201.jpg/80x80bb.webp",
+    "appleID": "el-ultimo-amor/1782189079",
+    "spotifyID": "5ApJUoZ4OGBF9FcequqPY5"
+  },
+  {
+    "ranking": "63",
+    "title": "DÁKITI",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+    "appleID": "d%C3%A1kiti/1542103620"
+  },
+  {
+    "ranking": "64",
+    "title": "11 PM",
+    "artist": "Maluma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/c5/c2/09c5c2c4-b022-bcbe-a3ab-7e85e1d7084d/886447616321.jpg/80x80bb.webp",
+    "appleID": "11-pm/1461912470"
+  },
+  {
+    "ranking": "65",
+    "title": "Yandel 150",
+    "artist": "Yandel",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6c/73/8f/6c738fd4-53cd-36f1-c8fe-0f20ba2f31d8/197187733972.jpg/80x80bb.webp",
+    "appleID": "yandel-150/1660312782"
+  },
+  {
+    "ranking": "66",
+    "title": "POR QUÉ SERÁ",
+    "artist": "Grupo Frontera",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/b2/7c/5cb27c01-7799-8e77-b3ee-817107625550/cover.jpg/80x80bb.webp",
+    "appleID": "por-qu%C3%A9-ser%C3%A1/1743186573"
+  },
+  {
+    "ranking": "67",
+    "title": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+    "artist": "Stromae",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/80x80bb.webp",
+    "appleID": "ma-meilleure-ennemie-from-the-series-arcane-league/1767032201"
+  },
+  {
+    "ranking": "68",
+    "title": "TE MUDASTE",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+    "appleID": "te-mudaste/1542102922"
+  },
+  {
+    "ranking": "69",
+    "title": "Tuyo",
+    "artist": "Mora",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/4b/16/564b1602-3cdf-04ad-d0a0-b47f63656663/196006084233.jpg/80x80bb.webp",
+    "appleID": "tuyo/1552010795",
+    "youtubeID": "guXD3jFW9jQ"
+  },
+  {
+    "ranking": "70",
+    "title": "FILTRO",
+    "artist": "De Parranda",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/95/dd/6a95ddf9-1db5-1f4b-0042-5ec64f6eb5b3/196032662917.jpg/80x80bb.webp",
+    "appleID": "filtro/1716646913"
+  },
+  {
+    "ranking": "71",
+    "title": "Doblexxó",
+    "artist": "J Balvin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/f0/93/74f0939f-1c77-9cfd-9d60-3c8ce91e77ea/24UMGIM64063.rgb.jpg/80x80bb.webp",
+    "appleID": "doblexx%C3%B3/1756223677"
+  },
+  {
+    "ranking": "72",
+    "title": "Bailando Conmigo",
+    "artist": "Luis Vega",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/74/ac/d774ac92-9acd-5bba-4daa-8b2bfc7e7a74/198015983392.jpg/80x80bb.webp",
+    "appleID": "bailando-conmigo/1747630347",
+    "spotifyID": "4d4cW91CpcogH1COrpNaH2",
+    "youtubeID": "Ip0dvXGhaoY"
+  },
+  {
+    "ranking": "73",
+    "title": "Pa' Que Te Acuerdes  CROSSOVER #8",
+    "artist": "Big One",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/69/aa/3069aacd-c2bd-c97a-70d3-5b3378e89ff5/198846341750.jpg/80x80bb.webp",
+    "appleID": "pa-que-te-acuerdes-crossover-8/1769234524"
+  },
+  {
+    "ranking": "74",
+    "title": "La Bachata",
+    "artist": "Manuel Turizo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/70/11/df701101-9f0f-3c43-ff6d-2186235d7e9c/196589129123.jpg/80x80bb.webp",
+    "appleID": "la-bachata/1624563284",
+    "spotifyID": "3tt9i3Hhzq84dPS8H7iSiJ",
+    "youtubeID": "TiM_TFpT_DE"
+  },
+  {
+    "ranking": "75",
+    "title": "Callaita",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+    "appleID": "callaita/1465503235"
+  },
+  {
+    "ranking": "76",
+    "title": "LOKERA",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/0f/ef/990fefcb-db12-0cf0-90f9-44115c095c73/196589764720.jpg/80x80bb.webp",
+    "appleID": "lokera/1665295987"
+  },
+  {
+    "ranking": "77",
+    "title": "Mírame",
+    "artist": "Blessd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/b6/80/40b68000-f1d2-7169-4eeb-029f90e37c82/5021732285225.jpg/80x80bb.webp",
+    "appleID": "m%C3%ADrame/1741002143"
+  },
+  {
+    "ranking": "78",
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "wildflower/1739659144",
+    "youtubeID": "IWKyykQBRKo",
+    "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
+  },
+  {
+    "ranking": "79",
+    "title": "Ni Me Conozco",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "ni-me-conozco/1775462866",
+    "spotifyID": "0xyWkRMb09qdCDhloehCsi",
+    "youtubeID": "fViYgfgFbNY"
+  },
+  {
+    "ranking": "80",
+    "title": "HOLLYWOOD",
+    "artist": "Peso Pluma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
+    "appleID": "hollywood/1748016028"
+  },
+  {
+    "ranking": "81",
+    "title": "Cúrame",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/13/c3/5813c326-a7fa-f792-77e1-8310d9c80742/886449738724.jpg/80x80bb.webp",
+    "appleID": "c%C3%BArame/1596868397"
+  },
+  {
+    "ranking": "82",
+    "title": "EL AMOR DE SU VIDA",
+    "artist": "Grupo Frontera",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/31/00/7231009e-bae9-23d4-cb3f-c8e60203502d/cover.jpg/80x80bb.webp",
+    "appleID": "el-amor-de-su-vida/1703284801"
+  },
+  {
+    "ranking": "83",
+    "title": "DONDE SE APRENDE A QUERER?",
+    "artist": "Mora",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/aa/25/1caa25e7-2a5a-8091-4d7a-bd39a0549834/197189639050.jpg/80x80bb.webp",
+    "appleID": "donde-se-aprende-a-querer/1704060593"
+  },
+  {
+    "ranking": "84",
+    "title": "Me Rehúso",
+    "artist": "Danny Ocean",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/8c/26/388c26af-a2d3-bb9c-391d-bf02e3b2319c/190296949630.jpg/80x80bb.webp",
+    "appleID": "me-reh%C3%BAso/1248528301",
+    "youtubeID": "LbKcHy9cav0",
+    "spotifyID": "6ifUES3keWjwXgae8pXI3o"
+  },
+  {
+    "ranking": "85",
+    "title": "Holanda",
+    "artist": "JHAYCO",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/c6/ff/a6c6ff16-b92a-72f6-600c-112d69305cd6/23UMGIM80474.rgb.jpg/80x80bb.webp",
+    "appleID": "holanda/1699106722"
+  },
+  {
+    "ranking": "86",
+    "title": "Santa",
+    "artist": "Rvssian",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/3b/65/783b6546-bf40-4583-1064-1d4946a82f50/196871978293.jpg/80x80bb.webp",
+    "appleID": "santa/1738270376"
+  },
+  {
+    "ranking": "87",
+    "title": "un x100to",
+    "artist": "Grupo Frontera",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/74/4d/b6744dbd-77ed-413a-3777-5ac6a2e780eb/197188732554.jpg/80x80bb.webp",
+    "appleID": "un-x100to/1682500319"
+  },
+  {
+    "ranking": "88",
+    "title": "Hoy",
+    "artist": "Valentino Merlo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/14/98/6d149887-7ef8-05fd-c267-eebc1e9439c1/085365426566.jpg/80x80bb.webp",
+    "appleID": "hoy/1747362089"
+  },
+  {
+    "ranking": "89",
+    "title": "ROSONES",
+    "artist": "Tito Double P",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/75/0d/30750d8c-20c7-5c80-f9be-97b7fd6fcfc5/199066153628.jpg/80x80bb.webp",
+    "appleID": "rosones/1783211314",
+    "spotifyID": "0LTwdL5yZ6YOTEGUQPFuSN",
+    "youtubeID": "hrhu8OE4WMM"
+  },
+  {
+    "ranking": "90",
+    "title": "Normal",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
+    "appleID": "normal/1645032552",
+    "spotifyID": "0T2pB7P1VdXPhLdQZ488uH"
+  },
+  {
+    "ranking": "91",
+    "title": "QUÉ PRETENDES",
+    "artist": "J Balvin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+    "appleID": "qu%C3%A9-pretendes/1470146805"
+  },
+  {
+    "ranking": "92",
+    "title": "Ya No Vuelvas (Versión Cuarteto)",
+    "artist": "Luck Ra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/18/ee/af18eee1-3b5d-4ea1-9780-9a59bde0b38d/196589708892.jpg/80x80bb.webp",
+    "appleID": "ya-no-vuelvas-versi%C3%B3n-cuarteto/1656791788"
+  },
+  {
+    "ranking": "93",
+    "title": "MI EX TENÍA RAZÓN",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+    "appleID": "mi-ex-ten%C3%ADa-raz%C3%B3n/1699662669",
+    "spotifyID": "54zcJnb3tp9c5OVKREZ1Is",
+    "youtubeID": "VBcs8DZxBGc"
+  },
+  {
+    "ranking": "94",
+    "title": "Desenfocao'",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/13/c3/5813c326-a7fa-f792-77e1-8310d9c80742/886449738724.jpg/80x80bb.webp",
+    "appleID": "desenfocao/1596868402"
+  },
+  {
+    "ranking": "95",
+    "title": "UWAIE",
+    "artist": "Kapo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
+    "appleID": "uwaie/1761902101",
+    "youtubeID": "spbagny8OjM",
+    "spotifyID": "5QjmUqgpPQgXgg4606DqZF"
+  },
+  {
+    "ranking": "96",
+    "title": "Hecha Pa' Mí",
+    "artist": "Grupo Frontera",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/a3/8e/74a38e0a-8aad-a7f7-1d0b-6672bcd91bae/cover.jpg/80x80bb.webp",
+    "appleID": "hecha-pa-m%C3%AD/1769185167",
+    "youtubeID": "IbE7peGTpmc",
+    "spotifyID": "1uGUbgZuO1kD1JZ0UeFupN"
+  },
+  {
+    "ranking": "97",
+    "title": "La Morocha",
+    "artist": "Luck Ra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/9b/cd/869bcda4-b00b-d03d-cfd5-3da458924acc/196871259309.jpg/80x80bb.webp",
+    "appleID": "la-morocha/1695210251"
+  },
+  {
+    "ranking": "98",
+    "title": "ALV",
+    "artist": "Arcángel",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/08/ab/b908ab97-c8d6-bf7c-837b-ae8556afda83/197190360073.jpg/80x80bb.webp",
+    "appleID": "alv/1716453465"
+  },
+  {
+    "ranking": "99",
+    "title": "Contacto Cero",
+    "artist": "Luis Vega",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/b4/87/8cb487bc-d097-d114-2a61-5687c92e6f98/198025274909.jpg/80x80bb.webp",
+    "appleID": "contacto-cero/1747626847"
+  },
+  {
+    "ranking": "100",
+    "title": "Hawái",
+    "artist": "Maluma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/4a/ab/6f4aab37-196a-3df8-a584-baf24772ed59/886448614913.jpg/80x80bb.webp",
+    "appleID": "haw%C3%A1i/1523698843",
+    "youtubeID": "pK060iUFWXg",
+    "spotifyID": "1yoMvmasuxZfqHEipJhRbp"
+  }
 ]

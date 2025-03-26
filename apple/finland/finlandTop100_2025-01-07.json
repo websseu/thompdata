@@ -1,779 +1,796 @@
 [
-    {
-        "ranking": "1",
-        "title": "Menestys on paras tapa kostaa",
-        "artist": "Ares",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7e/62/0c7e62fe-4bb2-9364-9f28-bc35a4754027/5021732587183.jpg/80x80bb.webp",
-        "appleID": "menestys-on-paras-tapa-kostaa/1783614069"
-    },
-    {
-        "ranking": "2",
-        "title": "Taikuri",
-        "artist": "Turisti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/b9/15afb991-2b1c-c5c0-ad4e-2a95c6b9740d/5021732487315.jpg/80x80bb.webp",
-        "appleID": "taikuri/1768755250",
-        "youtubeID": "t3EgO8j_wS0",
-        "spotifyID": "7fdNCtxfZArtOZK3hLqqm3"
-    },
-    {
-        "ranking": "3",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "4",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221",
-        "youtubeID": "ekr2nIex040",
-        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-        "ranking": "5",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142",
-        "youtubeID": "V9PVRfjEBTI"
-    },
-    {
-        "ranking": "6",
-        "title": "Diva",
-        "artist": "Averagekidluke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d9/20/80d92029-9721-67be-3fe7-d748f47a07a9/5021732542021.jpg/80x80bb.webp",
-        "appleID": "diva/1777810477",
-        "youtubeID": "LJ0GFkS5RZw",
-        "spotifyID": "6zLzNEyVqtyZoohE75maSy"
-    },
-    {
-        "ranking": "7",
-        "title": "Iha miten vaa",
-        "artist": "Ares",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/28/f5/da28f5f4-1b38-f483-4d36-b941e56d62fe/5021732519085.jpg/80x80bb.webp",
-        "appleID": "iha-miten-vaa/1773128063"
-    },
-    {
-        "ranking": "8",
-        "title": "Anteeks",
-        "artist": "william",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/89/b7/8789b768-1f7b-1d0c-905f-65cde1165a50/5021732548450.jpg/80x80bb.webp",
-        "appleID": "anteeks/1779195928"
-    },
-    {
-        "ranking": "9",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890",
-        "youtubeID": "5EpyN_6dqyk"
-    },
-    {
-        "ranking": "10",
-        "title": "Luotathan",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/52/9e/62529e4d-cd6b-4ce1-f847-77f6ff6efc37/24UMGIM55894.rgb.jpg/80x80bb.webp",
-        "appleID": "luotathan/1746731643"
-    },
-    {
-        "ranking": "11",
-        "title": "That’s So True",
-        "artist": "Gracie Abrams",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483",
-        "youtubeID": "BDHM8cyJQa8",
-        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-        "ranking": "12",
-        "title": "Timanttei",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/55/be/0d55bef3-3606-8c34-6615-7587a7e51335/23UM1IM65059.rgb.jpg/80x80bb.webp",
-        "appleID": "timanttei/1721431952",
-        "youtubeID": "I4hrPA2a9RI",
-        "spotifyID": "36lT6tdND08VVvv3HwbhZD"
-    },
-    {
-        "ranking": "13",
-        "title": "Moon in Your Eyes",
-        "artist": "Serum",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/0c/93/2a0c93b5-e8b9-0e28-c84e-d4baaaaadbda/5060182937186_cover.jpg/80x80bb.webp",
-        "appleID": "moon-in-your-eyes/1473244284"
-    },
-    {
-        "ranking": "14",
-        "title": "On / Off",
-        "artist": "Averagekidluke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
-        "appleID": "on-off/1762680743",
-        "spotifyID": "6jRJ1RAvdNxC1TG03VRFVg"
-    },
-    {
-        "ranking": "15",
-        "title": "Harmon King",
-        "artist": "We Can Do It",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7f/db/a3/7fdba351-66e1-1d0f-c8cb-fb8e9e0567f6/859726201211_cover.jpg/80x80bb.webp",
-        "appleID": "harmon-king/1370050887"
-    },
-    {
-        "ranking": "16",
-        "title": "Afterlife (Instrumental)",
-        "artist": "Zpace and Time",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b6/ff/42/b6ff4219-bf04-6963-518c-776110b285f0/715235532560.jpg/80x80bb.webp",
-        "appleID": "afterlife-instrumental/1441721517"
-    },
-    {
-        "ranking": "17",
-        "title": "Further",
-        "artist": "Boy Extra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/18/f0/87/18f087b9-d508-b8cc-0651-bd5e315062ae/artwork.jpg/80x80bb.webp",
-        "appleID": "further/1507850279"
-    },
-    {
-        "ranking": "18",
-        "title": "Marraskuu",
-        "artist": "ibe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/56/3f/49563f47-07bc-d265-0002-bf276ab824ff/392.jpg/80x80bb.webp",
-        "appleID": "marraskuu/1775139472",
-        "youtubeID": "6K1KDVK8dO8",
-        "spotifyID": "5A5sHRQoeJHzMULQGPLoOV"
-    },
-    {
-        "ranking": "19",
-        "title": "Lightskinboy (feat. Sexmane)",
-        "artist": "Turisti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/17/15/5e1715d3-620b-8859-ce89-d51caf9221e6/5021732381910.jpg/80x80bb.webp",
-        "appleID": "lightskinboy-feat-sexmane/1746314081"
-    },
-    {
-        "ranking": "20",
-        "title": "High",
-        "artist": "Rollercoaster",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a6/1d/35/a61d35ab-c4ea-963d-dbef-5d90f8d59421/859731898789_cover.jpg/80x80bb.webp",
-        "appleID": "high/1459401560"
-    },
-    {
-        "ranking": "21",
-        "title": "Vitun hyvin",
-        "artist": "Averagekidluke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/6f/47/616f4790-5751-4db5-dfa1-65ad00c765d3/5021732461957.jpg/80x80bb.webp",
-        "appleID": "vitun-hyvin/1761196024"
-    },
-    {
-        "ranking": "22",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144",
-        "youtubeID": "IWKyykQBRKo",
-        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-        "ranking": "23",
-        "title": "Ne oli vääräs (feat. Turisti)",
-        "artist": "Sliki",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/9b/50/ee9b505f-0dad-3dfb-1d4a-6b79cab42a39/196872557824.jpg/80x80bb.webp",
-        "appleID": "ne-oli-v%C3%A4%C3%A4r%C3%A4s-feat-turisti/1775117794"
-    },
-    {
-        "ranking": "24",
-        "title": "Löytää mut",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/bd/79/3dbd7924-d9b3-9e8a-8461-14fa36f78471/24UMGIM88754.rgb.jpg/80x80bb.webp",
-        "appleID": "l%C3%B6yt%C3%A4%C3%A4-mut/1763208967",
-        "youtubeID": "JzzLF2An83s",
-        "spotifyID": "47p94jgL5CekzREJnOp3M0"
-    },
-    {
-        "ranking": "25",
-        "title": "Sailor Song",
-        "artist": "Gigi Perez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/80x80bb.webp",
-        "appleID": "1770187510",
-        "youtubeID": "1lrFsXkT_rM",
-        "spotifyID": "2262bWmqomIaJXwCRHr13j"
-    },
-    {
-        "ranking": "26",
-        "title": "Mousea",
-        "artist": "Reacher",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cc/29/1d/cc291d8b-68dd-3722-61ca-5396448008fe/5059366932345_cover.jpg/80x80bb.webp",
-        "appleID": "mousea/1473167881"
-    },
-    {
-        "ranking": "27",
-        "title": "Täs mä oon",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
-        "appleID": "t%C3%A4s-m%C3%A4-oon/1775187018",
-        "youtubeID": "nK1_xkrRbxw",
-        "spotifyID": "5tfW3t4zAZoeftsKQI0jD0"
-    },
-    {
-        "ranking": "28",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434",
-        "youtubeID": "eVli-tstM5E"
-    },
-    {
-        "ranking": "29",
-        "title": "Ympyrää",
-        "artist": "Isaac Sene",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b9/ea/1cb9ea89-3044-11b5-cee6-df004a199d1a/artwork.jpg/80x80bb.webp",
-        "appleID": "ympyr%C3%A4%C3%A4/1780193641"
-    },
-    {
-        "ranking": "30",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080",
-        "youtubeID": "1RKqOmSkGgM",
-        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-        "ranking": "31",
-        "title": "Tunnista tuntiin",
-        "artist": "Ege Zulu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/0c/93/500c93f1-6b9b-04d3-2c7b-14185e7b8a24/6430068444067.png/80x80bb.webp",
-        "appleID": "tunnista-tuntiin/1728898925"
-    },
-    {
-        "ranking": "32",
-        "title": "Messy",
-        "artist": "Lola Young",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261",
-        "youtubeID": "k-k2_Liofy8",
-        "spotifyID": "35ISBknsCeZQtq66xABI9g"
-    },
-    {
-        "ranking": "33",
-        "title": "Trap Queen",
-        "artist": "Averagekidluke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
-        "appleID": "trap-queen/1762680911",
-        "spotifyID": "5FDmZWWDKd875GWf7v6sOd"
-    },
-    {
-        "ranking": "34",
-        "title": "Paletti (feat. Sexmane)",
-        "artist": "Costi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/f0/51/72f05185-43db-dd25-7129-4b43fde9fb57/5034644326900.jpg/80x80bb.webp",
-        "appleID": "paletti-feat-sexmane/1783426154"
-    },
-    {
-        "ranking": "35",
-        "title": "Jeesus",
-        "artist": "koira",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/49/7f/49497fb5-ef4e-ae08-098a-82427f6cfb2a/397.jpg/80x80bb.webp",
-        "appleID": "jeesus/1786145105",
-        "spotifyID": "5BqTedQR0QEN7UkyvEKNeS"
-    },
-    {
-        "ranking": "36",
-        "title": "Seireeni",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
-        "appleID": "seireeni/1775187353",
-        "youtubeID": "vv-jdkj8AKA",
-        "spotifyID": "2Ug8JxGX2SIRfsYogycZJc"
-    },
-    {
-        "ranking": "37",
-        "title": "Dum, Dumb, and Dumber",
-        "artist": "Lil Baby",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/43/d2/a543d286-abf2-5cc5-5515-1feb4a56293d/24UM1IM32309.rgb.jpg/80x80bb.webp",
-        "appleID": "dum-dumb-and-dumber/1786672708"
-    },
-    {
-        "ranking": "38",
-        "title": "Taste",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079",
-        "youtubeID": "KEG7b851Ric",
-        "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
-    },
-    {
-        "ranking": "39",
-        "title": "Dead Presidents (feat. Turisti)",
-        "artist": "Jore & Zpoppa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/4d/d7/d14dd7d4-1e01-684c-60ef-6bed1da9cb25/5021732501271.jpg/80x80bb.webp",
-        "appleID": "dead-presidents-feat-turisti/1770632423"
-    },
-    {
-        "ranking": "40",
-        "title": "Who",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "41",
-        "title": "Kiireinen nainen (feat. ibe)",
-        "artist": "Turisti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/72/c5/f672c58c-3912-78da-95aa-34e1c390373d/5054197818417.jpg/80x80bb.webp",
-        "appleID": "kiireinen-nainen-feat-ibe/1707517766"
-    },
-    {
-        "ranking": "42",
-        "title": "Otan Kii (feat. Miriam Bryant)",
-        "artist": "Isac Elliot",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/89/33/9a893357-adc4-dbc4-c8db-334ee4941cbb/5021732468079.jpg/80x80bb.webp",
-        "appleID": "otan-kii-feat-miriam-bryant/1762680751"
-    },
-    {
-        "ranking": "43",
-        "title": "Vaisto (feat. Juuna Chill)",
-        "artist": "Costi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/24/26/60242688-fb39-f600-2303-d0b01c6c090d/085365384804.jpg/80x80bb.webp",
-        "appleID": "vaisto-feat-juuna-chill/1750041454"
-    },
-    {
-        "ranking": "44",
-        "title": "Rich Man (feat. Turisti)",
-        "artist": "Averagekidluke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
-        "appleID": "rich-man-feat-turisti/1762680746"
-    },
-    {
-        "ranking": "45",
-        "title": "Sun luokse (feat. Isac Elliot)",
-        "artist": "Ahti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/2b/69/de2b6981-64fa-022b-c2de-54c0a625e244/5021732495013.jpg/80x80bb.webp",
-        "appleID": "sun-luokse-feat-isac-elliot/1768847786"
-    },
-    {
-        "ranking": "46",
-        "title": "Stadi (Alicia)",
-        "artist": "OLGA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/6d/20/076d203f-bfe0-b784-8b4d-b44cbb280c96/6430068444852.png/80x80bb.webp",
-        "appleID": "stadi-alicia/1750499296"
-    },
-    {
-        "ranking": "47",
-        "title": "tv off (feat. Lefty Gunplay)",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
-        "youtubeID": "U8F5G5wR1mk"
-    },
-    {
-        "ranking": "48",
-        "title": "Sata shottii",
-        "artist": "Etta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/34/8e/02348eee-b9af-c3e7-17e6-5f23cb502882/5021732509772.jpg/80x80bb.webp",
-        "appleID": "sata-shottii/1772323051",
-        "youtubeID": "H7xYM8Z40ok",
-        "spotifyID": "4SzyvEZEyXIYiIe4rpsxcO"
-    },
-    {
-        "ranking": "49",
-        "title": "Häitä pidelly (feat. Tupe.)",
-        "artist": "Robin Packalen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/63/69/7563690c-c147-fe8a-e6a5-f2a544fceb3f/24UMGIM55400.rgb.jpg/80x80bb.webp",
-        "appleID": "h%C3%A4it%C3%A4-pidelly-feat-tupe/1746662892"
-    },
-    {
-        "ranking": "50",
-        "title": "Waves in Tunnel",
-        "artist": "Sleeping Llamas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/85/ad/c0/85adc034-35e3-8ad5-b5af-80e458e9c66f/859729174253_cover.jpg/80x80bb.webp",
-        "appleID": "waves-in-tunnel/1439961984"
-    },
-    {
-        "ranking": "51",
-        "title": "Painava sydän",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
-        "appleID": "painava-syd%C3%A4n/1775187013",
-        "youtubeID": "hzsgI389IjE",
-        "spotifyID": "6Sgm8FkveMWMOKExKX0Q46"
-    },
-    {
-        "ranking": "52",
-        "title": "Heikkouteni (feat. TUULI)",
-        "artist": "Jore & Zpoppa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/cd/06/6fcd06cd-55b4-412a-f27d-2589c1b7c007/5054197992513.jpg/80x80bb.webp",
-        "appleID": "heikkouteni-feat-tuuli/1731148946"
-    },
-    {
-        "ranking": "53",
-        "title": "Sirkus",
-        "artist": "SHRTY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/74/9d/2e749d7f-4b75-f1f9-7870-4a34ef0a2087/24UMGIM63807.rgb.jpg/80x80bb.webp",
-        "appleID": "sirkus/1751661675",
-        "youtubeID": "P4apOhqMcsI",
-        "spotifyID": "0Ekrxw3lGOi3upnMTH90VY"
-    },
-    {
-        "ranking": "54",
-        "title": "A Bar Song (Tipsy)",
-        "artist": "Shaboozey",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899",
-        "youtubeID": "t7bQwwqW-Hc"
-    },
-    {
-        "ranking": "55",
-        "title": "Tippa-T",
-        "artist": "Turisti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f7/bf/29/f7bf29ae-f64b-1942-3121-86d4da0ec41b/315.jpg/80x80bb.webp",
-        "appleID": "tippa-t/1646046052"
-    },
-    {
-        "ranking": "56",
-        "title": "Viimeinen kuulutus",
-        "artist": "Sexmane",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/06/d3/b206d3d8-43f3-268e-d671-81afb37a9e26/196872714715.jpg/80x80bb.webp",
-        "appleID": "viimeinen-kuulutus/1782480051",
-        "spotifyID": "1NKyomIMeDReZTpcZhJ0h7"
-    },
-    {
-        "ranking": "57",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141",
-        "youtubeID": "BY_XwvKogC8",
-        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-        "ranking": "58",
-        "title": "Rauhaa",
-        "artist": "Averagekidluke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/8e/32/8e8e32a2-c42c-589c-0e56-42beef1058f6/5021732410528.jpg/80x80bb.webp",
-        "appleID": "rauhaa/1751767478"
-    },
-    {
-        "ranking": "59",
-        "title": "Tytöt",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
-        "appleID": "tyt%C3%B6t/1775187008",
-        "spotifyID": "6sffKkqijCXUkpWzvwHNlD"
-    },
-    {
-        "ranking": "60",
-        "title": "Uuteen eiliseen",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/63/1b/9f631b21-68e3-2b0d-2ddb-fc46f9a60af7/24UMGIM21822.rgb.jpg/80x80bb.webp",
-        "appleID": "uuteen-eiliseen/1733824377",
-        "spotifyID": "1BTuLvcRQdmPwhGyvUJxpY"
-    },
-    {
-        "ranking": "61",
-        "title": "Yks Kaks",
-        "artist": "Turisti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/ce/26/02ce2608-1afc-5b13-6044-d2f755d040ba/5021732257598.jpg/80x80bb.webp",
-        "appleID": "yks-kaks/1735511476",
-        "spotifyID": "16Wa4Kq12iWEOgj1TC2FXn"
-    },
-    {
-        "ranking": "62",
-        "title": "Please Please Please",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "please-please-please/1750307080",
-        "youtubeID": "cF1Na4AIecM",
-        "spotifyID": "2tHwzyyOLoWSFqYNjeVMzj"
-    },
-    {
-        "ranking": "63",
-        "title": "The Emptiness Machine",
-        "artist": "LINKIN PARK",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
-        "appleID": "the-emptiness-machine/1766137051",
-        "youtubeID": "SRXH9AbT280",
-        "spotifyID": "1EDPVGbyPKJPeGqATwXZvN"
-    },
-    {
-        "ranking": "64",
-        "title": "Blondina",
-        "artist": "ibe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/13/6a/6a136a8f-4a8a-968c-a61f-c9607d59d12d/347.jpg/80x80bb.webp",
-        "appleID": "blondina/1688760031",
-        "spotifyID": "3Fq0id1BFWX3GoCeWdNh53"
-    },
-    {
-        "ranking": "65",
-        "title": "Ainutlaatuinen",
-        "artist": "SHRTY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/35/8c/bc358cdb-7f95-988b-b60e-5fb56e677c85/24UM1IM41269.rgb.jpg/80x80bb.webp",
-        "appleID": "ainutlaatuinen/1785930264"
-    },
-    {
-        "ranking": "66",
-        "title": "Vaarallinen Nainen",
-        "artist": "Korelon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/0b/10/d90b100d-18a4-9705-8945-9e0b395e5f53/artwork.jpg/80x80bb.webp",
-        "appleID": "vaarallinen-nainen/1755563708"
-    },
-    {
-        "ranking": "67",
-        "title": "Bed Chem",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "bed-chem/1750307088",
-        "youtubeID": "x8VkB8ap_FQ",
-        "spotifyID": "1UHS8Rf6h5Ar3CDWRd3wjF"
-    },
-    {
-        "ranking": "68",
-        "title": "Lähetään menee",
-        "artist": "Turisti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/19/e9/ce19e999-5795-9ec0-2e22-f3bb362cb46e/5021732276063.jpg/80x80bb.webp",
-        "appleID": "l%C3%A4het%C3%A4%C3%A4n-menee/1739412919",
-        "spotifyID": "5w5EEBseWfDwZpexgqmTsI"
-    },
-    {
-        "ranking": "69",
-        "title": "Levoton Tuhkimo",
-        "artist": "Dingo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/4e/3e/6b/mzi.zusjcipn.jpg/80x80bb.webp",
-        "appleID": "levoton-tuhkimo/193442793"
-    },
-    {
-        "ranking": "70",
-        "title": "Too Sweet",
-        "artist": "Hozier",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "appleID": "too-sweet/1763072931",
-        "youtubeID": "NTpbbQUBbuo",
-        "spotifyID": "19XpFsce28aByvCC4g89tJ"
-    },
-    {
-        "ranking": "71",
-        "title": "Birds 1",
-        "artist": "Sleeping Llamas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/85/ad/c0/85adc034-35e3-8ad5-b5af-80e458e9c66f/859729174253_cover.jpg/80x80bb.webp",
-        "appleID": "birds-1/1439961829"
-    },
-    {
-        "ranking": "72",
-        "title": "Väärään aikaan (feat. HUGO)",
-        "artist": "Ahti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/5f/48/405f48b6-a6b7-2aa5-8b59-4fe15bc71a32/5054197919831.jpg/80x80bb.webp",
-        "appleID": "v%C3%A4%C3%A4r%C3%A4%C3%A4n-aikaan-feat-hugo/1717405635"
-    },
-    {
-        "ranking": "73",
-        "title": "Birds 2",
-        "artist": "Sleeping Llamas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/85/ad/c0/85adc034-35e3-8ad5-b5af-80e458e9c66f/859729174253_cover.jpg/80x80bb.webp",
-        "appleID": "birds-2/1439962122"
-    },
-    {
-        "ranking": "74",
-        "title": "Levoton tuhkimo",
-        "artist": "emma & matilda",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/76/41/99764185-d9db-75ec-0f70-bb912231a12c/5021732583987.jpg/80x80bb.webp",
-        "appleID": "levoton-tuhkimo/1782924618"
-    },
-    {
-        "ranking": "75",
-        "title": "Bämä (feat. william)",
-        "artist": "Jore & Zpoppa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/b6/b4/e9b6b4f5-30b2-200b-e952-58d318c928f5/196589737885.jpg/80x80bb.webp",
-        "appleID": "b%C3%A4m%C3%A4-feat-william/1658538240"
-    },
-    {
-        "ranking": "76",
-        "title": "Viva La Vida",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
-        "appleID": "viva-la-vida/1122773680",
-        "youtubeID": "dvgZkm1xWPE"
-    },
-    {
-        "ranking": "77",
-        "title": "Ylivoimainen",
-        "artist": "Kuumaa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7d/93/e6/7d93e60d-598a-c3b2-a479-11b1593f27e8/22UM1IM45021.rgb.jpg/80x80bb.webp",
-        "appleID": "ylivoimainen/1661437152",
-        "spotifyID": "4TXoHT9YxXfczvs2ccf5MK"
-    },
-    {
-        "ranking": "78",
-        "title": "Tulipalo",
-        "artist": "Kuumaa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/56/2d/c1/562dc14a-b09e-8f09-08a0-7f1fa01a5cf6/22UMGIM63029.rgb.jpg/80x80bb.webp",
-        "appleID": "tulipalo/1630235503"
-    },
-    {
-        "ranking": "79",
-        "title": "Dancing In The Flames",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513",
-        "youtubeID": "gu0_ixJMx5U"
-    },
-    {
-        "ranking": "80",
-        "title": "squabble up",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "squabble-up/1781270321",
-        "youtubeID": "fuV4yQWdn_4",
-        "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
-    },
-    {
-        "ranking": "81",
-        "title": "Sua sattuu",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/57/9d/a7579d4c-7107-efb6-ff0b-0a45da0ee2a5/23UM1IM19079.rgb.jpg/80x80bb.webp",
-        "appleID": "sua-sattuu/1710397684",
-        "spotifyID": "5iEKaNc3e4tksp5S5SxW4o"
-    },
-    {
-        "ranking": "82",
-        "title": "valssi",
-        "artist": "Pehmoaino",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/9a/d4/f59ad4f4-f5f8-6da9-0286-0070197b44b1/196871669429.jpg/80x80bb.webp",
-        "appleID": "valssi/1720692452",
-        "spotifyID": "5enVWJXH9X2Biou4niupoJ"
-    },
-    {
-        "ranking": "83",
-        "title": "Hulda",
-        "artist": "Pehmoaino",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/9a/d4/f59ad4f4-f5f8-6da9-0286-0070197b44b1/196871669429.jpg/80x80bb.webp",
-        "appleID": "hulda/1720692746"
-    },
-    {
-        "ranking": "84",
-        "title": "Disease",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
-        "appleID": "disease/1775468632",
-        "youtubeID": "fmC6b6_ovZY"
-    },
-    {
-        "ranking": "85",
-        "title": "Bad Dreams",
-        "artist": "Teddy Swims",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904",
-        "youtubeID": "Qh8QwVYOSVU",
-        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-        "ranking": "86",
-        "title": "maasta taivaaseen",
-        "artist": "Pehmoaino",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/d7/d0/13d7d0a4-c73d-94ff-aa49-4a3abcacdf6d/196871662345.jpg/80x80bb.webp",
-        "appleID": "maasta-taivaaseen/1718298483",
-        "spotifyID": "0PWIrADNjGpiXA3EGjIbTW"
-    },
-    {
-        "ranking": "87",
-        "title": "päivänvaloo (feat. Lauri Haav)",
-        "artist": "Pehmoaino",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/9a/d4/f59ad4f4-f5f8-6da9-0286-0070197b44b1/196871669429.jpg/80x80bb.webp",
-        "appleID": "p%C3%A4iv%C3%A4nvaloo-feat-lauri-haav/1720692456"
-    },
-    {
-        "ranking": "88",
-        "title": "Kokonainen",
-        "artist": "Ares",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/00/03/390003b0-47ce-2563-a2f2-1fc67bd605d8/5021732411518.jpg/80x80bb.webp",
-        "appleID": "kokonainen/1751958867"
-    },
-    {
-        "ranking": "89",
-        "title": "La La La",
-        "artist": "Sam Smith",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/8c/ce/e68cce7d-b240-bafd-d15f-1aef236f7343/24UMGIM49156.rgb.jpg/80x80bb.webp",
-        "appleID": "la-la-la/1763639276"
-    },
-    {
-        "ranking": "90",
-        "title": "Guess featuring Billie Eilish",
-        "artist": "Charli xcx",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/a7/a2/2ca7a20f-13aa-81ac-9423-a09147acab76/075679636072.jpg/80x80bb.webp",
-        "appleID": "guess-featuring-billie-eilish/1760420750"
-    },
-    {
-        "ranking": "91",
-        "title": "Skyline",
-        "artist": "ibe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/5f/4d/655f4d94-9dd3-7930-cd8c-9bed4ec6129b/357.jpg/80x80bb.webp",
-        "appleID": "skyline/1713352613"
-    },
-    {
-        "ranking": "92",
-        "title": "Stuff (feat. Travis Scott)",
-        "artist": "Lil Baby",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/43/d2/a543d286-abf2-5cc5-5515-1feb4a56293d/24UM1IM32309.rgb.jpg/80x80bb.webp",
-        "appleID": "stuff-feat-travis-scott/1786672861"
-    },
-    {
-        "ranking": "93",
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568",
-        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
-    },
-    {
-        "ranking": "94",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "artist": "Post Malone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
-        "youtubeID": "4QIZE708gJ4"
-    },
-    {
-        "ranking": "95",
-        "title": "WHITEBOY",
-        "artist": "Korelon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/32/24/d83224dc-0dd0-9f95-0884-7f222ca55c05/artwork.jpg/80x80bb.webp",
-        "appleID": "whiteboy/1752748076"
-    },
-    {
-        "ranking": "96",
-        "title": "I Love You, I'm Sorry",
-        "artist": "Gracie Abrams",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
-        "appleID": "i-love-you-im-sorry/1743054747",
-        "youtubeID": "uxjhN_Donfw",
-        "spotifyID": "51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-        "ranking": "97",
-        "title": "A Sky Full of Stars",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
-        "appleID": "a-sky-full-of-stars/829910927",
-        "youtubeID": "VPRjCeoBqrI"
-    },
-    {
-        "ranking": "98",
-        "title": "Juostaan (feat. Sexmane)",
-        "artist": "Sara Siipola",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/ba/6f/b0ba6f59-9e43-a015-26ce-6895d3499610/196872065381.jpg/80x80bb.webp",
-        "appleID": "juostaan-feat-sexmane/1744588085"
-    },
-    {
-        "ranking": "99",
-        "title": "Viimeinen tanssi",
-        "artist": "BEHM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/d7/cb/79d7cb95-302f-2c75-7384-d05d77715f81/5054197682711.jpg/80x80bb.webp",
-        "appleID": "viimeinen-tanssi/1686897245"
-    },
-    {
-        "ranking": "100",
-        "title": "Cha Cha Cha",
-        "artist": "Käärijä",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3c/df/e9/3cdfe9ff-b790-8be5-fae7-a3c9812f79a1/5054197498510.jpg/80x80bb.webp",
-        "appleID": "cha-cha-cha/1661067481"
-    }
+  {
+    "ranking": "1",
+    "title": "Menestys on paras tapa kostaa",
+    "artist": "Ares",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7e/62/0c7e62fe-4bb2-9364-9f28-bc35a4754027/5021732587183.jpg/80x80bb.webp",
+    "appleID": "menestys-on-paras-tapa-kostaa/1783614069",
+    "youtubeID": "HdxrdOMo4ZQ"
+  },
+  {
+    "ranking": "2",
+    "title": "Taikuri",
+    "artist": "Turisti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/b9/15afb991-2b1c-c5c0-ad4e-2a95c6b9740d/5021732487315.jpg/80x80bb.webp",
+    "appleID": "taikuri/1768755250",
+    "youtubeID": "t3EgO8j_wS0",
+    "spotifyID": "7fdNCtxfZArtOZK3hLqqm3"
+  },
+  {
+    "ranking": "3",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "4",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221",
+    "youtubeID": "ekr2nIex040",
+    "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
+  },
+  {
+    "ranking": "5",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "birds-of-a-feather/1739659142",
+    "youtubeID": "V9PVRfjEBTI"
+  },
+  {
+    "ranking": "6",
+    "title": "Diva",
+    "artist": "Averagekidluke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d9/20/80d92029-9721-67be-3fe7-d748f47a07a9/5021732542021.jpg/80x80bb.webp",
+    "appleID": "diva/1777810477",
+    "youtubeID": "LJ0GFkS5RZw",
+    "spotifyID": "6zLzNEyVqtyZoohE75maSy"
+  },
+  {
+    "ranking": "7",
+    "title": "Iha miten vaa",
+    "artist": "Ares",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/28/f5/da28f5f4-1b38-f483-4d36-b941e56d62fe/5021732519085.jpg/80x80bb.webp",
+    "appleID": "iha-miten-vaa/1773128063"
+  },
+  {
+    "ranking": "8",
+    "title": "Anteeks",
+    "artist": "william",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/89/b7/8789b768-1f7b-1d0c-905f-65cde1165a50/5021732548450.jpg/80x80bb.webp",
+    "appleID": "anteeks/1779195928"
+  },
+  {
+    "ranking": "9",
+    "title": "Timeless",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "ranking": "10",
+    "title": "Luotathan",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/52/9e/62529e4d-cd6b-4ce1-f847-77f6ff6efc37/24UMGIM55894.rgb.jpg/80x80bb.webp",
+    "appleID": "luotathan/1746731643"
+  },
+  {
+    "ranking": "11",
+    "title": "That’s So True",
+    "artist": "Gracie Abrams",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+    "appleID": "thats-so-true/1773474483",
+    "youtubeID": "BDHM8cyJQa8",
+    "spotifyID": "7ne4VBA60CxGM75vw0EYad"
+  },
+  {
+    "ranking": "12",
+    "title": "Timanttei",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/55/be/0d55bef3-3606-8c34-6615-7587a7e51335/23UM1IM65059.rgb.jpg/80x80bb.webp",
+    "appleID": "timanttei/1721431952",
+    "youtubeID": "I4hrPA2a9RI",
+    "spotifyID": "36lT6tdND08VVvv3HwbhZD"
+  },
+  {
+    "ranking": "13",
+    "title": "Moon in Your Eyes",
+    "artist": "Serum",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/0c/93/2a0c93b5-e8b9-0e28-c84e-d4baaaaadbda/5060182937186_cover.jpg/80x80bb.webp",
+    "appleID": "moon-in-your-eyes/1473244284"
+  },
+  {
+    "ranking": "14",
+    "title": "On / Off",
+    "artist": "Averagekidluke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
+    "appleID": "on-off/1762680743",
+    "spotifyID": "6jRJ1RAvdNxC1TG03VRFVg",
+    "youtubeID": "DFx6wM_FDj0"
+  },
+  {
+    "ranking": "15",
+    "title": "Harmon King",
+    "artist": "We Can Do It",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7f/db/a3/7fdba351-66e1-1d0f-c8cb-fb8e9e0567f6/859726201211_cover.jpg/80x80bb.webp",
+    "appleID": "harmon-king/1370050887"
+  },
+  {
+    "ranking": "16",
+    "title": "Afterlife (Instrumental)",
+    "artist": "Zpace and Time",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b6/ff/42/b6ff4219-bf04-6963-518c-776110b285f0/715235532560.jpg/80x80bb.webp",
+    "appleID": "afterlife-instrumental/1441721517"
+  },
+  {
+    "ranking": "17",
+    "title": "Further",
+    "artist": "Boy Extra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/18/f0/87/18f087b9-d508-b8cc-0651-bd5e315062ae/artwork.jpg/80x80bb.webp",
+    "appleID": "further/1507850279"
+  },
+  {
+    "ranking": "18",
+    "title": "Marraskuu",
+    "artist": "ibe",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/56/3f/49563f47-07bc-d265-0002-bf276ab824ff/392.jpg/80x80bb.webp",
+    "appleID": "marraskuu/1775139472",
+    "youtubeID": "6K1KDVK8dO8",
+    "spotifyID": "5A5sHRQoeJHzMULQGPLoOV"
+  },
+  {
+    "ranking": "19",
+    "title": "Lightskinboy (feat. Sexmane)",
+    "artist": "Turisti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/17/15/5e1715d3-620b-8859-ce89-d51caf9221e6/5021732381910.jpg/80x80bb.webp",
+    "appleID": "lightskinboy-feat-sexmane/1746314081",
+    "youtubeID": "yOZdA-Qqz94"
+  },
+  {
+    "ranking": "20",
+    "title": "High",
+    "artist": "Rollercoaster",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a6/1d/35/a61d35ab-c4ea-963d-dbef-5d90f8d59421/859731898789_cover.jpg/80x80bb.webp",
+    "appleID": "high/1459401560"
+  },
+  {
+    "ranking": "21",
+    "title": "Vitun hyvin",
+    "artist": "Averagekidluke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/6f/47/616f4790-5751-4db5-dfa1-65ad00c765d3/5021732461957.jpg/80x80bb.webp",
+    "appleID": "vitun-hyvin/1761196024"
+  },
+  {
+    "ranking": "22",
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "wildflower/1739659144",
+    "youtubeID": "IWKyykQBRKo",
+    "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
+  },
+  {
+    "ranking": "23",
+    "title": "Ne oli vääräs (feat. Turisti)",
+    "artist": "Sliki",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/9b/50/ee9b505f-0dad-3dfb-1d4a-6b79cab42a39/196872557824.jpg/80x80bb.webp",
+    "appleID": "ne-oli-v%C3%A4%C3%A4r%C3%A4s-feat-turisti/1775117794",
+    "youtubeID": "F2kfFn2ZtM4"
+  },
+  {
+    "ranking": "24",
+    "title": "Löytää mut",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/bd/79/3dbd7924-d9b3-9e8a-8461-14fa36f78471/24UMGIM88754.rgb.jpg/80x80bb.webp",
+    "appleID": "l%C3%B6yt%C3%A4%C3%A4-mut/1763208967",
+    "youtubeID": "JzzLF2An83s",
+    "spotifyID": "47p94jgL5CekzREJnOp3M0"
+  },
+  {
+    "ranking": "25",
+    "title": "Sailor Song",
+    "artist": "Gigi Perez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/80x80bb.webp",
+    "appleID": "1770187510",
+    "youtubeID": "1lrFsXkT_rM",
+    "spotifyID": "2262bWmqomIaJXwCRHr13j"
+  },
+  {
+    "ranking": "26",
+    "title": "Mousea",
+    "artist": "Reacher",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cc/29/1d/cc291d8b-68dd-3722-61ca-5396448008fe/5059366932345_cover.jpg/80x80bb.webp",
+    "appleID": "mousea/1473167881"
+  },
+  {
+    "ranking": "27",
+    "title": "Täs mä oon",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
+    "appleID": "t%C3%A4s-m%C3%A4-oon/1775187018",
+    "youtubeID": "nK1_xkrRbxw",
+    "spotifyID": "5tfW3t4zAZoeftsKQI0jD0"
+  },
+  {
+    "ranking": "28",
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+    "appleID": "espresso/1740212434",
+    "youtubeID": "eVli-tstM5E"
+  },
+  {
+    "ranking": "29",
+    "title": "Ympyrää",
+    "artist": "Isaac Sene",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b9/ea/1cb9ea89-3044-11b5-cee6-df004a199d1a/artwork.jpg/80x80bb.webp",
+    "appleID": "ympyr%C3%A4%C3%A4/1780193641"
+  },
+  {
+    "ranking": "30",
+    "title": "Good Luck, Babe!",
+    "artist": "Chappell Roan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+    "appleID": "good-luck-babe/1737497080",
+    "youtubeID": "1RKqOmSkGgM",
+    "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
+  },
+  {
+    "ranking": "31",
+    "title": "Tunnista tuntiin",
+    "artist": "Ege Zulu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/0c/93/500c93f1-6b9b-04d3-2c7b-14185e7b8a24/6430068444067.png/80x80bb.webp",
+    "appleID": "tunnista-tuntiin/1728898925"
+  },
+  {
+    "ranking": "32",
+    "title": "Messy",
+    "artist": "Lola Young",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
+    "appleID": "messy/1743250261",
+    "youtubeID": "k-k2_Liofy8",
+    "spotifyID": "35ISBknsCeZQtq66xABI9g"
+  },
+  {
+    "ranking": "33",
+    "title": "Trap Queen",
+    "artist": "Averagekidluke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
+    "appleID": "trap-queen/1762680911",
+    "spotifyID": "5FDmZWWDKd875GWf7v6sOd",
+    "youtubeID": "_83cdojVrUc"
+  },
+  {
+    "ranking": "34",
+    "title": "Paletti (feat. Sexmane)",
+    "artist": "Costi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/f0/51/72f05185-43db-dd25-7129-4b43fde9fb57/5034644326900.jpg/80x80bb.webp",
+    "appleID": "paletti-feat-sexmane/1783426154",
+    "youtubeID": "Zov4iHbcfRs"
+  },
+  {
+    "ranking": "35",
+    "title": "Jeesus",
+    "artist": "koira",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/49/7f/49497fb5-ef4e-ae08-098a-82427f6cfb2a/397.jpg/80x80bb.webp",
+    "appleID": "jeesus/1786145105",
+    "spotifyID": "5BqTedQR0QEN7UkyvEKNeS"
+  },
+  {
+    "ranking": "36",
+    "title": "Seireeni",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
+    "appleID": "seireeni/1775187353",
+    "youtubeID": "vv-jdkj8AKA",
+    "spotifyID": "2Ug8JxGX2SIRfsYogycZJc"
+  },
+  {
+    "ranking": "37",
+    "title": "Dum, Dumb, and Dumber",
+    "artist": "Lil Baby",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/43/d2/a543d286-abf2-5cc5-5515-1feb4a56293d/24UM1IM32309.rgb.jpg/80x80bb.webp",
+    "appleID": "dum-dumb-and-dumber/1786672708"
+  },
+  {
+    "ranking": "38",
+    "title": "Taste",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+    "appleID": "taste/1750307079",
+    "youtubeID": "KEG7b851Ric",
+    "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
+  },
+  {
+    "ranking": "39",
+    "title": "Dead Presidents (feat. Turisti)",
+    "artist": "Jore & Zpoppa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/4d/d7/d14dd7d4-1e01-684c-60ef-6bed1da9cb25/5021732501271.jpg/80x80bb.webp",
+    "appleID": "dead-presidents-feat-turisti/1770632423",
+    "youtubeID": "RmE30RJ4iFM"
+  },
+  {
+    "ranking": "40",
+    "title": "Who",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "41",
+    "title": "Kiireinen nainen (feat. ibe)",
+    "artist": "Turisti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/72/c5/f672c58c-3912-78da-95aa-34e1c390373d/5054197818417.jpg/80x80bb.webp",
+    "appleID": "kiireinen-nainen-feat-ibe/1707517766"
+  },
+  {
+    "ranking": "42",
+    "title": "Otan Kii (feat. Miriam Bryant)",
+    "artist": "Isac Elliot",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/89/33/9a893357-adc4-dbc4-c8db-334ee4941cbb/5021732468079.jpg/80x80bb.webp",
+    "appleID": "otan-kii-feat-miriam-bryant/1762680751",
+    "youtubeID": "wU2lbSoGFr0"
+  },
+  {
+    "ranking": "43",
+    "title": "Vaisto (feat. Juuna Chill)",
+    "artist": "Costi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/24/26/60242688-fb39-f600-2303-d0b01c6c090d/085365384804.jpg/80x80bb.webp",
+    "appleID": "vaisto-feat-juuna-chill/1750041454"
+  },
+  {
+    "ranking": "44",
+    "title": "Rich Man (feat. Turisti)",
+    "artist": "Averagekidluke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
+    "appleID": "rich-man-feat-turisti/1762680746",
+    "youtubeID": "tElRwbRqk2Y"
+  },
+  {
+    "ranking": "45",
+    "title": "Sun luokse (feat. Isac Elliot)",
+    "artist": "Ahti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/2b/69/de2b6981-64fa-022b-c2de-54c0a625e244/5021732495013.jpg/80x80bb.webp",
+    "appleID": "sun-luokse-feat-isac-elliot/1768847786",
+    "youtubeID": "umRQPbHZT4E"
+  },
+  {
+    "ranking": "46",
+    "title": "Stadi (Alicia)",
+    "artist": "OLGA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/6d/20/076d203f-bfe0-b784-8b4d-b44cbb280c96/6430068444852.png/80x80bb.webp",
+    "appleID": "stadi-alicia/1750499296"
+  },
+  {
+    "ranking": "47",
+    "title": "tv off (feat. Lefty Gunplay)",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+    "youtubeID": "U8F5G5wR1mk"
+  },
+  {
+    "ranking": "48",
+    "title": "Sata shottii",
+    "artist": "Etta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/34/8e/02348eee-b9af-c3e7-17e6-5f23cb502882/5021732509772.jpg/80x80bb.webp",
+    "appleID": "sata-shottii/1772323051",
+    "youtubeID": "H7xYM8Z40ok",
+    "spotifyID": "4SzyvEZEyXIYiIe4rpsxcO"
+  },
+  {
+    "ranking": "49",
+    "title": "Häitä pidelly (feat. Tupe.)",
+    "artist": "Robin Packalen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/63/69/7563690c-c147-fe8a-e6a5-f2a544fceb3f/24UMGIM55400.rgb.jpg/80x80bb.webp",
+    "appleID": "h%C3%A4it%C3%A4-pidelly-feat-tupe/1746662892",
+    "youtubeID": "W94JZT9Xmyo"
+  },
+  {
+    "ranking": "50",
+    "title": "Waves in Tunnel",
+    "artist": "Sleeping Llamas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/85/ad/c0/85adc034-35e3-8ad5-b5af-80e458e9c66f/859729174253_cover.jpg/80x80bb.webp",
+    "appleID": "waves-in-tunnel/1439961984"
+  },
+  {
+    "ranking": "51",
+    "title": "Painava sydän",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
+    "appleID": "painava-syd%C3%A4n/1775187013",
+    "youtubeID": "hzsgI389IjE",
+    "spotifyID": "6Sgm8FkveMWMOKExKX0Q46"
+  },
+  {
+    "ranking": "52",
+    "title": "Heikkouteni (feat. TUULI)",
+    "artist": "Jore & Zpoppa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/cd/06/6fcd06cd-55b4-412a-f27d-2589c1b7c007/5054197992513.jpg/80x80bb.webp",
+    "appleID": "heikkouteni-feat-tuuli/1731148946"
+  },
+  {
+    "ranking": "53",
+    "title": "Sirkus",
+    "artist": "SHRTY",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/74/9d/2e749d7f-4b75-f1f9-7870-4a34ef0a2087/24UMGIM63807.rgb.jpg/80x80bb.webp",
+    "appleID": "sirkus/1751661675",
+    "youtubeID": "P4apOhqMcsI",
+    "spotifyID": "0Ekrxw3lGOi3upnMTH90VY"
+  },
+  {
+    "ranking": "54",
+    "title": "A Bar Song (Tipsy)",
+    "artist": "Shaboozey",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+    "appleID": "a-bar-song-tipsy/1737085899",
+    "youtubeID": "t7bQwwqW-Hc"
+  },
+  {
+    "ranking": "55",
+    "title": "Tippa-T",
+    "artist": "Turisti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f7/bf/29/f7bf29ae-f64b-1942-3121-86d4da0ec41b/315.jpg/80x80bb.webp",
+    "appleID": "tippa-t/1646046052"
+  },
+  {
+    "ranking": "56",
+    "title": "Viimeinen kuulutus",
+    "artist": "Sexmane",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/06/d3/b206d3d8-43f3-268e-d671-81afb37a9e26/196872714715.jpg/80x80bb.webp",
+    "appleID": "viimeinen-kuulutus/1782480051",
+    "spotifyID": "1NKyomIMeDReZTpcZhJ0h7",
+    "youtubeID": "rUWw5lkJem0"
+  },
+  {
+    "ranking": "57",
+    "title": "CHIHIRO",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "chihiro/1739659141",
+    "youtubeID": "BY_XwvKogC8",
+    "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
+  },
+  {
+    "ranking": "58",
+    "title": "Rauhaa",
+    "artist": "Averagekidluke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/8e/32/8e8e32a2-c42c-589c-0e56-42beef1058f6/5021732410528.jpg/80x80bb.webp",
+    "appleID": "rauhaa/1751767478"
+  },
+  {
+    "ranking": "59",
+    "title": "Tytöt",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
+    "appleID": "tyt%C3%B6t/1775187008",
+    "spotifyID": "6sffKkqijCXUkpWzvwHNlD"
+  },
+  {
+    "ranking": "60",
+    "title": "Uuteen eiliseen",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/63/1b/9f631b21-68e3-2b0d-2ddb-fc46f9a60af7/24UMGIM21822.rgb.jpg/80x80bb.webp",
+    "appleID": "uuteen-eiliseen/1733824377",
+    "spotifyID": "1BTuLvcRQdmPwhGyvUJxpY"
+  },
+  {
+    "ranking": "61",
+    "title": "Yks Kaks",
+    "artist": "Turisti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/ce/26/02ce2608-1afc-5b13-6044-d2f755d040ba/5021732257598.jpg/80x80bb.webp",
+    "appleID": "yks-kaks/1735511476",
+    "spotifyID": "16Wa4Kq12iWEOgj1TC2FXn"
+  },
+  {
+    "ranking": "62",
+    "title": "Please Please Please",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+    "appleID": "please-please-please/1750307080",
+    "youtubeID": "cF1Na4AIecM",
+    "spotifyID": "2tHwzyyOLoWSFqYNjeVMzj"
+  },
+  {
+    "ranking": "63",
+    "title": "The Emptiness Machine",
+    "artist": "LINKIN PARK",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+    "appleID": "the-emptiness-machine/1766137051",
+    "youtubeID": "SRXH9AbT280",
+    "spotifyID": "1EDPVGbyPKJPeGqATwXZvN"
+  },
+  {
+    "ranking": "64",
+    "title": "Blondina",
+    "artist": "ibe",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/13/6a/6a136a8f-4a8a-968c-a61f-c9607d59d12d/347.jpg/80x80bb.webp",
+    "appleID": "blondina/1688760031",
+    "spotifyID": "3Fq0id1BFWX3GoCeWdNh53"
+  },
+  {
+    "ranking": "65",
+    "title": "Ainutlaatuinen",
+    "artist": "SHRTY",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/35/8c/bc358cdb-7f95-988b-b60e-5fb56e677c85/24UM1IM41269.rgb.jpg/80x80bb.webp",
+    "appleID": "ainutlaatuinen/1785930264"
+  },
+  {
+    "ranking": "66",
+    "title": "Vaarallinen Nainen",
+    "artist": "Korelon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/0b/10/d90b100d-18a4-9705-8945-9e0b395e5f53/artwork.jpg/80x80bb.webp",
+    "appleID": "vaarallinen-nainen/1755563708"
+  },
+  {
+    "ranking": "67",
+    "title": "Bed Chem",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+    "appleID": "bed-chem/1750307088",
+    "youtubeID": "x8VkB8ap_FQ",
+    "spotifyID": "1UHS8Rf6h5Ar3CDWRd3wjF"
+  },
+  {
+    "ranking": "68",
+    "title": "Lähetään menee",
+    "artist": "Turisti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/19/e9/ce19e999-5795-9ec0-2e22-f3bb362cb46e/5021732276063.jpg/80x80bb.webp",
+    "appleID": "l%C3%A4het%C3%A4%C3%A4n-menee/1739412919",
+    "spotifyID": "5w5EEBseWfDwZpexgqmTsI"
+  },
+  {
+    "ranking": "69",
+    "title": "Levoton Tuhkimo",
+    "artist": "Dingo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/4e/3e/6b/mzi.zusjcipn.jpg/80x80bb.webp",
+    "appleID": "levoton-tuhkimo/193442793",
+    "youtubeID": "NjrCIF94PIU"
+  },
+  {
+    "ranking": "70",
+    "title": "Too Sweet",
+    "artist": "Hozier",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+    "appleID": "too-sweet/1763072931",
+    "youtubeID": "NTpbbQUBbuo",
+    "spotifyID": "19XpFsce28aByvCC4g89tJ"
+  },
+  {
+    "ranking": "71",
+    "title": "Birds 1",
+    "artist": "Sleeping Llamas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/85/ad/c0/85adc034-35e3-8ad5-b5af-80e458e9c66f/859729174253_cover.jpg/80x80bb.webp",
+    "appleID": "birds-1/1439961829"
+  },
+  {
+    "ranking": "72",
+    "title": "Väärään aikaan (feat. HUGO)",
+    "artist": "Ahti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/5f/48/405f48b6-a6b7-2aa5-8b59-4fe15bc71a32/5054197919831.jpg/80x80bb.webp",
+    "appleID": "v%C3%A4%C3%A4r%C3%A4%C3%A4n-aikaan-feat-hugo/1717405635",
+    "youtubeID": "nlg2hnlnkVM"
+  },
+  {
+    "ranking": "73",
+    "title": "Birds 2",
+    "artist": "Sleeping Llamas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/85/ad/c0/85adc034-35e3-8ad5-b5af-80e458e9c66f/859729174253_cover.jpg/80x80bb.webp",
+    "appleID": "birds-2/1439962122"
+  },
+  {
+    "ranking": "74",
+    "title": "Levoton tuhkimo",
+    "artist": "emma & matilda",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/76/41/99764185-d9db-75ec-0f70-bb912231a12c/5021732583987.jpg/80x80bb.webp",
+    "appleID": "levoton-tuhkimo/1782924618"
+  },
+  {
+    "ranking": "75",
+    "title": "Bämä (feat. william)",
+    "artist": "Jore & Zpoppa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/b6/b4/e9b6b4f5-30b2-200b-e952-58d318c928f5/196589737885.jpg/80x80bb.webp",
+    "appleID": "b%C3%A4m%C3%A4-feat-william/1658538240"
+  },
+  {
+    "ranking": "76",
+    "title": "Viva La Vida",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
+    "appleID": "viva-la-vida/1122773680",
+    "youtubeID": "dvgZkm1xWPE"
+  },
+  {
+    "ranking": "77",
+    "title": "Ylivoimainen",
+    "artist": "Kuumaa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7d/93/e6/7d93e60d-598a-c3b2-a479-11b1593f27e8/22UM1IM45021.rgb.jpg/80x80bb.webp",
+    "appleID": "ylivoimainen/1661437152",
+    "spotifyID": "4TXoHT9YxXfczvs2ccf5MK"
+  },
+  {
+    "ranking": "78",
+    "title": "Tulipalo",
+    "artist": "Kuumaa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/56/2d/c1/562dc14a-b09e-8f09-08a0-7f1fa01a5cf6/22UMGIM63029.rgb.jpg/80x80bb.webp",
+    "appleID": "tulipalo/1630235503"
+  },
+  {
+    "ranking": "79",
+    "title": "Dancing In The Flames",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+    "appleID": "dancing-in-the-flames/1767511513",
+    "youtubeID": "gu0_ixJMx5U"
+  },
+  {
+    "ranking": "80",
+    "title": "squabble up",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "squabble-up/1781270321",
+    "youtubeID": "fuV4yQWdn_4",
+    "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
+  },
+  {
+    "ranking": "81",
+    "title": "Sua sattuu",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/57/9d/a7579d4c-7107-efb6-ff0b-0a45da0ee2a5/23UM1IM19079.rgb.jpg/80x80bb.webp",
+    "appleID": "sua-sattuu/1710397684",
+    "spotifyID": "5iEKaNc3e4tksp5S5SxW4o"
+  },
+  {
+    "ranking": "82",
+    "title": "valssi",
+    "artist": "Pehmoaino",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/9a/d4/f59ad4f4-f5f8-6da9-0286-0070197b44b1/196871669429.jpg/80x80bb.webp",
+    "appleID": "valssi/1720692452",
+    "spotifyID": "5enVWJXH9X2Biou4niupoJ"
+  },
+  {
+    "ranking": "83",
+    "title": "Hulda",
+    "artist": "Pehmoaino",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/9a/d4/f59ad4f4-f5f8-6da9-0286-0070197b44b1/196871669429.jpg/80x80bb.webp",
+    "appleID": "hulda/1720692746"
+  },
+  {
+    "ranking": "84",
+    "title": "Disease",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+    "appleID": "disease/1775468632",
+    "youtubeID": "fmC6b6_ovZY"
+  },
+  {
+    "ranking": "85",
+    "title": "Bad Dreams",
+    "artist": "Teddy Swims",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+    "appleID": "bad-dreams/1765799904",
+    "youtubeID": "Qh8QwVYOSVU",
+    "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
+  },
+  {
+    "ranking": "86",
+    "title": "maasta taivaaseen",
+    "artist": "Pehmoaino",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/d7/d0/13d7d0a4-c73d-94ff-aa49-4a3abcacdf6d/196871662345.jpg/80x80bb.webp",
+    "appleID": "maasta-taivaaseen/1718298483",
+    "spotifyID": "0PWIrADNjGpiXA3EGjIbTW"
+  },
+  {
+    "ranking": "87",
+    "title": "päivänvaloo (feat. Lauri Haav)",
+    "artist": "Pehmoaino",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/9a/d4/f59ad4f4-f5f8-6da9-0286-0070197b44b1/196871669429.jpg/80x80bb.webp",
+    "appleID": "p%C3%A4iv%C3%A4nvaloo-feat-lauri-haav/1720692456"
+  },
+  {
+    "ranking": "88",
+    "title": "Kokonainen",
+    "artist": "Ares",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/00/03/390003b0-47ce-2563-a2f2-1fc67bd605d8/5021732411518.jpg/80x80bb.webp",
+    "appleID": "kokonainen/1751958867"
+  },
+  {
+    "ranking": "89",
+    "title": "La La La",
+    "artist": "Sam Smith",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/8c/ce/e68cce7d-b240-bafd-d15f-1aef236f7343/24UMGIM49156.rgb.jpg/80x80bb.webp",
+    "appleID": "la-la-la/1763639276"
+  },
+  {
+    "ranking": "90",
+    "title": "Guess featuring Billie Eilish",
+    "artist": "Charli xcx",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/a7/a2/2ca7a20f-13aa-81ac-9423-a09147acab76/075679636072.jpg/80x80bb.webp",
+    "appleID": "guess-featuring-billie-eilish/1760420750"
+  },
+  {
+    "ranking": "91",
+    "title": "Skyline",
+    "artist": "ibe",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/5f/4d/655f4d94-9dd3-7930-cd8c-9bed4ec6129b/357.jpg/80x80bb.webp",
+    "appleID": "skyline/1713352613",
+    "youtubeID": "zgDztY_qcrA"
+  },
+  {
+    "ranking": "92",
+    "title": "Stuff (feat. Travis Scott)",
+    "artist": "Lil Baby",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/43/d2/a543d286-abf2-5cc5-5515-1feb4a56293d/24UM1IM32309.rgb.jpg/80x80bb.webp",
+    "appleID": "stuff-feat-travis-scott/1786672861"
+  },
+  {
+    "ranking": "93",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+    "appleID": "blinding-lights/1488408568",
+    "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b",
+    "youtubeID": "4NRXx6U8ABQ"
+  },
+  {
+    "ranking": "94",
+    "title": "I Had Some Help (feat. Morgan Wallen)",
+    "artist": "Post Malone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+    "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+    "youtubeID": "4QIZE708gJ4"
+  },
+  {
+    "ranking": "95",
+    "title": "WHITEBOY",
+    "artist": "Korelon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/32/24/d83224dc-0dd0-9f95-0884-7f222ca55c05/artwork.jpg/80x80bb.webp",
+    "appleID": "whiteboy/1752748076"
+  },
+  {
+    "ranking": "96",
+    "title": "I Love You, I'm Sorry",
+    "artist": "Gracie Abrams",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+    "appleID": "i-love-you-im-sorry/1743054747",
+    "youtubeID": "uxjhN_Donfw",
+    "spotifyID": "51rfRCiUSvxXlCSCfIztBy"
+  },
+  {
+    "ranking": "97",
+    "title": "A Sky Full of Stars",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
+    "appleID": "a-sky-full-of-stars/829910927",
+    "youtubeID": "VPRjCeoBqrI"
+  },
+  {
+    "ranking": "98",
+    "title": "Juostaan (feat. Sexmane)",
+    "artist": "Sara Siipola",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/ba/6f/b0ba6f59-9e43-a015-26ce-6895d3499610/196872065381.jpg/80x80bb.webp",
+    "appleID": "juostaan-feat-sexmane/1744588085",
+    "youtubeID": "3M7h-UCWJJE"
+  },
+  {
+    "ranking": "99",
+    "title": "Viimeinen tanssi",
+    "artist": "BEHM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/d7/cb/79d7cb95-302f-2c75-7384-d05d77715f81/5054197682711.jpg/80x80bb.webp",
+    "appleID": "viimeinen-tanssi/1686897245"
+  },
+  {
+    "ranking": "100",
+    "title": "Cha Cha Cha",
+    "artist": "Käärijä",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3c/df/e9/3cdfe9ff-b790-8be5-fae7-a3c9812f79a1/5054197498510.jpg/80x80bb.webp",
+    "appleID": "cha-cha-cha/1661067481"
+  }
 ]

@@ -1,741 +1,755 @@
 [
-    {
-        "ranking": "1",
-        "title": "Who",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "2",
-        "title": "Be Mine",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine/1751773088",
-        "youtubeID": "MYrZ5T3jFmA",
-        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-        "ranking": "3",
-        "title": "Dynamite",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
-        "appleID": "dynamite/1627575419",
-        "youtubeID": "gdZLi9oWNZg"
-    },
-    {
-        "ranking": "4",
-        "title": "VeLDÁ",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "veld%C3%A1/1787022999"
-    },
-    {
-        "ranking": "5",
-        "title": "BAILE INoLVIDABLE",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "baile-inolvidable/1787022842"
-    },
-    {
-        "ranking": "6",
-        "title": "Close to You",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/81/89/2c8189a8-26b0-e7c1-eb87-f430112195fb/cover_KM0020907_1.jpg/80x80bb.webp",
-        "appleID": "close-to-you/1791876821"
-    },
-    {
-        "ranking": "7",
-        "title": "VOY A LLeVARTE PA PR",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "voy-a-llevarte-pa-pr/1787022587"
-    },
-    {
-        "ranking": "8",
-        "title": "Life Goes On",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/80x80bb.webp",
-        "appleID": "life-goes-on/1596532189"
-    },
-    {
-        "ranking": "9",
-        "title": "NUEVAYoL",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "nuevayol/1787022572"
-    },
-    {
-        "ranking": "10",
-        "title": "Smeraldo Garden Marching Band",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/16/4b/e1164b5b-d6bf-b22d-d5b2-746f85771f93/198704027765_Cover.jpg/80x80bb.webp",
-        "appleID": "smeraldo-garden-marching-band/1757558449"
-    },
-    {
-        "ranking": "11",
-        "title": "EoO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "eoo/1787023929"
-    },
-    {
-        "ranking": "12",
-        "title": "Who (Instrumental)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-instrumental/1757558458",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "13",
-        "title": "Who (Funky Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-funky-remix/1757553926",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "14",
-        "title": "Who (Rock Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-rock-remix/1757558460",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "15",
-        "title": "Who (Beautiful Mind Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-beautiful-mind-remix/1757553927",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "16",
-        "title": "Who (Acoustic Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-acoustic-remix/1757558459",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "17",
-        "title": "Who (Shibuyakei Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-shibuyakei-remix/1757553588",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "18",
-        "title": "DtMF",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "dtmf/1787023936"
-    },
-    {
-        "ranking": "19",
-        "title": "capaz (merengueton)",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/67/89/2b6789bc-cf89-3c62-78a3-1f221e1c70cc/47155.jpg/80x80bb.webp",
-        "appleID": "capaz-merengueton/1778536681"
-    },
-    {
-        "ranking": "20",
-        "title": "Close to You (Instrumental)",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/81/89/2c8189a8-26b0-e7c1-eb87-f430112195fb/cover_KM0020907_1.jpg/80x80bb.webp",
-        "appleID": "close-to-you-instrumental/1791876822"
-    },
-    {
-        "ranking": "21",
-        "title": "Closer Than This",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/db/48/8bdb480c-86f8-7aeb-5897-41fd76bac031/196922764974_Cover.jpg/80x80bb.webp",
-        "appleID": "closer-than-this/1721409260",
-        "spotifyID": "6qafqn8bBMy7t5c5WqpyRk"
-    },
-    {
-        "ranking": "22",
-        "title": "Interlude : Showtime",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "interlude-showtime/1751773082",
-        "spotifyID": "45zLrK0668WQ5JFMyiYmCS"
-    },
-    {
-        "ranking": "23",
-        "title": "KLOuFRENS",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "kloufrens/1787023297"
-    },
-    {
-        "ranking": "24",
-        "title": "Slow Dance (feat. Sofia Carson)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "slow-dance-feat-sofia-carson/1751773086"
-    },
-    {
-        "ranking": "25",
-        "title": "Rebirth (Intro)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "rebirth-intro/1751773079"
-    },
-    {
-        "ranking": "26",
-        "title": "Boy With Luv (feat. Halsey)",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/d4/93/40d493e3-ac9e-1746-8d4c-f380f27c97cb/193483706238_Cover.jpg/80x80bb.webp",
-        "appleID": "boy-with-luv-feat-halsey/1599172208"
-    },
-    {
-        "ranking": "27",
-        "title": "Mi Refe",
-        "artist": "Beéle",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/5c/50055c58-0020-4fc1-7ec3-973e94123c39/196872465983.jpg/80x80bb.webp",
-        "appleID": "mi-refe/1780922407"
-    },
-    {
-        "ranking": "28",
-        "title": "WELTiTA",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "weltita/1787022993"
-    },
-    {
-        "ranking": "29",
-        "title": "Black Swan",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/d8/c2/dfd8c2f7-e5b8-7994-8cf2-7352aa899314/194491843380_Cover.jpg/80x80bb.webp",
-        "appleID": "black-swan/1597017443"
-    },
-    {
-        "ranking": "30",
-        "title": "PERFuMITO NUEVO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "perfumito-nuevo/1787022980"
-    },
-    {
-        "ranking": "31",
-        "title": "EL CLúB",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "el-cl%C3%BAb/1783419694",
-        "youtubeID": "7f6SxWMOpdU",
-        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
-    },
-    {
-        "ranking": "32",
-        "title": "Spring Day",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/fb/eb/cefbebd4-d53b-8d6c-33cf-2ee55408bd79/8804775077494_Cover.jpg/80x80bb.webp",
-        "appleID": "spring-day/1596529381"
-    },
-    {
-        "ranking": "33",
-        "title": "Permission to Dance",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/28/6c/66286c9f-6bea-4f99-ec15-507b0c95dc04/196006991739_Cover.jpg/80x80bb.webp",
-        "appleID": "permission-to-dance/1598666360"
-    },
-    {
-        "ranking": "34",
-        "title": "Butter",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
-        "appleID": "butter/1627575769"
-    },
-    {
-        "ranking": "35",
-        "title": "KETU TeCRÉ",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "ketu-tecr%C3%A9/1787023283"
-    },
-    {
-        "ranking": "36",
-        "title": "Yet To Come",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
-        "appleID": "yet-to-come/1627575774"
-    },
-    {
-        "ranking": "37",
-        "title": "una noche",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
-        "appleID": "una-noche/1785726924"
-    },
-    {
-        "ranking": "38",
-        "title": "Qué Pasaría...",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
-        "youtubeID": "g08y_x83d5E",
-        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
-    },
-    {
-        "ranking": "39",
-        "title": "Take Two",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/87/06/4b870698-31fd-8d96-c03b-ceb512776335/196922462139_Cover.jpg/80x80bb.webp",
-        "appleID": "take-two/1690421575"
-    },
-    {
-        "ranking": "40",
-        "title": "CAFé CON RON",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "caf%C3%A9-con-ron/1787023682"
-    },
-    {
-        "ranking": "41",
-        "title": "BOKeTE",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "bokete/1787023288"
-    },
-    {
-        "ranking": "42",
-        "title": "Run BTS",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
-        "appleID": "run-bts/1627575780"
-    },
-    {
-        "ranking": "43",
-        "title": "LA MuDANZA",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "la-mudanza/1787024161"
-    },
-    {
-        "ranking": "44",
-        "title": "TURiSTA",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "turista/1787023670"
-    },
-    {
-        "ranking": "45",
-        "title": "Khé?",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293",
-        "youtubeID": "7SNycTMOF74",
-        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
-    },
-    {
-        "ranking": "46",
-        "title": "el ingeniero",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
-        "appleID": "el-ingeniero/1785726922"
-    },
-    {
-        "ranking": "47",
-        "title": "Imagínate",
-        "artist": "Danny Ocean",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/f2/01/b6f20168-3f31-17f0-fdfa-4eaf8bff31f0/5021732534538.jpg/80x80bb.webp",
-        "appleID": "imag%C3%ADnate/1776258309"
-    },
-    {
-        "ranking": "48",
-        "title": "Magic Shop",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/80x80bb.webp",
-        "appleID": "magic-shop/1598661252"
-    },
-    {
-        "ranking": "49",
-        "title": "FAKE LOVE",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/80x80bb.webp",
-        "appleID": "fake-love/1598660938"
-    },
-    {
-        "ranking": "50",
-        "title": "Running Wild",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326",
-        "youtubeID": "uoHol5Dr_go"
-    },
-    {
-        "ranking": "51",
-        "title": "Telepathy",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/80x80bb.webp",
-        "appleID": "telepathy/1596532390"
-    },
-    {
-        "ranking": "52",
-        "title": "DNA",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/a5/93/34a59372-3ebd-ae5f-269d-4c9506864d3f/8804775083280_Cover.jpg/80x80bb.webp",
-        "appleID": "dna/1596529066"
-    },
-    {
-        "ranking": "53",
-        "title": "ON",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/68/9b/bd689bf2-ef25-4973-7ecd-7eb4965019c5/195081034713_Cover.jpg/80x80bb.webp",
-        "appleID": "on/1599362870"
-    },
-    {
-        "ranking": "54",
-        "title": "No More Dream",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/b9/94/71b99453-1b0f-49c8-31ec-ebdb677bcd8d/8804775049590_Cover.jpg/80x80bb.webp",
-        "appleID": "no-more-dream/1596528617"
-    },
-    {
-        "ranking": "55",
-        "title": "Save ME",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/80x80bb.webp",
-        "appleID": "save-me/1598662137"
-    },
-    {
-        "ranking": "56",
-        "title": "Mikrokosmos",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/d4/93/40d493e3-ac9e-1746-8d4c-f380f27c97cb/193483706238_Cover.jpg/80x80bb.webp",
-        "appleID": "mikrokosmos/1599172213"
-    },
-    {
-        "ranking": "57",
-        "title": "Euphoria",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/00/2c/ff002c29-6da9-1a26-16b3-282a73180366/192562871591_Cover.jpg/80x80bb.webp",
-        "appleID": "euphoria/1598730615"
-    },
-    {
-        "ranking": "58",
-        "title": "We Are Bulletproof, Pt. 2",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/b9/94/71b99453-1b0f-49c8-31ec-ebdb677bcd8d/8804775049590_Cover.jpg/80x80bb.webp",
-        "appleID": "we-are-bulletproof-pt-2/1596528420"
-    },
-    {
-        "ranking": "59",
-        "title": "ETA (feat. Yan Block & Omar Courtz) [RMX]",
-        "artist": "ROA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/5e/ca/b75eca45-4841-451d-1f4f-b238cc5bc263/24UM1IM31015.rgb.jpg/80x80bb.webp",
-        "appleID": "eta-feat-yan-block-omar-courtz-rmx/1783210841"
-    },
-    {
-        "ranking": "60",
-        "title": "tranqui, te puedes enamorar",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
-        "appleID": "tranqui-te-puedes-enamorar/1785726926"
-    },
-    {
-        "ranking": "61",
-        "title": "PIToRRO DE COCO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "pitorro-de-coco/1787023693"
-    },
-    {
-        "ranking": "62",
-        "title": "Q U E V A S H A C E R H O Y ?",
-        "artist": "Omar Courtz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
-        "appleID": "q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559"
-    },
-    {
-        "ranking": "63",
-        "title": "Winter Ahead",
-        "artist": "V",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815",
-        "youtubeID": "HAWYOuMGkK0"
-    },
-    {
-        "ranking": "64",
-        "title": "Stay Gold",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/a4/81/89a481e5-2784-70d6-8404-3642871ca493/20UMGIM44782.rgb.jpg/80x80bb.webp",
-        "appleID": "stay-gold/1517969555"
-    },
-    {
-        "ranking": "65",
-        "title": "LO QUE LE PASÓ A HAWAii",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "lo-que-le-pas%C3%B3-a-hawaii/1787023918"
-    },
-    {
-        "ranking": "66",
-        "title": "la ciudad",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
-        "appleID": "la-ciudad/1785726615"
-    },
-    {
-        "ranking": "67",
-        "title": "Si Antes Te Hubiera Conocido",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539",
-        "youtubeID": "QCZZwZQ4qNs",
-        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-        "ranking": "68",
-        "title": "Be Mine (English Version)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/2f/ab/e42fab67-51c7-6f8f-4482-846e1a949d3a/198704079474_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine/1751773088",
-        "youtubeID": "MYrZ5T3jFmA",
-        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-        "ranking": "69",
-        "title": "Morena",
-        "artist": "Beéle",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/2c/f8/062cf8f3-7c49-3b18-381d-bced7074d124/196871583756.jpg/80x80bb.webp",
-        "appleID": "morena/1715068097",
-        "youtubeID": "4dyjL34qDis",
-        "spotifyID": "4RPeZbmVON5ZKT5HC9wALt"
-    },
-    {
-        "ranking": "70",
-        "title": "me late",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
-        "appleID": "me-late/1767508561"
-    },
-    {
-        "ranking": "71",
-        "title": "NEURON",
-        "artist": "j-hope",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/05/0f/d2050f71-95a3-1bad-daaf-b8922e0918d8/196922839696_Cover.jpg/80x80bb.webp",
-        "appleID": "neuron/1730608094"
-    },
-    {
-        "ranking": "72",
-        "title": "LOST!",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "lost/1742630135"
-    },
-    {
-        "ranking": "73",
-        "title": "Cry For Me",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "cry-for-me/1793654350"
-    },
-    {
-        "ranking": "74",
-        "title": "PERRO NEGRO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
-        "appleID": "perro-negro/1710983279"
-    },
-    {
-        "ranking": "75",
-        "title": "ultravioleta",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/e1/15/3be1154d-30d2-7960-4ace-9fbd7cc7c8e5/40966.jpg/80x80bb.webp",
-        "appleID": "ultravioleta/1748675960"
-    },
-    {
-        "ranking": "76",
-        "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/80x80bb.webp",
-        "appleID": "57-feat-ovy-on-the-drums-j-balvin-maluma-ryan-castro-blessd/1777888950"
-    },
-    {
-        "ranking": "77",
-        "title": "I Miss You",
-        "artist": "Beéle",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/bd/27/d7bd2717-cd8c-1f47-57b9-0bce2fb22bcd/196872538687.jpg/80x80bb.webp",
-        "appleID": "i-miss-you/1773435177",
-        "youtubeID": "BrGl81E4ZOc",
-        "spotifyID": "65oSp7rdpLddlRGUgogU24"
-    },
-    {
-        "ranking": "78",
-        "title": "Déjame Entrar",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "d%C3%A9jame-entrar/1775462852",
-        "youtubeID": "UUzmHevEneY",
-        "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb"
-    },
-    {
-        "ranking": "79",
-        "title": "Veneka",
-        "artist": "Rawayana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/96/69/c5966939-e1da-30f2-05fc-0a538877b0eb/5034644180816.jpg/80x80bb.webp",
-        "appleID": "veneka/1774205407"
-    },
-    {
-        "ranking": "80",
-        "title": "Bing Bong",
-        "artist": "Yailin la Mas Viral",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/a2/16/18a216c3-dea7-4af6-74bc-eb2c27036454/797885494443_cover.jpg/80x80bb.webp",
-        "appleID": "bing-bong/1776657521"
-    },
-    {
-        "ranking": "81",
-        "title": "00:00 (Zero O'Clock)",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/68/9b/bd689bf2-ef25-4973-7ecd-7eb4965019c5/195081034713_Cover.jpg/80x80bb.webp",
-        "appleID": "00-00-zero-oclock/1599362879"
-    },
-    {
-        "ranking": "82",
-        "title": "A Supplementary Story: You Never Walk Alone",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/fb/eb/cefbebd4-d53b-8d6c-33cf-2ee55408bd79/8804775077494_Cover.jpg/80x80bb.webp",
-        "appleID": "a-supplementary-story-you-never-walk-alone/1596529626"
-    },
-    {
-        "ranking": "83",
-        "title": "VITAMINA",
-        "artist": "Danny Ocean",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/ce/34/56ce3482-5431-323e-914f-43266aa21f73/5021732608352.jpg/80x80bb.webp",
-        "appleID": "vitamina/1789246335"
-    },
-    {
-        "ranking": "84",
-        "title": "MONACO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
-        "appleID": "monaco/1710982872"
-    },
-    {
-        "ranking": "85",
-        "title": "I'll Be There",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/70/b4/e970b466-2d1d-ec04-22f3-5cb0913048b5/198704169137_Cover.jpg/80x80bb.webp",
-        "appleID": "ill-be-there/1774062735"
-    },
-    {
-        "ranking": "86",
-        "title": "Moscow Mule",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625",
-        "youtubeID": "p38WgakuYDo",
-        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
-    },
-    {
-        "ranking": "87",
-        "title": "Haegeum",
-        "artist": "Agust D",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
-        "appleID": "haegeum/1681823696",
-        "spotifyID": "4bjN59DRXFRxBE1g5ne6B1"
-    },
-    {
-        "ranking": "88",
-        "title": "Wake Me Up",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "wake-me-up/1793654349"
-    },
-    {
-        "ranking": "89",
-        "title": "la radio",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
-        "appleID": "la-radio/1785726616"
-    },
-    {
-        "ranking": "90",
-        "title": "Ohnana",
-        "artist": "Kapo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/26/da/4426daa2-4b70-91d7-cb18-6bb219d176c5/196872167030.jpg/80x80bb.webp",
-        "appleID": "ohnana/1749166491",
-        "spotifyID": "1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-        "ranking": "91",
-        "title": "LUNA",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
-        "appleID": "luna/1719170507"
-    },
-    {
-        "ranking": "92",
-        "title": "Frente al Mar",
-        "artist": "Beéle",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/5e/1d/075e1d44-02ef-6a69-433d-ee3f68d1dd23/196872443325.jpg/80x80bb.webp",
-        "appleID": "frente-al-mar/1768787334",
-        "youtubeID": "IryOLXtyTRU",
-        "spotifyID": "60u6hcpH5Qm1M3xESdNBrB"
-    },
-    {
-        "ranking": "93",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "94",
-        "title": "Dope",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/80x80bb.webp",
-        "appleID": "dope/1598662124"
-    },
-    {
-        "ranking": "95",
-        "title": "Blood Sweat & Tears",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
-        "appleID": "blood-sweat-tears/1627574672"
-    },
-    {
-        "ranking": "96",
-        "title": "Stay",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/80x80bb.webp",
-        "appleID": "stay/1596532398"
-    },
-    {
-        "ranking": "97",
-        "title": "Bad Decisions",
-        "artist": "benny blanco",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/e2/8c/ffe28c3c-149d-4c57-e8ab-cd1e019a106d/22UMGIM61189.rgb.jpg/80x80bb.webp",
-        "appleID": "bad-decisions/1635463273"
-    },
-    {
-        "ranking": "98",
-        "title": "Silla",
-        "artist": "Yailin la Mas Viral",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/8c/50/af8c5040-29c0-fc19-b824-8b2d06cae4e2/764656075811_cover.jpg/80x80bb.webp",
-        "appleID": "silla/1786162142"
-    },
-    {
-        "ranking": "99",
-        "title": "Standing Next to You",
-        "artist": "Jung Kook",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
-        "appleID": "standing-next-to-you/1709554997",
-        "youtubeID": "UNo0TG9LwwI"
-    },
-    {
-        "ranking": "100",
-        "title": "IDOL (feat. Nicki Minaj)",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/00/2c/ff002c29-6da9-1a26-16b3-282a73180366/192562871591_Cover.jpg/80x80bb.webp",
-        "appleID": "idol/1598730980"
-    }
+  {
+    "ranking": "1",
+    "title": "Who",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "2",
+    "title": "Be Mine",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "be-mine/1751773088",
+    "youtubeID": "MYrZ5T3jFmA",
+    "spotifyID": "3LWVXp636uLT356Rj08Jaz"
+  },
+  {
+    "ranking": "3",
+    "title": "Dynamite",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
+    "appleID": "dynamite/1627575419",
+    "youtubeID": "gdZLi9oWNZg"
+  },
+  {
+    "ranking": "4",
+    "title": "VeLDÁ",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "veld%C3%A1/1787022999"
+  },
+  {
+    "ranking": "5",
+    "title": "BAILE INoLVIDABLE",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "baile-inolvidable/1787022842",
+    "youtubeID": "a1Femq4NPxs"
+  },
+  {
+    "ranking": "6",
+    "title": "Close to You",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/81/89/2c8189a8-26b0-e7c1-eb87-f430112195fb/cover_KM0020907_1.jpg/80x80bb.webp",
+    "appleID": "close-to-you/1791876821"
+  },
+  {
+    "ranking": "7",
+    "title": "VOY A LLeVARTE PA PR",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "voy-a-llevarte-pa-pr/1787022587",
+    "youtubeID": "X2MGCIDOMZ4"
+  },
+  {
+    "ranking": "8",
+    "title": "Life Goes On",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/80x80bb.webp",
+    "appleID": "life-goes-on/1596532189"
+  },
+  {
+    "ranking": "9",
+    "title": "NUEVAYoL",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "nuevayol/1787022572",
+    "youtubeID": "XUNYjmAwUxk"
+  },
+  {
+    "ranking": "10",
+    "title": "Smeraldo Garden Marching Band",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/16/4b/e1164b5b-d6bf-b22d-d5b2-746f85771f93/198704027765_Cover.jpg/80x80bb.webp",
+    "appleID": "smeraldo-garden-marching-band/1757558449"
+  },
+  {
+    "ranking": "11",
+    "title": "EoO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "eoo/1787023929",
+    "youtubeID": "myDIeOjqQos"
+  },
+  {
+    "ranking": "12",
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
+    "appleID": "who-instrumental/1757558458",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "13",
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
+    "appleID": "who-funky-remix/1757553926",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "14",
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
+    "appleID": "who-rock-remix/1757558460",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "15",
+    "title": "Who (Beautiful Mind Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
+    "appleID": "who-beautiful-mind-remix/1757553927",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "16",
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
+    "appleID": "who-acoustic-remix/1757558459",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "17",
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
+    "appleID": "who-shibuyakei-remix/1757553588",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "18",
+    "title": "DtMF",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "dtmf/1787023936",
+    "youtubeID": "v9T_MGfzq7I"
+  },
+  {
+    "ranking": "19",
+    "title": "capaz (merengueton)",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/67/89/2b6789bc-cf89-3c62-78a3-1f221e1c70cc/47155.jpg/80x80bb.webp",
+    "appleID": "capaz-merengueton/1778536681"
+  },
+  {
+    "ranking": "20",
+    "title": "Close to You (Instrumental)",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/81/89/2c8189a8-26b0-e7c1-eb87-f430112195fb/cover_KM0020907_1.jpg/80x80bb.webp",
+    "appleID": "close-to-you-instrumental/1791876822"
+  },
+  {
+    "ranking": "21",
+    "title": "Closer Than This",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/db/48/8bdb480c-86f8-7aeb-5897-41fd76bac031/196922764974_Cover.jpg/80x80bb.webp",
+    "appleID": "closer-than-this/1721409260",
+    "spotifyID": "6qafqn8bBMy7t5c5WqpyRk"
+  },
+  {
+    "ranking": "22",
+    "title": "Interlude : Showtime",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "interlude-showtime/1751773082",
+    "spotifyID": "45zLrK0668WQ5JFMyiYmCS"
+  },
+  {
+    "ranking": "23",
+    "title": "KLOuFRENS",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "kloufrens/1787023297",
+    "youtubeID": "3af9KM3Eq-E"
+  },
+  {
+    "ranking": "24",
+    "title": "Slow Dance (feat. Sofia Carson)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "slow-dance-feat-sofia-carson/1751773086"
+  },
+  {
+    "ranking": "25",
+    "title": "Rebirth (Intro)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "rebirth-intro/1751773079"
+  },
+  {
+    "ranking": "26",
+    "title": "Boy With Luv (feat. Halsey)",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/d4/93/40d493e3-ac9e-1746-8d4c-f380f27c97cb/193483706238_Cover.jpg/80x80bb.webp",
+    "appleID": "boy-with-luv-feat-halsey/1599172208"
+  },
+  {
+    "ranking": "27",
+    "title": "Mi Refe",
+    "artist": "Beéle",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/5c/50055c58-0020-4fc1-7ec3-973e94123c39/196872465983.jpg/80x80bb.webp",
+    "appleID": "mi-refe/1780922407"
+  },
+  {
+    "ranking": "28",
+    "title": "WELTiTA",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "weltita/1787022993"
+  },
+  {
+    "ranking": "29",
+    "title": "Black Swan",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/d8/c2/dfd8c2f7-e5b8-7994-8cf2-7352aa899314/194491843380_Cover.jpg/80x80bb.webp",
+    "appleID": "black-swan/1597017443"
+  },
+  {
+    "ranking": "30",
+    "title": "PERFuMITO NUEVO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "perfumito-nuevo/1787022980"
+  },
+  {
+    "ranking": "31",
+    "title": "EL CLúB",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "el-cl%C3%BAb/1783419694",
+    "youtubeID": "7f6SxWMOpdU",
+    "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
+  },
+  {
+    "ranking": "32",
+    "title": "Spring Day",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/fb/eb/cefbebd4-d53b-8d6c-33cf-2ee55408bd79/8804775077494_Cover.jpg/80x80bb.webp",
+    "appleID": "spring-day/1596529381"
+  },
+  {
+    "ranking": "33",
+    "title": "Permission to Dance",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/28/6c/66286c9f-6bea-4f99-ec15-507b0c95dc04/196006991739_Cover.jpg/80x80bb.webp",
+    "appleID": "permission-to-dance/1598666360"
+  },
+  {
+    "ranking": "34",
+    "title": "Butter",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
+    "appleID": "butter/1627575769"
+  },
+  {
+    "ranking": "35",
+    "title": "KETU TeCRÉ",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "ketu-tecr%C3%A9/1787023283",
+    "youtubeID": "oSGgWlzZ9ko"
+  },
+  {
+    "ranking": "36",
+    "title": "Yet To Come",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
+    "appleID": "yet-to-come/1627575774"
+  },
+  {
+    "ranking": "37",
+    "title": "una noche",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
+    "appleID": "una-noche/1785726924"
+  },
+  {
+    "ranking": "38",
+    "title": "Qué Pasaría...",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+    "youtubeID": "g08y_x83d5E",
+    "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
+  },
+  {
+    "ranking": "39",
+    "title": "Take Two",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/87/06/4b870698-31fd-8d96-c03b-ceb512776335/196922462139_Cover.jpg/80x80bb.webp",
+    "appleID": "take-two/1690421575"
+  },
+  {
+    "ranking": "40",
+    "title": "CAFé CON RON",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "caf%C3%A9-con-ron/1787023682"
+  },
+  {
+    "ranking": "41",
+    "title": "BOKeTE",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "bokete/1787023288",
+    "youtubeID": "snvw6iG-GaY"
+  },
+  {
+    "ranking": "42",
+    "title": "Run BTS",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
+    "appleID": "run-bts/1627575780"
+  },
+  {
+    "ranking": "43",
+    "title": "LA MuDANZA",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "la-mudanza/1787024161",
+    "youtubeID": "lqX1S9mFHbU"
+  },
+  {
+    "ranking": "44",
+    "title": "TURiSTA",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "turista/1787023670",
+    "youtubeID": "z608DuScKjs"
+  },
+  {
+    "ranking": "45",
+    "title": "Khé?",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "kh%C3%A9/1775463293",
+    "youtubeID": "7SNycTMOF74",
+    "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
+  },
+  {
+    "ranking": "46",
+    "title": "el ingeniero",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
+    "appleID": "el-ingeniero/1785726922"
+  },
+  {
+    "ranking": "47",
+    "title": "Imagínate",
+    "artist": "Danny Ocean",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/f2/01/b6f20168-3f31-17f0-fdfa-4eaf8bff31f0/5021732534538.jpg/80x80bb.webp",
+    "appleID": "imag%C3%ADnate/1776258309"
+  },
+  {
+    "ranking": "48",
+    "title": "Magic Shop",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/80x80bb.webp",
+    "appleID": "magic-shop/1598661252"
+  },
+  {
+    "ranking": "49",
+    "title": "FAKE LOVE",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/80x80bb.webp",
+    "appleID": "fake-love/1598660938"
+  },
+  {
+    "ranking": "50",
+    "title": "Running Wild",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
+    "appleID": "running-wild/1772351326",
+    "youtubeID": "uoHol5Dr_go"
+  },
+  {
+    "ranking": "51",
+    "title": "Telepathy",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/80x80bb.webp",
+    "appleID": "telepathy/1596532390"
+  },
+  {
+    "ranking": "52",
+    "title": "DNA",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/a5/93/34a59372-3ebd-ae5f-269d-4c9506864d3f/8804775083280_Cover.jpg/80x80bb.webp",
+    "appleID": "dna/1596529066"
+  },
+  {
+    "ranking": "53",
+    "title": "ON",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/68/9b/bd689bf2-ef25-4973-7ecd-7eb4965019c5/195081034713_Cover.jpg/80x80bb.webp",
+    "appleID": "on/1599362870"
+  },
+  {
+    "ranking": "54",
+    "title": "No More Dream",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/b9/94/71b99453-1b0f-49c8-31ec-ebdb677bcd8d/8804775049590_Cover.jpg/80x80bb.webp",
+    "appleID": "no-more-dream/1596528617"
+  },
+  {
+    "ranking": "55",
+    "title": "Save ME",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/80x80bb.webp",
+    "appleID": "save-me/1598662137"
+  },
+  {
+    "ranking": "56",
+    "title": "Mikrokosmos",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/d4/93/40d493e3-ac9e-1746-8d4c-f380f27c97cb/193483706238_Cover.jpg/80x80bb.webp",
+    "appleID": "mikrokosmos/1599172213"
+  },
+  {
+    "ranking": "57",
+    "title": "Euphoria",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/00/2c/ff002c29-6da9-1a26-16b3-282a73180366/192562871591_Cover.jpg/80x80bb.webp",
+    "appleID": "euphoria/1598730615"
+  },
+  {
+    "ranking": "58",
+    "title": "We Are Bulletproof, Pt. 2",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/b9/94/71b99453-1b0f-49c8-31ec-ebdb677bcd8d/8804775049590_Cover.jpg/80x80bb.webp",
+    "appleID": "we-are-bulletproof-pt-2/1596528420"
+  },
+  {
+    "ranking": "59",
+    "title": "ETA (feat. Yan Block & Omar Courtz) [RMX]",
+    "artist": "ROA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/5e/ca/b75eca45-4841-451d-1f4f-b238cc5bc263/24UM1IM31015.rgb.jpg/80x80bb.webp",
+    "appleID": "eta-feat-yan-block-omar-courtz-rmx/1783210841"
+  },
+  {
+    "ranking": "60",
+    "title": "tranqui, te puedes enamorar",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
+    "appleID": "tranqui-te-puedes-enamorar/1785726926"
+  },
+  {
+    "ranking": "61",
+    "title": "PIToRRO DE COCO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "pitorro-de-coco/1787023693",
+    "youtubeID": "EVgd4gvY0hU"
+  },
+  {
+    "ranking": "62",
+    "title": "Q U E V A S H A C E R H O Y ?",
+    "artist": "Omar Courtz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+    "appleID": "q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559"
+  },
+  {
+    "ranking": "63",
+    "title": "Winter Ahead",
+    "artist": "V",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
+    "appleID": "winter-ahead/1780285815",
+    "youtubeID": "HAWYOuMGkK0"
+  },
+  {
+    "ranking": "64",
+    "title": "Stay Gold",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/a4/81/89a481e5-2784-70d6-8404-3642871ca493/20UMGIM44782.rgb.jpg/80x80bb.webp",
+    "appleID": "stay-gold/1517969555"
+  },
+  {
+    "ranking": "65",
+    "title": "LO QUE LE PASÓ A HAWAii",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "lo-que-le-pas%C3%B3-a-hawaii/1787023918",
+    "youtubeID": "uvfDaZ4ZT80"
+  },
+  {
+    "ranking": "66",
+    "title": "la ciudad",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
+    "appleID": "la-ciudad/1785726615"
+  },
+  {
+    "ranking": "67",
+    "title": "Si Antes Te Hubiera Conocido",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+    "appleID": "si-antes-te-hubiera-conocido/1752031539",
+    "youtubeID": "QCZZwZQ4qNs",
+    "spotifyID": "6WatFBLVB0x077xWeoVc2k"
+  },
+  {
+    "ranking": "68",
+    "title": "Be Mine (English Version)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/2f/ab/e42fab67-51c7-6f8f-4482-846e1a949d3a/198704079474_Cover.jpg/80x80bb.webp",
+    "appleID": "be-mine/1751773088",
+    "youtubeID": "MYrZ5T3jFmA",
+    "spotifyID": "3LWVXp636uLT356Rj08Jaz"
+  },
+  {
+    "ranking": "69",
+    "title": "Morena",
+    "artist": "Beéle",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/2c/f8/062cf8f3-7c49-3b18-381d-bced7074d124/196871583756.jpg/80x80bb.webp",
+    "appleID": "morena/1715068097",
+    "youtubeID": "4dyjL34qDis",
+    "spotifyID": "4RPeZbmVON5ZKT5HC9wALt"
+  },
+  {
+    "ranking": "70",
+    "title": "me late",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
+    "appleID": "me-late/1767508561"
+  },
+  {
+    "ranking": "71",
+    "title": "NEURON",
+    "artist": "j-hope",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/05/0f/d2050f71-95a3-1bad-daaf-b8922e0918d8/196922839696_Cover.jpg/80x80bb.webp",
+    "appleID": "neuron/1730608094"
+  },
+  {
+    "ranking": "72",
+    "title": "LOST!",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "lost/1742630135"
+  },
+  {
+    "ranking": "73",
+    "title": "Cry For Me",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
+    "appleID": "cry-for-me/1793654350",
+    "youtubeID": "bn8gP5N8hqM"
+  },
+  {
+    "ranking": "74",
+    "title": "PERRO NEGRO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+    "appleID": "perro-negro/1710983279"
+  },
+  {
+    "ranking": "75",
+    "title": "ultravioleta",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/e1/15/3be1154d-30d2-7960-4ace-9fbd7cc7c8e5/40966.jpg/80x80bb.webp",
+    "appleID": "ultravioleta/1748675960"
+  },
+  {
+    "ranking": "76",
+    "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/80x80bb.webp",
+    "appleID": "57-feat-ovy-on-the-drums-j-balvin-maluma-ryan-castro-blessd/1777888950"
+  },
+  {
+    "ranking": "77",
+    "title": "I Miss You",
+    "artist": "Beéle",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/bd/27/d7bd2717-cd8c-1f47-57b9-0bce2fb22bcd/196872538687.jpg/80x80bb.webp",
+    "appleID": "i-miss-you/1773435177",
+    "youtubeID": "BrGl81E4ZOc",
+    "spotifyID": "65oSp7rdpLddlRGUgogU24"
+  },
+  {
+    "ranking": "78",
+    "title": "Déjame Entrar",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "d%C3%A9jame-entrar/1775462852",
+    "youtubeID": "UUzmHevEneY",
+    "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb"
+  },
+  {
+    "ranking": "79",
+    "title": "Veneka",
+    "artist": "Rawayana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/96/69/c5966939-e1da-30f2-05fc-0a538877b0eb/5034644180816.jpg/80x80bb.webp",
+    "appleID": "veneka/1774205407"
+  },
+  {
+    "ranking": "80",
+    "title": "Bing Bong",
+    "artist": "Yailin la Mas Viral",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/a2/16/18a216c3-dea7-4af6-74bc-eb2c27036454/797885494443_cover.jpg/80x80bb.webp",
+    "appleID": "bing-bong/1776657521"
+  },
+  {
+    "ranking": "81",
+    "title": "00:00 (Zero O'Clock)",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/68/9b/bd689bf2-ef25-4973-7ecd-7eb4965019c5/195081034713_Cover.jpg/80x80bb.webp",
+    "appleID": "00-00-zero-oclock/1599362879"
+  },
+  {
+    "ranking": "82",
+    "title": "A Supplementary Story: You Never Walk Alone",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/fb/eb/cefbebd4-d53b-8d6c-33cf-2ee55408bd79/8804775077494_Cover.jpg/80x80bb.webp",
+    "appleID": "a-supplementary-story-you-never-walk-alone/1596529626"
+  },
+  {
+    "ranking": "83",
+    "title": "VITAMINA",
+    "artist": "Danny Ocean",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/ce/34/56ce3482-5431-323e-914f-43266aa21f73/5021732608352.jpg/80x80bb.webp",
+    "appleID": "vitamina/1789246335"
+  },
+  {
+    "ranking": "84",
+    "title": "MONACO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+    "appleID": "monaco/1710982872"
+  },
+  {
+    "ranking": "85",
+    "title": "I'll Be There",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/70/b4/e970b466-2d1d-ec04-22f3-5cb0913048b5/198704169137_Cover.jpg/80x80bb.webp",
+    "appleID": "ill-be-there/1774062735"
+  },
+  {
+    "ranking": "86",
+    "title": "Moscow Mule",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+    "appleID": "moscow-mule/1622045625",
+    "youtubeID": "p38WgakuYDo",
+    "spotifyID": "6Xom58OOXk2SoU711L2IXO"
+  },
+  {
+    "ranking": "87",
+    "title": "Haegeum",
+    "artist": "Agust D",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
+    "appleID": "haegeum/1681823696",
+    "spotifyID": "4bjN59DRXFRxBE1g5ne6B1"
+  },
+  {
+    "ranking": "88",
+    "title": "Wake Me Up",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
+    "appleID": "wake-me-up/1793654349"
+  },
+  {
+    "ranking": "89",
+    "title": "la radio",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/95/39/f39539ea-0747-c52d-be5a-61c45ba90d7b/48528.jpg/80x80bb.webp",
+    "appleID": "la-radio/1785726616"
+  },
+  {
+    "ranking": "90",
+    "title": "Ohnana",
+    "artist": "Kapo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/26/da/4426daa2-4b70-91d7-cb18-6bb219d176c5/196872167030.jpg/80x80bb.webp",
+    "appleID": "ohnana/1749166491",
+    "spotifyID": "1fTjqf10accJCDYstPwwZ6",
+    "youtubeID": "lmDfmilZ4Xo"
+  },
+  {
+    "ranking": "91",
+    "title": "LUNA",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+    "appleID": "luna/1719170507"
+  },
+  {
+    "ranking": "92",
+    "title": "Frente al Mar",
+    "artist": "Beéle",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/5e/1d/075e1d44-02ef-6a69-433d-ee3f68d1dd23/196872443325.jpg/80x80bb.webp",
+    "appleID": "frente-al-mar/1768787334",
+    "youtubeID": "IryOLXtyTRU",
+    "spotifyID": "60u6hcpH5Qm1M3xESdNBrB"
+  },
+  {
+    "ranking": "93",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "94",
+    "title": "Dope",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/80x80bb.webp",
+    "appleID": "dope/1598662124"
+  },
+  {
+    "ranking": "95",
+    "title": "Blood Sweat & Tears",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
+    "appleID": "blood-sweat-tears/1627574672"
+  },
+  {
+    "ranking": "96",
+    "title": "Stay",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/80x80bb.webp",
+    "appleID": "stay/1596532398"
+  },
+  {
+    "ranking": "97",
+    "title": "Bad Decisions",
+    "artist": "benny blanco",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/e2/8c/ffe28c3c-149d-4c57-e8ab-cd1e019a106d/22UMGIM61189.rgb.jpg/80x80bb.webp",
+    "appleID": "bad-decisions/1635463273"
+  },
+  {
+    "ranking": "98",
+    "title": "Silla",
+    "artist": "Yailin la Mas Viral",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/8c/50/af8c5040-29c0-fc19-b824-8b2d06cae4e2/764656075811_cover.jpg/80x80bb.webp",
+    "appleID": "silla/1786162142"
+  },
+  {
+    "ranking": "99",
+    "title": "Standing Next to You",
+    "artist": "Jung Kook",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
+    "appleID": "standing-next-to-you/1709554997",
+    "youtubeID": "UNo0TG9LwwI"
+  },
+  {
+    "ranking": "100",
+    "title": "IDOL (feat. Nicki Minaj)",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/00/2c/ff002c29-6da9-1a26-16b3-282a73180366/192562871591_Cover.jpg/80x80bb.webp",
+    "appleID": "idol/1598730980"
+  }
 ]

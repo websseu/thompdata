@@ -1,766 +1,770 @@
 [
-    {
-        "ranking": "1",
-        "title": "Cocoa Tea",
-        "artist": "Kes",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176",
-        "youtubeID": "GiKDPyAADeM"
-    },
-    {
-        "ranking": "2",
-        "title": "Whites",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
-        "appleID": "whites/1777116735",
-        "youtubeID": "2C0mGEfQnt4"
-    },
-    {
-        "ranking": "3",
-        "title": "25",
-        "artist": "Rod Wave",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "25/1772368558",
-        "youtubeID": "-SSgaCAsU6M"
-    },
-    {
-        "ranking": "4",
-        "title": "Smoke",
-        "artist": "Byron Messia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/c8/5f/01c85f49-b6e6-7473-1d90-aff6ecf58163/199066180976.jpg/80x80bb.webp",
-        "appleID": "smoke/1783205431"
-    },
-    {
-        "ranking": "5",
-        "title": "7:00 (Raw)",
-        "artist": "Malie Donn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/8c/7c/a48c7c31-b161-eb07-a068-46d746a47c60/199066249772.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1784818257",
-        "youtubeID": "PdoPIpKdsPI"
-    },
-    {
-        "ranking": "6",
-        "title": "Wicked (Raw)",
-        "artist": "AkaiiUsweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/d4/44/afd444ff-b996-3ca5-d2f8-16251e5cb2cf/859796163730_cover.jpg/80x80bb.webp",
-        "appleID": "wicked-raw/1775897384",
-        "youtubeID": "QpD1_Kx5qS4"
-    },
-    {
-        "ranking": "7",
-        "title": "IRan",
-        "artist": "Rod Wave",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "iran/1772368702",
-        "youtubeID": "hpee_qmBBHw"
-    },
-    {
-        "ranking": "8",
-        "title": "ROUGH PATCH",
-        "artist": "Armanii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
-        "appleID": "rough-patch/1774726633"
-    },
-    {
-        "ranking": "9",
-        "title": "Scream",
-        "artist": "Jah Vinci",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/f1/65/a4f165e4-bfea-1fc0-8772-7e6ad77f903b/0.jpg/80x80bb.webp",
-        "appleID": "scream/1781731740",
-        "youtubeID": "XiZ8gCNZpPw"
-    },
-    {
-        "ranking": "10",
-        "title": "Cups Up",
-        "artist": "Malie Donn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "appleID": "cups-up/1691201515",
-        "youtubeID": "_7OrZfivZqE"
-    },
-    {
-        "ranking": "11",
-        "title": "Who",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M"
-    },
-    {
-        "ranking": "12",
-        "title": "Don’t Fall",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/44/49/d64449b6-5d7f-3782-cb2c-df38546f62c8/0.jpg/80x80bb.webp",
-        "appleID": "dont-fall/1738365979",
-        "youtubeID": "CaJBWcTLgbM"
-    },
-    {
-        "ranking": "13",
-        "title": "Tyrant",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/d8/9a/dfd89a6c-a372-eb5e-5d99-209d0708d0a3/23UMGIM54147.rgb.jpg/80x80bb.webp",
-        "appleID": "tyrant/1687575941",
-        "youtubeID": "AGonQbpNooU"
-    },
-    {
-        "ranking": "14",
-        "title": "Get Up",
-        "artist": "SQUASH",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/12/5b/21125b78-6265-8a1c-9b91-6408665524d6/198846395463.jpg/80x80bb.webp",
-        "appleID": "get-up/1769704571",
-        "youtubeID": "u1SBBofdFUM"
-    },
-    {
-        "ranking": "15",
-        "title": "Big Breeze",
-        "artist": "SQUASH",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f9/fa/6af9fa33-cf44-388d-0e4d-8d2b2c48eafb/198391892738.jpg/80x80bb.webp",
-        "appleID": "big-breeze/1742858758",
-        "youtubeID": "Yo3QyiD28Dc"
-    },
-    {
-        "ranking": "16",
-        "title": "Shubout",
-        "artist": "SQUASH",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/87/4d/34874d3d-0881-d5f9-818b-75ae7b31a420/198588751008.jpg/80x80bb.webp",
-        "appleID": "shubout/1757871236",
-        "youtubeID": "jltjjqz0-Rg"
-    },
-    {
-        "ranking": "17",
-        "title": "Who Fi Stop We",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/ad/fd/2aadfd94-589c-3d4e-f472-71e4843180ed/0.jpg/80x80bb.webp",
-        "appleID": "who-fi-stop-we/1775847902",
-        "youtubeID": "7R3hj9F6SJg"
-    },
-    {
-        "ranking": "18",
-        "title": "luther",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323",
-        "youtubeID": "4_taypLmSMU"
-    },
-    {
-        "ranking": "19",
-        "title": "Choppa",
-        "artist": "Byron Messia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/9a/1d/6d9a1d84-5f7d-d7e9-4cbf-80c892821e6f/24UMGIM01167.rgb.jpg/80x80bb.webp",
-        "appleID": "choppa/1732826749",
-        "youtubeID": "TDdt47nmGl8"
-    },
-    {
-        "ranking": "20",
-        "title": "Last Lap",
-        "artist": "Rod Wave",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "last-lap/1772368556"
-    },
-    {
-        "ranking": "21",
-        "title": "I Love Freaks (feat. Tafari)",
-        "artist": "Mafi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/04/15/54/04155481-0a27-a1a7-8d5f-6709d8f0c435/0.jpg/80x80bb.webp",
-        "appleID": "i-love-freaks-feat-tafari/1699261591",
-        "youtubeID": "4kfjaTlRpMU"
-    },
-    {
-        "ranking": "22",
-        "title": "Te Amo",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/1c/65/ae1c65c8-571d-ee24-79ca-7fde995479d1/0.jpg/80x80bb.webp",
-        "appleID": "te-amo/1773782879",
-        "youtubeID": "sm6NW6uU8eo"
-    },
-    {
-        "ranking": "23",
-        "title": "Corrupt",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/f8/c6/aff8c634-5968-c3fc-da1b-ffd0633c843e/196925559737.jpg/80x80bb.webp",
-        "appleID": "corrupt/1639060183",
-        "youtubeID": "BaPGK-HMEZg"
-    },
-    {
-        "ranking": "24",
-        "title": "Pounds",
-        "artist": "Armanii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/74/8b/56748b6c-5841-d592-34cd-fb543ba1f85d/198342681671_cover.jpg/80x80bb.webp",
-        "appleID": "pounds/1756564617",
-        "youtubeID": "QRNaLVXxGwI"
-    },
-    {
-        "ranking": "25",
-        "title": "Still a Bleed",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f5/49/2f/f5492f7f-b4c3-8faa-6fc1-3efe6433ca5e/195375164539.jpg/80x80bb.webp",
-        "appleID": "still-a-bleed/1641847817"
-    },
-    {
-        "ranking": "26",
-        "title": "Saved by a Psalm",
-        "artist": "Govana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/97/62/279762d9-d9e6-46d3-b91e-286d593d75e1/198342964743_cover.jpg/80x80bb.webp",
-        "appleID": "saved-by-a-psalm/1749553132",
-        "youtubeID": "QF-w-tdJGeI"
-    },
-    {
-        "ranking": "27",
-        "title": "Under You",
-        "artist": "Dejour",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/02/03/6a020303-f310-b963-f275-2f3614fe51d4/cover.jpg/80x80bb.webp",
-        "appleID": "under-you/1780023034",
-        "youtubeID": "V4YxpElnvfk"
-    },
-    {
-        "ranking": "28",
-        "title": "Believe",
-        "artist": "Prince Swanny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/df/92/a0df9286-9199-5198-1ad7-0cfbd6bd38c2/0.jpg/80x80bb.webp",
-        "appleID": "believe/1776653328",
-        "youtubeID": "VrJPHxcDLnk"
-    },
-    {
-        "ranking": "29",
-        "title": "Star",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/55/02/8b550253-bade-70f5-5aa2-a67490cd82ca/0.jpg/80x80bb.webp",
-        "appleID": "star/1776915518"
-    },
-    {
-        "ranking": "30",
-        "title": "Snooze",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492",
-        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2",
-        "youtubeID": "LDY_XyxBu8A"
-    },
-    {
-        "ranking": "31",
-        "title": "Expensive",
-        "artist": "Valiant",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "appleID": "expensive/1674670010",
-        "youtubeID": "nuMKdd_JkHo"
-    },
-    {
-        "ranking": "32",
-        "title": "Never Complain (feat. Masicka)",
-        "artist": "Teejay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/2d/ae/b82daed6-a796-2a26-f227-67a352250d87/054391239259.jpg/80x80bb.webp",
-        "appleID": "never-complain-feat-masicka/1774348157",
-        "youtubeID": "pM-KzO9P0To"
-    },
-    {
-        "ranking": "33",
-        "title": "Suicide Note",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
-        "appleID": "suicide-note/1591960132"
-    },
-    {
-        "ranking": "34",
-        "title": "HULU",
-        "artist": "Armanii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
-        "appleID": "hulu/1774726625",
-        "youtubeID": "qvtS2qTpksU"
-    },
-    {
-        "ranking": "35",
-        "title": "Heart Of A Woman",
-        "artist": "Summer Walker",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/2a/d9/9f2ad9e4-8b12-0759-edbf-962d3064168e/24UM1IM12906.rgb.jpg/80x80bb.webp",
-        "appleID": "heart-of-a-woman/1774543831",
-        "youtubeID": "SFddctbZzw8"
-    },
-    {
-        "ranking": "36",
-        "title": "Angel Numbers / Ten Toes",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/7b/f5/4c7bf575-5b86-222d-56b2-9637a68bb651/196871463010.jpg/80x80bb.webp",
-        "appleID": "angel-numbers-ten-toes/1715744237"
-    },
-    {
-        "ranking": "37",
-        "title": "Residuals",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
-        "appleID": "residuals/1740206493"
-    },
-    {
-        "ranking": "38",
-        "title": "ATL",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/d0/e6/d4d0e638-4fe1-7def-67a4-02a6ad9f6f80/0.jpg/80x80bb.webp",
-        "appleID": "atl/1772688396",
-        "youtubeID": "h24DnMBRCic"
-    },
-    {
-        "ranking": "39",
-        "title": "Passport Junkie",
-        "artist": "Rod Wave",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "passport-junkie/1772368701"
-    },
-    {
-        "ranking": "40",
-        "title": "Talibans",
-        "artist": "Byron Messia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
-        "appleID": "talibans/1687535038",
-        "youtubeID": "DaGqWJws4WY"
-    },
-    {
-        "ranking": "41",
-        "title": "Moments (feat. Stefflon Don)",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
-        "appleID": "moments-feat-stefflon-don/1591960135",
-        "youtubeID": "D9_fuL0rJKg"
-    },
-    {
-        "ranking": "42",
-        "title": "Empty",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/5b/ca/835bca21-8282-9bd0-ddd5-c0d62248ed0f/0.jpg/80x80bb.webp",
-        "appleID": "empty/1631582758",
-        "youtubeID": "AOME31tgxnk"
-    },
-    {
-        "ranking": "43",
-        "title": "Angel With An Attitude",
-        "artist": "Rod Wave",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "angel-with-an-attitude/1772368562",
-        "youtubeID": "sVJYuRPeLJk"
-    },
-    {
-        "ranking": "44",
-        "title": "Obsessed",
-        "artist": "Kman 6ixx",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
-        "appleID": "obsessed/1758810621",
-        "youtubeID": "alAoJuqFsMI"
-    },
-    {
-        "ranking": "45",
-        "title": "Demon Crease",
-        "artist": "Kraff Gad",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/88/c7/5888c710-4027-07a1-d9f6-4879cb05af93/0.jpg/80x80bb.webp",
-        "appleID": "demon-crease/1735546673"
-    },
-    {
-        "ranking": "46",
-        "title": "Higher Life",
-        "artist": "Kranium",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/a1/6f/43a16f83-fde2-5594-5b63-0d60e5fb1672/840200585804_cover.jpg/80x80bb.webp",
-        "appleID": "higher-life/1740457519"
-    },
-    {
-        "ranking": "47",
-        "title": "Not Bad (feat. Boy Boy)",
-        "artist": "Prince Swanny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/66/35/5f66352d-cfd8-0d8d-d356-45a3d9b81e8e/797885418197_cover.jpg/80x80bb.webp",
-        "appleID": "not-bad-feat-boy-boy/1770336578",
-        "youtubeID": "gAvCeHTq9Yo"
-    },
-    {
-        "ranking": "48",
-        "title": "My Way",
-        "artist": "chronic law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/66/52/e06652dc-1944-b922-d037-0e0e1632d967/0.jpg/80x80bb.webp",
-        "appleID": "my-way/1756530069"
-    },
-    {
-        "ranking": "49",
-        "title": "Wheel Up",
-        "artist": "MORGAN",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/99/43/94994334-b576-899a-5337-84f51d0ec0b5/844942135419.jpg/80x80bb.webp",
-        "appleID": "wheel-up/1765610741"
-    },
-    {
-        "ranking": "50",
-        "title": "Down",
-        "artist": "Valiant",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/dd/6f/f5dd6f31-bc6f-180e-1749-3164f4514f34/0.jpg/80x80bb.webp",
-        "appleID": "down/1781696010"
-    },
-    {
-        "ranking": "51",
-        "title": "Pain (feat. Popcaan)",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
-        "appleID": "pain-feat-popcaan/1591960131",
-        "youtubeID": "XEAaf_Na36Q"
-    },
-    {
-        "ranking": "52",
-        "title": "Triumph",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
-        "appleID": "triumph/1718009985",
-        "youtubeID": "XlbOvWJoQmw"
-    },
-    {
-        "ranking": "53",
-        "title": "Pressure",
-        "artist": "Dejour",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/02/03/6a020303-f310-b963-f275-2f3614fe51d4/cover.jpg/80x80bb.webp",
-        "appleID": "pressure/1780023035"
-    },
-    {
-        "ranking": "54",
-        "title": "20 Matic",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/39/25/6e3925e9-32af-4698-53bb-27f8249b851e/24UMGIM68526.rgb.jpg/80x80bb.webp",
-        "appleID": "20-matic/1753155292",
-        "youtubeID": "X-g2GKsxeN8"
-    },
-    {
-        "ranking": "55",
-        "title": "Grimey",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/9d/23/7f9d23ee-3fbf-44e9-3d0c-5a3126b535f2/195375630676_cover.jpg/80x80bb.webp",
-        "appleID": "grimey/1779792317",
-        "youtubeID": "HXyLOMbOYlY"
-    },
-    {
-        "ranking": "56",
-        "title": "Stars R Us",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
-        "appleID": "stars-r-us/1718009971",
-        "youtubeID": "vzZoiw8bIRk"
-    },
-    {
-        "ranking": "57",
-        "title": "Someone Else (feat. Quan & Trilla-G)",
-        "artist": "litleboy lsbeats767",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/5a/4b/5f5a4bee-b9a6-e8ce-06bd-09059af03f97/artwork.jpg/80x80bb.webp",
-        "appleID": "someone-else-feat-quan-trilla-g/1756022438"
-    },
-    {
-        "ranking": "58",
-        "title": "Baddest In The Room",
-        "artist": "Fridayy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/46/d4/0246d497-10cb-e048-2eb7-27207844905e/24UMGIM61141.rgb.jpg/80x80bb.webp",
-        "appleID": "baddest-in-the-room/1750796336",
-        "youtubeID": "uijhGM3pVCY"
-    },
-    {
-        "ranking": "59",
-        "title": "Tack Back",
-        "artist": "Kes",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/69/91/42699164-471e-3f97-11bb-44bdc47b2092/197999406248_cover.jpg/80x80bb.webp",
-        "appleID": "tack-back/1714834281",
-        "youtubeID": "PYz2vfTPJK8"
-    },
-    {
-        "ranking": "60",
-        "title": "WHATCHU KNO ABOUT ME",
-        "artist": "GloRilla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
-        "appleID": "whatchu-kno-about-me/1769454783",
-        "youtubeID": "Py9S2bD0RZQ"
-    },
-    {
-        "ranking": "61",
-        "title": "YOU & I",
-        "artist": "Armanii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
-        "appleID": "you-i/1762755569",
-        "youtubeID": "eu_TpFSdxsk"
-    },
-    {
-        "ranking": "62",
-        "title": "California",
-        "artist": "Byron Messia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
-        "appleID": "california/1687534782"
-    },
-    {
-        "ranking": "63",
-        "title": "Reverse Time",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
-        "appleID": "reverse-time/1718009973",
-        "youtubeID": "3okTAtIHz8g"
-    },
-    {
-        "ranking": "64",
-        "title": "Dungeon",
-        "artist": "Malie Donn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e0/98/07/e09807c9-4e01-c8b0-c950-bf603332eb00/197189683930.jpg/80x80bb.webp",
-        "appleID": "dungeon/1703655702",
-        "youtubeID": "Q4LoZSRlnfg"
-    },
-    {
-        "ranking": "65",
-        "title": "Rolling Calf",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/79/c5/b579c5dc-13ea-ff8e-d807-04543b2b7271/196292328127.jpg/80x80bb.webp",
-        "appleID": "rolling-calf/1581452880",
-        "youtubeID": "0fZIuCSwHR0"
-    },
-    {
-        "ranking": "66",
-        "title": "Apply Pressure",
-        "artist": "Rod Wave",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "apply-pressure/1772368557",
-        "youtubeID": "2txeSE5Ahhc"
-    },
-    {
-        "ranking": "67",
-        "title": "Little Things",
-        "artist": "Ella Mai",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/aa/5b/70aa5b50-bad0-6e2c-2a7e-f11fccd39b70/24UM1IM12436.rgb.jpg/80x80bb.webp",
-        "appleID": "little-things/1777272259"
-    },
-    {
-        "ranking": "68",
-        "title": "Fada Dark",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/c0/1e/aac01e23-1608-47c6-8a3a-9dbfccce81f1/0.jpg/80x80bb.webp",
-        "appleID": "fada-dark/1781382235",
-        "youtubeID": "YzHwM7_iXMo"
-    },
-    {
-        "ranking": "69",
-        "title": "No Feel Safe",
-        "artist": "Hi Light",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/d4/4e/96d44e8e-9a39-a6ee-9269-0588b875dc83/5063621902578_cover.jpg/80x80bb.webp",
-        "appleID": "no-feel-safe/1781990383"
-    },
-    {
-        "ranking": "70",
-        "title": "Vent",
-        "artist": "Byron Messia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
-        "appleID": "vent/1687535030",
-        "youtubeID": "K-TXDSiAZjE"
-    },
-    {
-        "ranking": "71",
-        "title": "V6",
-        "artist": "Ireland Boss",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/34/4d/27344d90-e8ac-58af-3a38-caa82ce18763/0.jpg/80x80bb.webp",
-        "appleID": "v6/1671601613"
-    },
-    {
-        "ranking": "72",
-        "title": "People",
-        "artist": "Teejay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/44/69/f844695e-ed75-c4e7-6c27-e3e8627a6d12/0.jpg/80x80bb.webp",
-        "appleID": "people/1640751097",
-        "youtubeID": "iPGu2FzezW8"
-    },
-    {
-        "ranking": "73",
-        "title": "Wanted Luv",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/12/a5/de12a50f-4e37-c5aa-37a3-d0178405d593/195375507855_cover.jpg/80x80bb.webp",
-        "appleID": "wanted-luv/1726764032",
-        "youtubeID": "4mAFiQ2nx9Y"
-    },
-    {
-        "ranking": "74",
-        "title": "Proud",
-        "artist": "Chronic Law",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/e9/ad/22e9ad2f-f859-0f79-d73c-9a2b57ad33fa/0.jpg/80x80bb.webp",
-        "appleID": "proud/1680090469",
-        "youtubeID": "TzsR0EwACNY"
-    },
-    {
-        "ranking": "75",
-        "title": "Show Them (feat. Byron Messia & Tafari)",
-        "artist": "Kman 6ixx",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/40/11/30401120-e645-671e-9735-d09f30aaea9e/198672189588_KmanPhoenixFront.jpg/80x80bb.webp",
-        "appleID": "show-them-feat-byron-messia-tafari/1758811868",
-        "youtubeID": "bNJuspOgP1U"
-    },
-    {
-        "ranking": "76",
-        "title": "IKATION",
-        "artist": "Kraff Gad",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/20/f4/6020f4c1-f374-3745-6720-c3e9e2ac51c9/artwork.jpg/80x80bb.webp",
-        "appleID": "ikation/1768079373",
-        "youtubeID": "W7Ymf9DiBJA"
-    },
-    {
-        "ranking": "77",
-        "title": "POTENTIAL",
-        "artist": "Armanii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
-        "appleID": "potential/1774726628"
-    },
-    {
-        "ranking": "78",
-        "title": "PUSH 2 START",
-        "artist": "Tyla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889",
-        "youtubeID": "uLK2r3sG4lE",
-        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
-        "ranking": "79",
-        "title": "Can You (feat. Rucas H.E)",
-        "artist": "Grand Masters Band",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/97/9a/48979ab5-fb30-8585-046e-d01a6564100b/199999004462.png/80x80bb.webp",
-        "appleID": "can-you-feat-rucas-h-e/1779366876",
-        "youtubeID": "a5slBGr75P8"
-    },
-    {
-        "ranking": "80",
-        "title": "Baddiedeh",
-        "artist": "Valiant",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/b8/3d/e7b83db6-6121-92a1-05ee-2ff1f388bb86/196872682199.jpg/80x80bb.webp",
-        "appleID": "baddiedeh/1780852184"
-    },
-    {
-        "ranking": "81",
-        "title": "Smallest Circle",
-        "artist": "Byron Messia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
-        "appleID": "smallest-circle/1687535039"
-    },
-    {
-        "ranking": "82",
-        "title": "No Lethal",
-        "artist": "Kman 6ixx",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
-        "appleID": "no-lethal/1758810622"
-    },
-    {
-        "ranking": "83",
-        "title": "Wild n' Rich",
-        "artist": "450",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/72/7f/90727f13-9f47-b059-cf3d-0fc066391ab0/0.jpg/80x80bb.webp",
-        "appleID": "wild-n-rich/1773489343"
-    },
-    {
-        "ranking": "84",
-        "title": "Hit & Run",
-        "artist": "Shenseea",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/24/b8/3924b8e1-1a90-0d05-a226-9369d07a4c0c/24UMGIM07424.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run/1727264203"
-    },
-    {
-        "ranking": "85",
-        "title": "Nobody Else",
-        "artist": "Dejour",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/02/03/6a020303-f310-b963-f275-2f3614fe51d4/cover.jpg/80x80bb.webp",
-        "appleID": "nobody-else/1780023028",
-        "youtubeID": "1RutNKiJK5Y"
-    },
-    {
-        "ranking": "86",
-        "title": "Little Miss Best Body",
-        "artist": "Kman 6ixx",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/c0/99/8cc09932-e38c-b523-e07d-e0c66cd32eb4/0.jpg/80x80bb.webp",
-        "appleID": "little-miss-best-body/1763555499"
-    },
-    {
-        "ranking": "87",
-        "title": "Pestilence (feat. Tman)",
-        "artist": "Kman 6ixx",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/61/81/35618167-3b14-6b59-122e-08dc688143d6/0.jpg/80x80bb.webp",
-        "appleID": "pestilence-feat-tman/1775470227",
-        "youtubeID": "s75m2KHs6sw"
-    },
-    {
-        "ranking": "88",
-        "title": "Scared Love",
-        "artist": "Rod Wave",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "scared-love/1772368577",
-        "youtubeID": "UwWSpSaBuaU"
-    },
-    {
-        "ranking": "89",
-        "title": "Don Julio (Raw)",
-        "artist": "Malie Donn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/c1/05/bac105a4-ca28-88b8-632e-b463d3529efb/198846385983.jpg/80x80bb.webp",
-        "appleID": "don-julio-raw/1774284389"
-    },
-    {
-        "ranking": "90",
-        "title": "Barbies",
-        "artist": "Valiant",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/b0/02/79b00241-6136-5e67-e154-ff5d93f1fdd2/0.jpg/80x80bb.webp",
-        "appleID": "barbies/1659985896"
-    },
-    {
-        "ranking": "91",
-        "title": "Gorilla Glue",
-        "artist": "Byron Messia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
-        "appleID": "gorilla-glue/1687535026"
-    },
-    {
-        "ranking": "92",
-        "title": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
-        "artist": "Popcaan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/96/59/4b965946-d2ed-e0c0-0a47-18b7b2af606d/27019.jpg/80x80bb.webp",
-        "appleID": "twist-turn-feat-drake-partynextdoor/1662168542"
-    },
-    {
-        "ranking": "93",
-        "title": "Mirage",
-        "artist": "Alkaline",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2f/b7/b0/2fb7b07e-5876-d5eb-a75b-04413bb3ff70/192641024474_Cover.jpg/80x80bb.webp",
-        "appleID": "mirage/1340015210",
-        "youtubeID": "eDyt4tlfD4w"
-    },
-    {
-        "ranking": "94",
-        "title": "Most Wanted",
-        "artist": "Masicka",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
-        "appleID": "most-wanted/1718010228"
-    },
-    {
-        "ranking": "95",
-        "title": "Sorry",
-        "artist": "Dejour",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/a8/ea/c2a8ea32-16e2-9fe3-3772-703b96a93668/artwork.jpg/80x80bb.webp",
-        "appleID": "sorry/1710699858"
-    },
-    {
-        "ranking": "96",
-        "title": "Ambala",
-        "artist": "SQUASH",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c9/25/75/c9257578-5462-7542-dc33-47a6a5bff904/196626442888.jpg/80x80bb.webp",
-        "appleID": "ambala/1609108716"
-    },
-    {
-        "ranking": "97",
-        "title": "When It Comes To You",
-        "artist": "Fridayy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/32/74/ad32748c-daf4-0e47-1f1c-124a484c2522/23UMGIM74845.rgb.jpg/80x80bb.webp",
-        "appleID": "when-it-comes-to-you/1695169464"
-    },
-    {
-        "ranking": "98",
-        "title": "Smile",
-        "artist": "Dejour",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/02/03/6a020303-f310-b963-f275-2f3614fe51d4/cover.jpg/80x80bb.webp",
-        "appleID": "smile/1780023026"
-    },
-    {
-        "ranking": "99",
-        "title": "Nice & Easy",
-        "artist": "Alkaline",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/3a/0e/483a0e18-f18b-e02b-075c-017fe3e0ac9c/848760048111.jpg/80x80bb.webp",
-        "appleID": "nice-easy/1639607981"
-    },
-    {
-        "ranking": "100",
-        "title": "Sensational (feat. Davido & Lojay)",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/16/08/08160816-d5e8-9be0-56ec-9d8d3dda8ad2/196871554916.jpg/80x80bb.webp",
-        "appleID": "sensational-feat-davido-lojay/1712552509"
-    }
+  {
+    "ranking": "1",
+    "title": "Cocoa Tea",
+    "artist": "Kes",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
+    "appleID": "cocoa-tea/1778350176",
+    "youtubeID": "GiKDPyAADeM"
+  },
+  {
+    "ranking": "2",
+    "title": "Whites",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
+    "appleID": "whites/1777116735",
+    "youtubeID": "2C0mGEfQnt4"
+  },
+  {
+    "ranking": "3",
+    "title": "25",
+    "artist": "Rod Wave",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+    "appleID": "25/1772368558",
+    "youtubeID": "-SSgaCAsU6M"
+  },
+  {
+    "ranking": "4",
+    "title": "Smoke",
+    "artist": "Byron Messia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/c8/5f/01c85f49-b6e6-7473-1d90-aff6ecf58163/199066180976.jpg/80x80bb.webp",
+    "appleID": "smoke/1783205431"
+  },
+  {
+    "ranking": "5",
+    "title": "7:00 (Raw)",
+    "artist": "Malie Donn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/8c/7c/a48c7c31-b161-eb07-a068-46d746a47c60/199066249772.jpg/80x80bb.webp",
+    "appleID": "7-00-raw/1784818257",
+    "youtubeID": "PdoPIpKdsPI"
+  },
+  {
+    "ranking": "6",
+    "title": "Wicked (Raw)",
+    "artist": "AkaiiUsweet",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/d4/44/afd444ff-b996-3ca5-d2f8-16251e5cb2cf/859796163730_cover.jpg/80x80bb.webp",
+    "appleID": "wicked-raw/1775897384",
+    "youtubeID": "QpD1_Kx5qS4"
+  },
+  {
+    "ranking": "7",
+    "title": "IRan",
+    "artist": "Rod Wave",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+    "appleID": "iran/1772368702",
+    "youtubeID": "hpee_qmBBHw"
+  },
+  {
+    "ranking": "8",
+    "title": "ROUGH PATCH",
+    "artist": "Armanii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+    "appleID": "rough-patch/1774726633"
+  },
+  {
+    "ranking": "9",
+    "title": "Scream",
+    "artist": "Jah Vinci",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/f1/65/a4f165e4-bfea-1fc0-8772-7e6ad77f903b/0.jpg/80x80bb.webp",
+    "appleID": "scream/1781731740",
+    "youtubeID": "XiZ8gCNZpPw"
+  },
+  {
+    "ranking": "10",
+    "title": "Cups Up",
+    "artist": "Malie Donn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
+    "appleID": "cups-up/1691201515",
+    "youtubeID": "_7OrZfivZqE"
+  },
+  {
+    "ranking": "11",
+    "title": "Who",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M"
+  },
+  {
+    "ranking": "12",
+    "title": "Don’t Fall",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/44/49/d64449b6-5d7f-3782-cb2c-df38546f62c8/0.jpg/80x80bb.webp",
+    "appleID": "dont-fall/1738365979",
+    "youtubeID": "CaJBWcTLgbM"
+  },
+  {
+    "ranking": "13",
+    "title": "Tyrant",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/d8/9a/dfd89a6c-a372-eb5e-5d99-209d0708d0a3/23UMGIM54147.rgb.jpg/80x80bb.webp",
+    "appleID": "tyrant/1687575941",
+    "youtubeID": "AGonQbpNooU"
+  },
+  {
+    "ranking": "14",
+    "title": "Get Up",
+    "artist": "SQUASH",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/12/5b/21125b78-6265-8a1c-9b91-6408665524d6/198846395463.jpg/80x80bb.webp",
+    "appleID": "get-up/1769704571",
+    "youtubeID": "u1SBBofdFUM"
+  },
+  {
+    "ranking": "15",
+    "title": "Big Breeze",
+    "artist": "SQUASH",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f9/fa/6af9fa33-cf44-388d-0e4d-8d2b2c48eafb/198391892738.jpg/80x80bb.webp",
+    "appleID": "big-breeze/1742858758",
+    "youtubeID": "Yo3QyiD28Dc"
+  },
+  {
+    "ranking": "16",
+    "title": "Shubout",
+    "artist": "SQUASH",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/87/4d/34874d3d-0881-d5f9-818b-75ae7b31a420/198588751008.jpg/80x80bb.webp",
+    "appleID": "shubout/1757871236",
+    "youtubeID": "jltjjqz0-Rg"
+  },
+  {
+    "ranking": "17",
+    "title": "Who Fi Stop We",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/ad/fd/2aadfd94-589c-3d4e-f472-71e4843180ed/0.jpg/80x80bb.webp",
+    "appleID": "who-fi-stop-we/1775847902",
+    "youtubeID": "7R3hj9F6SJg"
+  },
+  {
+    "ranking": "18",
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "luther/1781270323",
+    "youtubeID": "4_taypLmSMU"
+  },
+  {
+    "ranking": "19",
+    "title": "Choppa",
+    "artist": "Byron Messia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/9a/1d/6d9a1d84-5f7d-d7e9-4cbf-80c892821e6f/24UMGIM01167.rgb.jpg/80x80bb.webp",
+    "appleID": "choppa/1732826749",
+    "youtubeID": "TDdt47nmGl8"
+  },
+  {
+    "ranking": "20",
+    "title": "Last Lap",
+    "artist": "Rod Wave",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+    "appleID": "last-lap/1772368556"
+  },
+  {
+    "ranking": "21",
+    "title": "I Love Freaks (feat. Tafari)",
+    "artist": "Mafi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/04/15/54/04155481-0a27-a1a7-8d5f-6709d8f0c435/0.jpg/80x80bb.webp",
+    "appleID": "i-love-freaks-feat-tafari/1699261591",
+    "youtubeID": "4kfjaTlRpMU"
+  },
+  {
+    "ranking": "22",
+    "title": "Te Amo",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/1c/65/ae1c65c8-571d-ee24-79ca-7fde995479d1/0.jpg/80x80bb.webp",
+    "appleID": "te-amo/1773782879",
+    "youtubeID": "sm6NW6uU8eo"
+  },
+  {
+    "ranking": "23",
+    "title": "Corrupt",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/f8/c6/aff8c634-5968-c3fc-da1b-ffd0633c843e/196925559737.jpg/80x80bb.webp",
+    "appleID": "corrupt/1639060183",
+    "youtubeID": "BaPGK-HMEZg"
+  },
+  {
+    "ranking": "24",
+    "title": "Pounds",
+    "artist": "Armanii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/74/8b/56748b6c-5841-d592-34cd-fb543ba1f85d/198342681671_cover.jpg/80x80bb.webp",
+    "appleID": "pounds/1756564617",
+    "youtubeID": "QRNaLVXxGwI"
+  },
+  {
+    "ranking": "25",
+    "title": "Still a Bleed",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f5/49/2f/f5492f7f-b4c3-8faa-6fc1-3efe6433ca5e/195375164539.jpg/80x80bb.webp",
+    "appleID": "still-a-bleed/1641847817"
+  },
+  {
+    "ranking": "26",
+    "title": "Saved by a Psalm",
+    "artist": "Govana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/97/62/279762d9-d9e6-46d3-b91e-286d593d75e1/198342964743_cover.jpg/80x80bb.webp",
+    "appleID": "saved-by-a-psalm/1749553132",
+    "youtubeID": "QF-w-tdJGeI"
+  },
+  {
+    "ranking": "27",
+    "title": "Under You",
+    "artist": "Dejour",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/02/03/6a020303-f310-b963-f275-2f3614fe51d4/cover.jpg/80x80bb.webp",
+    "appleID": "under-you/1780023034",
+    "youtubeID": "V4YxpElnvfk"
+  },
+  {
+    "ranking": "28",
+    "title": "Believe",
+    "artist": "Prince Swanny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/df/92/a0df9286-9199-5198-1ad7-0cfbd6bd38c2/0.jpg/80x80bb.webp",
+    "appleID": "believe/1776653328",
+    "youtubeID": "VrJPHxcDLnk"
+  },
+  {
+    "ranking": "29",
+    "title": "Star",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/55/02/8b550253-bade-70f5-5aa2-a67490cd82ca/0.jpg/80x80bb.webp",
+    "appleID": "star/1776915518"
+  },
+  {
+    "ranking": "30",
+    "title": "Snooze",
+    "artist": "SZA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+    "appleID": "snooze/1657869492",
+    "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+    "youtubeID": "LDY_XyxBu8A"
+  },
+  {
+    "ranking": "31",
+    "title": "Expensive",
+    "artist": "Valiant",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
+    "appleID": "expensive/1674670010",
+    "youtubeID": "nuMKdd_JkHo"
+  },
+  {
+    "ranking": "32",
+    "title": "Never Complain (feat. Masicka)",
+    "artist": "Teejay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/2d/ae/b82daed6-a796-2a26-f227-67a352250d87/054391239259.jpg/80x80bb.webp",
+    "appleID": "never-complain-feat-masicka/1774348157",
+    "youtubeID": "pM-KzO9P0To"
+  },
+  {
+    "ranking": "33",
+    "title": "Suicide Note",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
+    "appleID": "suicide-note/1591960132"
+  },
+  {
+    "ranking": "34",
+    "title": "HULU",
+    "artist": "Armanii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+    "appleID": "hulu/1774726625",
+    "youtubeID": "qvtS2qTpksU"
+  },
+  {
+    "ranking": "35",
+    "title": "Heart Of A Woman",
+    "artist": "Summer Walker",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/2a/d9/9f2ad9e4-8b12-0759-edbf-962d3064168e/24UM1IM12906.rgb.jpg/80x80bb.webp",
+    "appleID": "heart-of-a-woman/1774543831",
+    "youtubeID": "SFddctbZzw8"
+  },
+  {
+    "ranking": "36",
+    "title": "Angel Numbers / Ten Toes",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/7b/f5/4c7bf575-5b86-222d-56b2-9637a68bb651/196871463010.jpg/80x80bb.webp",
+    "appleID": "angel-numbers-ten-toes/1715744237",
+    "youtubeID": "wWR0VD6qgt8"
+  },
+  {
+    "ranking": "37",
+    "title": "Residuals",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+    "appleID": "residuals/1740206493",
+    "youtubeID": "N6i1SeRmKL0"
+  },
+  {
+    "ranking": "38",
+    "title": "ATL",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/d0/e6/d4d0e638-4fe1-7def-67a4-02a6ad9f6f80/0.jpg/80x80bb.webp",
+    "appleID": "atl/1772688396",
+    "youtubeID": "h24DnMBRCic"
+  },
+  {
+    "ranking": "39",
+    "title": "Passport Junkie",
+    "artist": "Rod Wave",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+    "appleID": "passport-junkie/1772368701"
+  },
+  {
+    "ranking": "40",
+    "title": "Talibans",
+    "artist": "Byron Messia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+    "appleID": "talibans/1687535038",
+    "youtubeID": "DaGqWJws4WY"
+  },
+  {
+    "ranking": "41",
+    "title": "Moments (feat. Stefflon Don)",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
+    "appleID": "moments-feat-stefflon-don/1591960135",
+    "youtubeID": "D9_fuL0rJKg"
+  },
+  {
+    "ranking": "42",
+    "title": "Empty",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/5b/ca/835bca21-8282-9bd0-ddd5-c0d62248ed0f/0.jpg/80x80bb.webp",
+    "appleID": "empty/1631582758",
+    "youtubeID": "AOME31tgxnk"
+  },
+  {
+    "ranking": "43",
+    "title": "Angel With An Attitude",
+    "artist": "Rod Wave",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+    "appleID": "angel-with-an-attitude/1772368562",
+    "youtubeID": "sVJYuRPeLJk"
+  },
+  {
+    "ranking": "44",
+    "title": "Obsessed",
+    "artist": "Kman 6ixx",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
+    "appleID": "obsessed/1758810621",
+    "youtubeID": "alAoJuqFsMI"
+  },
+  {
+    "ranking": "45",
+    "title": "Demon Crease",
+    "artist": "Kraff Gad",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/88/c7/5888c710-4027-07a1-d9f6-4879cb05af93/0.jpg/80x80bb.webp",
+    "appleID": "demon-crease/1735546673"
+  },
+  {
+    "ranking": "46",
+    "title": "Higher Life",
+    "artist": "Kranium",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/a1/6f/43a16f83-fde2-5594-5b63-0d60e5fb1672/840200585804_cover.jpg/80x80bb.webp",
+    "appleID": "higher-life/1740457519"
+  },
+  {
+    "ranking": "47",
+    "title": "Not Bad (feat. Boy Boy)",
+    "artist": "Prince Swanny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/66/35/5f66352d-cfd8-0d8d-d356-45a3d9b81e8e/797885418197_cover.jpg/80x80bb.webp",
+    "appleID": "not-bad-feat-boy-boy/1770336578",
+    "youtubeID": "gAvCeHTq9Yo"
+  },
+  {
+    "ranking": "48",
+    "title": "My Way",
+    "artist": "chronic law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/66/52/e06652dc-1944-b922-d037-0e0e1632d967/0.jpg/80x80bb.webp",
+    "appleID": "my-way/1756530069"
+  },
+  {
+    "ranking": "49",
+    "title": "Wheel Up",
+    "artist": "MORGAN",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/99/43/94994334-b576-899a-5337-84f51d0ec0b5/844942135419.jpg/80x80bb.webp",
+    "appleID": "wheel-up/1765610741"
+  },
+  {
+    "ranking": "50",
+    "title": "Down",
+    "artist": "Valiant",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/dd/6f/f5dd6f31-bc6f-180e-1749-3164f4514f34/0.jpg/80x80bb.webp",
+    "appleID": "down/1781696010"
+  },
+  {
+    "ranking": "51",
+    "title": "Pain (feat. Popcaan)",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
+    "appleID": "pain-feat-popcaan/1591960131",
+    "youtubeID": "XEAaf_Na36Q"
+  },
+  {
+    "ranking": "52",
+    "title": "Triumph",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
+    "appleID": "triumph/1718009985",
+    "youtubeID": "XlbOvWJoQmw"
+  },
+  {
+    "ranking": "53",
+    "title": "Pressure",
+    "artist": "Dejour",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/02/03/6a020303-f310-b963-f275-2f3614fe51d4/cover.jpg/80x80bb.webp",
+    "appleID": "pressure/1780023035"
+  },
+  {
+    "ranking": "54",
+    "title": "20 Matic",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/39/25/6e3925e9-32af-4698-53bb-27f8249b851e/24UMGIM68526.rgb.jpg/80x80bb.webp",
+    "appleID": "20-matic/1753155292",
+    "youtubeID": "X-g2GKsxeN8"
+  },
+  {
+    "ranking": "55",
+    "title": "Grimey",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/9d/23/7f9d23ee-3fbf-44e9-3d0c-5a3126b535f2/195375630676_cover.jpg/80x80bb.webp",
+    "appleID": "grimey/1779792317",
+    "youtubeID": "HXyLOMbOYlY"
+  },
+  {
+    "ranking": "56",
+    "title": "Stars R Us",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
+    "appleID": "stars-r-us/1718009971",
+    "youtubeID": "vzZoiw8bIRk"
+  },
+  {
+    "ranking": "57",
+    "title": "Someone Else (feat. Quan & Trilla-G)",
+    "artist": "litleboy lsbeats767",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/5a/4b/5f5a4bee-b9a6-e8ce-06bd-09059af03f97/artwork.jpg/80x80bb.webp",
+    "appleID": "someone-else-feat-quan-trilla-g/1756022438"
+  },
+  {
+    "ranking": "58",
+    "title": "Baddest In The Room",
+    "artist": "Fridayy",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/46/d4/0246d497-10cb-e048-2eb7-27207844905e/24UMGIM61141.rgb.jpg/80x80bb.webp",
+    "appleID": "baddest-in-the-room/1750796336",
+    "youtubeID": "uijhGM3pVCY"
+  },
+  {
+    "ranking": "59",
+    "title": "Tack Back",
+    "artist": "Kes",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/69/91/42699164-471e-3f97-11bb-44bdc47b2092/197999406248_cover.jpg/80x80bb.webp",
+    "appleID": "tack-back/1714834281",
+    "youtubeID": "PYz2vfTPJK8"
+  },
+  {
+    "ranking": "60",
+    "title": "WHATCHU KNO ABOUT ME",
+    "artist": "GloRilla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
+    "appleID": "whatchu-kno-about-me/1769454783",
+    "youtubeID": "Py9S2bD0RZQ"
+  },
+  {
+    "ranking": "61",
+    "title": "YOU & I",
+    "artist": "Armanii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+    "appleID": "you-i/1762755569",
+    "youtubeID": "eu_TpFSdxsk"
+  },
+  {
+    "ranking": "62",
+    "title": "California",
+    "artist": "Byron Messia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+    "appleID": "california/1687534782"
+  },
+  {
+    "ranking": "63",
+    "title": "Reverse Time",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
+    "appleID": "reverse-time/1718009973",
+    "youtubeID": "3okTAtIHz8g"
+  },
+  {
+    "ranking": "64",
+    "title": "Dungeon",
+    "artist": "Malie Donn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e0/98/07/e09807c9-4e01-c8b0-c950-bf603332eb00/197189683930.jpg/80x80bb.webp",
+    "appleID": "dungeon/1703655702",
+    "youtubeID": "Q4LoZSRlnfg"
+  },
+  {
+    "ranking": "65",
+    "title": "Rolling Calf",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/79/c5/b579c5dc-13ea-ff8e-d807-04543b2b7271/196292328127.jpg/80x80bb.webp",
+    "appleID": "rolling-calf/1581452880",
+    "youtubeID": "0fZIuCSwHR0"
+  },
+  {
+    "ranking": "66",
+    "title": "Apply Pressure",
+    "artist": "Rod Wave",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+    "appleID": "apply-pressure/1772368557",
+    "youtubeID": "2txeSE5Ahhc"
+  },
+  {
+    "ranking": "67",
+    "title": "Little Things",
+    "artist": "Ella Mai",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/aa/5b/70aa5b50-bad0-6e2c-2a7e-f11fccd39b70/24UM1IM12436.rgb.jpg/80x80bb.webp",
+    "appleID": "little-things/1777272259",
+    "youtubeID": "bbw4-yOszDc"
+  },
+  {
+    "ranking": "68",
+    "title": "Fada Dark",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/c0/1e/aac01e23-1608-47c6-8a3a-9dbfccce81f1/0.jpg/80x80bb.webp",
+    "appleID": "fada-dark/1781382235",
+    "youtubeID": "YzHwM7_iXMo"
+  },
+  {
+    "ranking": "69",
+    "title": "No Feel Safe",
+    "artist": "Hi Light",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/d4/4e/96d44e8e-9a39-a6ee-9269-0588b875dc83/5063621902578_cover.jpg/80x80bb.webp",
+    "appleID": "no-feel-safe/1781990383"
+  },
+  {
+    "ranking": "70",
+    "title": "Vent",
+    "artist": "Byron Messia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+    "appleID": "vent/1687535030",
+    "youtubeID": "K-TXDSiAZjE"
+  },
+  {
+    "ranking": "71",
+    "title": "V6",
+    "artist": "Ireland Boss",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/34/4d/27344d90-e8ac-58af-3a38-caa82ce18763/0.jpg/80x80bb.webp",
+    "appleID": "v6/1671601613"
+  },
+  {
+    "ranking": "72",
+    "title": "People",
+    "artist": "Teejay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/44/69/f844695e-ed75-c4e7-6c27-e3e8627a6d12/0.jpg/80x80bb.webp",
+    "appleID": "people/1640751097",
+    "youtubeID": "iPGu2FzezW8"
+  },
+  {
+    "ranking": "73",
+    "title": "Wanted Luv",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/12/a5/de12a50f-4e37-c5aa-37a3-d0178405d593/195375507855_cover.jpg/80x80bb.webp",
+    "appleID": "wanted-luv/1726764032",
+    "youtubeID": "4mAFiQ2nx9Y"
+  },
+  {
+    "ranking": "74",
+    "title": "Proud",
+    "artist": "Chronic Law",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/e9/ad/22e9ad2f-f859-0f79-d73c-9a2b57ad33fa/0.jpg/80x80bb.webp",
+    "appleID": "proud/1680090469",
+    "youtubeID": "TzsR0EwACNY"
+  },
+  {
+    "ranking": "75",
+    "title": "Show Them (feat. Byron Messia & Tafari)",
+    "artist": "Kman 6ixx",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/40/11/30401120-e645-671e-9735-d09f30aaea9e/198672189588_KmanPhoenixFront.jpg/80x80bb.webp",
+    "appleID": "show-them-feat-byron-messia-tafari/1758811868",
+    "youtubeID": "bNJuspOgP1U"
+  },
+  {
+    "ranking": "76",
+    "title": "IKATION",
+    "artist": "Kraff Gad",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/20/f4/6020f4c1-f374-3745-6720-c3e9e2ac51c9/artwork.jpg/80x80bb.webp",
+    "appleID": "ikation/1768079373",
+    "youtubeID": "W7Ymf9DiBJA"
+  },
+  {
+    "ranking": "77",
+    "title": "POTENTIAL",
+    "artist": "Armanii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+    "appleID": "potential/1774726628"
+  },
+  {
+    "ranking": "78",
+    "title": "PUSH 2 START",
+    "artist": "Tyla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
+    "appleID": "push-2-start/1772394889",
+    "youtubeID": "uLK2r3sG4lE",
+    "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
+  },
+  {
+    "ranking": "79",
+    "title": "Can You (feat. Rucas H.E)",
+    "artist": "Grand Masters Band",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/97/9a/48979ab5-fb30-8585-046e-d01a6564100b/199999004462.png/80x80bb.webp",
+    "appleID": "can-you-feat-rucas-h-e/1779366876",
+    "youtubeID": "a5slBGr75P8"
+  },
+  {
+    "ranking": "80",
+    "title": "Baddiedeh",
+    "artist": "Valiant",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/b8/3d/e7b83db6-6121-92a1-05ee-2ff1f388bb86/196872682199.jpg/80x80bb.webp",
+    "appleID": "baddiedeh/1780852184"
+  },
+  {
+    "ranking": "81",
+    "title": "Smallest Circle",
+    "artist": "Byron Messia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+    "appleID": "smallest-circle/1687535039"
+  },
+  {
+    "ranking": "82",
+    "title": "No Lethal",
+    "artist": "Kman 6ixx",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
+    "appleID": "no-lethal/1758810622"
+  },
+  {
+    "ranking": "83",
+    "title": "Wild n' Rich",
+    "artist": "450",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/72/7f/90727f13-9f47-b059-cf3d-0fc066391ab0/0.jpg/80x80bb.webp",
+    "appleID": "wild-n-rich/1773489343"
+  },
+  {
+    "ranking": "84",
+    "title": "Hit & Run",
+    "artist": "Shenseea",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/24/b8/3924b8e1-1a90-0d05-a226-9369d07a4c0c/24UMGIM07424.rgb.jpg/80x80bb.webp",
+    "appleID": "hit-run/1727264203",
+    "youtubeID": "rJwEphsNVH8"
+  },
+  {
+    "ranking": "85",
+    "title": "Nobody Else",
+    "artist": "Dejour",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/02/03/6a020303-f310-b963-f275-2f3614fe51d4/cover.jpg/80x80bb.webp",
+    "appleID": "nobody-else/1780023028",
+    "youtubeID": "1RutNKiJK5Y"
+  },
+  {
+    "ranking": "86",
+    "title": "Little Miss Best Body",
+    "artist": "Kman 6ixx",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/c0/99/8cc09932-e38c-b523-e07d-e0c66cd32eb4/0.jpg/80x80bb.webp",
+    "appleID": "little-miss-best-body/1763555499"
+  },
+  {
+    "ranking": "87",
+    "title": "Pestilence (feat. Tman)",
+    "artist": "Kman 6ixx",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/61/81/35618167-3b14-6b59-122e-08dc688143d6/0.jpg/80x80bb.webp",
+    "appleID": "pestilence-feat-tman/1775470227",
+    "youtubeID": "s75m2KHs6sw"
+  },
+  {
+    "ranking": "88",
+    "title": "Scared Love",
+    "artist": "Rod Wave",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+    "appleID": "scared-love/1772368577",
+    "youtubeID": "UwWSpSaBuaU"
+  },
+  {
+    "ranking": "89",
+    "title": "Don Julio (Raw)",
+    "artist": "Malie Donn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/c1/05/bac105a4-ca28-88b8-632e-b463d3529efb/198846385983.jpg/80x80bb.webp",
+    "appleID": "don-julio-raw/1774284389"
+  },
+  {
+    "ranking": "90",
+    "title": "Barbies",
+    "artist": "Valiant",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/b0/02/79b00241-6136-5e67-e154-ff5d93f1fdd2/0.jpg/80x80bb.webp",
+    "appleID": "barbies/1659985896"
+  },
+  {
+    "ranking": "91",
+    "title": "Gorilla Glue",
+    "artist": "Byron Messia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+    "appleID": "gorilla-glue/1687535026"
+  },
+  {
+    "ranking": "92",
+    "title": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+    "artist": "Popcaan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/96/59/4b965946-d2ed-e0c0-0a47-18b7b2af606d/27019.jpg/80x80bb.webp",
+    "appleID": "twist-turn-feat-drake-partynextdoor/1662168542"
+  },
+  {
+    "ranking": "93",
+    "title": "Mirage",
+    "artist": "Alkaline",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2f/b7/b0/2fb7b07e-5876-d5eb-a75b-04413bb3ff70/192641024474_Cover.jpg/80x80bb.webp",
+    "appleID": "mirage/1340015210",
+    "youtubeID": "eDyt4tlfD4w"
+  },
+  {
+    "ranking": "94",
+    "title": "Most Wanted",
+    "artist": "Masicka",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
+    "appleID": "most-wanted/1718010228"
+  },
+  {
+    "ranking": "95",
+    "title": "Sorry",
+    "artist": "Dejour",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/a8/ea/c2a8ea32-16e2-9fe3-3772-703b96a93668/artwork.jpg/80x80bb.webp",
+    "appleID": "sorry/1710699858"
+  },
+  {
+    "ranking": "96",
+    "title": "Ambala",
+    "artist": "SQUASH",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c9/25/75/c9257578-5462-7542-dc33-47a6a5bff904/196626442888.jpg/80x80bb.webp",
+    "appleID": "ambala/1609108716"
+  },
+  {
+    "ranking": "97",
+    "title": "When It Comes To You",
+    "artist": "Fridayy",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/32/74/ad32748c-daf4-0e47-1f1c-124a484c2522/23UMGIM74845.rgb.jpg/80x80bb.webp",
+    "appleID": "when-it-comes-to-you/1695169464"
+  },
+  {
+    "ranking": "98",
+    "title": "Smile",
+    "artist": "Dejour",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/02/03/6a020303-f310-b963-f275-2f3614fe51d4/cover.jpg/80x80bb.webp",
+    "appleID": "smile/1780023026"
+  },
+  {
+    "ranking": "99",
+    "title": "Nice & Easy",
+    "artist": "Alkaline",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/3a/0e/483a0e18-f18b-e02b-075c-017fe3e0ac9c/848760048111.jpg/80x80bb.webp",
+    "appleID": "nice-easy/1639607981"
+  },
+  {
+    "ranking": "100",
+    "title": "Sensational (feat. Davido & Lojay)",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/16/08/08160816-d5e8-9be0-56ec-9d8d3dda8ad2/196871554916.jpg/80x80bb.webp",
+    "appleID": "sensational-feat-davido-lojay/1712552509"
+  }
 ]

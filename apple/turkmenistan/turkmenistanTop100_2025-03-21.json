@@ -1,721 +1,737 @@
 [
-    {
-        "ranking": "1",
-        "title": "Ты и я",
-        "artist": "Elsandobry",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/6b/72/296b72aa-4c3c-1e7c-3582-6a6384e26618/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%82%D1%8B-%D0%B8-%D1%8F/1792307653"
-    },
-    {
-        "ranking": "2",
-        "title": "Bala",
-        "artist": "Läle Begnazarowa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/2f/5c/c32f5cfb-91f5-c88f-3876-4fbdc44e19b9/198342067451_cover.jpg/80x80bb.webp",
-        "appleID": "bala/1729492723"
-    },
-    {
-        "ranking": "3",
-        "title": "Эгоист",
-        "artist": "NAVAI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/8e/15/0a8e15b6-59d3-70b3-5cb8-a2049d291c31/3616404377388.jpg/80x80bb.webp",
-        "appleID": "%D1%8D%D0%B3%D0%BE%D0%B8%D1%81%D1%82/1570266448"
-    },
-    {
-        "ranking": "4",
-        "title": "BAND4BAND",
-        "artist": "Central Cee",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/e2/31/0de23199-713c-a145-73f5-be8d30510cb6/196872143188.jpg/80x80bb.webp",
-        "appleID": "band4band/1747857516"
-    },
-    {
-        "ranking": "5",
-        "title": "Ýekejäm (feat. Aydayozin)",
-        "artist": "Annush Myratdurdyyew",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/f5/ee/f9f5ee92-d92c-7216-fef4-e7bd132ed90e/056870273105.png/80x80bb.webp",
-        "appleID": "%C3%BDekej%C3%A4m-feat-aydayozin/1799013356"
-    },
-    {
-        "ranking": "6",
-        "title": "Медуза",
-        "artist": "MATRANG",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/50/a3/bd/50a3bdf5-4a85-8dc6-7fc1-b63e4c531ac6/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B0/1341643872"
-    },
-    {
-        "ranking": "7",
-        "title": "I Adore You (feat. Daecolm)",
-        "artist": "HUGEL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
-        "appleID": "i-adore-you-feat-daecolm/1756335935"
-    },
-    {
-        "ranking": "8",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142",
-        "youtubeID": "V9PVRfjEBTI"
-    },
-    {
-        "ranking": "9",
-        "title": "NINAO",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/9b/4c/0f9b4ce6-918a-9057-040e-85950cc438df/cover.jpg/80x80bb.webp",
-        "appleID": "ninao/1797518241"
-    },
-    {
-        "ranking": "10",
-        "title": "Мир нам завидовал",
-        "artist": "Akmal'",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/b0/d2/cfb0d2da-e79c-8c7c-fddd-d7343b338e5f/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BC%D0%B8%D1%80-%D0%BD%D0%B0%D0%BC-%D0%B7%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B0%D0%BB/1760163136"
-    },
-    {
-        "ranking": "11",
-        "title": "На небеси",
-        "artist": "Ramil'",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/a3/6a/5da36a75-7d3c-ba19-9a11-93c6d8702cb1/0.jpg/80x80bb.webp",
-        "appleID": "%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B8/1796216378"
-    },
-    {
-        "ranking": "12",
-        "title": "LoveDrug",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/11/d1/be11d187-1aeb-99f3-01c5-597ed65cdb6a/25UMGIM07433.rgb.jpg/80x80bb.webp",
-        "appleID": "lovedrug/1792667018"
-    },
-    {
-        "ranking": "13",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890",
-        "youtubeID": "5EpyN_6dqyk"
-    },
-    {
-        "ranking": "14",
-        "title": "Мир",
-        "artist": "Гио ПиКа",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c0/18/f4c01814-4108-c558-26b8-909d71db0fdc/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BC%D0%B8%D1%80/1740147266"
-    },
-    {
-        "ranking": "15",
-        "title": "İstədim",
-        "artist": "Roza Zərgərli",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/54/27/4b542773-0da0-1420-3615-5dd4c6e4ddef/cover.jpg/80x80bb.webp",
-        "appleID": "i-st%C9%99dim/1773788703",
-        "youtubeID": "SpYWHk5rrIU"
-    },
-    {
-        "ranking": "16",
-        "title": "I Adore You (feat. Topic, Arash & Daecolm)",
-        "artist": "HUGEL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/b1/f6/31b1f62c-d510-72b1-e5e3-c76899ecb32c/24UM1IM17396.rgb.jpg/80x80bb.webp",
-        "appleID": "i-adore-you-feat-topic-arash-daecolm/1776582596"
-    },
-    {
-        "ranking": "17",
-        "title": "Bad Dreams",
-        "artist": "Teddy Swims",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904",
-        "youtubeID": "Qh8QwVYOSVU",
-        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-        "ranking": "18",
-        "title": "Abracadabra",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/c9/45/40c94523-abf6-724b-a7a3-24ca0f8c95b0/25UMGIM06790.rgb.jpg/80x80bb.webp",
-        "appleID": "abracadabra/1793869710"
-    },
-    {
-        "ranking": "19",
-        "title": "São Paulo",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/80x80bb.webp",
-        "appleID": "s%C3%A3o-paulo/1776914757"
-    },
-    {
-        "ranking": "20",
-        "title": "NC-17",
-        "artist": "Travis Scott",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/66/90/306690d4-2a29-402e-e406-6b319ce7731a/886447227169.jpg/80x80bb.webp",
-        "appleID": "nc-17/1421243057"
-    },
-    {
-        "ranking": "21",
-        "title": "Aria",
-        "artist": "Argy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/36/7b/85367bd1-ec48-129e-8c23-a5fa64ec8085/4251353207448_Cover.jpg/80x80bb.webp",
-        "appleID": "aria/1719003750"
-    },
-    {
-        "ranking": "22",
-        "title": "Берегом (from \"360\" session)",
-        "artist": "Gruppa Skryptonite",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/df/fe/45dffe80-80b5-f066-2506-a6dc345b24f6/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%BC-from-360-session/1700643222"
-    },
-    {
-        "ranking": "23",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "24",
-        "title": "WAKE UP F1LTHY",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "wake-up-f1lthy/1802175551"
-    },
-    {
-        "ranking": "25",
-        "title": "Медленно",
-        "artist": "ANNA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/8c/69/3e8c695d-ce87-d495-ccf4-c23a60c2395b/cover.png/80x80bb.webp",
-        "appleID": "%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE/1798711405"
-    },
-    {
-        "ranking": "26",
-        "title": "Город дорог",
-        "artist": "MONA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/1777205290"
-    },
-    {
-        "ranking": "27",
-        "title": "Don't Call Tonight",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/11/d1/be11d187-1aeb-99f3-01c5-597ed65cdb6a/25UMGIM07433.rgb.jpg/80x80bb.webp",
-        "appleID": "dont-call-tonight/1792667021"
-    },
-    {
-        "ranking": "28",
-        "title": "Cruel Summer",
-        "artist": "Taylor Swift",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "cruel-summer/1468058171",
-        "youtubeID": "ic8j13piAhQ"
-    },
-    {
-        "ranking": "29",
-        "title": "I Got Love (feat. Рем Дигга)",
-        "artist": "Miyagi & Эндшпиль",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f3/dd/98f3dd8f-b5b4-d6a1-849c-795130748b81/cover.jpg/80x80bb.webp",
-        "appleID": "i-got-love-feat-%D1%80%D0%B5%D0%BC-%D0%B4%D0%B8%D0%B3%D0%B3%D0%B0/1604435517"
-    },
-    {
-        "ranking": "30",
-        "title": "Azul",
-        "artist": "J Balvin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/b3/66/aeb36667-f9b2-c455-c3fc-a53bbd5ec4c1/20UMGIM10542.rgb.jpg/80x80bb.webp",
-        "appleID": "azul/1500491200"
-    },
-    {
-        "ranking": "31",
-        "title": "Как ты там",
-        "artist": "Асия",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/7b/42/6a7b4287-6ee1-06dd-3083-4b3e89f55ca9/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BA-%D1%82%D1%8B-%D1%82%D0%B0%D0%BC/1570107253"
-    },
-    {
-        "ranking": "32",
-        "title": "С ветром",
-        "artist": "Анет Сай",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/97/ee/8597ee63-75d3-5d98-b134-daae2595f9b3/cover.png/80x80bb.webp",
-        "appleID": "%D1%81-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%BC/1745371484"
-    },
-    {
-        "ranking": "33",
-        "title": "Kosandra",
-        "artist": "Miyagi & Andy Panda",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/5e/53/1c5e53e5-24ed-2b7c-17ba-f946b7d0b324/cover.jpg/80x80bb.webp",
-        "appleID": "kosandra/1498417852"
-    },
-    {
-        "ranking": "34",
-        "title": "Ты словно целая вселенная",
-        "artist": "Jah Khalib",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/c3/32/87c33213-77ec-53aa-269e-4b845f29c5e2/190295980924.jpg/80x80bb.webp",
-        "appleID": "%D1%82%D1%8B-%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE-%D1%86%D0%B5%D0%BB%D0%B0%D1%8F-%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F/1090557340"
-    },
-    {
-        "ranking": "35",
-        "title": "Addicted (feat. Ink)",
-        "artist": "ZERB",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/df/a1/0fdfa19f-aae2-c601-3c44-9d3e45f80adf/8721056755820.png/80x80bb.webp",
-        "appleID": "addicted-feat-ink/1734260111"
-    },
-    {
-        "ranking": "36",
-        "title": "luther",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323",
-        "youtubeID": "4_taypLmSMU"
-    },
-    {
-        "ranking": "37",
-        "title": "Половина моя",
-        "artist": "Miyagi & Эндшпиль",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/36/52/dd3652f4-d349-8ec7-48d5-3c8af521bc70/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0-%D0%BC%D0%BE%D1%8F/1604540076"
-    },
-    {
-        "ranking": "38",
-        "title": "волна",
-        "artist": "tima ishet svet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/ec/85/3eec8526-4e60-fb9b-bb27-7b5bbf4a3d1f/14_001_tima_ishchet_svet-zerkalo.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D0%BE%D0%BB%D0%BD%D0%B0/1706800960"
-    },
-    {
-        "ranking": "39",
-        "title": "Unforgettable (feat. Swae Lee)",
-        "artist": "French Montana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/35/83/2c3583bb-609d-246f-ff42-acbc726b64d3/886446570396.jpg/80x80bb.webp",
-        "appleID": "unforgettable-feat-swae-lee/1254555499"
-    },
-    {
-        "ranking": "40",
-        "title": "Anxiety",
-        "artist": "Doechii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/40/3c/29403c14-83aa-dba0-9f89-e8ff2d039f42/25UMGIM39878.rgb.jpg/80x80bb.webp",
-        "appleID": "anxiety/1800052074"
-    },
-    {
-        "ranking": "41",
-        "title": "Боже, как завидую",
-        "artist": "HammAli & Navai",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/be/06/26be06b5-aa50-b1ce-cee4-42e0253e601a/190296363795.jpg/80x80bb.webp",
-        "appleID": "%D0%B1%D0%BE%D0%B6%D0%B5-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%B2%D0%B8%D0%B4%D1%83%D1%8E/1593283962"
-    },
-    {
-        "ranking": "42",
-        "title": "Alizarin Crimson",
-        "artist": "Bo Degas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/6e/33/926e334b-9b3a-42b6-90e2-de127e76ecf4/192641671395_Cover.jpg/80x80bb.webp",
-        "appleID": "alizarin-crimson/1554408353"
-    },
-    {
-        "ranking": "43",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "artist": "Post Malone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
-        "youtubeID": "4QIZE708gJ4"
-    },
-    {
-        "ranking": "44",
-        "title": "Самолеты",
-        "artist": "Женя Трофимов",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/07/fc/c907fc68-acb5-5e03-e3bd-a6a789ae81f3/0.jpg/80x80bb.webp",
-        "appleID": "%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D1%8B/1649654272"
-    },
-    {
-        "ranking": "45",
-        "title": "Love",
-        "artist": "Sevak",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/ed/6c/28ed6ce1-0388-2cc1-dac0-b7b6b87f1bda/cover.jpg/80x80bb.webp",
-        "appleID": "love/1753736974"
-    },
-    {
-        "ranking": "46",
-        "title": "Champa tveq",
-        "artist": "Arkadi Dumikyan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/30/46/23/304623e6-e526-54dc-4e23-86c32a2256f8/cover.jpg/80x80bb.webp",
-        "appleID": "champa-tveq/1641333574"
-    },
-    {
-        "ranking": "47",
-        "title": "Девочка танцуй",
-        "artist": "Artik & Asti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/65/61/a46561df-e61d-88d8-8981-800ca4edb939/190295288952.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0-%D1%82%D0%B0%D0%BD%D1%86%D1%83%D0%B9/1497019360"
-    },
-    {
-        "ranking": "48",
-        "title": "Qalbi Fil Madinah",
-        "artist": "Maher Zain",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/1a/38/f31a3883-f29f-7f7a-d79a-749c21d44011/199066701553.jpg/80x80bb.webp",
-        "appleID": "qalbi-fil-madinah/1800686517"
-    },
-    {
-        "ranking": "49",
-        "title": "Beautiful Things",
-        "artist": "Benson Boone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124",
-        "youtubeID": "Oa_RSwwpPaA"
-    },
-    {
-        "ranking": "50",
-        "title": "Nobody (Studio Version)",
-        "artist": "Charlie Jeer",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/09/48/80094820-4c10-efff-f9b9-98f79780ef4a/25UMGIM10921.rgb.jpg/80x80bb.webp",
-        "appleID": "nobody-studio-version/1798517182"
-    },
-    {
-        "ranking": "51",
-        "title": "Often (Kygo Remix)",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7c/d4/d9/7cd4d9c0-80c2-4735-efd8-42c9599b9d78/15UMGIM18137.rgb.jpg/80x80bb.webp",
-        "appleID": "often-kygo-remix/1445122282"
-    },
-    {
-        "ranking": "52",
-        "title": "Худи",
-        "artist": "GeeGun",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d5/f6/4ed5f625-3b9b-4a89-578a-500006fda8ef/0.jpg/80x80bb.webp",
-        "appleID": "%D1%85%D1%83%D0%B4%D0%B8/1773067341"
-    },
-    {
-        "ranking": "53",
-        "title": "A Million On My Soul (Remix)",
-        "artist": "Moses",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/68/ca/f0/68caf05b-1f2f-f3a1-1027-5d1fd84fdc81/cover.jpg/80x80bb.webp",
-        "appleID": "a-million-on-my-soul-remix/1654955322"
-    },
-    {
-        "ranking": "54",
-        "title": "Вороны",
-        "artist": "Xcho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/55/8a/aa/558aaa0d-37fd-b7c8-2f66-0e5926a9fef7/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1587178099",
-        "spotifyID": "1eQc0azOMOv6VuqQi9c2Ba"
-    },
-    {
-        "ranking": "55",
-        "title": "Let Me Come To Life",
-        "artist": "Klangkarussell",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/fd/10/11fd1049-237a-8bf9-fa8a-cc6a76277c5f/5053760126102_cover.jpg/80x80bb.webp",
-        "appleID": "let-me-come-to-life/1784964875"
-    },
-    {
-        "ranking": "56",
-        "title": "Damlarsın",
-        "artist": "Cakal",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/7a/2c/347a2c89-7f81-ca33-7ed6-7d4295cf7739/cover.jpg/80x80bb.webp",
-        "appleID": "damlars%C4%B1n/1746489545"
-    },
-    {
-        "ranking": "57",
-        "title": "Перемены – это красиво",
-        "artist": "МОТ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/3d/b2/5e3db25d-f794-7260-7a41-b02d35b053b9/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%8B-%D1%8D%D1%82%D0%BE-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE/1789723481"
-    },
-    {
-        "ranking": "58",
-        "title": "Yasemin",
-        "artist": "Burak Bulut",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/6b/75/7b6b758d-6dea-cb2c-953c-09bbea2df346/cover.jpg/80x80bb.webp",
-        "appleID": "yasemin/1796213694"
-    },
-    {
-        "ranking": "59",
-        "title": "Харизма",
-        "artist": "Wallem",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/13/5b/51/135b512e-c036-41e9-6593-5af07abfc0a9/0.jpg/80x80bb.webp",
-        "appleID": "%D1%85%D0%B0%D1%80%D0%B8%D0%B7%D0%BC%D0%B0/1734393251",
-        "youtubeID": "fsiXx2Lpu1w"
-    },
-    {
-        "ranking": "60",
-        "title": "Orion (Sistek Remix)",
-        "artist": "Boza",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/2b/e5/4e2be5b6-8e51-5272-f2ef-5e81c3d19685/196872372205.jpg/80x80bb.webp",
-        "appleID": "orion/1747034856"
-    },
-    {
-        "ranking": "61",
-        "title": "Shadow Of A Man",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/11/d1/be11d187-1aeb-99f3-01c5-597ed65cdb6a/25UMGIM07433.rgb.jpg/80x80bb.webp",
-        "appleID": "shadow-of-a-man/1792667023"
-    },
-    {
-        "ranking": "62",
-        "title": "Иордан",
-        "artist": "MONA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B8%D0%BE%D1%80%D0%B4%D0%B0%D0%BD/1777205296"
-    },
-    {
-        "ranking": "63",
-        "title": "Ignite (feat. SeungRi) [Different Heaven Remix]",
-        "artist": "K-391",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/9d/99/539d99c8-a954-f808-9ed9-4e7e48e9a4eb/192562737163.jpg/80x80bb.webp",
-        "appleID": "ignite-feat-seungri-different-heaven-remix/1405589954"
-    },
-    {
-        "ranking": "64",
-        "title": "Ayrılık Zor",
-        "artist": "Tarkan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/cc/1a/18/cc1a1870-c8d5-746d-93c4-a9b07b0477c9/cover.jpg/80x80bb.webp",
-        "appleID": "ayr%C4%B1l%C4%B1k-zor/745148665"
-    },
-    {
-        "ranking": "65",
-        "title": "It's Not Right (But It's Ok)",
-        "artist": "Mr. Belt & Wezol",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/a7/67/07a767bb-1cc9-7565-030b-5986d4485d63/196871740036.jpg/80x80bb.webp",
-        "appleID": "its-not-right-but-its-ok/1721899043"
-    },
-    {
-        "ranking": "66",
-        "title": "Too Much",
-        "artist": "Dove Cameron",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/52/f0/ac52f068-2f0e-4f8f-c848-a2a6bef2cb0c/196872912531.jpg/80x80bb.webp",
-        "appleID": "too-much/1797345121"
-    },
-    {
-        "ranking": "67",
-        "title": "The Door",
-        "artist": "Teddy Swims",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849",
-        "youtubeID": "VSXT4a2kRHA",
-        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-        "ranking": "68",
-        "title": "Раневская",
-        "artist": "Akmal'",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/eb/3f/2ceb3feb-e4d9-63e6-0efd-cbcba60ffc01/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%80%D0%B0%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F/1745853083"
-    },
-    {
-        "ranking": "69",
-        "title": "In The Stars",
-        "artist": "Benson Boone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/0c/c8/960cc84f-5c48-013b-51bf-aa30b2800068/054391897046.jpg/80x80bb.webp",
-        "appleID": "in-the-stars/1621221910"
-    },
-    {
-        "ranking": "70",
-        "title": "chaotic",
-        "artist": "Tate McRae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/20/da/e420dabe-098f-6afa-59e2-4e019a503907/196589001030.jpg/80x80bb.webp",
-        "appleID": "chaotic/1615105161"
-    },
-    {
-        "ranking": "71",
-        "title": "Entekhab",
-        "artist": "Shadmehr Aghili",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/c5/3f/81c53fb1-68e1-20be-4007-548d6cdd155b/a8c21696-00c9-4926-887f-60d4c7f5f203.jpg/80x80bb.webp",
-        "appleID": "entekhab/1736170764"
-    },
-    {
-        "ranking": "72",
-        "title": "DELRESTO (ECHOES) [feat. Beyoncé]",
-        "artist": "Travis Scott",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "delresto-echoes-feat-beyonc%C3%A9/1699712652"
-    },
-    {
-        "ranking": "73",
-        "title": "My Love",
-        "artist": "Jeren Halnazarowa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/9f/02/c59f022b-a5aa-2da1-5e1e-829bbd68cd10/0.jpg/80x80bb.webp",
-        "appleID": "my-love/1763585119"
-    },
-    {
-        "ranking": "74",
-        "title": "О Yeah",
-        "artist": "In-Yan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/42/a5/a342a574-8806-ce23-9e3b-c8a9e6bf40c1/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BE-yeah/638660151"
-    },
-    {
-        "ranking": "75",
-        "title": "We Are the People",
-        "artist": "Empire Of The Sun",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg/80x80bb.webp",
-        "appleID": "we-are-the-people/712862710"
-    },
-    {
-        "ranking": "76",
-        "title": "Gimme More",
-        "artist": "Britney Spears",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/48/eb/0548eb35-348c-a4c9-d245-8003d81214a6/884977724936.jpg/80x80bb.webp",
-        "appleID": "gimme-more/521738935"
-    },
-    {
-        "ranking": "77",
-        "title": "Don't Think Twice",
-        "artist": "Rita Ora",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/0e/cd/860ecdc9-bd69-979a-5175-2462f526b0e3/4050538896527.jpg/80x80bb.webp",
-        "appleID": "dont-think-twice/1678145509"
-    },
-    {
-        "ranking": "78",
-        "title": "Dance The Night Away",
-        "artist": "Lionel Richie",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/ec/8d/edec8d7f-ec81-a1f7-724f-904f4d8ebca1/21UMGIM60206.rgb.jpg/80x80bb.webp",
-        "appleID": "dance-the-night-away/1590233882"
-    },
-    {
-        "ranking": "79",
-        "title": "Curb your",
-        "artist": "Che Ecru",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/3c/9a/603c9a24-c7d6-a67a-7dbf-cc5369893b37/5063654579266_cover.jpg/80x80bb.webp",
-        "appleID": "curb-your/1794905365"
-    },
-    {
-        "ranking": "80",
-        "title": "Быть Счастливой",
-        "artist": "Artik & Asti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/c4/fe/65c4fe79-1d09-55b9-aacd-2b37cde1d6dc/0.jpg/80x80bb.webp",
-        "appleID": "%D0%B1%D1%8B%D1%82%D1%8C-%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2%D0%BE%D0%B9/1790257724"
-    },
-    {
-        "ranking": "81",
-        "title": "Другая причина",
-        "artist": "Nepara",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/31/ad/d8/31add85a-1fff-ad7c-e0a0-2e20eac82c14/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/1219334242"
-    },
-    {
-        "ranking": "82",
-        "title": "Idea 10",
-        "artist": "Gibran Alcocer",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4a/22/1c/4a221c91-27f7-ef51-c4cc-25e9110d3b59/197047778426_cover.jpg/80x80bb.webp",
-        "appleID": "idea-10/1647270811"
-    },
-    {
-        "ranking": "83",
-        "title": "Северное сияние",
-        "artist": "Ivan Dorn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/e5/63/56e563ae-df7f-2997-7fc0-25fe213b313c/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B5-%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5/1570806175"
-    },
-    {
-        "ranking": "84",
-        "title": "The Other Side",
-        "artist": "French for Rabbits",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/df/6a/88df6a41-5cc3-2e68-442d-29a941f8add4/191773674823.jpg/80x80bb.webp",
-        "appleID": "the-other-side/1280799522"
-    },
-    {
-        "ranking": "85",
-        "title": "Бобр",
-        "artist": "SLAVA SKRIPKA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/2d/ea/852dea02-5620-0c56-ad7f-c6c0e00a0038/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B1%D0%BE%D0%B1%D1%80/1763683891"
-    },
-    {
-        "ranking": "86",
-        "title": "Beggin",
-        "artist": "Max Martis",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/52/28/78522852-c7f0-4e5c-aba2-3a3fda683c30/725336541651_cover.jpg/80x80bb.webp",
-        "appleID": "beggin/1692870305"
-    },
-    {
-        "ranking": "87",
-        "title": "Another Love",
-        "artist": "Tom Odell",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492",
-        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-        "ranking": "88",
-        "title": "Ýürek Ýanyp Dur",
-        "artist": "Hajy Ýazmämmedow",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a2/97/59/a297590f-c459-3e73-4ed6-8cfcd059cb28/0.jpg/80x80bb.webp",
-        "appleID": "%C3%BD%C3%BCrek-%C3%BDanyp-dur/1620956594"
-    },
-    {
-        "ranking": "89",
-        "title": "Верю в тебя",
-        "artist": "ANNA ASTI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/db/32/22db324f-aee0-1fc9-e5df-0fd9bee78ae6/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D0%B5%D1%80%D1%8E-%D0%B2-%D1%82%D0%B5%D0%B1%D1%8F/1683107720"
-    },
-    {
-        "ranking": "90",
-        "title": "So Long",
-        "artist": "MALFA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/11/1f/55/111f550c-56df-1f54-0e4a-4d04322e74ea/cover.jpg/80x80bb.webp",
-        "appleID": "so-long/1359134827"
-    },
-    {
-        "ranking": "91",
-        "title": "Rise & Fall (feat. Sting)",
-        "artist": "Craig David",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/3b/d5/ff3bd57f-50e7-467b-8b8f-5a7af4965e7f/886446379395.jpg/80x80bb.webp",
-        "appleID": "rise-fall-feat-sting/1209160061"
-    },
-    {
-        "ranking": "92",
-        "title": "Someone",
-        "artist": "Pels P",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/2d/f3/752df3b5-72f3-17fa-99a8-ed88e77c6de2/5063654184033.jpg/80x80bb.webp",
-        "appleID": "someone/1790980804"
-    },
-    {
-        "ranking": "93",
-        "title": "Benim O (Remix)",
-        "artist": "Tuğba Yurt",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/15/87/6a158705-f2d8-ee2a-cc48-50a0f7fd68e6/cover.jpg/80x80bb.webp",
-        "appleID": "benim-o-remix/1588493677"
-    },
-    {
-        "ranking": "94",
-        "title": "Magma (feat. Pdr)",
-        "artist": "Max Zotti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/a3/ef/cca3efb5-e552-8998-992a-dd925ae55f3b/cover.jpg/80x80bb.webp",
-        "appleID": "magma-feat-pdr/1743746703"
-    },
-    {
-        "ranking": "95",
-        "title": "Больная тема",
-        "artist": "Misha Marvin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/fd/cb/0ffdcbe5-b9a2-2640-f518-34c4b916347a/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BC%D0%B0/1791581697"
-    },
-    {
-        "ranking": "96",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221",
-        "youtubeID": "ekr2nIex040",
-        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-        "ranking": "97",
-        "title": "Искал тебя",
-        "artist": "Misha Marvin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/39/b9/f439b9e0-86ae-522a-a1f5-689b263a8141/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B8%D1%81%D0%BA%D0%B0%D0%BB-%D1%82%D0%B5%D0%B1%D1%8F/1797352763"
-    },
-    {
-        "ranking": "98",
-        "title": "Dance The Night",
-        "artist": "Dua Lipa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/54/97/c05497aa-c19f-bf4f-de29-71edf30fbefb/075679688767.jpg/80x80bb.webp",
-        "appleID": "dance-the-night/1689238922"
-    },
-    {
-        "ranking": "99",
-        "title": "บังเอิญมันได้อ่ะ",
-        "artist": "แอน อรดี",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/b3/13/cab313fb-88a8-7cfb-9f5c-837b18cc7cf6/cover.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%9A-%E0%B8%87%E0%B9%80%E0%B8%AD-%E0%B8%8D%E0%B8%A1-%E0%B8%99%E0%B9%84%E0%B8%94-%E0%B8%AD-%E0%B8%B0/1794102965"
-    },
-    {
-        "ranking": "100",
-        "title": "Take Me to Church",
-        "artist": "Hozier",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/80x80bb.webp",
-        "appleID": "take-me-to-church/900672609",
-        "spotifyID": "3dYD57lRAUcMHufyqn9GcI"
-    }
+  {
+    "ranking": "1",
+    "title": "Ты и я",
+    "artist": "Elsandobry",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/6b/72/296b72aa-4c3c-1e7c-3582-6a6384e26618/cover.jpg/80x80bb.webp",
+    "appleID": "%D1%82%D1%8B-%D0%B8-%D1%8F/1792307653"
+  },
+  {
+    "ranking": "2",
+    "title": "Bala",
+    "artist": "Läle Begnazarowa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/2f/5c/c32f5cfb-91f5-c88f-3876-4fbdc44e19b9/198342067451_cover.jpg/80x80bb.webp",
+    "appleID": "bala/1729492723"
+  },
+  {
+    "ranking": "3",
+    "title": "Эгоист",
+    "artist": "NAVAI",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/8e/15/0a8e15b6-59d3-70b3-5cb8-a2049d291c31/3616404377388.jpg/80x80bb.webp",
+    "appleID": "%D1%8D%D0%B3%D0%BE%D0%B8%D1%81%D1%82/1570266448"
+  },
+  {
+    "ranking": "4",
+    "title": "BAND4BAND",
+    "artist": "Central Cee",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/e2/31/0de23199-713c-a145-73f5-be8d30510cb6/196872143188.jpg/80x80bb.webp",
+    "appleID": "band4band/1747857516"
+  },
+  {
+    "ranking": "5",
+    "title": "Ýekejäm (feat. Aydayozin)",
+    "artist": "Annush Myratdurdyyew",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/f5/ee/f9f5ee92-d92c-7216-fef4-e7bd132ed90e/056870273105.png/80x80bb.webp",
+    "appleID": "%C3%BDekej%C3%A4m-feat-aydayozin/1799013356"
+  },
+  {
+    "ranking": "6",
+    "title": "Медуза",
+    "artist": "MATRANG",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/50/a3/bd/50a3bdf5-4a85-8dc6-7fc1-b63e4c531ac6/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B0/1341643872"
+  },
+  {
+    "ranking": "7",
+    "title": "I Adore You (feat. Daecolm)",
+    "artist": "HUGEL",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+    "appleID": "i-adore-you-feat-daecolm/1756335935"
+  },
+  {
+    "ranking": "8",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "birds-of-a-feather/1739659142",
+    "youtubeID": "V9PVRfjEBTI"
+  },
+  {
+    "ranking": "9",
+    "title": "NINAO",
+    "artist": "GIMS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/9b/4c/0f9b4ce6-918a-9057-040e-85950cc438df/cover.jpg/80x80bb.webp",
+    "appleID": "ninao/1797518241",
+    "youtubeID": "VT2qF97pQNw"
+  },
+  {
+    "ranking": "10",
+    "title": "Мир нам завидовал",
+    "artist": "Akmal'",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/b0/d2/cfb0d2da-e79c-8c7c-fddd-d7343b338e5f/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%BC%D0%B8%D1%80-%D0%BD%D0%B0%D0%BC-%D0%B7%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B0%D0%BB/1760163136"
+  },
+  {
+    "ranking": "11",
+    "title": "На небеси",
+    "artist": "Ramil'",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/a3/6a/5da36a75-7d3c-ba19-9a11-93c6d8702cb1/0.jpg/80x80bb.webp",
+    "appleID": "%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B8/1796216378"
+  },
+  {
+    "ranking": "12",
+    "title": "LoveDrug",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/11/d1/be11d187-1aeb-99f3-01c5-597ed65cdb6a/25UMGIM07433.rgb.jpg/80x80bb.webp",
+    "appleID": "lovedrug/1792667018",
+    "youtubeID": "tDwm4PdoYPw"
+  },
+  {
+    "ranking": "13",
+    "title": "Timeless",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "ranking": "14",
+    "title": "Мир",
+    "artist": "Гио ПиКа",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c0/18/f4c01814-4108-c558-26b8-909d71db0fdc/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%BC%D0%B8%D1%80/1740147266"
+  },
+  {
+    "ranking": "15",
+    "title": "İstədim",
+    "artist": "Roza Zərgərli",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/54/27/4b542773-0da0-1420-3615-5dd4c6e4ddef/cover.jpg/80x80bb.webp",
+    "appleID": "i-st%C9%99dim/1773788703",
+    "youtubeID": "SpYWHk5rrIU"
+  },
+  {
+    "ranking": "16",
+    "title": "I Adore You (feat. Topic, Arash & Daecolm)",
+    "artist": "HUGEL",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/b1/f6/31b1f62c-d510-72b1-e5e3-c76899ecb32c/24UM1IM17396.rgb.jpg/80x80bb.webp",
+    "appleID": "i-adore-you-feat-topic-arash-daecolm/1776582596"
+  },
+  {
+    "ranking": "17",
+    "title": "Bad Dreams",
+    "artist": "Teddy Swims",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+    "appleID": "bad-dreams/1765799904",
+    "youtubeID": "Qh8QwVYOSVU",
+    "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
+  },
+  {
+    "ranking": "18",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/c9/45/40c94523-abf6-724b-a7a3-24ca0f8c95b0/25UMGIM06790.rgb.jpg/80x80bb.webp",
+    "appleID": "abracadabra/1793869710",
+    "youtubeID": "vBynw9Isr28"
+  },
+  {
+    "ranking": "19",
+    "title": "São Paulo",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/80x80bb.webp",
+    "appleID": "s%C3%A3o-paulo/1776914757",
+    "youtubeID": "2kjolTLZ_Mg"
+  },
+  {
+    "ranking": "20",
+    "title": "NC-17",
+    "artist": "Travis Scott",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/66/90/306690d4-2a29-402e-e406-6b319ce7731a/886447227169.jpg/80x80bb.webp",
+    "appleID": "nc-17/1421243057"
+  },
+  {
+    "ranking": "21",
+    "title": "Aria",
+    "artist": "Argy",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/36/7b/85367bd1-ec48-129e-8c23-a5fa64ec8085/4251353207448_Cover.jpg/80x80bb.webp",
+    "appleID": "aria/1719003750"
+  },
+  {
+    "ranking": "22",
+    "title": "Берегом (from \"360\" session)",
+    "artist": "Gruppa Skryptonite",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/df/fe/45dffe80-80b5-f066-2506-a6dc345b24f6/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%BC-from-360-session/1700643222"
+  },
+  {
+    "ranking": "23",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "24",
+    "title": "WAKE UP F1LTHY",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "wake-up-f1lthy/1802175551"
+  },
+  {
+    "ranking": "25",
+    "title": "Медленно",
+    "artist": "ANNA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/8c/69/3e8c695d-ce87-d495-ccf4-c23a60c2395b/cover.png/80x80bb.webp",
+    "appleID": "%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE/1798711405"
+  },
+  {
+    "ranking": "26",
+    "title": "Город дорог",
+    "artist": "MONA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/1777205290"
+  },
+  {
+    "ranking": "27",
+    "title": "Don't Call Tonight",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/11/d1/be11d187-1aeb-99f3-01c5-597ed65cdb6a/25UMGIM07433.rgb.jpg/80x80bb.webp",
+    "appleID": "dont-call-tonight/1792667021",
+    "youtubeID": "BeUOuvJEaBM"
+  },
+  {
+    "ranking": "28",
+    "title": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+    "appleID": "cruel-summer/1468058171",
+    "youtubeID": "ic8j13piAhQ"
+  },
+  {
+    "ranking": "29",
+    "title": "I Got Love (feat. Рем Дигга)",
+    "artist": "Miyagi & Эндшпиль",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f3/dd/98f3dd8f-b5b4-d6a1-849c-795130748b81/cover.jpg/80x80bb.webp",
+    "appleID": "i-got-love-feat-%D1%80%D0%B5%D0%BC-%D0%B4%D0%B8%D0%B3%D0%B3%D0%B0/1604435517"
+  },
+  {
+    "ranking": "30",
+    "title": "Azul",
+    "artist": "J Balvin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/b3/66/aeb36667-f9b2-c455-c3fc-a53bbd5ec4c1/20UMGIM10542.rgb.jpg/80x80bb.webp",
+    "appleID": "azul/1500491200"
+  },
+  {
+    "ranking": "31",
+    "title": "Как ты там",
+    "artist": "Асия",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/7b/42/6a7b4287-6ee1-06dd-3083-4b3e89f55ca9/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%BA%D0%B0%D0%BA-%D1%82%D1%8B-%D1%82%D0%B0%D0%BC/1570107253"
+  },
+  {
+    "ranking": "32",
+    "title": "С ветром",
+    "artist": "Анет Сай",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/97/ee/8597ee63-75d3-5d98-b134-daae2595f9b3/cover.png/80x80bb.webp",
+    "appleID": "%D1%81-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%BC/1745371484"
+  },
+  {
+    "ranking": "33",
+    "title": "Kosandra",
+    "artist": "Miyagi & Andy Panda",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/5e/53/1c5e53e5-24ed-2b7c-17ba-f946b7d0b324/cover.jpg/80x80bb.webp",
+    "appleID": "kosandra/1498417852"
+  },
+  {
+    "ranking": "34",
+    "title": "Ты словно целая вселенная",
+    "artist": "Jah Khalib",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/c3/32/87c33213-77ec-53aa-269e-4b845f29c5e2/190295980924.jpg/80x80bb.webp",
+    "appleID": "%D1%82%D1%8B-%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE-%D1%86%D0%B5%D0%BB%D0%B0%D1%8F-%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F/1090557340"
+  },
+  {
+    "ranking": "35",
+    "title": "Addicted (feat. Ink)",
+    "artist": "ZERB",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/df/a1/0fdfa19f-aae2-c601-3c44-9d3e45f80adf/8721056755820.png/80x80bb.webp",
+    "appleID": "addicted-feat-ink/1734260111"
+  },
+  {
+    "ranking": "36",
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "luther/1781270323",
+    "youtubeID": "4_taypLmSMU"
+  },
+  {
+    "ranking": "37",
+    "title": "Половина моя",
+    "artist": "Miyagi & Эндшпиль",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/36/52/dd3652f4-d349-8ec7-48d5-3c8af521bc70/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0-%D0%BC%D0%BE%D1%8F/1604540076"
+  },
+  {
+    "ranking": "38",
+    "title": "волна",
+    "artist": "tima ishet svet",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/ec/85/3eec8526-4e60-fb9b-bb27-7b5bbf4a3d1f/14_001_tima_ishchet_svet-zerkalo.jpg/80x80bb.webp",
+    "appleID": "%D0%B2%D0%BE%D0%BB%D0%BD%D0%B0/1706800960"
+  },
+  {
+    "ranking": "39",
+    "title": "Unforgettable (feat. Swae Lee)",
+    "artist": "French Montana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/35/83/2c3583bb-609d-246f-ff42-acbc726b64d3/886446570396.jpg/80x80bb.webp",
+    "appleID": "unforgettable-feat-swae-lee/1254555499",
+    "youtubeID": "CTFtOOh47oo"
+  },
+  {
+    "ranking": "40",
+    "title": "Anxiety",
+    "artist": "Doechii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/40/3c/29403c14-83aa-dba0-9f89-e8ff2d039f42/25UMGIM39878.rgb.jpg/80x80bb.webp",
+    "appleID": "anxiety/1800052074",
+    "youtubeID": "egemoVK0IKY"
+  },
+  {
+    "ranking": "41",
+    "title": "Боже, как завидую",
+    "artist": "HammAli & Navai",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/be/06/26be06b5-aa50-b1ce-cee4-42e0253e601a/190296363795.jpg/80x80bb.webp",
+    "appleID": "%D0%B1%D0%BE%D0%B6%D0%B5-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%B2%D0%B8%D0%B4%D1%83%D1%8E/1593283962"
+  },
+  {
+    "ranking": "42",
+    "title": "Alizarin Crimson",
+    "artist": "Bo Degas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/6e/33/926e334b-9b3a-42b6-90e2-de127e76ecf4/192641671395_Cover.jpg/80x80bb.webp",
+    "appleID": "alizarin-crimson/1554408353"
+  },
+  {
+    "ranking": "43",
+    "title": "I Had Some Help (feat. Morgan Wallen)",
+    "artist": "Post Malone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+    "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+    "youtubeID": "4QIZE708gJ4"
+  },
+  {
+    "ranking": "44",
+    "title": "Самолеты",
+    "artist": "Женя Трофимов",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/07/fc/c907fc68-acb5-5e03-e3bd-a6a789ae81f3/0.jpg/80x80bb.webp",
+    "appleID": "%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D1%8B/1649654272",
+    "youtubeID": "9NhPFQjUbbE"
+  },
+  {
+    "ranking": "45",
+    "title": "Love",
+    "artist": "Sevak",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/ed/6c/28ed6ce1-0388-2cc1-dac0-b7b6b87f1bda/cover.jpg/80x80bb.webp",
+    "appleID": "love/1753736974"
+  },
+  {
+    "ranking": "46",
+    "title": "Champa tveq",
+    "artist": "Arkadi Dumikyan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/30/46/23/304623e6-e526-54dc-4e23-86c32a2256f8/cover.jpg/80x80bb.webp",
+    "appleID": "champa-tveq/1641333574"
+  },
+  {
+    "ranking": "47",
+    "title": "Девочка танцуй",
+    "artist": "Artik & Asti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/65/61/a46561df-e61d-88d8-8981-800ca4edb939/190295288952.jpg/80x80bb.webp",
+    "appleID": "%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0-%D1%82%D0%B0%D0%BD%D1%86%D1%83%D0%B9/1497019360"
+  },
+  {
+    "ranking": "48",
+    "title": "Qalbi Fil Madinah",
+    "artist": "Maher Zain",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/1a/38/f31a3883-f29f-7f7a-d79a-749c21d44011/199066701553.jpg/80x80bb.webp",
+    "appleID": "qalbi-fil-madinah/1800686517"
+  },
+  {
+    "ranking": "49",
+    "title": "Beautiful Things",
+    "artist": "Benson Boone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+    "appleID": "beautiful-things/1724488124",
+    "youtubeID": "Oa_RSwwpPaA"
+  },
+  {
+    "ranking": "50",
+    "title": "Nobody (Studio Version)",
+    "artist": "Charlie Jeer",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/09/48/80094820-4c10-efff-f9b9-98f79780ef4a/25UMGIM10921.rgb.jpg/80x80bb.webp",
+    "appleID": "nobody-studio-version/1798517182"
+  },
+  {
+    "ranking": "51",
+    "title": "Often (Kygo Remix)",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7c/d4/d9/7cd4d9c0-80c2-4735-efd8-42c9599b9d78/15UMGIM18137.rgb.jpg/80x80bb.webp",
+    "appleID": "often-kygo-remix/1445122282"
+  },
+  {
+    "ranking": "52",
+    "title": "Худи",
+    "artist": "GeeGun",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d5/f6/4ed5f625-3b9b-4a89-578a-500006fda8ef/0.jpg/80x80bb.webp",
+    "appleID": "%D1%85%D1%83%D0%B4%D0%B8/1773067341"
+  },
+  {
+    "ranking": "53",
+    "title": "A Million On My Soul (Remix)",
+    "artist": "Moses",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/68/ca/f0/68caf05b-1f2f-f3a1-1027-5d1fd84fdc81/cover.jpg/80x80bb.webp",
+    "appleID": "a-million-on-my-soul-remix/1654955322"
+  },
+  {
+    "ranking": "54",
+    "title": "Вороны",
+    "artist": "Xcho",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/55/8a/aa/558aaa0d-37fd-b7c8-2f66-0e5926a9fef7/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1587178099",
+    "spotifyID": "1eQc0azOMOv6VuqQi9c2Ba"
+  },
+  {
+    "ranking": "55",
+    "title": "Let Me Come To Life",
+    "artist": "Klangkarussell",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/fd/10/11fd1049-237a-8bf9-fa8a-cc6a76277c5f/5053760126102_cover.jpg/80x80bb.webp",
+    "appleID": "let-me-come-to-life/1784964875"
+  },
+  {
+    "ranking": "56",
+    "title": "Damlarsın",
+    "artist": "Cakal",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/7a/2c/347a2c89-7f81-ca33-7ed6-7d4295cf7739/cover.jpg/80x80bb.webp",
+    "appleID": "damlars%C4%B1n/1746489545",
+    "youtubeID": "zAQ9n1v1wIM"
+  },
+  {
+    "ranking": "57",
+    "title": "Перемены – это красиво",
+    "artist": "МОТ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/3d/b2/5e3db25d-f794-7260-7a41-b02d35b053b9/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%8B-%D1%8D%D1%82%D0%BE-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE/1789723481"
+  },
+  {
+    "ranking": "58",
+    "title": "Yasemin",
+    "artist": "Burak Bulut",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/6b/75/7b6b758d-6dea-cb2c-953c-09bbea2df346/cover.jpg/80x80bb.webp",
+    "appleID": "yasemin/1796213694"
+  },
+  {
+    "ranking": "59",
+    "title": "Харизма",
+    "artist": "Wallem",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/13/5b/51/135b512e-c036-41e9-6593-5af07abfc0a9/0.jpg/80x80bb.webp",
+    "appleID": "%D1%85%D0%B0%D1%80%D0%B8%D0%B7%D0%BC%D0%B0/1734393251",
+    "youtubeID": "fsiXx2Lpu1w"
+  },
+  {
+    "ranking": "60",
+    "title": "Orion (Sistek Remix)",
+    "artist": "Boza",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/2b/e5/4e2be5b6-8e51-5272-f2ef-5e81c3d19685/196872372205.jpg/80x80bb.webp",
+    "appleID": "orion/1747034856"
+  },
+  {
+    "ranking": "61",
+    "title": "Shadow Of A Man",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/11/d1/be11d187-1aeb-99f3-01c5-597ed65cdb6a/25UMGIM07433.rgb.jpg/80x80bb.webp",
+    "appleID": "shadow-of-a-man/1792667023",
+    "youtubeID": "LJEED4n1dP4"
+  },
+  {
+    "ranking": "62",
+    "title": "Иордан",
+    "artist": "MONA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B8%D0%BE%D1%80%D0%B4%D0%B0%D0%BD/1777205296"
+  },
+  {
+    "ranking": "63",
+    "title": "Ignite (feat. SeungRi) [Different Heaven Remix]",
+    "artist": "K-391",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/9d/99/539d99c8-a954-f808-9ed9-4e7e48e9a4eb/192562737163.jpg/80x80bb.webp",
+    "appleID": "ignite-feat-seungri-different-heaven-remix/1405589954"
+  },
+  {
+    "ranking": "64",
+    "title": "Ayrılık Zor",
+    "artist": "Tarkan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/cc/1a/18/cc1a1870-c8d5-746d-93c4-a9b07b0477c9/cover.jpg/80x80bb.webp",
+    "appleID": "ayr%C4%B1l%C4%B1k-zor/745148665"
+  },
+  {
+    "ranking": "65",
+    "title": "It's Not Right (But It's Ok)",
+    "artist": "Mr. Belt & Wezol",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/a7/67/07a767bb-1cc9-7565-030b-5986d4485d63/196871740036.jpg/80x80bb.webp",
+    "appleID": "its-not-right-but-its-ok/1721899043"
+  },
+  {
+    "ranking": "66",
+    "title": "Too Much",
+    "artist": "Dove Cameron",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/52/f0/ac52f068-2f0e-4f8f-c848-a2a6bef2cb0c/196872912531.jpg/80x80bb.webp",
+    "appleID": "too-much/1797345121",
+    "youtubeID": "DEEL9nvxwsc"
+  },
+  {
+    "ranking": "67",
+    "title": "The Door",
+    "artist": "Teddy Swims",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+    "appleID": "the-door/1691699849",
+    "youtubeID": "VSXT4a2kRHA",
+    "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
+  },
+  {
+    "ranking": "68",
+    "title": "Раневская",
+    "artist": "Akmal'",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/eb/3f/2ceb3feb-e4d9-63e6-0efd-cbcba60ffc01/cover.jpg/80x80bb.webp",
+    "appleID": "%D1%80%D0%B0%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F/1745853083"
+  },
+  {
+    "ranking": "69",
+    "title": "In The Stars",
+    "artist": "Benson Boone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/0c/c8/960cc84f-5c48-013b-51bf-aa30b2800068/054391897046.jpg/80x80bb.webp",
+    "appleID": "in-the-stars/1621221910"
+  },
+  {
+    "ranking": "70",
+    "title": "chaotic",
+    "artist": "Tate McRae",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/20/da/e420dabe-098f-6afa-59e2-4e019a503907/196589001030.jpg/80x80bb.webp",
+    "appleID": "chaotic/1615105161"
+  },
+  {
+    "ranking": "71",
+    "title": "Entekhab",
+    "artist": "Shadmehr Aghili",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/c5/3f/81c53fb1-68e1-20be-4007-548d6cdd155b/a8c21696-00c9-4926-887f-60d4c7f5f203.jpg/80x80bb.webp",
+    "appleID": "entekhab/1736170764"
+  },
+  {
+    "ranking": "72",
+    "title": "DELRESTO (ECHOES) [feat. Beyoncé]",
+    "artist": "Travis Scott",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+    "appleID": "delresto-echoes-feat-beyonc%C3%A9/1699712652"
+  },
+  {
+    "ranking": "73",
+    "title": "My Love",
+    "artist": "Jeren Halnazarowa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/9f/02/c59f022b-a5aa-2da1-5e1e-829bbd68cd10/0.jpg/80x80bb.webp",
+    "appleID": "my-love/1763585119"
+  },
+  {
+    "ranking": "74",
+    "title": "О Yeah",
+    "artist": "In-Yan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/42/a5/a342a574-8806-ce23-9e3b-c8a9e6bf40c1/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%BE-yeah/638660151"
+  },
+  {
+    "ranking": "75",
+    "title": "We Are the People",
+    "artist": "Empire Of The Sun",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg/80x80bb.webp",
+    "appleID": "we-are-the-people/712862710"
+  },
+  {
+    "ranking": "76",
+    "title": "Gimme More",
+    "artist": "Britney Spears",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/48/eb/0548eb35-348c-a4c9-d245-8003d81214a6/884977724936.jpg/80x80bb.webp",
+    "appleID": "gimme-more/521738935"
+  },
+  {
+    "ranking": "77",
+    "title": "Don't Think Twice",
+    "artist": "Rita Ora",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/0e/cd/860ecdc9-bd69-979a-5175-2462f526b0e3/4050538896527.jpg/80x80bb.webp",
+    "appleID": "dont-think-twice/1678145509"
+  },
+  {
+    "ranking": "78",
+    "title": "Dance The Night Away",
+    "artist": "Lionel Richie",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/ec/8d/edec8d7f-ec81-a1f7-724f-904f4d8ebca1/21UMGIM60206.rgb.jpg/80x80bb.webp",
+    "appleID": "dance-the-night-away/1590233882"
+  },
+  {
+    "ranking": "79",
+    "title": "Curb your",
+    "artist": "Che Ecru",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/3c/9a/603c9a24-c7d6-a67a-7dbf-cc5369893b37/5063654579266_cover.jpg/80x80bb.webp",
+    "appleID": "curb-your/1794905365"
+  },
+  {
+    "ranking": "80",
+    "title": "Быть Счастливой",
+    "artist": "Artik & Asti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/c4/fe/65c4fe79-1d09-55b9-aacd-2b37cde1d6dc/0.jpg/80x80bb.webp",
+    "appleID": "%D0%B1%D1%8B%D1%82%D1%8C-%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2%D0%BE%D0%B9/1790257724",
+    "youtubeID": "Mc5z3mq-MKc"
+  },
+  {
+    "ranking": "81",
+    "title": "Другая причина",
+    "artist": "Nepara",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/31/ad/d8/31add85a-1fff-ad7c-e0a0-2e20eac82c14/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/1219334242"
+  },
+  {
+    "ranking": "82",
+    "title": "Idea 10",
+    "artist": "Gibran Alcocer",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4a/22/1c/4a221c91-27f7-ef51-c4cc-25e9110d3b59/197047778426_cover.jpg/80x80bb.webp",
+    "appleID": "idea-10/1647270811"
+  },
+  {
+    "ranking": "83",
+    "title": "Северное сияние",
+    "artist": "Ivan Dorn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/e5/63/56e563ae-df7f-2997-7fc0-25fe213b313c/cover.jpg/80x80bb.webp",
+    "appleID": "%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B5-%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5/1570806175"
+  },
+  {
+    "ranking": "84",
+    "title": "The Other Side",
+    "artist": "French for Rabbits",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/df/6a/88df6a41-5cc3-2e68-442d-29a941f8add4/191773674823.jpg/80x80bb.webp",
+    "appleID": "the-other-side/1280799522"
+  },
+  {
+    "ranking": "85",
+    "title": "Бобр",
+    "artist": "SLAVA SKRIPKA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/2d/ea/852dea02-5620-0c56-ad7f-c6c0e00a0038/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B1%D0%BE%D0%B1%D1%80/1763683891",
+    "youtubeID": "5oQSie6Rk0Y"
+  },
+  {
+    "ranking": "86",
+    "title": "Beggin",
+    "artist": "Max Martis",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/52/28/78522852-c7f0-4e5c-aba2-3a3fda683c30/725336541651_cover.jpg/80x80bb.webp",
+    "appleID": "beggin/1692870305"
+  },
+  {
+    "ranking": "87",
+    "title": "Another Love",
+    "artist": "Tom Odell",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
+    "appleID": "another-love/1308605492",
+    "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
+  },
+  {
+    "ranking": "88",
+    "title": "Ýürek Ýanyp Dur",
+    "artist": "Hajy Ýazmämmedow",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a2/97/59/a297590f-c459-3e73-4ed6-8cfcd059cb28/0.jpg/80x80bb.webp",
+    "appleID": "%C3%BD%C3%BCrek-%C3%BDanyp-dur/1620956594"
+  },
+  {
+    "ranking": "89",
+    "title": "Верю в тебя",
+    "artist": "ANNA ASTI",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/db/32/22db324f-aee0-1fc9-e5df-0fd9bee78ae6/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B2%D0%B5%D1%80%D1%8E-%D0%B2-%D1%82%D0%B5%D0%B1%D1%8F/1683107720",
+    "youtubeID": "SIMDuiMlKNs"
+  },
+  {
+    "ranking": "90",
+    "title": "So Long",
+    "artist": "MALFA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/11/1f/55/111f550c-56df-1f54-0e4a-4d04322e74ea/cover.jpg/80x80bb.webp",
+    "appleID": "so-long/1359134827"
+  },
+  {
+    "ranking": "91",
+    "title": "Rise & Fall (feat. Sting)",
+    "artist": "Craig David",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/3b/d5/ff3bd57f-50e7-467b-8b8f-5a7af4965e7f/886446379395.jpg/80x80bb.webp",
+    "appleID": "rise-fall-feat-sting/1209160061"
+  },
+  {
+    "ranking": "92",
+    "title": "Someone",
+    "artist": "Pels P",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/2d/f3/752df3b5-72f3-17fa-99a8-ed88e77c6de2/5063654184033.jpg/80x80bb.webp",
+    "appleID": "someone/1790980804"
+  },
+  {
+    "ranking": "93",
+    "title": "Benim O (Remix)",
+    "artist": "Tuğba Yurt",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/15/87/6a158705-f2d8-ee2a-cc48-50a0f7fd68e6/cover.jpg/80x80bb.webp",
+    "appleID": "benim-o-remix/1588493677"
+  },
+  {
+    "ranking": "94",
+    "title": "Magma (feat. Pdr)",
+    "artist": "Max Zotti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/a3/ef/cca3efb5-e552-8998-992a-dd925ae55f3b/cover.jpg/80x80bb.webp",
+    "appleID": "magma-feat-pdr/1743746703"
+  },
+  {
+    "ranking": "95",
+    "title": "Больная тема",
+    "artist": "Misha Marvin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/fd/cb/0ffdcbe5-b9a2-2640-f518-34c4b916347a/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BC%D0%B0/1791581697"
+  },
+  {
+    "ranking": "96",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221",
+    "youtubeID": "ekr2nIex040",
+    "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
+  },
+  {
+    "ranking": "97",
+    "title": "Искал тебя",
+    "artist": "Misha Marvin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/39/b9/f439b9e0-86ae-522a-a1f5-689b263a8141/cover.jpg/80x80bb.webp",
+    "appleID": "%D0%B8%D1%81%D0%BA%D0%B0%D0%BB-%D1%82%D0%B5%D0%B1%D1%8F/1797352763"
+  },
+  {
+    "ranking": "98",
+    "title": "Dance The Night",
+    "artist": "Dua Lipa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/54/97/c05497aa-c19f-bf4f-de29-71edf30fbefb/075679688767.jpg/80x80bb.webp",
+    "appleID": "dance-the-night/1689238922",
+    "youtubeID": "OiC1rgCPmUQ"
+  },
+  {
+    "ranking": "99",
+    "title": "บังเอิญมันได้อ่ะ",
+    "artist": "แอน อรดี",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/b3/13/cab313fb-88a8-7cfb-9f5c-837b18cc7cf6/cover.jpg/80x80bb.webp",
+    "appleID": "%E0%B8%9A-%E0%B8%87%E0%B9%80%E0%B8%AD-%E0%B8%8D%E0%B8%A1-%E0%B8%99%E0%B9%84%E0%B8%94-%E0%B8%AD-%E0%B8%B0/1794102965"
+  },
+  {
+    "ranking": "100",
+    "title": "Take Me to Church",
+    "artist": "Hozier",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/80x80bb.webp",
+    "appleID": "take-me-to-church/900672609",
+    "spotifyID": "3dYD57lRAUcMHufyqn9GcI",
+    "youtubeID": "PVjiKRfKpPI"
+  }
 ]

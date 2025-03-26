@@ -1,744 +1,758 @@
 [
-    {
-        "ranking": "1",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "2",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890",
-        "youtubeID": "5EpyN_6dqyk"
-    },
-    {
-        "ranking": "3",
-        "title": "Bananas (feat. Eva Skye)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/4e/ac/6d4eac63-5a38-5078-f6a3-1e9f80e24d63/artwork.jpg/80x80bb.webp",
-        "appleID": "bananas-feat-eva-skye/1741818741"
-    },
-    {
-        "ranking": "4",
-        "title": "Money Over Love",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/8d/1d1b8dee-3a9a-0a66-aaf5-51ff03f6ee37/artwork.jpg/80x80bb.webp",
-        "appleID": "money-over-love/1755905806"
-    },
-    {
-        "ranking": "5",
-        "title": "Love For Real",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/0a/3d/820a3d7c-6f51-3c6c-9bfe-0a0b056e6410/artwork.jpg/80x80bb.webp",
-        "appleID": "love-for-real/1755936533"
-    },
-    {
-        "ranking": "6",
-        "title": "Lagos Nightlife (feat. Pascal)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/1f/f3/ee1ff38a-9fda-5b13-5b77-9814ebc0bc2f/artwork.jpg/80x80bb.webp",
-        "appleID": "lagos-nightlife-feat-pascal/1782670239"
-    },
-    {
-        "ranking": "7",
-        "title": "Dance With Me",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
-        "appleID": "dance-with-me/1743580413"
-    },
-    {
-        "ranking": "8",
-        "title": "Vanessa (feat. Pascal)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/1f/f3/ee1ff38a-9fda-5b13-5b77-9814ebc0bc2f/artwork.jpg/80x80bb.webp",
-        "appleID": "vanessa-feat-pascal/1782670238"
-    },
-    {
-        "ranking": "9",
-        "title": "No Money No Love",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
-        "appleID": "no-money-no-love/1743580421"
-    },
-    {
-        "ranking": "10",
-        "title": "Take My Heart",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
-        "appleID": "take-my-heart/1743580419"
-    },
-    {
-        "ranking": "11",
-        "title": "African Vibe",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
-        "appleID": "african-vibe/1743580417"
-    },
-    {
-        "ranking": "12",
-        "title": "Dance All Night (feat. Lucky)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/f0/82/3bf082dd-cdc9-3a52-d682-5aec52f8bbb9/artwork.jpg/80x80bb.webp",
-        "appleID": "dance-all-night-feat-lucky/1783285294"
-    },
-    {
-        "ranking": "13",
-        "title": "Don't Let Them Know (feat. Lucky)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/1f/f3/ee1ff38a-9fda-5b13-5b77-9814ebc0bc2f/artwork.jpg/80x80bb.webp",
-        "appleID": "dont-let-them-know-feat-lucky/1782670237"
-    },
-    {
-        "ranking": "14",
-        "title": "Street of Lagos",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
-        "appleID": "street-of-lagos/1743580414"
-    },
-    {
-        "ranking": "15",
-        "title": "Hustle and Grind (feat. Lucky)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/1f/f3/ee1ff38a-9fda-5b13-5b77-9814ebc0bc2f/artwork.jpg/80x80bb.webp",
-        "appleID": "hustle-and-grind-feat-lucky/1782670236"
-    },
-    {
-        "ranking": "16",
-        "title": "Vibes (feat. Pascal)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/f0/82/3bf082dd-cdc9-3a52-d682-5aec52f8bbb9/artwork.jpg/80x80bb.webp",
-        "appleID": "vibes-feat-pascal/1783285295"
-    },
-    {
-        "ranking": "17",
-        "title": "Street Rhythm (feat. Pascal)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/28/20/aa2820c8-d47a-6c78-3d51-b7be39ced55d/artwork.jpg/80x80bb.webp",
-        "appleID": "street-rhythm-feat-pascal/1783720813"
-    },
-    {
-        "ranking": "18",
-        "title": "So Sweet (feat. Lucky)",
-        "artist": "FrankizDMW",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/f0/82/3bf082dd-cdc9-3a52-d682-5aec52f8bbb9/artwork.jpg/80x80bb.webp",
-        "appleID": "so-sweet-feat-lucky/1783285296"
-    },
-    {
-        "ranking": "19",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221",
-        "youtubeID": "ekr2nIex040",
-        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-        "ranking": "20",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142",
-        "youtubeID": "V9PVRfjEBTI"
-    },
-    {
-        "ranking": "21",
-        "title": "Culture",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/95/8a/31958a62-5fd9-3804-b8a2-92685a334312/artwork.jpg/80x80bb.webp",
-        "appleID": "culture/1767604008"
-    },
-    {
-        "ranking": "22",
-        "title": "Freestyle (feat. FrankizDMW)",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/95/8a/31958a62-5fd9-3804-b8a2-92685a334312/artwork.jpg/80x80bb.webp",
-        "appleID": "freestyle-feat-frankizdmw/1767604310"
-    },
-    {
-        "ranking": "23",
-        "title": "Love in the City",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/95/8a/31958a62-5fd9-3804-b8a2-92685a334312/artwork.jpg/80x80bb.webp",
-        "appleID": "love-in-the-city/1767604311"
-    },
-    {
-        "ranking": "24",
-        "title": "One More Night",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
-        "appleID": "one-more-night/1786440753"
-    },
-    {
-        "ranking": "25",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144",
-        "youtubeID": "IWKyykQBRKo",
-        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-        "ranking": "26",
-        "title": "I Adore You (feat. Daecolm)",
-        "artist": "HUGEL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
-        "appleID": "i-adore-you-feat-daecolm/1756335935"
-    },
-    {
-        "ranking": "27",
-        "title": "My Woman",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/62/24/9f622452-2cf7-254a-a2bd-7fbe16e2fd77/artwork.jpg/80x80bb.webp",
-        "appleID": "my-woman/1760612978"
-    },
-    {
-        "ranking": "28",
-        "title": "Celebrate With Me",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
-        "appleID": "celebrate-with-me/1786440755"
-    },
-    {
-        "ranking": "29",
-        "title": "Only You",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
-        "appleID": "only-you/1786440752"
-    },
-    {
-        "ranking": "30",
-        "title": "Gimme Your Love",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
-        "appleID": "gimme-your-love/1786440751"
-    },
-    {
-        "ranking": "31",
-        "title": "Piece of Mine",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
-        "appleID": "piece-of-mine/1786440754"
-    },
-    {
-        "ranking": "32",
-        "title": "Street Grooves (feat. FrankizDMW)",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
-        "appleID": "street-grooves-feat-frankizdmw/1750991861"
-    },
-    {
-        "ranking": "33",
-        "title": "luther",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323",
-        "youtubeID": "4_taypLmSMU"
-    },
-    {
-        "ranking": "34",
-        "title": "My Way (feat. FrankizDMW)",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/62/24/9f622452-2cf7-254a-a2bd-7fbe16e2fd77/artwork.jpg/80x80bb.webp",
-        "appleID": "my-way-feat-frankizdmw/1760612971"
-    },
-    {
-        "ranking": "35",
-        "title": "Not That Important (feat. FrankizDMW)",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
-        "appleID": "not-that-important-feat-frankizdmw/1750991860"
-    },
-    {
-        "ranking": "36",
-        "title": "Never Let Me Go",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
-        "appleID": "never-let-me-go/1750991862"
-    },
-    {
-        "ranking": "37",
-        "title": "I Need You More",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
-        "appleID": "i-need-you-more/1750991863"
-    },
-    {
-        "ranking": "38",
-        "title": "Last Dance With You",
-        "artist": "Eva Skye",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
-        "appleID": "last-dance-with-you/1750991859"
-    },
-    {
-        "ranking": "39",
-        "title": "Messy",
-        "artist": "Lola Young",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261",
-        "youtubeID": "k-k2_Liofy8",
-        "spotifyID": "35ISBknsCeZQtq66xABI9g"
-    },
-    {
-        "ranking": "40",
-        "title": "tv off (feat. Lefty Gunplay)",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
-        "youtubeID": "U8F5G5wR1mk"
-    },
-    {
-        "ranking": "41",
-        "title": "DtMF",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "dtmf/1787023936"
-    },
-    {
-        "ranking": "42",
-        "title": "São Paulo",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
-        "appleID": "s%C3%A3o-paulo/1776914757"
-    },
-    {
-        "ranking": "43",
-        "title": "PUSH 2 START",
-        "artist": "Tyla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889",
-        "youtubeID": "uLK2r3sG4lE",
-        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
-        "ranking": "44",
-        "title": "4X4",
-        "artist": "Travis Scott",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3d/3b/c43d3b9d-90ba-0cdd-9614-17f9b034163d/196872779820.jpg/80x80bb.webp",
-        "appleID": "4x4/1792323326"
-    },
-    {
-        "ranking": "45",
-        "title": "Sports car",
-        "artist": "Tate McRae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/69/51/576951b7-121d-68fb-3210-06beaf5ec117/196872648911.jpg/80x80bb.webp",
-        "appleID": "sports-car/1779319634"
-    },
-    {
-        "ranking": "46",
-        "title": "CRG",
-        "artist": "Central Cee",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
-        "appleID": "crg/1783404298"
-    },
-    {
-        "ranking": "47",
-        "title": "That’s So True",
-        "artist": "Gracie Abrams",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483",
-        "youtubeID": "BDHM8cyJQa8",
-        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-        "ranking": "48",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434",
-        "youtubeID": "eVli-tstM5E"
-    },
-    {
-        "ranking": "49",
-        "title": "GBP",
-        "artist": "Central Cee",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
-        "appleID": "gbp/1783404294"
-    },
-    {
-        "ranking": "50",
-        "title": "Truth In The Lies",
-        "artist": "Central Cee",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
-        "appleID": "truth-in-the-lies/1783404301"
-    },
-    {
-        "ranking": "51",
-        "title": "Awl Mara",
-        "artist": "حمزة المحمداوي",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/55/32/905532cb-26aa-47f0-6d92-48af69ec66a5/1204929.jpg/80x80bb.webp",
-        "appleID": "awl-mara/1775757197"
-    },
-    {
-        "ranking": "52",
-        "title": "Move",
-        "artist": "Adam Port",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
-        "appleID": "move/1749043132"
-    },
-    {
-        "ranking": "53",
-        "title": "A Sky Full of Stars",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
-        "appleID": "a-sky-full-of-stars/829910927",
-        "youtubeID": "VPRjCeoBqrI"
-    },
-    {
-        "ranking": "54",
-        "title": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167",
-        "youtubeID": "H58vbez_m4E"
-    },
-    {
-        "ranking": "55",
-        "title": "30 For 30 (with Kendrick Lamar)",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/bd/88/97bd8804-7d3e-e6c8-0532-ff22877b931c/196871766890.jpg/80x80bb.webp",
-        "appleID": "30-for-30-with-kendrick-lamar/1786643047"
-    },
-    {
-        "ranking": "56",
-        "title": "Apocalypse",
-        "artist": "Cigarettes After Sex",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1215409245",
-        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
-    },
-    {
-        "ranking": "57",
-        "title": "غصن رمان",
-        "artist": "Maryam Shehab",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/60/c6/9d60c6af-5e8e-70bf-ee71-5c702d6b0acc/197342851626_cover.jpg/80x80bb.webp",
-        "appleID": "%D8%BA%D8%B5%D9%86-%D8%B1%D9%85%D8%A7%D9%86/1782983321"
-    },
-    {
-        "ranking": "58",
-        "title": "HIGHEST IN THE ROOM",
-        "artist": "Travis Scott",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "appleID": "highest-in-the-room/1481874619",
-        "spotifyID": "3eekarcy7kvN4yt5ZFzltW"
-    },
-    {
-        "ranking": "59",
-        "title": "FE!N (feat. Playboi Carti)",
-        "artist": "Travis Scott",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651",
-        "youtubeID": "B9synWjqBn8"
-    },
-    {
-        "ranking": "60",
-        "title": "Be My First One",
-        "artist": "TalkinToys",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/f4/e8/f9f4e8f0-d316-364c-262a-6d48f84b333a/859748785782_cover.jpg/80x80bb.webp",
-        "appleID": "be-my-first-one/1574665546"
-    },
-    {
-        "ranking": "61",
-        "title": "Lammah",
-        "artist": "Ayed",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/db/b9/67dbb911-e406-b3bd-20bc-8d2f8597d22c/1199799.jpg/80x80bb.webp",
-        "appleID": "lammah/1759405298",
-        "spotifyID": "0Hk9OFVAxB6mxTtLmmFdkT"
-    },
-    {
-        "ranking": "62",
-        "title": "Fat Juicy & Wet",
-        "artist": "Sexyy Red",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/5f/70/b45f70a8-b4d4-133e-b01b-3be8ff8b899b/075679623485.jpg/80x80bb.webp",
-        "appleID": "fat-juicy-wet/1789858333"
-    },
-    {
-        "ranking": "63",
-        "title": "ჩუბინა",
-        "artist": "Chub1na.Ge",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d2/fb/8fd2fb73-268e-ab1b-13d3-2cb8d8a03796/197994286692.jpg/80x80bb.webp",
-        "appleID": "%E1%83%A9%E1%83%A3%E1%83%91%E1%83%98%E1%83%9C%E1%83%90/1761833943"
-    },
-    {
-        "ranking": "64",
-        "title": "ناري",
-        "artist": "Ahmad Satar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/ab/2b/70ab2b5b-b69e-e198-d670-4c93febdcc41/28020.jpg/80x80bb.webp",
-        "appleID": "%D9%86%D8%A7%D8%B1%D9%8A/1786250047"
-    },
-    {
-        "ranking": "65",
-        "title": "No Pole",
-        "artist": "Don Toliver",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/53/6d/8b536d87-020f-ae55-87e4-d316b9ef570b/075679693464.jpg/80x80bb.webp",
-        "appleID": "no-pole/1674872965",
-        "spotifyID": "0eaVIYo2zeOaGJeqZ5TwYz"
-    },
-    {
-        "ranking": "66",
-        "title": "Taste",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079",
-        "youtubeID": "KEG7b851Ric",
-        "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
-    },
-    {
-        "ranking": "67",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "appleID": "gata-only/1727813561"
-    },
-    {
-        "ranking": "68",
-        "title": "Rush",
-        "artist": "Ayra Starr",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573",
-        "youtubeID": "crtQSTYWtqE"
-    },
-    {
-        "ranking": "69",
-        "title": "Now We're Strangers",
-        "artist": "Central Cee",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
-        "appleID": "now-were-strangers/1783404300"
-    },
-    {
-        "ranking": "70",
-        "title": "Viva La Vida",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
-        "appleID": "viva-la-vida/1122773680",
-        "youtubeID": "dvgZkm1xWPE"
-    },
-    {
-        "ranking": "71",
-        "title": "Cry",
-        "artist": "Cigarettes After Sex",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/8b/2e/398b2e70-6e90-ba03-8312-0a77b4ae6916/0720841217305_cover.jpg/80x80bb.webp",
-        "appleID": "cry/1476084535",
-        "spotifyID": "3p4hRhMcb6ch8OLtATMaLw"
-    },
-    {
-        "ranking": "72",
-        "title": "Jo Tum Mere Ho",
-        "artist": "Anuv Jain",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726",
-        "youtubeID": "ilNt2bikxDI",
-        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
-    },
-    {
-        "ranking": "73",
-        "title": "squabble up",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "squabble-up/1781270321",
-        "youtubeID": "fuV4yQWdn_4",
-        "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
-    },
-    {
-        "ranking": "74",
-        "title": "Doctor",
-        "artist": "AL SHAMI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/34/90/b23490aa-c71e-2f91-63f4-612e48acb590/665096754093_cover.jpg/80x80bb.webp",
-        "appleID": "doctor/1790094283"
-    },
-    {
-        "ranking": "75",
-        "title": "OLOLUFE (feat. Sarkodie)",
-        "artist": "Oxlade",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/1e/c9/a91ec936-f543-2ee4-c61b-06db8e28bdd6/196872334166.jpg/80x80bb.webp",
-        "appleID": "ololufe-feat-sarkodie/1761370262"
-    },
-    {
-        "ranking": "76",
-        "title": "KU LO SA - A COLORS SHOW",
-        "artist": "Oxlade",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/6c/c7/3c6cc7b9-5bff-e196-2751-665fa5705ab1/196589232137.jpg/80x80bb.webp",
-        "appleID": "ku-lo-sa-a-colors-show/1628125458"
-    },
-    {
-        "ranking": "77",
-        "title": "Akthar Shakhs Beldonia",
-        "artist": "Rashed Al Majid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/70/1b/fd/701bfde7-0ca4-70e5-75cb-99ad68a682c8/849035.jpg/80x80bb.webp",
-        "appleID": "akthar-shakhs-beldonia/1367128259"
-    },
-    {
-        "ranking": "78",
-        "title": "Mockingbird",
-        "artist": "Eminem",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/bf/10/8bbf10dc-5dcb-9b81-6ec2-83341286ff72/00602498646717.rgb.jpg/80x80bb.webp",
-        "appleID": "mockingbird/1452852850"
-    },
-    {
-        "ranking": "79",
-        "title": "UNAVAILABLE (feat. Musa Keys)",
-        "artist": "Davido",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "unavailable-feat-musa-keys/1675379749"
-    },
-    {
-        "ranking": "80",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141",
-        "youtubeID": "BY_XwvKogC8",
-        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-        "ranking": "81",
-        "title": "Under the Influence",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
-        "appleID": "under-the-influence/1481623864"
-    },
-    {
-        "ranking": "82",
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568",
-        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
-    },
-    {
-        "ranking": "83",
-        "title": "One Dance (feat. Wizkid & Kyla)",
-        "artist": "Drake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/80x80bb.webp",
-        "appleID": "one-dance-feat-wizkid-kyla/1440843496"
-    },
-    {
-        "ranking": "84",
-        "title": "Lose Control",
-        "artist": "Teddy Swims",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836",
-        "youtubeID": "GZ3zL7kT6_c",
-        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-        "ranking": "85",
-        "title": "Too Many Nights (feat. Don Toliver)",
-        "artist": "Metro Boomin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/3b/09723b88-9b18-e466-7ae0-05a17688bb52/22UM1IM35114.rgb.jpg/80x80bb.webp",
-        "appleID": "too-many-nights-feat-don-toliver/1657271966"
-    },
-    {
-        "ranking": "86",
-        "title": "Far Away (feat. Jay Melody)",
-        "artist": "GENIUSJINI X66",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/58/3b/6e583b9b-8aa6-9495-3d0f-e8fc9a54505f/797885222923_cover.jpg/80x80bb.webp",
-        "appleID": "far-away-feat-jay-melody/1753768517"
-    },
-    {
-        "ranking": "87",
-        "title": "Starboy (feat. Daft Punk)",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/d4/bd/0ed4bd74-cff6-4aab-dd94-947256c613fb/23UMGIM22526.rgb.jpg/80x80bb.webp",
-        "appleID": "starboy-feat-daft-punk/1676999857"
-    },
-    {
-        "ranking": "88",
-        "title": "everything i wanted",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/6c/b1/c56cb16a-52c3-33b5-5189-6c65028001fb/19UM1IM00404.rgb.jpg/80x80bb.webp",
-        "appleID": "everything-i-wanted/1487502476"
-    },
-    {
-        "ranking": "89",
-        "title": "Around Me (feat. Don Toliver)",
-        "artist": "Metro Boomin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/3b/09723b88-9b18-e466-7ae0-05a17688bb52/22UM1IM35114.rgb.jpg/80x80bb.webp",
-        "appleID": "around-me-feat-don-toliver/1657271971"
-    },
-    {
-        "ranking": "90",
-        "title": "Too Sweet",
-        "artist": "Hozier",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "appleID": "too-sweet/1763072931",
-        "youtubeID": "NTpbbQUBbuo",
-        "spotifyID": "19XpFsce28aByvCC4g89tJ"
-    },
-    {
-        "ranking": "91",
-        "title": "soso",
-        "artist": "Omah Lay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/77/f7/b177f74e-ff94-ac1f-0317-e0e120178661/093624869191.jpg/80x80bb.webp",
-        "appleID": "soso/1744454213"
-    },
-    {
-        "ranking": "92",
-        "title": "Another Love",
-        "artist": "Tom Odell",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/88/20/85882004-3fb7-755d-3f08-37a05a141281/886443853324.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492",
-        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-        "ranking": "93",
-        "title": "Jhol",
-        "artist": "Maanu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/63/b9/bf63b9bd-5cb4-0aeb-0464-975608042ce2/085365403741.jpg/80x80bb.webp",
-        "appleID": "jhol/1748567106"
-    },
-    {
-        "ranking": "94",
-        "title": "Set Fire to the Rain",
-        "artist": "Adele",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "set-fire-to-the-rain/1544491988",
-        "spotifyID": "7j4OmvkjRz0PrjFADlHfQx"
-    },
-    {
-        "ranking": "95",
-        "title": "Charm",
-        "artist": "Rema",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/97/ea/c897ea8e-fbc6-d4b8-48fe-d9e31b46f1ed/23SYMIM04172.rgb.jpg/80x80bb.webp",
-        "appleID": "charm/1683359955"
-    },
-    {
-        "ranking": "96",
-        "title": "Mn Mithlek",
-        "artist": "Abdul Majeed Abdullah",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/17/73/21/17732130-c646-fa64-6837-140a6b7e720e/950792.jpg/80x80bb.webp",
-        "appleID": "mn-mithlek/1435784510"
-    },
-    {
-        "ranking": "97",
-        "title": "Calm Down",
-        "artist": "Rema",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/80x80bb.webp",
-        "appleID": "calm-down/1640501238"
-    },
-    {
-        "ranking": "98",
-        "title": "City Boys",
-        "artist": "Burna Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/3e/3e/e93e3e48-6f68-c368-83b4-d15d54fe53c2/075679673787.jpg/80x80bb.webp",
-        "appleID": "city-boys/1699611432"
-    },
-    {
-        "ranking": "99",
-        "title": "Creepin'",
-        "artist": "Metro Boomin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/3b/09723b88-9b18-e466-7ae0-05a17688bb52/22UM1IM35114.rgb.jpg/80x80bb.webp",
-        "appleID": "creepin/1657271974"
-    },
-    {
-        "ranking": "100",
-        "title": "She Will (feat. Drake)",
-        "artist": "Lil Wayne",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/74/e5/6a74e5c4-398e-90e9-0b2e-ec96d780316e/21UMGIM75384.rgb.jpg/80x80bb.webp",
-        "appleID": "she-will-feat-drake/1580652347"
-    }
+  {
+    "ranking": "1",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "2",
+    "title": "Timeless",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "ranking": "3",
+    "title": "Bananas (feat. Eva Skye)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/4e/ac/6d4eac63-5a38-5078-f6a3-1e9f80e24d63/artwork.jpg/80x80bb.webp",
+    "appleID": "bananas-feat-eva-skye/1741818741"
+  },
+  {
+    "ranking": "4",
+    "title": "Money Over Love",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/8d/1d1b8dee-3a9a-0a66-aaf5-51ff03f6ee37/artwork.jpg/80x80bb.webp",
+    "appleID": "money-over-love/1755905806"
+  },
+  {
+    "ranking": "5",
+    "title": "Love For Real",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/0a/3d/820a3d7c-6f51-3c6c-9bfe-0a0b056e6410/artwork.jpg/80x80bb.webp",
+    "appleID": "love-for-real/1755936533"
+  },
+  {
+    "ranking": "6",
+    "title": "Lagos Nightlife (feat. Pascal)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/1f/f3/ee1ff38a-9fda-5b13-5b77-9814ebc0bc2f/artwork.jpg/80x80bb.webp",
+    "appleID": "lagos-nightlife-feat-pascal/1782670239"
+  },
+  {
+    "ranking": "7",
+    "title": "Dance With Me",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
+    "appleID": "dance-with-me/1743580413"
+  },
+  {
+    "ranking": "8",
+    "title": "Vanessa (feat. Pascal)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/1f/f3/ee1ff38a-9fda-5b13-5b77-9814ebc0bc2f/artwork.jpg/80x80bb.webp",
+    "appleID": "vanessa-feat-pascal/1782670238"
+  },
+  {
+    "ranking": "9",
+    "title": "No Money No Love",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
+    "appleID": "no-money-no-love/1743580421"
+  },
+  {
+    "ranking": "10",
+    "title": "Take My Heart",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
+    "appleID": "take-my-heart/1743580419"
+  },
+  {
+    "ranking": "11",
+    "title": "African Vibe",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
+    "appleID": "african-vibe/1743580417"
+  },
+  {
+    "ranking": "12",
+    "title": "Dance All Night (feat. Lucky)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/f0/82/3bf082dd-cdc9-3a52-d682-5aec52f8bbb9/artwork.jpg/80x80bb.webp",
+    "appleID": "dance-all-night-feat-lucky/1783285294"
+  },
+  {
+    "ranking": "13",
+    "title": "Don't Let Them Know (feat. Lucky)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/1f/f3/ee1ff38a-9fda-5b13-5b77-9814ebc0bc2f/artwork.jpg/80x80bb.webp",
+    "appleID": "dont-let-them-know-feat-lucky/1782670237"
+  },
+  {
+    "ranking": "14",
+    "title": "Street of Lagos",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/b3/1d/b3b31df6-b807-9ad4-e24e-b10e0a12c833/artwork.jpg/80x80bb.webp",
+    "appleID": "street-of-lagos/1743580414"
+  },
+  {
+    "ranking": "15",
+    "title": "Hustle and Grind (feat. Lucky)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/1f/f3/ee1ff38a-9fda-5b13-5b77-9814ebc0bc2f/artwork.jpg/80x80bb.webp",
+    "appleID": "hustle-and-grind-feat-lucky/1782670236"
+  },
+  {
+    "ranking": "16",
+    "title": "Vibes (feat. Pascal)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/f0/82/3bf082dd-cdc9-3a52-d682-5aec52f8bbb9/artwork.jpg/80x80bb.webp",
+    "appleID": "vibes-feat-pascal/1783285295"
+  },
+  {
+    "ranking": "17",
+    "title": "Street Rhythm (feat. Pascal)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/28/20/aa2820c8-d47a-6c78-3d51-b7be39ced55d/artwork.jpg/80x80bb.webp",
+    "appleID": "street-rhythm-feat-pascal/1783720813"
+  },
+  {
+    "ranking": "18",
+    "title": "So Sweet (feat. Lucky)",
+    "artist": "FrankizDMW",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/f0/82/3bf082dd-cdc9-3a52-d682-5aec52f8bbb9/artwork.jpg/80x80bb.webp",
+    "appleID": "so-sweet-feat-lucky/1783285296"
+  },
+  {
+    "ranking": "19",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221",
+    "youtubeID": "ekr2nIex040",
+    "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
+  },
+  {
+    "ranking": "20",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "birds-of-a-feather/1739659142",
+    "youtubeID": "V9PVRfjEBTI"
+  },
+  {
+    "ranking": "21",
+    "title": "Culture",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/95/8a/31958a62-5fd9-3804-b8a2-92685a334312/artwork.jpg/80x80bb.webp",
+    "appleID": "culture/1767604008"
+  },
+  {
+    "ranking": "22",
+    "title": "Freestyle (feat. FrankizDMW)",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/95/8a/31958a62-5fd9-3804-b8a2-92685a334312/artwork.jpg/80x80bb.webp",
+    "appleID": "freestyle-feat-frankizdmw/1767604310"
+  },
+  {
+    "ranking": "23",
+    "title": "Love in the City",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/95/8a/31958a62-5fd9-3804-b8a2-92685a334312/artwork.jpg/80x80bb.webp",
+    "appleID": "love-in-the-city/1767604311"
+  },
+  {
+    "ranking": "24",
+    "title": "One More Night",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
+    "appleID": "one-more-night/1786440753"
+  },
+  {
+    "ranking": "25",
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "wildflower/1739659144",
+    "youtubeID": "IWKyykQBRKo",
+    "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
+  },
+  {
+    "ranking": "26",
+    "title": "I Adore You (feat. Daecolm)",
+    "artist": "HUGEL",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+    "appleID": "i-adore-you-feat-daecolm/1756335935"
+  },
+  {
+    "ranking": "27",
+    "title": "My Woman",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/62/24/9f622452-2cf7-254a-a2bd-7fbe16e2fd77/artwork.jpg/80x80bb.webp",
+    "appleID": "my-woman/1760612978"
+  },
+  {
+    "ranking": "28",
+    "title": "Celebrate With Me",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
+    "appleID": "celebrate-with-me/1786440755"
+  },
+  {
+    "ranking": "29",
+    "title": "Only You",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
+    "appleID": "only-you/1786440752"
+  },
+  {
+    "ranking": "30",
+    "title": "Gimme Your Love",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
+    "appleID": "gimme-your-love/1786440751"
+  },
+  {
+    "ranking": "31",
+    "title": "Piece of Mine",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/be/3f/e0be3fd7-5fa8-507c-b7be-8c7a33400e0c/artwork.jpg/80x80bb.webp",
+    "appleID": "piece-of-mine/1786440754"
+  },
+  {
+    "ranking": "32",
+    "title": "Street Grooves (feat. FrankizDMW)",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
+    "appleID": "street-grooves-feat-frankizdmw/1750991861"
+  },
+  {
+    "ranking": "33",
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "luther/1781270323",
+    "youtubeID": "4_taypLmSMU"
+  },
+  {
+    "ranking": "34",
+    "title": "My Way (feat. FrankizDMW)",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/62/24/9f622452-2cf7-254a-a2bd-7fbe16e2fd77/artwork.jpg/80x80bb.webp",
+    "appleID": "my-way-feat-frankizdmw/1760612971"
+  },
+  {
+    "ranking": "35",
+    "title": "Not That Important (feat. FrankizDMW)",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
+    "appleID": "not-that-important-feat-frankizdmw/1750991860"
+  },
+  {
+    "ranking": "36",
+    "title": "Never Let Me Go",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
+    "appleID": "never-let-me-go/1750991862"
+  },
+  {
+    "ranking": "37",
+    "title": "I Need You More",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
+    "appleID": "i-need-you-more/1750991863"
+  },
+  {
+    "ranking": "38",
+    "title": "Last Dance With You",
+    "artist": "Eva Skye",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/a2/31/b4a231db-1c90-7e3d-8af6-4b0b2142bee9/artwork.jpg/80x80bb.webp",
+    "appleID": "last-dance-with-you/1750991859"
+  },
+  {
+    "ranking": "39",
+    "title": "Messy",
+    "artist": "Lola Young",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
+    "appleID": "messy/1743250261",
+    "youtubeID": "k-k2_Liofy8",
+    "spotifyID": "35ISBknsCeZQtq66xABI9g"
+  },
+  {
+    "ranking": "40",
+    "title": "tv off (feat. Lefty Gunplay)",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+    "youtubeID": "U8F5G5wR1mk"
+  },
+  {
+    "ranking": "41",
+    "title": "DtMF",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "dtmf/1787023936",
+    "youtubeID": "v9T_MGfzq7I"
+  },
+  {
+    "ranking": "42",
+    "title": "São Paulo",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+    "appleID": "s%C3%A3o-paulo/1776914757",
+    "youtubeID": "2kjolTLZ_Mg"
+  },
+  {
+    "ranking": "43",
+    "title": "PUSH 2 START",
+    "artist": "Tyla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
+    "appleID": "push-2-start/1772394889",
+    "youtubeID": "uLK2r3sG4lE",
+    "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
+  },
+  {
+    "ranking": "44",
+    "title": "4X4",
+    "artist": "Travis Scott",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3d/3b/c43d3b9d-90ba-0cdd-9614-17f9b034163d/196872779820.jpg/80x80bb.webp",
+    "appleID": "4x4/1792323326",
+    "youtubeID": "LkIS4DpRPHY"
+  },
+  {
+    "ranking": "45",
+    "title": "Sports car",
+    "artist": "Tate McRae",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/69/51/576951b7-121d-68fb-3210-06beaf5ec117/196872648911.jpg/80x80bb.webp",
+    "appleID": "sports-car/1779319634",
+    "youtubeID": "7InTkBxPtK4"
+  },
+  {
+    "ranking": "46",
+    "title": "CRG",
+    "artist": "Central Cee",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
+    "appleID": "crg/1783404298"
+  },
+  {
+    "ranking": "47",
+    "title": "That’s So True",
+    "artist": "Gracie Abrams",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+    "appleID": "thats-so-true/1773474483",
+    "youtubeID": "BDHM8cyJQa8",
+    "spotifyID": "7ne4VBA60CxGM75vw0EYad"
+  },
+  {
+    "ranking": "48",
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+    "appleID": "espresso/1740212434",
+    "youtubeID": "eVli-tstM5E"
+  },
+  {
+    "ranking": "49",
+    "title": "GBP",
+    "artist": "Central Cee",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
+    "appleID": "gbp/1783404294"
+  },
+  {
+    "ranking": "50",
+    "title": "Truth In The Lies",
+    "artist": "Central Cee",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
+    "appleID": "truth-in-the-lies/1783404301"
+  },
+  {
+    "ranking": "51",
+    "title": "Awl Mara",
+    "artist": "حمزة المحمداوي",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/55/32/905532cb-26aa-47f0-6d92-48af69ec66a5/1204929.jpg/80x80bb.webp",
+    "appleID": "awl-mara/1775757197"
+  },
+  {
+    "ranking": "52",
+    "title": "Move",
+    "artist": "Adam Port",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
+    "appleID": "move/1749043132"
+  },
+  {
+    "ranking": "53",
+    "title": "A Sky Full of Stars",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
+    "appleID": "a-sky-full-of-stars/829910927",
+    "youtubeID": "VPRjCeoBqrI"
+  },
+  {
+    "ranking": "54",
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+    "appleID": "not-like-us/1744776167",
+    "youtubeID": "H58vbez_m4E"
+  },
+  {
+    "ranking": "55",
+    "title": "30 For 30 (with Kendrick Lamar)",
+    "artist": "SZA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/bd/88/97bd8804-7d3e-e6c8-0532-ff22877b931c/196871766890.jpg/80x80bb.webp",
+    "appleID": "30-for-30-with-kendrick-lamar/1786643047",
+    "youtubeID": "NEnephbahLA"
+  },
+  {
+    "ranking": "56",
+    "title": "Apocalypse",
+    "artist": "Cigarettes After Sex",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
+    "appleID": "apocalypse/1215409245",
+    "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
+  },
+  {
+    "ranking": "57",
+    "title": "غصن رمان",
+    "artist": "Maryam Shehab",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/60/c6/9d60c6af-5e8e-70bf-ee71-5c702d6b0acc/197342851626_cover.jpg/80x80bb.webp",
+    "appleID": "%D8%BA%D8%B5%D9%86-%D8%B1%D9%85%D8%A7%D9%86/1782983321",
+    "youtubeID": "9AXWuVmr6d4"
+  },
+  {
+    "ranking": "58",
+    "title": "HIGHEST IN THE ROOM",
+    "artist": "Travis Scott",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+    "appleID": "highest-in-the-room/1481874619",
+    "spotifyID": "3eekarcy7kvN4yt5ZFzltW"
+  },
+  {
+    "ranking": "59",
+    "title": "FE!N (feat. Playboi Carti)",
+    "artist": "Travis Scott",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+    "appleID": "fe-n-feat-playboi-carti/1699712651",
+    "youtubeID": "B9synWjqBn8"
+  },
+  {
+    "ranking": "60",
+    "title": "Be My First One",
+    "artist": "TalkinToys",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/f4/e8/f9f4e8f0-d316-364c-262a-6d48f84b333a/859748785782_cover.jpg/80x80bb.webp",
+    "appleID": "be-my-first-one/1574665546"
+  },
+  {
+    "ranking": "61",
+    "title": "Lammah",
+    "artist": "Ayed",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/db/b9/67dbb911-e406-b3bd-20bc-8d2f8597d22c/1199799.jpg/80x80bb.webp",
+    "appleID": "lammah/1759405298",
+    "spotifyID": "0Hk9OFVAxB6mxTtLmmFdkT"
+  },
+  {
+    "ranking": "62",
+    "title": "Fat Juicy & Wet",
+    "artist": "Sexyy Red",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/5f/70/b45f70a8-b4d4-133e-b01b-3be8ff8b899b/075679623485.jpg/80x80bb.webp",
+    "appleID": "fat-juicy-wet/1789858333"
+  },
+  {
+    "ranking": "63",
+    "title": "ჩუბინა",
+    "artist": "Chub1na.Ge",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d2/fb/8fd2fb73-268e-ab1b-13d3-2cb8d8a03796/197994286692.jpg/80x80bb.webp",
+    "appleID": "%E1%83%A9%E1%83%A3%E1%83%91%E1%83%98%E1%83%9C%E1%83%90/1761833943"
+  },
+  {
+    "ranking": "64",
+    "title": "ناري",
+    "artist": "Ahmad Satar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/ab/2b/70ab2b5b-b69e-e198-d670-4c93febdcc41/28020.jpg/80x80bb.webp",
+    "appleID": "%D9%86%D8%A7%D8%B1%D9%8A/1786250047"
+  },
+  {
+    "ranking": "65",
+    "title": "No Pole",
+    "artist": "Don Toliver",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/53/6d/8b536d87-020f-ae55-87e4-d316b9ef570b/075679693464.jpg/80x80bb.webp",
+    "appleID": "no-pole/1674872965",
+    "spotifyID": "0eaVIYo2zeOaGJeqZ5TwYz",
+    "youtubeID": "A5mURRozXtg"
+  },
+  {
+    "ranking": "66",
+    "title": "Taste",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+    "appleID": "taste/1750307079",
+    "youtubeID": "KEG7b851Ric",
+    "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
+  },
+  {
+    "ranking": "67",
+    "title": "Gata Only",
+    "artist": "FloyyMenor",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+    "appleID": "gata-only/1727813561"
+  },
+  {
+    "ranking": "68",
+    "title": "Rush",
+    "artist": "Ayra Starr",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
+    "appleID": "rush/1642898573",
+    "youtubeID": "crtQSTYWtqE"
+  },
+  {
+    "ranking": "69",
+    "title": "Now We're Strangers",
+    "artist": "Central Cee",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
+    "appleID": "now-were-strangers/1783404300",
+    "youtubeID": "CBuIINOwNTw"
+  },
+  {
+    "ranking": "70",
+    "title": "Viva La Vida",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
+    "appleID": "viva-la-vida/1122773680",
+    "youtubeID": "dvgZkm1xWPE"
+  },
+  {
+    "ranking": "71",
+    "title": "Cry",
+    "artist": "Cigarettes After Sex",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/8b/2e/398b2e70-6e90-ba03-8312-0a77b4ae6916/0720841217305_cover.jpg/80x80bb.webp",
+    "appleID": "cry/1476084535",
+    "spotifyID": "3p4hRhMcb6ch8OLtATMaLw"
+  },
+  {
+    "ranking": "72",
+    "title": "Jo Tum Mere Ho",
+    "artist": "Anuv Jain",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
+    "appleID": "jo-tum-mere-ho/1758669726",
+    "youtubeID": "ilNt2bikxDI",
+    "spotifyID": "0eCajpR75pDW0r64U6hP2x"
+  },
+  {
+    "ranking": "73",
+    "title": "squabble up",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "squabble-up/1781270321",
+    "youtubeID": "fuV4yQWdn_4",
+    "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
+  },
+  {
+    "ranking": "74",
+    "title": "Doctor",
+    "artist": "AL SHAMI",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/34/90/b23490aa-c71e-2f91-63f4-612e48acb590/665096754093_cover.jpg/80x80bb.webp",
+    "appleID": "doctor/1790094283",
+    "youtubeID": "rhOAyPKHWEo"
+  },
+  {
+    "ranking": "75",
+    "title": "OLOLUFE (feat. Sarkodie)",
+    "artist": "Oxlade",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/1e/c9/a91ec936-f543-2ee4-c61b-06db8e28bdd6/196872334166.jpg/80x80bb.webp",
+    "appleID": "ololufe-feat-sarkodie/1761370262"
+  },
+  {
+    "ranking": "76",
+    "title": "KU LO SA - A COLORS SHOW",
+    "artist": "Oxlade",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/6c/c7/3c6cc7b9-5bff-e196-2751-665fa5705ab1/196589232137.jpg/80x80bb.webp",
+    "appleID": "ku-lo-sa-a-colors-show/1628125458"
+  },
+  {
+    "ranking": "77",
+    "title": "Akthar Shakhs Beldonia",
+    "artist": "Rashed Al Majid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/70/1b/fd/701bfde7-0ca4-70e5-75cb-99ad68a682c8/849035.jpg/80x80bb.webp",
+    "appleID": "akthar-shakhs-beldonia/1367128259"
+  },
+  {
+    "ranking": "78",
+    "title": "Mockingbird",
+    "artist": "Eminem",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/bf/10/8bbf10dc-5dcb-9b81-6ec2-83341286ff72/00602498646717.rgb.jpg/80x80bb.webp",
+    "appleID": "mockingbird/1452852850"
+  },
+  {
+    "ranking": "79",
+    "title": "UNAVAILABLE (feat. Musa Keys)",
+    "artist": "Davido",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+    "appleID": "unavailable-feat-musa-keys/1675379749",
+    "youtubeID": "OSBan_sH_b8"
+  },
+  {
+    "ranking": "80",
+    "title": "CHIHIRO",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "chihiro/1739659141",
+    "youtubeID": "BY_XwvKogC8",
+    "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
+  },
+  {
+    "ranking": "81",
+    "title": "Under the Influence",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+    "appleID": "under-the-influence/1481623864",
+    "youtubeID": "pfxyk1glEq4"
+  },
+  {
+    "ranking": "82",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+    "appleID": "blinding-lights/1488408568",
+    "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b",
+    "youtubeID": "4NRXx6U8ABQ"
+  },
+  {
+    "ranking": "83",
+    "title": "One Dance (feat. Wizkid & Kyla)",
+    "artist": "Drake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/80x80bb.webp",
+    "appleID": "one-dance-feat-wizkid-kyla/1440843496"
+  },
+  {
+    "ranking": "84",
+    "title": "Lose Control",
+    "artist": "Teddy Swims",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+    "appleID": "lose-control/1691699836",
+    "youtubeID": "GZ3zL7kT6_c",
+    "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+  },
+  {
+    "ranking": "85",
+    "title": "Too Many Nights (feat. Don Toliver)",
+    "artist": "Metro Boomin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/3b/09723b88-9b18-e466-7ae0-05a17688bb52/22UM1IM35114.rgb.jpg/80x80bb.webp",
+    "appleID": "too-many-nights-feat-don-toliver/1657271966"
+  },
+  {
+    "ranking": "86",
+    "title": "Far Away (feat. Jay Melody)",
+    "artist": "GENIUSJINI X66",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/58/3b/6e583b9b-8aa6-9495-3d0f-e8fc9a54505f/797885222923_cover.jpg/80x80bb.webp",
+    "appleID": "far-away-feat-jay-melody/1753768517",
+    "youtubeID": "bAFQHwKvD24"
+  },
+  {
+    "ranking": "87",
+    "title": "Starboy (feat. Daft Punk)",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/d4/bd/0ed4bd74-cff6-4aab-dd94-947256c613fb/23UMGIM22526.rgb.jpg/80x80bb.webp",
+    "appleID": "starboy-feat-daft-punk/1676999857",
+    "youtubeID": "34Na4j8AVgA"
+  },
+  {
+    "ranking": "88",
+    "title": "everything i wanted",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/6c/b1/c56cb16a-52c3-33b5-5189-6c65028001fb/19UM1IM00404.rgb.jpg/80x80bb.webp",
+    "appleID": "everything-i-wanted/1487502476"
+  },
+  {
+    "ranking": "89",
+    "title": "Around Me (feat. Don Toliver)",
+    "artist": "Metro Boomin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/3b/09723b88-9b18-e466-7ae0-05a17688bb52/22UM1IM35114.rgb.jpg/80x80bb.webp",
+    "appleID": "around-me-feat-don-toliver/1657271971"
+  },
+  {
+    "ranking": "90",
+    "title": "Too Sweet",
+    "artist": "Hozier",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+    "appleID": "too-sweet/1763072931",
+    "youtubeID": "NTpbbQUBbuo",
+    "spotifyID": "19XpFsce28aByvCC4g89tJ"
+  },
+  {
+    "ranking": "91",
+    "title": "soso",
+    "artist": "Omah Lay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/77/f7/b177f74e-ff94-ac1f-0317-e0e120178661/093624869191.jpg/80x80bb.webp",
+    "appleID": "soso/1744454213"
+  },
+  {
+    "ranking": "92",
+    "title": "Another Love",
+    "artist": "Tom Odell",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/88/20/85882004-3fb7-755d-3f08-37a05a141281/886443853324.jpg/80x80bb.webp",
+    "appleID": "another-love/1308605492",
+    "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
+  },
+  {
+    "ranking": "93",
+    "title": "Jhol",
+    "artist": "Maanu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/63/b9/bf63b9bd-5cb4-0aeb-0464-975608042ce2/085365403741.jpg/80x80bb.webp",
+    "appleID": "jhol/1748567106"
+  },
+  {
+    "ranking": "94",
+    "title": "Set Fire to the Rain",
+    "artist": "Adele",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
+    "appleID": "set-fire-to-the-rain/1544491988",
+    "spotifyID": "7j4OmvkjRz0PrjFADlHfQx"
+  },
+  {
+    "ranking": "95",
+    "title": "Charm",
+    "artist": "Rema",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/97/ea/c897ea8e-fbc6-d4b8-48fe-d9e31b46f1ed/23SYMIM04172.rgb.jpg/80x80bb.webp",
+    "appleID": "charm/1683359955"
+  },
+  {
+    "ranking": "96",
+    "title": "Mn Mithlek",
+    "artist": "Abdul Majeed Abdullah",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/17/73/21/17732130-c646-fa64-6837-140a6b7e720e/950792.jpg/80x80bb.webp",
+    "appleID": "mn-mithlek/1435784510"
+  },
+  {
+    "ranking": "97",
+    "title": "Calm Down",
+    "artist": "Rema",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/80x80bb.webp",
+    "appleID": "calm-down/1640501238"
+  },
+  {
+    "ranking": "98",
+    "title": "City Boys",
+    "artist": "Burna Boy",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/3e/3e/e93e3e48-6f68-c368-83b4-d15d54fe53c2/075679673787.jpg/80x80bb.webp",
+    "appleID": "city-boys/1699611432"
+  },
+  {
+    "ranking": "99",
+    "title": "Creepin'",
+    "artist": "Metro Boomin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/3b/09723b88-9b18-e466-7ae0-05a17688bb52/22UM1IM35114.rgb.jpg/80x80bb.webp",
+    "appleID": "creepin/1657271974"
+  },
+  {
+    "ranking": "100",
+    "title": "She Will (feat. Drake)",
+    "artist": "Lil Wayne",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/74/e5/6a74e5c4-398e-90e9-0b2e-ec96d780316e/21UMGIM75384.rgb.jpg/80x80bb.webp",
+    "appleID": "she-will-feat-drake/1580652347"
+  }
 ]

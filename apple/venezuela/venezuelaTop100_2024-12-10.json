@@ -1,766 +1,770 @@
 [
-    {
-        "ranking": "1",
-        "title": "Running Wild",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326",
-        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh",
-        "youtubeID": "uoHol5Dr_go"
-    },
-    {
-        "ranking": "2",
-        "title": "Winter Ahead",
-        "artist": "V",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815",
-        "youtubeID": "HAWYOuMGkK0"
-    },
-    {
-        "ranking": "3",
-        "title": "Who",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M",
-        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-        "ranking": "4",
-        "title": "Be Mine",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine/1751773088",
-        "youtubeID": "MYrZ5T3jFmA",
-        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-        "ranking": "5",
-        "title": "I'll Be There",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/70/b4/e970b466-2d1d-ec04-22f3-5cb0913048b5/198704169137_Cover.jpg/80x80bb.webp",
-        "appleID": "ill-be-there/1774062735"
-    },
-    {
-        "ranking": "6",
-        "title": "White Christmas",
-        "artist": "V",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/68/9a/fc689ad8-7f67-74d1-704d-3001972201c3/00198704228605_Cover.jpg/80x80bb.webp",
-        "appleID": "white-christmas/1777448469"
-    },
-    {
-        "ranking": "7",
-        "title": "Falling",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/f5/39/6df53982-7294-1111-f384-efaa009bf4df/198704257827_Cover.jpg/80x80bb.webp",
-        "appleID": "falling/1772351433",
-        "spotifyID": "5jxuw4S5IDEY6CjjAHvRAt"
-    },
-    {
-        "ranking": "8",
-        "title": "White Christmas (Instrumental)",
-        "artist": "V",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/68/9a/fc689ad8-7f67-74d1-704d-3001972201c3/00198704228605_Cover.jpg/80x80bb.webp",
-        "appleID": "white-christmas/1777448469"
-    },
-    {
-        "ranking": "9",
-        "title": "Who (Acoustic Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M",
-        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-        "ranking": "10",
-        "title": "Who (Beautiful Mind Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M",
-        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-        "ranking": "11",
-        "title": "Who (Funky Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M",
-        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-        "ranking": "12",
-        "title": "Who (Instrumental)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M",
-        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-        "ranking": "13",
-        "title": "Who (Rock Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M",
-        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-        "ranking": "14",
-        "title": "Who (Shibuyakei Remix)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M",
-        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-        "ranking": "15",
-        "title": "Smeraldo Garden Marching Band",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "smeraldo-garden-marching-band/1757558449"
-    },
-    {
-        "ranking": "16",
-        "title": "capaz (merengueton)",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/67/89/2b6789bc-cf89-3c62-78a3-1f221e1c70cc/47155.jpg/80x80bb.webp",
-        "appleID": "capaz-merengueton/1778536681"
-    },
-    {
-        "ranking": "17",
-        "title": "Rebirth (Intro)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "rebirth-intro/1751773079"
-    },
-    {
-        "ranking": "18",
-        "title": "Interlude : Showtime",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "interlude-showtime/1751773082",
-        "spotifyID": "45zLrK0668WQ5JFMyiYmCS"
-    },
-    {
-        "ranking": "19",
-        "title": "Heaven",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "heaven/1742630133"
-    },
-    {
-        "ranking": "20",
-        "title": "lock / unlock (feat. benny blanco)",
-        "artist": "j-hope",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/05/0f/d2050f71-95a3-1bad-daaf-b8922e0918d8/196922839696_Cover.jpg/80x80bb.webp",
-        "appleID": "lock-unlock-feat-benny-blanco/1730608083"
-    },
-    {
-        "ranking": "21",
-        "title": "Closer Than This",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/db/48/8bdb480c-86f8-7aeb-5897-41fd76bac031/196922764974_Cover.jpg/80x80bb.webp",
-        "appleID": "closer-than-this/1721409260",
-        "spotifyID": "6qafqn8bBMy7t5c5WqpyRk"
-    },
-    {
-        "ranking": "22",
-        "title": "Slow Dance (feat. Sofia Carson)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "slow-dance-feat-sofia-carson/1751773086"
-    },
-    {
-        "ranking": "23",
-        "title": "Please Don't Change",
-        "artist": "Jung Kook",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
-        "appleID": "please-dont-change/1709555009"
-    },
-    {
-        "ranking": "24",
-        "title": "D-Day",
-        "artist": "Agust D",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
-        "appleID": "d-day/1681823689"
-    },
-    {
-        "ranking": "25",
-        "title": "EL CLúB",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/7a/aa/fe7aaaea-640a-30b4-17b0-11a3272e28f1/199066130155.jpg/80x80bb.webp",
-        "appleID": "el-cl%C3%BAb/1783419694",
-        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks",
-        "youtubeID": "7f6SxWMOpdU"
-    },
-    {
-        "ranking": "26",
-        "title": "Telepathy",
-        "artist": "BTS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/80x80bb.webp",
-        "appleID": "telepathy/1596532390"
-    },
-    {
-        "ranking": "27",
-        "title": "Qué Pasaría...",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
-        "youtubeID": "g08y_x83d5E",
-        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
-    },
-    {
-        "ranking": "28",
-        "title": "Falling",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "falling/1772351433",
-        "spotifyID": "5jxuw4S5IDEY6CjjAHvRAt"
-    },
-    {
-        "ranking": "29",
-        "title": "Winter Ahead (Silent Carol Ver.)",
-        "artist": "V",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815",
-        "youtubeID": "HAWYOuMGkK0"
-    },
-    {
-        "ranking": "30",
-        "title": "Another Level",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "another-level/1772351432",
-        "spotifyID": "1YmY0HUm05BUpcHibc1bhB"
-    },
-    {
-        "ranking": "31",
-        "title": "Khé?",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293",
-        "youtubeID": "7SNycTMOF74",
-        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
-    },
-    {
-        "ranking": "32",
-        "title": "Heart on the Window",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "heart-on-the-window/1772351436"
-    },
-    {
-        "ranking": "33",
-        "title": "I will come to you",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "i-will-come-to-you/1772351439",
-        "spotifyID": "5s7flUAYsDmcUWtHsMCihv"
-    },
-    {
-        "ranking": "34",
-        "title": "Winter Ahead (Instrumental)",
-        "artist": "V",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815",
-        "youtubeID": "HAWYOuMGkK0"
-    },
-    {
-        "ranking": "35",
-        "title": "ETA (feat. Yan Block & Omar Courtz) [RMX]",
-        "artist": "ROA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/5e/ca/b75eca45-4841-451d-1f4f-b238cc5bc263/24UM1IM31015.rgb.jpg/80x80bb.webp",
-        "appleID": "eta-feat-yan-block-omar-courtz-rmx/1783210841"
-    },
-    {
-        "ranking": "36",
-        "title": "Veneka",
-        "artist": "Rawayana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/96/69/c5966939-e1da-30f2-05fc-0a538877b0eb/5034644180816.jpg/80x80bb.webp",
-        "appleID": "veneka/1774205407"
-    },
-    {
-        "ranking": "37",
-        "title": "Q U E V A S H A C E R H O Y ?",
-        "artist": "Omar Courtz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
-        "appleID": "q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559"
-    },
-    {
-        "ranking": "38",
-        "title": "Imagínate",
-        "artist": "Danny Ocean",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/f2/01/b6f20168-3f31-17f0-fdfa-4eaf8bff31f0/5021732534538.jpg/80x80bb.webp",
-        "appleID": "imag%C3%ADnate/1776258309"
-    },
-    {
-        "ranking": "39",
-        "title": "LOST!",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "lost/1742630135"
-    },
-    {
-        "ranking": "40",
-        "title": "PERRO NEGRO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
-        "appleID": "perro-negro/1710983279"
-    },
-    {
-        "ranking": "41",
-        "title": "Déjame Entrar",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "d%C3%A9jame-entrar/1775462852",
-        "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb",
-        "youtubeID": "UUzmHevEneY"
-    },
-    {
-        "ranking": "42",
-        "title": "DEGENERE (feat. benny blanco)",
-        "artist": "Myke Towers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
-        "appleID": "degenere-feat-benny-blanco/1773311762"
-    },
-    {
-        "ranking": "43",
-        "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/80x80bb.webp",
-        "appleID": "57-feat-ovy-on-the-drums-j-balvin-maluma-ryan-castro-blessd/1777888950"
-    },
-    {
-        "ranking": "44",
-        "title": "Espresso Martini",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "espresso-martini/1775462861"
-    },
-    {
-        "ranking": "45",
-        "title": "Frente al Mar",
-        "artist": "Beéle",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/5e/1d/075e1d44-02ef-6a69-433d-ee3f68d1dd23/196872443325.jpg/80x80bb.webp",
-        "appleID": "frente-al-mar/1768787334",
-        "youtubeID": "IryOLXtyTRU",
-        "spotifyID": "60u6hcpH5Qm1M3xESdNBrB"
-    },
-    {
-        "ranking": "46",
-        "title": "Si Antes Te Hubiera Conocido",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539",
-        "youtubeID": "QCZZwZQ4qNs",
-        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-        "ranking": "47",
-        "title": "Ni Me Conozco",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "ni-me-conozco/1775462866",
-        "spotifyID": "0xyWkRMb09qdCDhloehCsi"
-    },
-    {
-        "ranking": "48",
-        "title": "Mi Refe",
-        "artist": "Beéle",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/5c/50055c58-0020-4fc1-7ec3-973e94123c39/196872465983.jpg/80x80bb.webp",
-        "appleID": "mi-refe/1780922407"
-    },
-    {
-        "ranking": "49",
-        "title": "Moscow Mule",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625",
-        "spotifyID": "6Xom58OOXk2SoU711L2IXO",
-        "youtubeID": "p38WgakuYDo"
-    },
-    {
-        "ranking": "50",
-        "title": "DILUVIO",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "appleID": "diluvio/1695651429",
-        "spotifyID": "2kz1YOhJiNubjigR1gB1VX"
-    },
-    {
-        "ranking": "51",
-        "title": "Nuts",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "nuts/1742629771"
-    },
-    {
-        "ranking": "52",
-        "title": "Domodachi",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "domodachi/1742629784"
-    },
-    {
-        "ranking": "53",
-        "title": "Haegeum",
-        "artist": "Agust D",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
-        "appleID": "haegeum/1681823696",
-        "spotifyID": "4bjN59DRXFRxBE1g5ne6B1"
-    },
-    {
-        "ranking": "54",
-        "title": "LUNA",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
-        "appleID": "luna/1719170507"
-    },
-    {
-        "ranking": "55",
-        "title": "MONACO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
-        "appleID": "monaco/1710982872"
-    },
-    {
-        "ranking": "56",
-        "title": "Hora Loca",
-        "artist": "Rawayana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/98/be/fa98be35-d60b-b925-6187-ca3ae306daa7/197338464793.jpg/80x80bb.webp",
-        "appleID": "hora-loca/1705874067"
-    },
-    {
-        "ranking": "57",
-        "title": "Be Mine (English Version)",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/2f/ab/e42fab67-51c7-6f8f-4482-846e1a949d3a/198704079474_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine/1751773088",
-        "youtubeID": "MYrZ5T3jFmA",
-        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-        "ranking": "58",
-        "title": "Right People, Wrong Place",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "right-people-wrong-place/1742629765"
-    },
-    {
-        "ranking": "59",
-        "title": "out of love",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "out-of-love/1742629775"
-    },
-    {
-        "ranking": "60",
-        "title": "Groin",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "groin/1742630127"
-    },
-    {
-        "ranking": "61",
-        "title": "Tú Con Él",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "t%C3%BA-con-%C3%A9l/1775462856",
-        "youtubeID": "NC4wwAtyBA8",
-        "spotifyID": "2eQFYGegTZaObk2kuBz83Z"
-    },
-    {
-        "ranking": "62",
-        "title": "Brickell",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/03/cf480322-e907-87b3-e933-217d2a73892e/24UMGIM42176.rgb.jpg/80x80bb.webp",
-        "appleID": "brickell/1740674376"
-    },
-    {
-        "ranking": "63",
-        "title": "? (Interlude)",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "interlude/1742629786"
-    },
-    {
-        "ranking": "64",
-        "title": "I Miss You",
-        "artist": "Beéle",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/bd/27/d7bd2717-cd8c-1f47-57b9-0bce2fb22bcd/196872538687.jpg/80x80bb.webp",
-        "appleID": "i-miss-you/1773435177",
-        "youtubeID": "BrGl81E4ZOc",
-        "spotifyID": "65oSp7rdpLddlRGUgogU24"
-    },
-    {
-        "ranking": "65",
-        "title": "ㅠㅠ (Credit Roll)",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "%E3%85%A0%E3%85%A0-credit-roll/1742630144"
-    },
-    {
-        "ranking": "66",
-        "title": "SORRY 4 THAT MUCH",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
-        "appleID": "sorry-4-that-much/1750132050",
-        "youtubeID": "Q2ftMmazZCU",
-        "spotifyID": "63pLfjK6FvcYJYMGwtHjd6"
-    },
-    {
-        "ranking": "67",
-        "title": "IA",
-        "artist": "Clarent",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/b5/0e/9ab50ede-7ac2-b447-f3a5-0778a837e0cc/5021732524379.jpg/80x80bb.webp",
-        "appleID": "ia/1774198954"
-    },
-    {
-        "ranking": "68",
-        "title": "Se Fue",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "se-fue/1775463295"
-    },
-    {
-        "ranking": "69",
-        "title": "NEURON",
-        "artist": "j-hope",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/05/0f/d2050f71-95a3-1bad-daaf-b8922e0918d8/196922839696_Cover.jpg/80x80bb.webp",
-        "appleID": "neuron/1730608094"
-    },
-    {
-        "ranking": "70",
-        "title": "Around the world in a day",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "around-the-world-in-a-day/1742630141"
-    },
-    {
-        "ranking": "71",
-        "title": "Santa",
-        "artist": "Rvssian",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/3b/65/783b6546-bf40-4583-1064-1d4946a82f50/196871978293.jpg/80x80bb.webp",
-        "appleID": "santa/1738270376"
-    },
-    {
-        "ranking": "72",
-        "title": "Revolú",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "revol%C3%BA/1775463289"
-    },
-    {
-        "ranking": "73",
-        "title": "Baja Pa' Acá",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "baja-pa-ac%C3%A1/1775462863"
-    },
-    {
-        "ranking": "74",
-        "title": "Come back to me",
-        "artist": "RM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "come-back-to-me/1742630454",
-        "youtubeID": "NrfikKxF4Ps"
-    },
-    {
-        "ranking": "75",
-        "title": "ADIVINO",
-        "artist": "Myke Towers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/79/1e/6c791e10-d063-a4ad-45d7-047581c289cb/5021732285218.jpg/80x80bb.webp",
-        "appleID": "adivino/1742211556"
-    },
-    {
-        "ranking": "76",
-        "title": "Bing Bong",
-        "artist": "Yailin la Mas Viral",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/a2/16/18a216c3-dea7-4af6-74bc-eb2c27036454/797885494443_cover.jpg/80x80bb.webp",
-        "appleID": "bing-bong/1776657521"
-    },
-    {
-        "ranking": "77",
-        "title": "GRAN VÍA",
-        "artist": "Quevedo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/6c/d6/216cd611-56e0-07bf-fdf6-5322796f7ccb/198846802275.jpg/80x80bb.webp",
-        "appleID": "gran-v%C3%ADa/1780125579"
-    },
-    {
-        "ranking": "78",
-        "title": "AMARGURA",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
-        "appleID": "amargura/1670246089",
-        "spotifyID": "505v13epFXodT9fVAJ6h8k"
-    },
-    {
-        "ranking": "79",
-        "title": "High (feat. Apache)",
-        "artist": "Rawayana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/48/bb/e348bb56-d21d-2dc0-f69b-e0a04560d624/645789123559.jpg/80x80bb.webp",
-        "appleID": "high-feat-apache/1556888915"
-    },
-    {
-        "ranking": "80",
-        "title": "LA CANCIÓN",
-        "artist": "J Balvin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
-        "appleID": "la-canci%C3%B3n/1470146813"
-    },
-    {
-        "ranking": "81",
-        "title": "SERIO CON ESE Q",
-        "artist": "Omar Courtz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/19/1b/ad191b49-4cfd-e7ed-f479-e2dc35ffada4/198588586679.jpg/80x80bb.webp",
-        "appleID": "serio-con-ese-q/1755048045"
-    },
-    {
-        "ranking": "82",
-        "title": "Committed",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "committed/1775462859"
-    },
-    {
-        "ranking": "83",
-        "title": "SE ME OLVIDA",
-        "artist": "Maisak",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/10/6e/32106ef5-e548-6997-3ac5-f1d8351740cb/24UMGIM91467.rgb.jpg/80x80bb.webp",
-        "appleID": "se-me-olvida/1764375272"
-    },
-    {
-        "ranking": "84",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "85",
-        "title": "me late",
-        "artist": "Alleh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/11/47/fb1147fa-9184-718d-199a-059fc9413a88/44693.jpg/80x80bb.webp",
-        "appleID": "me-late/1767508561"
-    },
-    {
-        "ranking": "86",
-        "title": "Cosas Pendientes",
-        "artist": "Maluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/51/1e/0e511e91-3327-6fe2-c0cf-b0ef3a34d941/196872618396.jpg/80x80bb.webp",
-        "appleID": "cosas-pendientes/1777477770",
-        "youtubeID": "6vPhcRew8hA",
-        "spotifyID": "0iVEujJcafOBnxa654fJYu"
-    },
-    {
-        "ranking": "87",
-        "title": "Hasta Aquí Llegué",
-        "artist": "Nanpa Básico",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/f8/5a/bdf85ae0-5cce-44b9-2234-90b876a2b662/196872197686.jpg/80x80bb.webp",
-        "appleID": "hasta-aqu%C3%AD-llegu%C3%A9/1755019904"
-    },
-    {
-        "ranking": "88",
-        "title": "Soltera",
-        "artist": "Shakira",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
-        "appleID": "soltera/1769406416",
-        "youtubeID": "oBofuVYDoG4",
-        "spotifyID": "3OJDtCdYs8QJnui708tEU3"
-    },
-    {
-        "ranking": "89",
-        "title": "2:12 AM",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "2-12-am/1775463306"
-    },
-    {
-        "ranking": "90",
-        "title": "Dame Un Break",
-        "artist": "Rawayana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/5f/5f/e05f5f1e-fdf4-42d3-afd3-d6612f2f4132/197338803783.jpg/80x80bb.webp",
-        "appleID": "dame-un-break/1681661917",
-        "spotifyID": "64CxbY7HD7nOtmfoaiWYMT"
-    },
-    {
-        "ranking": "91",
-        "title": "Binikini",
-        "artist": "Rawayana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/ba/96/46ba961d-56e6-e4f3-eee9-6b927197215e/197338901755.jpg/80x80bb.webp",
-        "appleID": "binikini/1671644454"
-    },
-    {
-        "ranking": "92",
-        "title": "Pa' Que La Pases Bien",
-        "artist": "Arcángel",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
-        "appleID": "pa-que-la-pases-bien/1247228818",
-        "spotifyID": "1pLCpA1RN8avJxSD3ZCwhj"
-    },
-    {
-        "ranking": "93",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221",
-        "youtubeID": "ekr2nIex040",
-        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-        "ranking": "94",
-        "title": "Pasaporte",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "pasaporte/1775463297"
-    },
-    {
-        "ranking": "95",
-        "title": "DEPORTIVO",
-        "artist": "Blessd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/18/58/53185856-5150-3ef5-9412-64a9503e8886/5021732544186.jpg/80x80bb.webp",
-        "appleID": "deportivo/1778254205"
-    },
-    {
-        "ranking": "96",
-        "title": "Amar De Nuevo",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "amar-de-nuevo/1775463304"
-    },
-    {
-        "ranking": "97",
-        "title": "The Astronaut",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1b/38/ea/1b38eacd-158d-5040-8887-2786d2a641bc/192641874338_Cover.jpg/80x80bb.webp",
-        "appleID": "the-astronaut/1649563461"
-    },
-    {
-        "ranking": "98",
-        "title": "Super Tuna",
-        "artist": "Jin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/67/dd/3467ddf5-e4d7-3b57-023a-76640c863a5b/198704128257_Cover.jpg/80x80bb.webp",
-        "appleID": "super-tuna/1772993924"
-    },
-    {
-        "ranking": "99",
-        "title": "Hey Mor (feat. Feid)",
-        "artist": "Ozuna",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
-        "appleID": "hey-mor-feat-feid/1646180883"
-    },
-    {
-        "ranking": "100",
-        "title": "DÁKITI",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
-        "appleID": "d%C3%A1kiti/1542103620"
-    }
+  {
+    "ranking": "1",
+    "title": "Running Wild",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
+    "appleID": "running-wild/1772351326",
+    "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh",
+    "youtubeID": "uoHol5Dr_go"
+  },
+  {
+    "ranking": "2",
+    "title": "Winter Ahead",
+    "artist": "V",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
+    "appleID": "winter-ahead/1780285815",
+    "youtubeID": "HAWYOuMGkK0"
+  },
+  {
+    "ranking": "3",
+    "title": "Who",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M",
+    "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
+  },
+  {
+    "ranking": "4",
+    "title": "Be Mine",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "be-mine/1751773088",
+    "youtubeID": "MYrZ5T3jFmA",
+    "spotifyID": "3LWVXp636uLT356Rj08Jaz"
+  },
+  {
+    "ranking": "5",
+    "title": "I'll Be There",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/70/b4/e970b466-2d1d-ec04-22f3-5cb0913048b5/198704169137_Cover.jpg/80x80bb.webp",
+    "appleID": "ill-be-there/1774062735"
+  },
+  {
+    "ranking": "6",
+    "title": "White Christmas",
+    "artist": "V",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/68/9a/fc689ad8-7f67-74d1-704d-3001972201c3/00198704228605_Cover.jpg/80x80bb.webp",
+    "appleID": "white-christmas/1777448469"
+  },
+  {
+    "ranking": "7",
+    "title": "Falling",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/f5/39/6df53982-7294-1111-f384-efaa009bf4df/198704257827_Cover.jpg/80x80bb.webp",
+    "appleID": "falling/1772351433",
+    "spotifyID": "5jxuw4S5IDEY6CjjAHvRAt"
+  },
+  {
+    "ranking": "8",
+    "title": "White Christmas (Instrumental)",
+    "artist": "V",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/68/9a/fc689ad8-7f67-74d1-704d-3001972201c3/00198704228605_Cover.jpg/80x80bb.webp",
+    "appleID": "white-christmas/1777448469"
+  },
+  {
+    "ranking": "9",
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M",
+    "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
+  },
+  {
+    "ranking": "10",
+    "title": "Who (Beautiful Mind Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M",
+    "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
+  },
+  {
+    "ranking": "11",
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M",
+    "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
+  },
+  {
+    "ranking": "12",
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M",
+    "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
+  },
+  {
+    "ranking": "13",
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M",
+    "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
+  },
+  {
+    "ranking": "14",
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M",
+    "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
+  },
+  {
+    "ranking": "15",
+    "title": "Smeraldo Garden Marching Band",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
+    "appleID": "smeraldo-garden-marching-band/1757558449"
+  },
+  {
+    "ranking": "16",
+    "title": "capaz (merengueton)",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/67/89/2b6789bc-cf89-3c62-78a3-1f221e1c70cc/47155.jpg/80x80bb.webp",
+    "appleID": "capaz-merengueton/1778536681"
+  },
+  {
+    "ranking": "17",
+    "title": "Rebirth (Intro)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "rebirth-intro/1751773079"
+  },
+  {
+    "ranking": "18",
+    "title": "Interlude : Showtime",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "interlude-showtime/1751773082",
+    "spotifyID": "45zLrK0668WQ5JFMyiYmCS"
+  },
+  {
+    "ranking": "19",
+    "title": "Heaven",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "heaven/1742630133"
+  },
+  {
+    "ranking": "20",
+    "title": "lock / unlock (feat. benny blanco)",
+    "artist": "j-hope",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/05/0f/d2050f71-95a3-1bad-daaf-b8922e0918d8/196922839696_Cover.jpg/80x80bb.webp",
+    "appleID": "lock-unlock-feat-benny-blanco/1730608083"
+  },
+  {
+    "ranking": "21",
+    "title": "Closer Than This",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/db/48/8bdb480c-86f8-7aeb-5897-41fd76bac031/196922764974_Cover.jpg/80x80bb.webp",
+    "appleID": "closer-than-this/1721409260",
+    "spotifyID": "6qafqn8bBMy7t5c5WqpyRk"
+  },
+  {
+    "ranking": "22",
+    "title": "Slow Dance (feat. Sofia Carson)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "slow-dance-feat-sofia-carson/1751773086"
+  },
+  {
+    "ranking": "23",
+    "title": "Please Don't Change",
+    "artist": "Jung Kook",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
+    "appleID": "please-dont-change/1709555009"
+  },
+  {
+    "ranking": "24",
+    "title": "D-Day",
+    "artist": "Agust D",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
+    "appleID": "d-day/1681823689"
+  },
+  {
+    "ranking": "25",
+    "title": "EL CLúB",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/7a/aa/fe7aaaea-640a-30b4-17b0-11a3272e28f1/199066130155.jpg/80x80bb.webp",
+    "appleID": "el-cl%C3%BAb/1783419694",
+    "spotifyID": "3zOgFY5kpQ6p2cwPIquZks",
+    "youtubeID": "7f6SxWMOpdU"
+  },
+  {
+    "ranking": "26",
+    "title": "Telepathy",
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/f3/8f/22f38fb9-1690-326a-d891-7aa946c2b06f/195497623273_Cover.jpg/80x80bb.webp",
+    "appleID": "telepathy/1596532390"
+  },
+  {
+    "ranking": "27",
+    "title": "Qué Pasaría...",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+    "youtubeID": "g08y_x83d5E",
+    "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
+  },
+  {
+    "ranking": "28",
+    "title": "Falling",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
+    "appleID": "falling/1772351433",
+    "spotifyID": "5jxuw4S5IDEY6CjjAHvRAt"
+  },
+  {
+    "ranking": "29",
+    "title": "Winter Ahead (Silent Carol Ver.)",
+    "artist": "V",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
+    "appleID": "winter-ahead/1780285815",
+    "youtubeID": "HAWYOuMGkK0"
+  },
+  {
+    "ranking": "30",
+    "title": "Another Level",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
+    "appleID": "another-level/1772351432",
+    "spotifyID": "1YmY0HUm05BUpcHibc1bhB"
+  },
+  {
+    "ranking": "31",
+    "title": "Khé?",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "kh%C3%A9/1775463293",
+    "youtubeID": "7SNycTMOF74",
+    "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
+  },
+  {
+    "ranking": "32",
+    "title": "Heart on the Window",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
+    "appleID": "heart-on-the-window/1772351436"
+  },
+  {
+    "ranking": "33",
+    "title": "I will come to you",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
+    "appleID": "i-will-come-to-you/1772351439",
+    "spotifyID": "5s7flUAYsDmcUWtHsMCihv"
+  },
+  {
+    "ranking": "34",
+    "title": "Winter Ahead (Instrumental)",
+    "artist": "V",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
+    "appleID": "winter-ahead/1780285815",
+    "youtubeID": "HAWYOuMGkK0"
+  },
+  {
+    "ranking": "35",
+    "title": "ETA (feat. Yan Block & Omar Courtz) [RMX]",
+    "artist": "ROA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/5e/ca/b75eca45-4841-451d-1f4f-b238cc5bc263/24UM1IM31015.rgb.jpg/80x80bb.webp",
+    "appleID": "eta-feat-yan-block-omar-courtz-rmx/1783210841"
+  },
+  {
+    "ranking": "36",
+    "title": "Veneka",
+    "artist": "Rawayana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/96/69/c5966939-e1da-30f2-05fc-0a538877b0eb/5034644180816.jpg/80x80bb.webp",
+    "appleID": "veneka/1774205407"
+  },
+  {
+    "ranking": "37",
+    "title": "Q U E V A S H A C E R H O Y ?",
+    "artist": "Omar Courtz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+    "appleID": "q-u-e-v-a-s-h-a-c-e-r-h-o-y/1760194559"
+  },
+  {
+    "ranking": "38",
+    "title": "Imagínate",
+    "artist": "Danny Ocean",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/f2/01/b6f20168-3f31-17f0-fdfa-4eaf8bff31f0/5021732534538.jpg/80x80bb.webp",
+    "appleID": "imag%C3%ADnate/1776258309"
+  },
+  {
+    "ranking": "39",
+    "title": "LOST!",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "lost/1742630135"
+  },
+  {
+    "ranking": "40",
+    "title": "PERRO NEGRO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+    "appleID": "perro-negro/1710983279"
+  },
+  {
+    "ranking": "41",
+    "title": "Déjame Entrar",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "d%C3%A9jame-entrar/1775462852",
+    "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb",
+    "youtubeID": "UUzmHevEneY"
+  },
+  {
+    "ranking": "42",
+    "title": "DEGENERE (feat. benny blanco)",
+    "artist": "Myke Towers",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
+    "appleID": "degenere-feat-benny-blanco/1773311762",
+    "youtubeID": "jg4mZak7wzQ"
+  },
+  {
+    "ranking": "43",
+    "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/80x80bb.webp",
+    "appleID": "57-feat-ovy-on-the-drums-j-balvin-maluma-ryan-castro-blessd/1777888950"
+  },
+  {
+    "ranking": "44",
+    "title": "Espresso Martini",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "espresso-martini/1775462861"
+  },
+  {
+    "ranking": "45",
+    "title": "Frente al Mar",
+    "artist": "Beéle",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/5e/1d/075e1d44-02ef-6a69-433d-ee3f68d1dd23/196872443325.jpg/80x80bb.webp",
+    "appleID": "frente-al-mar/1768787334",
+    "youtubeID": "IryOLXtyTRU",
+    "spotifyID": "60u6hcpH5Qm1M3xESdNBrB"
+  },
+  {
+    "ranking": "46",
+    "title": "Si Antes Te Hubiera Conocido",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+    "appleID": "si-antes-te-hubiera-conocido/1752031539",
+    "youtubeID": "QCZZwZQ4qNs",
+    "spotifyID": "6WatFBLVB0x077xWeoVc2k"
+  },
+  {
+    "ranking": "47",
+    "title": "Ni Me Conozco",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "ni-me-conozco/1775462866",
+    "spotifyID": "0xyWkRMb09qdCDhloehCsi",
+    "youtubeID": "fViYgfgFbNY"
+  },
+  {
+    "ranking": "48",
+    "title": "Mi Refe",
+    "artist": "Beéle",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/5c/50055c58-0020-4fc1-7ec3-973e94123c39/196872465983.jpg/80x80bb.webp",
+    "appleID": "mi-refe/1780922407"
+  },
+  {
+    "ranking": "49",
+    "title": "Moscow Mule",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+    "appleID": "moscow-mule/1622045625",
+    "spotifyID": "6Xom58OOXk2SoU711L2IXO",
+    "youtubeID": "p38WgakuYDo"
+  },
+  {
+    "ranking": "50",
+    "title": "DILUVIO",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+    "appleID": "diluvio/1695651429",
+    "spotifyID": "2kz1YOhJiNubjigR1gB1VX",
+    "youtubeID": "Bp3Ytv-v918"
+  },
+  {
+    "ranking": "51",
+    "title": "Nuts",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "nuts/1742629771"
+  },
+  {
+    "ranking": "52",
+    "title": "Domodachi",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "domodachi/1742629784"
+  },
+  {
+    "ranking": "53",
+    "title": "Haegeum",
+    "artist": "Agust D",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
+    "appleID": "haegeum/1681823696",
+    "spotifyID": "4bjN59DRXFRxBE1g5ne6B1"
+  },
+  {
+    "ranking": "54",
+    "title": "LUNA",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+    "appleID": "luna/1719170507"
+  },
+  {
+    "ranking": "55",
+    "title": "MONACO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+    "appleID": "monaco/1710982872"
+  },
+  {
+    "ranking": "56",
+    "title": "Hora Loca",
+    "artist": "Rawayana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/98/be/fa98be35-d60b-b925-6187-ca3ae306daa7/197338464793.jpg/80x80bb.webp",
+    "appleID": "hora-loca/1705874067"
+  },
+  {
+    "ranking": "57",
+    "title": "Be Mine (English Version)",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/2f/ab/e42fab67-51c7-6f8f-4482-846e1a949d3a/198704079474_Cover.jpg/80x80bb.webp",
+    "appleID": "be-mine/1751773088",
+    "youtubeID": "MYrZ5T3jFmA",
+    "spotifyID": "3LWVXp636uLT356Rj08Jaz"
+  },
+  {
+    "ranking": "58",
+    "title": "Right People, Wrong Place",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "right-people-wrong-place/1742629765"
+  },
+  {
+    "ranking": "59",
+    "title": "out of love",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "out-of-love/1742629775"
+  },
+  {
+    "ranking": "60",
+    "title": "Groin",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "groin/1742630127"
+  },
+  {
+    "ranking": "61",
+    "title": "Tú Con Él",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "t%C3%BA-con-%C3%A9l/1775462856",
+    "youtubeID": "NC4wwAtyBA8",
+    "spotifyID": "2eQFYGegTZaObk2kuBz83Z"
+  },
+  {
+    "ranking": "62",
+    "title": "Brickell",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/03/cf480322-e907-87b3-e933-217d2a73892e/24UMGIM42176.rgb.jpg/80x80bb.webp",
+    "appleID": "brickell/1740674376"
+  },
+  {
+    "ranking": "63",
+    "title": "? (Interlude)",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "interlude/1742629786"
+  },
+  {
+    "ranking": "64",
+    "title": "I Miss You",
+    "artist": "Beéle",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/bd/27/d7bd2717-cd8c-1f47-57b9-0bce2fb22bcd/196872538687.jpg/80x80bb.webp",
+    "appleID": "i-miss-you/1773435177",
+    "youtubeID": "BrGl81E4ZOc",
+    "spotifyID": "65oSp7rdpLddlRGUgogU24"
+  },
+  {
+    "ranking": "65",
+    "title": "ㅠㅠ (Credit Roll)",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "%E3%85%A0%E3%85%A0-credit-roll/1742630144"
+  },
+  {
+    "ranking": "66",
+    "title": "SORRY 4 THAT MUCH",
+    "artist": "Feid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
+    "appleID": "sorry-4-that-much/1750132050",
+    "youtubeID": "Q2ftMmazZCU",
+    "spotifyID": "63pLfjK6FvcYJYMGwtHjd6"
+  },
+  {
+    "ranking": "67",
+    "title": "IA",
+    "artist": "Clarent",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/b5/0e/9ab50ede-7ac2-b447-f3a5-0778a837e0cc/5021732524379.jpg/80x80bb.webp",
+    "appleID": "ia/1774198954"
+  },
+  {
+    "ranking": "68",
+    "title": "Se Fue",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "se-fue/1775463295"
+  },
+  {
+    "ranking": "69",
+    "title": "NEURON",
+    "artist": "j-hope",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/05/0f/d2050f71-95a3-1bad-daaf-b8922e0918d8/196922839696_Cover.jpg/80x80bb.webp",
+    "appleID": "neuron/1730608094"
+  },
+  {
+    "ranking": "70",
+    "title": "Around the world in a day",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "around-the-world-in-a-day/1742630141"
+  },
+  {
+    "ranking": "71",
+    "title": "Santa",
+    "artist": "Rvssian",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/3b/65/783b6546-bf40-4583-1064-1d4946a82f50/196871978293.jpg/80x80bb.webp",
+    "appleID": "santa/1738270376"
+  },
+  {
+    "ranking": "72",
+    "title": "Revolú",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "revol%C3%BA/1775463289"
+  },
+  {
+    "ranking": "73",
+    "title": "Baja Pa' Acá",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "baja-pa-ac%C3%A1/1775462863"
+  },
+  {
+    "ranking": "74",
+    "title": "Come back to me",
+    "artist": "RM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+    "appleID": "come-back-to-me/1742630454",
+    "youtubeID": "NrfikKxF4Ps"
+  },
+  {
+    "ranking": "75",
+    "title": "ADIVINO",
+    "artist": "Myke Towers",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/79/1e/6c791e10-d063-a4ad-45d7-047581c289cb/5021732285218.jpg/80x80bb.webp",
+    "appleID": "adivino/1742211556"
+  },
+  {
+    "ranking": "76",
+    "title": "Bing Bong",
+    "artist": "Yailin la Mas Viral",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/a2/16/18a216c3-dea7-4af6-74bc-eb2c27036454/797885494443_cover.jpg/80x80bb.webp",
+    "appleID": "bing-bong/1776657521"
+  },
+  {
+    "ranking": "77",
+    "title": "GRAN VÍA",
+    "artist": "Quevedo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/6c/d6/216cd611-56e0-07bf-fdf6-5322796f7ccb/198846802275.jpg/80x80bb.webp",
+    "appleID": "gran-v%C3%ADa/1780125579"
+  },
+  {
+    "ranking": "78",
+    "title": "AMARGURA",
+    "artist": "KAROL G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+    "appleID": "amargura/1670246089",
+    "spotifyID": "505v13epFXodT9fVAJ6h8k"
+  },
+  {
+    "ranking": "79",
+    "title": "High (feat. Apache)",
+    "artist": "Rawayana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/48/bb/e348bb56-d21d-2dc0-f69b-e0a04560d624/645789123559.jpg/80x80bb.webp",
+    "appleID": "high-feat-apache/1556888915"
+  },
+  {
+    "ranking": "80",
+    "title": "LA CANCIÓN",
+    "artist": "J Balvin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+    "appleID": "la-canci%C3%B3n/1470146813"
+  },
+  {
+    "ranking": "81",
+    "title": "SERIO CON ESE Q",
+    "artist": "Omar Courtz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/19/1b/ad191b49-4cfd-e7ed-f479-e2dc35ffada4/198588586679.jpg/80x80bb.webp",
+    "appleID": "serio-con-ese-q/1755048045"
+  },
+  {
+    "ranking": "82",
+    "title": "Committed",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "committed/1775462859"
+  },
+  {
+    "ranking": "83",
+    "title": "SE ME OLVIDA",
+    "artist": "Maisak",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/10/6e/32106ef5-e548-6997-3ac5-f1d8351740cb/24UMGIM91467.rgb.jpg/80x80bb.webp",
+    "appleID": "se-me-olvida/1764375272"
+  },
+  {
+    "ranking": "84",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "85",
+    "title": "me late",
+    "artist": "Alleh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/11/47/fb1147fa-9184-718d-199a-059fc9413a88/44693.jpg/80x80bb.webp",
+    "appleID": "me-late/1767508561"
+  },
+  {
+    "ranking": "86",
+    "title": "Cosas Pendientes",
+    "artist": "Maluma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/51/1e/0e511e91-3327-6fe2-c0cf-b0ef3a34d941/196872618396.jpg/80x80bb.webp",
+    "appleID": "cosas-pendientes/1777477770",
+    "youtubeID": "6vPhcRew8hA",
+    "spotifyID": "0iVEujJcafOBnxa654fJYu"
+  },
+  {
+    "ranking": "87",
+    "title": "Hasta Aquí Llegué",
+    "artist": "Nanpa Básico",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/f8/5a/bdf85ae0-5cce-44b9-2234-90b876a2b662/196872197686.jpg/80x80bb.webp",
+    "appleID": "hasta-aqu%C3%AD-llegu%C3%A9/1755019904"
+  },
+  {
+    "ranking": "88",
+    "title": "Soltera",
+    "artist": "Shakira",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
+    "appleID": "soltera/1769406416",
+    "youtubeID": "oBofuVYDoG4",
+    "spotifyID": "3OJDtCdYs8QJnui708tEU3"
+  },
+  {
+    "ranking": "89",
+    "title": "2:12 AM",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "2-12-am/1775463306"
+  },
+  {
+    "ranking": "90",
+    "title": "Dame Un Break",
+    "artist": "Rawayana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/5f/5f/e05f5f1e-fdf4-42d3-afd3-d6612f2f4132/197338803783.jpg/80x80bb.webp",
+    "appleID": "dame-un-break/1681661917",
+    "spotifyID": "64CxbY7HD7nOtmfoaiWYMT"
+  },
+  {
+    "ranking": "91",
+    "title": "Binikini",
+    "artist": "Rawayana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/ba/96/46ba961d-56e6-e4f3-eee9-6b927197215e/197338901755.jpg/80x80bb.webp",
+    "appleID": "binikini/1671644454"
+  },
+  {
+    "ranking": "92",
+    "title": "Pa' Que La Pases Bien",
+    "artist": "Arcángel",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+    "appleID": "pa-que-la-pases-bien/1247228818",
+    "spotifyID": "1pLCpA1RN8avJxSD3ZCwhj",
+    "youtubeID": "hQ2RAXBqgf0"
+  },
+  {
+    "ranking": "93",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221",
+    "youtubeID": "ekr2nIex040",
+    "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
+  },
+  {
+    "ranking": "94",
+    "title": "Pasaporte",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "pasaporte/1775463297"
+  },
+  {
+    "ranking": "95",
+    "title": "DEPORTIVO",
+    "artist": "Blessd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/18/58/53185856-5150-3ef5-9412-64a9503e8886/5021732544186.jpg/80x80bb.webp",
+    "appleID": "deportivo/1778254205"
+  },
+  {
+    "ranking": "96",
+    "title": "Amar De Nuevo",
+    "artist": "Rauw Alejandro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+    "appleID": "amar-de-nuevo/1775463304"
+  },
+  {
+    "ranking": "97",
+    "title": "The Astronaut",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1b/38/ea/1b38eacd-158d-5040-8887-2786d2a641bc/192641874338_Cover.jpg/80x80bb.webp",
+    "appleID": "the-astronaut/1649563461"
+  },
+  {
+    "ranking": "98",
+    "title": "Super Tuna",
+    "artist": "Jin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/67/dd/3467ddf5-e4d7-3b57-023a-76640c863a5b/198704128257_Cover.jpg/80x80bb.webp",
+    "appleID": "super-tuna/1772993924"
+  },
+  {
+    "ranking": "99",
+    "title": "Hey Mor (feat. Feid)",
+    "artist": "Ozuna",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
+    "appleID": "hey-mor-feat-feid/1646180883"
+  },
+  {
+    "ranking": "100",
+    "title": "DÁKITI",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+    "appleID": "d%C3%A1kiti/1542103620"
+  }
 ]

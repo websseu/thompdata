@@ -1,6 +1,8 @@
 import os
 import json
 
+# 1. 유튜브 데이터 통합
+
 # 병합할 폴더 지정
 base_folder = "youtube"
 

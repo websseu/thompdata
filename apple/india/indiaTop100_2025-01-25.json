@@ -1,736 +1,747 @@
 [
-    {
-        "ranking": "1",
-        "title": "Wavy",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/5a/cddf5a8c-464e-3958-cf4a-7fac9e490aa5/5063616597178_cover.jpg/80x80bb.webp",
-        "appleID": "wavy/1779786209",
-        "youtubeID": "XTp5jaRU3Ws",
-        "spotifyID": "4d2jV5fmX6hbRwaRbY39dt"
-    },
-    {
-        "ranking": "2",
-        "title": "Ishq Hai",
-        "artist": "Anurag Saikia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/98/1b/a8981bdf-b91d-6099-57de-8e1c574a3199/cover.jpg/80x80bb.webp",
-        "appleID": "ishq-hai/1780661107"
-    },
-    {
-        "ranking": "3",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "4",
-        "title": "Antidote",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ce/a0/c2cea088-dbde-43db-346f-e536058fdcfb/5063483978438_cover.jpg/80x80bb.webp",
-        "appleID": "antidote/1753101077",
-        "spotifyID": "7KmCQLSSde0UX5OqCgvGN9"
-    },
-    {
-        "ranking": "5",
-        "title": "Apna Bana Le (From \"Bhediya\")",
-        "artist": "Arijit Singh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2e/0b/c0/2e0bc070-112f-a827-6ad8-6bc64f7caaff/840214460180.png/80x80bb.webp",
-        "appleID": "apna-bana-le-from-bhediya/1653219849"
-    },
-    {
-        "ranking": "6",
-        "title": "Millionaire",
-        "artist": "Yo Yo Honey Singh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e3/9c/11e39c6d-0ac9-8728-cb9e-94197f645bfd/8903431012173_cover.jpg/80x80bb.webp",
-        "appleID": "millionaire/1763807340",
-        "youtubeID": "XO8wew38VM8",
-        "spotifyID": "78BWCd70D1X6LMkDZm1UoF"
-    },
-    {
-        "ranking": "7",
-        "title": "Buckle Up",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
-        "appleID": "buckle-up/1789632369"
-    },
-    {
-        "ranking": "8",
-        "title": "Winning Speech",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/7c/36/487c3668-f7a4-4b1a-e09e-c74dae124dd9/5063483578089_cover.jpg/80x80bb.webp",
-        "appleID": "winning-speech/1745062759"
-    },
-    {
-        "ranking": "9",
-        "title": "Jhol",
-        "artist": "Maanu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/63/b9/bf63b9bd-5cb4-0aeb-0464-975608042ce2/085365403741.jpg/80x80bb.webp",
-        "appleID": "jhol/1748567106"
-    },
-    {
-        "ranking": "10",
-        "title": "Jo Tum Mere Ho",
-        "artist": "Anuv Jain",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726",
-        "youtubeID": "ilNt2bikxDI",
-        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
-    },
-    {
-        "ranking": "11",
-        "title": "On Top",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/60/5f/a8605f98-0b93-da9e-76fe-e239fed1e38c/5059950896060.png/80x80bb.webp",
-        "appleID": "on-top/1658012467",
-        "spotifyID": "4SJMuaIYcBS8ke96lDYOsw"
-    },
-    {
-        "ranking": "12",
-        "title": "Sifar Safar",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a1/5f/b5a15f57-7184-47a6-564e-272d515b4810/5063616203642_cover.jpg/80x80bb.webp",
-        "appleID": "sifar-safar/1773799678",
-        "youtubeID": "TU1HQnU_9ME",
-        "spotifyID": "3lQPwCmD918SyoiIkw1zqx"
-    },
-    {
-        "ranking": "13",
-        "title": "Raanjhan (From \"Do Patti\")",
-        "artist": "Sachet-Parampara",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/a9/ca/99a9caf7-5d9f-5890-3fdf-e3ff8c860e79/8903431018915_cover.jpg/80x80bb.webp",
-        "appleID": "raanjhan-from-do-patti/1772246064"
-    },
-    {
-        "ranking": "14",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890",
-        "youtubeID": "5EpyN_6dqyk"
-    },
-    {
-        "ranking": "15",
-        "title": "Softly",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
-        "appleID": "softly/1697533818"
-    },
-    {
-        "ranking": "16",
-        "title": "Bars",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
-        "appleID": "bars/1789632595"
-    },
-    {
-        "ranking": "17",
-        "title": "Admirin' You (feat. Preston Pablo)",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
-        "appleID": "admirin-you-feat-preston-pablo/1697533664"
-    },
-    {
-        "ranking": "18",
-        "title": "Lock",
-        "artist": "Sidhu Moose Wala",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/70/1d/e0701d08-9867-649e-8ea5-9dedfe4ce47f/5063654395101_cover.jpg/80x80bb.webp",
-        "appleID": "lock/1792088910"
-    },
-    {
-        "ranking": "19",
-        "title": "Lalkara (feat. Sultaan)",
-        "artist": "Diljit Dosanjh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/80x80bb.webp",
-        "appleID": "lalkara-feat-sultaan/1714131823"
-    },
-    {
-        "ranking": "20",
-        "title": "Lover",
-        "artist": "Diljit Dosanjh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/80x80bb.webp",
-        "appleID": "lover/1581006912"
-    },
-    {
-        "ranking": "21",
-        "title": "Ishq (From \"Lost;Found\")",
-        "artist": "Faheem Abdullah",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/04/c1/a304c107-6887-c475-8377-d05e86cfe108/cover.jpg/80x80bb.webp",
-        "appleID": "ishq-from-lost-found/1734945021"
-    },
-    {
-        "ranking": "22",
-        "title": "A Sky Full of Stars",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
-        "appleID": "a-sky-full-of-stars/829910927",
-        "youtubeID": "VPRjCeoBqrI"
-    },
-    {
-        "ranking": "23",
-        "title": "Old Money",
-        "artist": "AP Dhillon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/fb/61/5afb613a-c9ca-625d-da7f-8d4b501f8eab/24UMGIM84219.rgb.jpg/80x80bb.webp",
-        "appleID": "old-money/1760672989",
-        "spotifyID": "5xlYVZxEwriP6hetG7QJw7"
-    },
-    {
-        "ranking": "24",
-        "title": "Hawayein",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c2/6e/b6/c26eb6da-f6ac-d7a8-1d3e-893f32b1244d/886446683584.jpg/80x80bb.webp",
-        "appleID": "hawayein/1267390213"
-    },
-    {
-        "ranking": "25",
-        "title": "Yellow",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/80x80bb.webp",
-        "appleID": "yellow/1122782283",
-        "spotifyID": "3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-        "ranking": "26",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221",
-        "youtubeID": "ekr2nIex040",
-        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-        "ranking": "27",
-        "title": "52 Bars",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/d3/44/9cd34457-1d8e-4d37-ca49-008aa083d652/859770181552_cover.jpg/80x80bb.webp",
-        "appleID": "52-bars/1668647123"
-    },
-    {
-        "ranking": "28",
-        "title": "Russian Bandana",
-        "artist": "Dhanda Nyoliwala",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/0d/15/bf0d1594-b24c-73cb-d440-13d422c40b4b/24UMGIM96203.rgb.jpg/80x80bb.webp",
-        "appleID": "russian-bandana/1766914121",
-        "youtubeID": "1OAjeECW90E",
-        "spotifyID": "1dFrZr9eMUsFqeag04ClqD"
-    },
-    {
-        "ranking": "29",
-        "title": "Kabira",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/80x80bb.webp",
-        "appleID": "kabira/1070912818"
-    },
-    {
-        "ranking": "30",
-        "title": "Tujhe Kitna Chahne Lage",
-        "artist": "Arijit Singh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/80x80bb.webp",
-        "appleID": "tujhe-kitna-chahne-lage/1468448742"
-    },
-    {
-        "ranking": "31",
-        "title": "Kinni Kinni",
-        "artist": "Diljit Dosanjh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/80x80bb.webp",
-        "appleID": "kinni-kinni/1714131801"
-    },
-    {
-        "ranking": "32",
-        "title": "Tune Jo Na Kaha",
-        "artist": "Mohit Chauhan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/67/5a/93675a87-51de-408f-3e1c-6b718af8ce81/849486008045_cover.jpg/80x80bb.webp",
-        "appleID": "tune-jo-na-kaha/673602145"
-    },
-    {
-        "ranking": "33",
-        "title": "Khuda Jaane",
-        "artist": "Vishal & Shekhar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/80x80bb.webp",
-        "appleID": "khuda-jaane/673521359"
-    },
-    {
-        "ranking": "34",
-        "title": "Hymn for the Weekend",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/80x80bb.webp",
-        "appleID": "hymn-for-the-weekend/1053934844"
-    },
-    {
-        "ranking": "35",
-        "title": "Ahista Ahista",
-        "artist": "Kazinama",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/36/82/2236828e-6a63-2e45-c0e7-0fd54f214dec/198595798126.jpg/80x80bb.webp",
-        "appleID": "ahista-ahista/1767915270"
-    },
-    {
-        "ranking": "36",
-        "title": "Tainu Khabar Nahi (From \"Munjya\")",
-        "artist": "Sachin-Jigar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/13/30/d713309e-4ca6-78ea-11d7-7236bc582c2b/8909024032504.png/80x80bb.webp",
-        "appleID": "tainu-khabar-nahi-from-munjya/1749770075"
-    },
-    {
-        "ranking": "37",
-        "title": "Mexico",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f8/a9/26/f8a926d7-aae8-46a2-739d-5d1795f2fdf5/8905285022148.jpg/80x80bb.webp",
-        "appleID": "mexico/1729969472"
-    },
-    {
-        "ranking": "38",
-        "title": "Tum Se Hi",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/80x80bb.webp",
-        "appleID": "tum-se-hi/1134725347"
-    },
-    {
-        "ranking": "39",
-        "title": "Aaye Haaye",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/ef/79/a5ef7987-2a3a-5aa0-1dee-691bba007e04/8903431032973_cover.jpg/80x80bb.webp",
-        "appleID": "aaye-haaye/1783306888"
-    },
-    {
-        "ranking": "40",
-        "title": "Dil Nu",
-        "artist": "AP Dhillon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/37/31/67373108-1018-da3f-7220-4515137e5e5e/859766525070_cover.jpg/80x80bb.webp",
-        "appleID": "dil-nu/1648624705"
-    },
-    {
-        "ranking": "41",
-        "title": "Cheques",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/46/a9/dc46a9c9-794e-2d7a-1afb-97eb4ae0fff6/197188915704.jpg/80x80bb.webp",
-        "appleID": "cheques/1687649562",
-        "spotifyID": "4eBvRhTJ2AcxCsbfTUjoRp"
-    },
-    {
-        "ranking": "42",
-        "title": "Fell For You",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
-        "appleID": "fell-for-you/1789632596"
-    },
-    {
-        "ranking": "43",
-        "title": "Carti",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
-        "appleID": "carti/1789632594"
-    },
-    {
-        "ranking": "44",
-        "title": "Kaise Hua",
-        "artist": "Vishal Mishra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/80x80bb.webp",
-        "appleID": "kaise-hua/1468448741"
-    },
-    {
-        "ranking": "45",
-        "title": "Born to Shine",
-        "artist": "Diljit Dosanjh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "appleID": "born-to-shine/1523521607",
-        "spotifyID": "4XxfOvudrnBRdlgzEaq1sd"
-    },
-    {
-        "ranking": "46",
-        "title": "Viva La Vida",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
-        "appleID": "viva-la-vida/1122773680",
-        "youtubeID": "dvgZkm1xWPE"
-    },
-    {
-        "ranking": "47",
-        "title": "Pehle Bhi Main",
-        "artist": "Vishal Mishra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
-        "appleID": "pehle-bhi-main/1718278234",
-        "youtubeID": "lwv_0SEJ4NQ"
-    },
-    {
-        "ranking": "48",
-        "title": "Husn",
-        "artist": "Anuv Jain",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/80x80bb.webp",
-        "appleID": "husn/1717140552",
-        "spotifyID": "0TL0LFcwIBF5eX7arDIKxY"
-    },
-    {
-        "ranking": "49",
-        "title": "Paradise",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/41/1c/fa411c37-7a65-8a3e-71c9-4b566c49617c/5099967983858_1562x1562_300dpi.jpg/80x80bb.webp",
-        "appleID": "paradise/726373148"
-    },
-    {
-        "ranking": "50",
-        "title": "Shree Hanuman Chalisa",
-        "artist": "Hariharan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c5/3a/8d/c53a8d9b-23d8-5cc1-ec14-6ed0ce7920a0/8902894137256_cover.jpg/80x80bb.webp",
-        "appleID": "shree-hanuman-chalisa/1275543935"
-    },
-    {
-        "ranking": "51",
-        "title": "Departure Lane",
-        "artist": "Talha Anjum",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/94/d6/6a94d69e-3ba6-af74-fc2e-769a6b80b061/198846875156.jpg/80x80bb.webp",
-        "appleID": "departure-lane/1778624270"
-    },
-    {
-        "ranking": "52",
-        "title": "Tera Yaar Hoon Main",
-        "artist": "Arijit Singh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/a5/b0/81a5b084-89f7-7ed8-372e-aefd67504922/8902894360074_cover.jpg/80x80bb.webp",
-        "appleID": "tera-yaar-hoon-main/1348996917"
-    },
-    {
-        "ranking": "53",
-        "title": "Sahiba",
-        "artist": "Jasleen Royal",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/c8/e4/ccc8e4f7-935d-50eb-4103-28aebf242248/5021732549112.jpg/80x80bb.webp",
-        "appleID": "sahiba/1779263472"
-    },
-    {
-        "ranking": "54",
-        "title": "One Love",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/4f/3c/484f3c19-fdab-1fa8-fdb4-c7de79852d12/197189603969.jpg/80x80bb.webp",
-        "appleID": "one-love/1700735404",
-        "spotifyID": "5ZLkihi6DVsHwDL3B8ym1t"
-    },
-    {
-        "ranking": "55",
-        "title": "Kesariya (From \"Brahmastra\")",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/13/ca/9f13ca3b-e533-03e0-f19a-f0aaa774581d/196589311191.jpg/80x80bb.webp",
-        "appleID": "kesariya-from-brahmastra/1635014240"
-    },
-    {
-        "ranking": "56",
-        "title": "Fix You",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/80x80bb.webp",
-        "appleID": "fix-you/1123076826"
-    },
-    {
-        "ranking": "57",
-        "title": "Pathikichu (From \"Vidaamuyarchi\")",
-        "artist": "Anirudh Ravichander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/26/6e/11266e7f-4079-9591-101a-77ae202589c9/196872810776.jpg/80x80bb.webp",
-        "appleID": "pathikichu-from-vidaamuyarchi/1791364666"
-    },
-    {
-        "ranking": "58",
-        "title": "blue",
-        "artist": "yung kai",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
-        "appleID": "blue/1776246888",
-        "youtubeID": "98zHKN-xSHk",
-        "spotifyID": "3be9ACTxtcL6Zm4vJRUiPG"
-    },
-    {
-        "ranking": "59",
-        "title": "Ilahi",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/80x80bb.webp",
-        "appleID": "ilahi/1070912815"
-    },
-    {
-        "ranking": "60",
-        "title": "Phir Se Ud Chala",
-        "artist": "Mohit Chauhan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/80x80bb.webp",
-        "appleID": "phir-se-ud-chala/1123241858"
-    },
-    {
-        "ranking": "61",
-        "title": "Channa Mereya",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/f3/c6/68f3c645-1b25-3d44-af6f-ebe4aea3df08/886446201597.jpg/80x80bb.webp",
-        "appleID": "channa-mereya/1169015785"
-    },
-    {
-        "ranking": "62",
-        "title": "Bulleya",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/be/33/a1be3332-6cfc-a3c1-9d35-47669520f311/886446235608.jpg/80x80bb.webp",
-        "appleID": "bulleya/1174924385"
-    },
-    {
-        "ranking": "63",
-        "title": "Aura",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
-        "appleID": "aura/1789632612"
-    },
-    {
-        "ranking": "64",
-        "title": "Chuttamalle (From \"Devara Part 1\")",
-        "artist": "Anirudh Ravichander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/7c/53/867c53cc-4efe-faef-a20e-8d9c896053db/8903431011411_cover.jpg/80x80bb.webp",
-        "appleID": "chuttamalle-from-devara-part-1/1761152593"
-    },
-    {
-        "ranking": "65",
-        "title": "G.O.A.T.",
-        "artist": "Diljit Dosanjh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "appleID": "g-o-a-t/1523521149",
-        "spotifyID": "46QbY78ha62aiu6gBgC7lS"
-    },
-    {
-        "ranking": "66",
-        "title": "Knife Brows",
-        "artist": "Dhanda Nyoliwala",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/fd/c8/82fdc8b3-0ed3-d5d8-a0c5-32f0bd8e27e0/24UM1IM13158.rgb.jpg/80x80bb.webp",
-        "appleID": "knife-brows/1774466793",
-        "youtubeID": "69-yupf0pAY"
-    },
-    {
-        "ranking": "67",
-        "title": "Sajni",
-        "artist": "Ram Sampath",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/d8/bf/48d8bf8f-df58-e05f-62e2-bc494d748ea4/8902894362252_cover.jpg/80x80bb.webp",
-        "appleID": "sajni/1730725583"
-    },
-    {
-        "ranking": "68",
-        "title": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-        "artist": "Mitraz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ff/3c/2f/ff3c2ff1-a7fd-42fa-1a9c-83e524d37545/8903431980878_cover.jpg/80x80bb.webp",
-        "appleID": "akhiyaan-gulaab-from-teri-baaton-mein-aisa-uljha-jiya/1726548488"
-    },
-    {
-        "ranking": "69",
-        "title": "Tauba Tauba (From \"Bad Newz\")",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/d2/01/79d201d2-e54d-5604-81fb-313f30db7219/198588533581.jpg/80x80bb.webp",
-        "appleID": "tauba-tauba-from-bad-newz/1754562159",
-        "youtubeID": "LK7-_dgAVQE"
-    },
-    {
-        "ranking": "70",
-        "title": "King Shit",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/b6/ed/05b6ed4c-ada8-01e2-965b-03b58801b836/197190670639.jpg/80x80bb.webp",
-        "appleID": "king-shit/1721323017",
-        "spotifyID": "1BpvuKIG7jK5EiTp2tv5z8"
-    },
-    {
-        "ranking": "71",
-        "title": "Aabaad Barbaad (From \"Ludo\")",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/f2/27/38f227a2-0bc9-2a6f-724d-030d7226b386/8903431790903_cover.jpg/80x80bb.webp",
-        "appleID": "aabaad-barbaad-from-ludo/1536602082"
-    },
-    {
-        "ranking": "72",
-        "title": "With You",
-        "artist": "AP Dhillon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/ac/00/5aac005f-9403-70e4-bce0-cf452017476e/197189606472.jpg/80x80bb.webp",
-        "appleID": "with-you/1700880858"
-    },
-    {
-        "ranking": "73",
-        "title": "Dooriyan",
-        "artist": "Mohit Chauhan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/e1/d4/4ae1d4c0-cc8e-8b7b-1371-a72da72eaeb8/828970016827.jpg/80x80bb.webp",
-        "appleID": "dooriyan/1614799047"
-    },
-    {
-        "ranking": "74",
-        "title": "Payal",
-        "artist": "Yo Yo Honey Singh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e3/9c/11e39c6d-0ac9-8728-cb9e-94197f645bfd/8903431012173_cover.jpg/80x80bb.webp",
-        "appleID": "payal/1763807350"
-    },
-    {
-        "ranking": "75",
-        "title": "Chaleya (From \"Jawan\")",
-        "artist": "Anirudh Ravichander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/ff/32/1eff3216-190d-6fd9-8f68-acbba846e6ee/8903431956026_cover.jpg/80x80bb.webp",
-        "appleID": "chaleya-from-jawan/1702461667"
-    },
-    {
-        "ranking": "76",
-        "title": "Routine",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
-        "appleID": "routine/1789632601"
-    },
-    {
-        "ranking": "77",
-        "title": "Ghungroo (From \"War\")",
-        "artist": "Arijit Singh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/0b/88/f40b88d5-75cb-27b8-6b00-bba98f0f2fd0/849486006911_cover.jpg/80x80bb.webp",
-        "appleID": "ghungroo-from-war/1478998926"
-    },
-    {
-        "ranking": "78",
-        "title": "Something Just Like This",
-        "artist": "The Chainsmokers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/56/6f/9d566f55-5253-bed6-5c31-df952dae649d/886446379289.jpg/80x80bb.webp",
-        "appleID": "something-just-like-this/1207120448"
-    },
-    {
-        "ranking": "79",
-        "title": "Hass Hass",
-        "artist": "Diljit Dosanjh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/11/f9/af11f978-7b08-8025-eb57-25682c8d9acb/5054197842245.jpg/80x80bb.webp",
-        "appleID": "hass-hass/1710378962"
-    },
-    {
-        "ranking": "80",
-        "title": "Never Fold (feat. Sunny Malton)",
-        "artist": "Sidhu Moose Wala",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/57/85/d75785de-f357-7a3c-fdb8-8d7d2be7572e/2729.jpg/80x80bb.webp",
-        "appleID": "never-fold-feat-sunny-malton/1620884223"
-    },
-    {
-        "ranking": "81",
-        "title": "Afreen Afreen (Coke Studio Season 9)",
-        "artist": "Rahat Fateh Ali Khan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/ff/b0/95ffb0d1-ba72-767e-a4e4-6e7989524b03/190394811402.jpg/80x80bb.webp",
-        "appleID": "afreen-afreen-coke-studio-season-9/1150347366"
-    },
-    {
-        "ranking": "82",
-        "title": "Excuses",
-        "artist": "AP Dhillon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/47/ac/4747ac85-1658-64ae-bc82-220a4d6213d5/859747478890_cover.jpg/80x80bb.webp",
-        "appleID": "excuses/1588418743"
-    },
-    {
-        "ranking": "83",
-        "title": "Maula Mere Maula",
-        "artist": "Roop Kumar Rathod",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/fa/58/0bfa58d1-a5b0-a1a9-502b-710d23fb7a18/191773226787.jpg/80x80bb.webp",
-        "appleID": "maula-mere-maula/1340774328"
-    },
-    {
-        "ranking": "84",
-        "title": "Jee Ni Lagda",
-        "artist": "Karan Aujla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
-        "appleID": "jee-ni-lagda/1697533665"
-    },
-    {
-        "ranking": "85",
-        "title": "Peelings (From \"Pushpa 2 The Rule\") - TELUGU",
-        "artist": "Shankarr Babu Kandukoori",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/e0/f6/a7e0f68e-e41b-6241-0571-67c7d9970989/8903431032553_cover.jpg/80x80bb.webp",
-        "appleID": "peelings-from-pushpa-2-the-rule-telugu/1782763234"
-    },
-    {
-        "ranking": "86",
-        "title": "Naina (From \"Crew\")",
-        "artist": "Diljit Dosanjh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/5e/29/bc5e2962-1e89-ac6c-566f-fd087c788acb/8901854099214.jpg/80x80bb.webp",
-        "appleID": "naina-from-crew/1734233958"
-    },
-    {
-        "ranking": "87",
-        "title": "Shayad (From \"Love Aaj Kal\")",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/8a/c6/9d8ac667-9857-5794-0a57-b81ebb23aae4/886448257929.jpg/80x80bb.webp",
-        "appleID": "shayad-from-love-aaj-kal/1495947509"
-    },
-    {
-        "ranking": "88",
-        "title": "Losing Myself (feat. Gunna)",
-        "artist": "AP Dhillon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/7a/63/c67a6326-d344-71ad-f08b-deef1935ac8b/24UMGIM89733.rgb.jpg/80x80bb.webp",
-        "appleID": "losing-myself-feat-gunna/1765205892"
-    },
-    {
-        "ranking": "89",
-        "title": "luther",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323",
-        "youtubeID": "4_taypLmSMU"
-    },
-    {
-        "ranking": "90",
-        "title": "Tere Bina Na Guzara E (feat. Kinza Hashmi)",
-        "artist": "Josh Brar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/10/c6/da10c6d9-8ef3-f843-e0b5-9974a61a3372/8902633358683.jpg/80x80bb.webp",
-        "appleID": "tere-bina-na-guzara-e-feat-kinza-hashmi/1767538707",
-        "youtubeID": "aYG6oEUXyuQ"
-    },
-    {
-        "ranking": "91",
-        "title": "Heeriye",
-        "artist": "Jasleen Royal",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/8c/2a/f08c2aeb-3903-8738-d0a5-8c2e4547eed7/5054197711039.jpg/80x80bb.webp",
-        "appleID": "heeriye/1690466656"
-    },
-    {
-        "ranking": "92",
-        "title": "The Scientist",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/80x80bb.webp",
-        "appleID": "the-scientist/1122776155"
-    },
-    {
-        "ranking": "93",
-        "title": "Spaceship",
-        "artist": "AP Dhillon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/77/cb/2477cbbb-563f-5ef1-9b05-299a4f34e5f1/859751714458_cover.jpg/80x80bb.webp",
-        "appleID": "spaceship/1596475469"
-    },
-    {
-        "ranking": "94",
-        "title": "Summer High",
-        "artist": "AP Dhillon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/50/0e/72/500e728f-d6d1-ec66-c994-9a98e1acb892/859764488018_cover.jpg/80x80bb.webp",
-        "appleID": "summer-high/1637645960"
-    },
-    {
-        "ranking": "95",
-        "title": "DONALI",
-        "artist": "Harkirat sangha",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/08/8a/56088ac0-7c53-266a-48a6-daa3db90f571/8905285215304.jpg/80x80bb.webp",
-        "appleID": "donali/1784198784"
-    },
-    {
-        "ranking": "96",
-        "title": "Aasa Kooda (From \"Think Indie\")",
-        "artist": "Sai Abhyankkar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/42/ba/3942ba45-40bd-5d0a-d7ad-0595f1336f3f/cover.jpg/80x80bb.webp",
-        "appleID": "aasa-kooda-from-think-indie/1751426200"
-    },
-    {
-        "ranking": "97",
-        "title": "Taras (From \"Munjya\")",
-        "artist": "Sachin-Jigar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/91/c8/7d91c851-00b0-6d25-9af8-865c32a75393/8909024032016.png/80x80bb.webp",
-        "appleID": "taras-from-munjya/1748501087"
-    },
-    {
-        "ranking": "98",
-        "title": "In Love",
-        "artist": "Shubh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
-        "appleID": "in-love/1789632609"
-    },
-    {
-        "ranking": "99",
-        "title": "Ae Dil Hai Mushkil (Title Track)",
-        "artist": "Pritam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/be/33/a1be3332-6cfc-a3c1-9d35-47669520f311/886446235608.jpg/80x80bb.webp",
-        "appleID": "ae-dil-hai-mushkil-title-track/1174924381"
-    },
-    {
-        "ranking": "100",
-        "title": "Starboy (feat. Daft Punk)",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
-        "appleID": "starboy-feat-daft-punk/1440871420"
-    }
+  {
+    "ranking": "1",
+    "title": "Wavy",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/5a/cddf5a8c-464e-3958-cf4a-7fac9e490aa5/5063616597178_cover.jpg/80x80bb.webp",
+    "appleID": "wavy/1779786209",
+    "youtubeID": "XTp5jaRU3Ws",
+    "spotifyID": "4d2jV5fmX6hbRwaRbY39dt"
+  },
+  {
+    "ranking": "2",
+    "title": "Ishq Hai",
+    "artist": "Anurag Saikia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/98/1b/a8981bdf-b91d-6099-57de-8e1c574a3199/cover.jpg/80x80bb.webp",
+    "appleID": "ishq-hai/1780661107"
+  },
+  {
+    "ranking": "3",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "4",
+    "title": "Antidote",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ce/a0/c2cea088-dbde-43db-346f-e536058fdcfb/5063483978438_cover.jpg/80x80bb.webp",
+    "appleID": "antidote/1753101077",
+    "spotifyID": "7KmCQLSSde0UX5OqCgvGN9"
+  },
+  {
+    "ranking": "5",
+    "title": "Apna Bana Le (From \"Bhediya\")",
+    "artist": "Arijit Singh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2e/0b/c0/2e0bc070-112f-a827-6ad8-6bc64f7caaff/840214460180.png/80x80bb.webp",
+    "appleID": "apna-bana-le-from-bhediya/1653219849"
+  },
+  {
+    "ranking": "6",
+    "title": "Millionaire",
+    "artist": "Yo Yo Honey Singh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e3/9c/11e39c6d-0ac9-8728-cb9e-94197f645bfd/8903431012173_cover.jpg/80x80bb.webp",
+    "appleID": "millionaire/1763807340",
+    "youtubeID": "XO8wew38VM8",
+    "spotifyID": "78BWCd70D1X6LMkDZm1UoF"
+  },
+  {
+    "ranking": "7",
+    "title": "Buckle Up",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
+    "appleID": "buckle-up/1789632369",
+    "youtubeID": "UKInLPwr7wk"
+  },
+  {
+    "ranking": "8",
+    "title": "Winning Speech",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/7c/36/487c3668-f7a4-4b1a-e09e-c74dae124dd9/5063483578089_cover.jpg/80x80bb.webp",
+    "appleID": "winning-speech/1745062759"
+  },
+  {
+    "ranking": "9",
+    "title": "Jhol",
+    "artist": "Maanu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/63/b9/bf63b9bd-5cb4-0aeb-0464-975608042ce2/085365403741.jpg/80x80bb.webp",
+    "appleID": "jhol/1748567106"
+  },
+  {
+    "ranking": "10",
+    "title": "Jo Tum Mere Ho",
+    "artist": "Anuv Jain",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
+    "appleID": "jo-tum-mere-ho/1758669726",
+    "youtubeID": "ilNt2bikxDI",
+    "spotifyID": "0eCajpR75pDW0r64U6hP2x"
+  },
+  {
+    "ranking": "11",
+    "title": "On Top",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/60/5f/a8605f98-0b93-da9e-76fe-e239fed1e38c/5059950896060.png/80x80bb.webp",
+    "appleID": "on-top/1658012467",
+    "spotifyID": "4SJMuaIYcBS8ke96lDYOsw"
+  },
+  {
+    "ranking": "12",
+    "title": "Sifar Safar",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a1/5f/b5a15f57-7184-47a6-564e-272d515b4810/5063616203642_cover.jpg/80x80bb.webp",
+    "appleID": "sifar-safar/1773799678",
+    "youtubeID": "TU1HQnU_9ME",
+    "spotifyID": "3lQPwCmD918SyoiIkw1zqx"
+  },
+  {
+    "ranking": "13",
+    "title": "Raanjhan (From \"Do Patti\")",
+    "artist": "Sachet-Parampara",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/a9/ca/99a9caf7-5d9f-5890-3fdf-e3ff8c860e79/8903431018915_cover.jpg/80x80bb.webp",
+    "appleID": "raanjhan-from-do-patti/1772246064"
+  },
+  {
+    "ranking": "14",
+    "title": "Timeless",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "ranking": "15",
+    "title": "Softly",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
+    "appleID": "softly/1697533818"
+  },
+  {
+    "ranking": "16",
+    "title": "Bars",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
+    "appleID": "bars/1789632595",
+    "youtubeID": "4L5lAqvf--c"
+  },
+  {
+    "ranking": "17",
+    "title": "Admirin' You (feat. Preston Pablo)",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
+    "appleID": "admirin-you-feat-preston-pablo/1697533664"
+  },
+  {
+    "ranking": "18",
+    "title": "Lock",
+    "artist": "Sidhu Moose Wala",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/70/1d/e0701d08-9867-649e-8ea5-9dedfe4ce47f/5063654395101_cover.jpg/80x80bb.webp",
+    "appleID": "lock/1792088910"
+  },
+  {
+    "ranking": "19",
+    "title": "Lalkara (feat. Sultaan)",
+    "artist": "Diljit Dosanjh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/80x80bb.webp",
+    "appleID": "lalkara-feat-sultaan/1714131823"
+  },
+  {
+    "ranking": "20",
+    "title": "Lover",
+    "artist": "Diljit Dosanjh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/80x80bb.webp",
+    "appleID": "lover/1581006912"
+  },
+  {
+    "ranking": "21",
+    "title": "Ishq (From \"Lost;Found\")",
+    "artist": "Faheem Abdullah",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/04/c1/a304c107-6887-c475-8377-d05e86cfe108/cover.jpg/80x80bb.webp",
+    "appleID": "ishq-from-lost-found/1734945021"
+  },
+  {
+    "ranking": "22",
+    "title": "A Sky Full of Stars",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
+    "appleID": "a-sky-full-of-stars/829910927",
+    "youtubeID": "VPRjCeoBqrI"
+  },
+  {
+    "ranking": "23",
+    "title": "Old Money",
+    "artist": "AP Dhillon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/fb/61/5afb613a-c9ca-625d-da7f-8d4b501f8eab/24UMGIM84219.rgb.jpg/80x80bb.webp",
+    "appleID": "old-money/1760672989",
+    "spotifyID": "5xlYVZxEwriP6hetG7QJw7"
+  },
+  {
+    "ranking": "24",
+    "title": "Hawayein",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c2/6e/b6/c26eb6da-f6ac-d7a8-1d3e-893f32b1244d/886446683584.jpg/80x80bb.webp",
+    "appleID": "hawayein/1267390213"
+  },
+  {
+    "ranking": "25",
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/80x80bb.webp",
+    "appleID": "yellow/1122782283",
+    "spotifyID": "3AJwUDP919kvQ9QcozQPxg",
+    "youtubeID": "yKNxeF4KMsY"
+  },
+  {
+    "ranking": "26",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221",
+    "youtubeID": "ekr2nIex040",
+    "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
+  },
+  {
+    "ranking": "27",
+    "title": "52 Bars",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/d3/44/9cd34457-1d8e-4d37-ca49-008aa083d652/859770181552_cover.jpg/80x80bb.webp",
+    "appleID": "52-bars/1668647123"
+  },
+  {
+    "ranking": "28",
+    "title": "Russian Bandana",
+    "artist": "Dhanda Nyoliwala",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/0d/15/bf0d1594-b24c-73cb-d440-13d422c40b4b/24UMGIM96203.rgb.jpg/80x80bb.webp",
+    "appleID": "russian-bandana/1766914121",
+    "youtubeID": "1OAjeECW90E",
+    "spotifyID": "1dFrZr9eMUsFqeag04ClqD"
+  },
+  {
+    "ranking": "29",
+    "title": "Kabira",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/80x80bb.webp",
+    "appleID": "kabira/1070912818"
+  },
+  {
+    "ranking": "30",
+    "title": "Tujhe Kitna Chahne Lage",
+    "artist": "Arijit Singh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/80x80bb.webp",
+    "appleID": "tujhe-kitna-chahne-lage/1468448742"
+  },
+  {
+    "ranking": "31",
+    "title": "Kinni Kinni",
+    "artist": "Diljit Dosanjh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/80x80bb.webp",
+    "appleID": "kinni-kinni/1714131801"
+  },
+  {
+    "ranking": "32",
+    "title": "Tune Jo Na Kaha",
+    "artist": "Mohit Chauhan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/67/5a/93675a87-51de-408f-3e1c-6b718af8ce81/849486008045_cover.jpg/80x80bb.webp",
+    "appleID": "tune-jo-na-kaha/673602145"
+  },
+  {
+    "ranking": "33",
+    "title": "Khuda Jaane",
+    "artist": "Vishal & Shekhar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/80x80bb.webp",
+    "appleID": "khuda-jaane/673521359"
+  },
+  {
+    "ranking": "34",
+    "title": "Hymn for the Weekend",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/80x80bb.webp",
+    "appleID": "hymn-for-the-weekend/1053934844",
+    "youtubeID": "YykjpeuMNEk"
+  },
+  {
+    "ranking": "35",
+    "title": "Ahista Ahista",
+    "artist": "Kazinama",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/36/82/2236828e-6a63-2e45-c0e7-0fd54f214dec/198595798126.jpg/80x80bb.webp",
+    "appleID": "ahista-ahista/1767915270"
+  },
+  {
+    "ranking": "36",
+    "title": "Tainu Khabar Nahi (From \"Munjya\")",
+    "artist": "Sachin-Jigar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/13/30/d713309e-4ca6-78ea-11d7-7236bc582c2b/8909024032504.png/80x80bb.webp",
+    "appleID": "tainu-khabar-nahi-from-munjya/1749770075"
+  },
+  {
+    "ranking": "37",
+    "title": "Mexico",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f8/a9/26/f8a926d7-aae8-46a2-739d-5d1795f2fdf5/8905285022148.jpg/80x80bb.webp",
+    "appleID": "mexico/1729969472"
+  },
+  {
+    "ranking": "38",
+    "title": "Tum Se Hi",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/80x80bb.webp",
+    "appleID": "tum-se-hi/1134725347"
+  },
+  {
+    "ranking": "39",
+    "title": "Aaye Haaye",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/ef/79/a5ef7987-2a3a-5aa0-1dee-691bba007e04/8903431032973_cover.jpg/80x80bb.webp",
+    "appleID": "aaye-haaye/1783306888"
+  },
+  {
+    "ranking": "40",
+    "title": "Dil Nu",
+    "artist": "AP Dhillon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/37/31/67373108-1018-da3f-7220-4515137e5e5e/859766525070_cover.jpg/80x80bb.webp",
+    "appleID": "dil-nu/1648624705"
+  },
+  {
+    "ranking": "41",
+    "title": "Cheques",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/46/a9/dc46a9c9-794e-2d7a-1afb-97eb4ae0fff6/197188915704.jpg/80x80bb.webp",
+    "appleID": "cheques/1687649562",
+    "spotifyID": "4eBvRhTJ2AcxCsbfTUjoRp"
+  },
+  {
+    "ranking": "42",
+    "title": "Fell For You",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
+    "appleID": "fell-for-you/1789632596",
+    "youtubeID": "SiKfBBoF51w"
+  },
+  {
+    "ranking": "43",
+    "title": "Carti",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
+    "appleID": "carti/1789632594"
+  },
+  {
+    "ranking": "44",
+    "title": "Kaise Hua",
+    "artist": "Vishal Mishra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/80x80bb.webp",
+    "appleID": "kaise-hua/1468448741"
+  },
+  {
+    "ranking": "45",
+    "title": "Born to Shine",
+    "artist": "Diljit Dosanjh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
+    "appleID": "born-to-shine/1523521607",
+    "spotifyID": "4XxfOvudrnBRdlgzEaq1sd"
+  },
+  {
+    "ranking": "46",
+    "title": "Viva La Vida",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
+    "appleID": "viva-la-vida/1122773680",
+    "youtubeID": "dvgZkm1xWPE"
+  },
+  {
+    "ranking": "47",
+    "title": "Pehle Bhi Main",
+    "artist": "Vishal Mishra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
+    "appleID": "pehle-bhi-main/1718278234",
+    "youtubeID": "lwv_0SEJ4NQ"
+  },
+  {
+    "ranking": "48",
+    "title": "Husn",
+    "artist": "Anuv Jain",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/80x80bb.webp",
+    "appleID": "husn/1717140552",
+    "spotifyID": "0TL0LFcwIBF5eX7arDIKxY"
+  },
+  {
+    "ranking": "49",
+    "title": "Paradise",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/41/1c/fa411c37-7a65-8a3e-71c9-4b566c49617c/5099967983858_1562x1562_300dpi.jpg/80x80bb.webp",
+    "appleID": "paradise/726373148",
+    "youtubeID": "1G4isv_Fylg"
+  },
+  {
+    "ranking": "50",
+    "title": "Shree Hanuman Chalisa",
+    "artist": "Hariharan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c5/3a/8d/c53a8d9b-23d8-5cc1-ec14-6ed0ce7920a0/8902894137256_cover.jpg/80x80bb.webp",
+    "appleID": "shree-hanuman-chalisa/1275543935"
+  },
+  {
+    "ranking": "51",
+    "title": "Departure Lane",
+    "artist": "Talha Anjum",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/94/d6/6a94d69e-3ba6-af74-fc2e-769a6b80b061/198846875156.jpg/80x80bb.webp",
+    "appleID": "departure-lane/1778624270"
+  },
+  {
+    "ranking": "52",
+    "title": "Tera Yaar Hoon Main",
+    "artist": "Arijit Singh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/a5/b0/81a5b084-89f7-7ed8-372e-aefd67504922/8902894360074_cover.jpg/80x80bb.webp",
+    "appleID": "tera-yaar-hoon-main/1348996917"
+  },
+  {
+    "ranking": "53",
+    "title": "Sahiba",
+    "artist": "Jasleen Royal",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/c8/e4/ccc8e4f7-935d-50eb-4103-28aebf242248/5021732549112.jpg/80x80bb.webp",
+    "appleID": "sahiba/1779263472"
+  },
+  {
+    "ranking": "54",
+    "title": "One Love",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/4f/3c/484f3c19-fdab-1fa8-fdb4-c7de79852d12/197189603969.jpg/80x80bb.webp",
+    "appleID": "one-love/1700735404",
+    "spotifyID": "5ZLkihi6DVsHwDL3B8ym1t"
+  },
+  {
+    "ranking": "55",
+    "title": "Kesariya (From \"Brahmastra\")",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/13/ca/9f13ca3b-e533-03e0-f19a-f0aaa774581d/196589311191.jpg/80x80bb.webp",
+    "appleID": "kesariya-from-brahmastra/1635014240"
+  },
+  {
+    "ranking": "56",
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/80x80bb.webp",
+    "appleID": "fix-you/1123076826"
+  },
+  {
+    "ranking": "57",
+    "title": "Pathikichu (From \"Vidaamuyarchi\")",
+    "artist": "Anirudh Ravichander",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/26/6e/11266e7f-4079-9591-101a-77ae202589c9/196872810776.jpg/80x80bb.webp",
+    "appleID": "pathikichu-from-vidaamuyarchi/1791364666"
+  },
+  {
+    "ranking": "58",
+    "title": "blue",
+    "artist": "yung kai",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
+    "appleID": "blue/1776246888",
+    "youtubeID": "98zHKN-xSHk",
+    "spotifyID": "3be9ACTxtcL6Zm4vJRUiPG"
+  },
+  {
+    "ranking": "59",
+    "title": "Ilahi",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/80x80bb.webp",
+    "appleID": "ilahi/1070912815"
+  },
+  {
+    "ranking": "60",
+    "title": "Phir Se Ud Chala",
+    "artist": "Mohit Chauhan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/80x80bb.webp",
+    "appleID": "phir-se-ud-chala/1123241858"
+  },
+  {
+    "ranking": "61",
+    "title": "Channa Mereya",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/f3/c6/68f3c645-1b25-3d44-af6f-ebe4aea3df08/886446201597.jpg/80x80bb.webp",
+    "appleID": "channa-mereya/1169015785"
+  },
+  {
+    "ranking": "62",
+    "title": "Bulleya",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/be/33/a1be3332-6cfc-a3c1-9d35-47669520f311/886446235608.jpg/80x80bb.webp",
+    "appleID": "bulleya/1174924385"
+  },
+  {
+    "ranking": "63",
+    "title": "Aura",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
+    "appleID": "aura/1789632612",
+    "youtubeID": "bsvmj3521Vs"
+  },
+  {
+    "ranking": "64",
+    "title": "Chuttamalle (From \"Devara Part 1\")",
+    "artist": "Anirudh Ravichander",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/7c/53/867c53cc-4efe-faef-a20e-8d9c896053db/8903431011411_cover.jpg/80x80bb.webp",
+    "appleID": "chuttamalle-from-devara-part-1/1761152593"
+  },
+  {
+    "ranking": "65",
+    "title": "G.O.A.T.",
+    "artist": "Diljit Dosanjh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
+    "appleID": "g-o-a-t/1523521149",
+    "spotifyID": "46QbY78ha62aiu6gBgC7lS"
+  },
+  {
+    "ranking": "66",
+    "title": "Knife Brows",
+    "artist": "Dhanda Nyoliwala",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/fd/c8/82fdc8b3-0ed3-d5d8-a0c5-32f0bd8e27e0/24UM1IM13158.rgb.jpg/80x80bb.webp",
+    "appleID": "knife-brows/1774466793",
+    "youtubeID": "69-yupf0pAY"
+  },
+  {
+    "ranking": "67",
+    "title": "Sajni",
+    "artist": "Ram Sampath",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/d8/bf/48d8bf8f-df58-e05f-62e2-bc494d748ea4/8902894362252_cover.jpg/80x80bb.webp",
+    "appleID": "sajni/1730725583"
+  },
+  {
+    "ranking": "68",
+    "title": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+    "artist": "Mitraz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ff/3c/2f/ff3c2ff1-a7fd-42fa-1a9c-83e524d37545/8903431980878_cover.jpg/80x80bb.webp",
+    "appleID": "akhiyaan-gulaab-from-teri-baaton-mein-aisa-uljha-jiya/1726548488",
+    "youtubeID": "GvXDq-P1NB8"
+  },
+  {
+    "ranking": "69",
+    "title": "Tauba Tauba (From \"Bad Newz\")",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/d2/01/79d201d2-e54d-5604-81fb-313f30db7219/198588533581.jpg/80x80bb.webp",
+    "appleID": "tauba-tauba-from-bad-newz/1754562159",
+    "youtubeID": "LK7-_dgAVQE"
+  },
+  {
+    "ranking": "70",
+    "title": "King Shit",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/b6/ed/05b6ed4c-ada8-01e2-965b-03b58801b836/197190670639.jpg/80x80bb.webp",
+    "appleID": "king-shit/1721323017",
+    "spotifyID": "1BpvuKIG7jK5EiTp2tv5z8"
+  },
+  {
+    "ranking": "71",
+    "title": "Aabaad Barbaad (From \"Ludo\")",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/f2/27/38f227a2-0bc9-2a6f-724d-030d7226b386/8903431790903_cover.jpg/80x80bb.webp",
+    "appleID": "aabaad-barbaad-from-ludo/1536602082"
+  },
+  {
+    "ranking": "72",
+    "title": "With You",
+    "artist": "AP Dhillon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/ac/00/5aac005f-9403-70e4-bce0-cf452017476e/197189606472.jpg/80x80bb.webp",
+    "appleID": "with-you/1700880858"
+  },
+  {
+    "ranking": "73",
+    "title": "Dooriyan",
+    "artist": "Mohit Chauhan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/e1/d4/4ae1d4c0-cc8e-8b7b-1371-a72da72eaeb8/828970016827.jpg/80x80bb.webp",
+    "appleID": "dooriyan/1614799047"
+  },
+  {
+    "ranking": "74",
+    "title": "Payal",
+    "artist": "Yo Yo Honey Singh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e3/9c/11e39c6d-0ac9-8728-cb9e-94197f645bfd/8903431012173_cover.jpg/80x80bb.webp",
+    "appleID": "payal/1763807350"
+  },
+  {
+    "ranking": "75",
+    "title": "Chaleya (From \"Jawan\")",
+    "artist": "Anirudh Ravichander",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/ff/32/1eff3216-190d-6fd9-8f68-acbba846e6ee/8903431956026_cover.jpg/80x80bb.webp",
+    "appleID": "chaleya-from-jawan/1702461667"
+  },
+  {
+    "ranking": "76",
+    "title": "Routine",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
+    "appleID": "routine/1789632601",
+    "youtubeID": "fq3y-gOQklY"
+  },
+  {
+    "ranking": "77",
+    "title": "Ghungroo (From \"War\")",
+    "artist": "Arijit Singh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/0b/88/f40b88d5-75cb-27b8-6b00-bba98f0f2fd0/849486006911_cover.jpg/80x80bb.webp",
+    "appleID": "ghungroo-from-war/1478998926"
+  },
+  {
+    "ranking": "78",
+    "title": "Something Just Like This",
+    "artist": "The Chainsmokers",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/56/6f/9d566f55-5253-bed6-5c31-df952dae649d/886446379289.jpg/80x80bb.webp",
+    "appleID": "something-just-like-this/1207120448"
+  },
+  {
+    "ranking": "79",
+    "title": "Hass Hass",
+    "artist": "Diljit Dosanjh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/11/f9/af11f978-7b08-8025-eb57-25682c8d9acb/5054197842245.jpg/80x80bb.webp",
+    "appleID": "hass-hass/1710378962"
+  },
+  {
+    "ranking": "80",
+    "title": "Never Fold (feat. Sunny Malton)",
+    "artist": "Sidhu Moose Wala",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/57/85/d75785de-f357-7a3c-fdb8-8d7d2be7572e/2729.jpg/80x80bb.webp",
+    "appleID": "never-fold-feat-sunny-malton/1620884223"
+  },
+  {
+    "ranking": "81",
+    "title": "Afreen Afreen (Coke Studio Season 9)",
+    "artist": "Rahat Fateh Ali Khan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/ff/b0/95ffb0d1-ba72-767e-a4e4-6e7989524b03/190394811402.jpg/80x80bb.webp",
+    "appleID": "afreen-afreen-coke-studio-season-9/1150347366"
+  },
+  {
+    "ranking": "82",
+    "title": "Excuses",
+    "artist": "AP Dhillon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/47/ac/4747ac85-1658-64ae-bc82-220a4d6213d5/859747478890_cover.jpg/80x80bb.webp",
+    "appleID": "excuses/1588418743"
+  },
+  {
+    "ranking": "83",
+    "title": "Maula Mere Maula",
+    "artist": "Roop Kumar Rathod",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/fa/58/0bfa58d1-a5b0-a1a9-502b-710d23fb7a18/191773226787.jpg/80x80bb.webp",
+    "appleID": "maula-mere-maula/1340774328"
+  },
+  {
+    "ranking": "84",
+    "title": "Jee Ni Lagda",
+    "artist": "Karan Aujla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
+    "appleID": "jee-ni-lagda/1697533665"
+  },
+  {
+    "ranking": "85",
+    "title": "Peelings (From \"Pushpa 2 The Rule\") - TELUGU",
+    "artist": "Shankarr Babu Kandukoori",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/e0/f6/a7e0f68e-e41b-6241-0571-67c7d9970989/8903431032553_cover.jpg/80x80bb.webp",
+    "appleID": "peelings-from-pushpa-2-the-rule-telugu/1782763234"
+  },
+  {
+    "ranking": "86",
+    "title": "Naina (From \"Crew\")",
+    "artist": "Diljit Dosanjh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/5e/29/bc5e2962-1e89-ac6c-566f-fd087c788acb/8901854099214.jpg/80x80bb.webp",
+    "appleID": "naina-from-crew/1734233958"
+  },
+  {
+    "ranking": "87",
+    "title": "Shayad (From \"Love Aaj Kal\")",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/8a/c6/9d8ac667-9857-5794-0a57-b81ebb23aae4/886448257929.jpg/80x80bb.webp",
+    "appleID": "shayad-from-love-aaj-kal/1495947509"
+  },
+  {
+    "ranking": "88",
+    "title": "Losing Myself (feat. Gunna)",
+    "artist": "AP Dhillon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/7a/63/c67a6326-d344-71ad-f08b-deef1935ac8b/24UMGIM89733.rgb.jpg/80x80bb.webp",
+    "appleID": "losing-myself-feat-gunna/1765205892"
+  },
+  {
+    "ranking": "89",
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "luther/1781270323",
+    "youtubeID": "4_taypLmSMU"
+  },
+  {
+    "ranking": "90",
+    "title": "Tere Bina Na Guzara E (feat. Kinza Hashmi)",
+    "artist": "Josh Brar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/10/c6/da10c6d9-8ef3-f843-e0b5-9974a61a3372/8902633358683.jpg/80x80bb.webp",
+    "appleID": "tere-bina-na-guzara-e-feat-kinza-hashmi/1767538707",
+    "youtubeID": "aYG6oEUXyuQ"
+  },
+  {
+    "ranking": "91",
+    "title": "Heeriye",
+    "artist": "Jasleen Royal",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/8c/2a/f08c2aeb-3903-8738-d0a5-8c2e4547eed7/5054197711039.jpg/80x80bb.webp",
+    "appleID": "heeriye/1690466656"
+  },
+  {
+    "ranking": "92",
+    "title": "The Scientist",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/80x80bb.webp",
+    "appleID": "the-scientist/1122776155",
+    "youtubeID": "RB-RcX5DS5A"
+  },
+  {
+    "ranking": "93",
+    "title": "Spaceship",
+    "artist": "AP Dhillon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/77/cb/2477cbbb-563f-5ef1-9b05-299a4f34e5f1/859751714458_cover.jpg/80x80bb.webp",
+    "appleID": "spaceship/1596475469"
+  },
+  {
+    "ranking": "94",
+    "title": "Summer High",
+    "artist": "AP Dhillon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/50/0e/72/500e728f-d6d1-ec66-c994-9a98e1acb892/859764488018_cover.jpg/80x80bb.webp",
+    "appleID": "summer-high/1637645960"
+  },
+  {
+    "ranking": "95",
+    "title": "DONALI",
+    "artist": "Harkirat sangha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/08/8a/56088ac0-7c53-266a-48a6-daa3db90f571/8905285215304.jpg/80x80bb.webp",
+    "appleID": "donali/1784198784"
+  },
+  {
+    "ranking": "96",
+    "title": "Aasa Kooda (From \"Think Indie\")",
+    "artist": "Sai Abhyankkar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/42/ba/3942ba45-40bd-5d0a-d7ad-0595f1336f3f/cover.jpg/80x80bb.webp",
+    "appleID": "aasa-kooda-from-think-indie/1751426200"
+  },
+  {
+    "ranking": "97",
+    "title": "Taras (From \"Munjya\")",
+    "artist": "Sachin-Jigar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/91/c8/7d91c851-00b0-6d25-9af8-865c32a75393/8909024032016.png/80x80bb.webp",
+    "appleID": "taras-from-munjya/1748501087"
+  },
+  {
+    "ranking": "98",
+    "title": "In Love",
+    "artist": "Shubh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/b7/7e7cb75e-1e27-6629-3dcc-02bd33af14a0/5021732610713.jpg/80x80bb.webp",
+    "appleID": "in-love/1789632609"
+  },
+  {
+    "ranking": "99",
+    "title": "Ae Dil Hai Mushkil (Title Track)",
+    "artist": "Pritam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/be/33/a1be3332-6cfc-a3c1-9d35-47669520f311/886446235608.jpg/80x80bb.webp",
+    "appleID": "ae-dil-hai-mushkil-title-track/1174924381"
+  },
+  {
+    "ranking": "100",
+    "title": "Starboy (feat. Daft Punk)",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
+    "appleID": "starboy-feat-daft-punk/1440871420",
+    "youtubeID": "34Na4j8AVgA"
+  }
 ]

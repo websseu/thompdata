@@ -1,717 +1,733 @@
 [
-    {
-        "ranking": "1",
-        "title": "Mussulo (feat. Dody)",
-        "artist": "DJ Malvado",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/65/21/09652195-aba4-abc0-a2de-5a2997f075cc/8447053264331.jpg/80x80bb.webp",
-        "appleID": "mussulo-feat-dody/1784213696"
-    },
-    {
-        "ranking": "2",
-        "title": "4 Kampé",
-        "artist": "Joé Dwèt Filé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412",
-        "youtubeID": "Srvt_6up-0o",
-        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
-    },
-    {
-        "ranking": "3",
-        "title": "Vibra Ku Mi",
-        "artist": "Miguel KR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/b5/58/acb5582a-8ae5-69f2-3c43-6cfc06c6f68b/artwork.jpg/80x80bb.webp",
-        "appleID": "vibra-ku-mi/1793915618"
-    },
-    {
-        "ranking": "4",
-        "title": "Obra Prima",
-        "artist": "Mark Delman",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/6e/fe/6d6efeab-b471-b2ff-2a31-9c66a66ebb77/cover.jpg/80x80bb.webp",
-        "appleID": "obra-prima/1766723413"
-    },
-    {
-        "ranking": "5",
-        "title": "À Toa",
-        "artist": "Chelsea Dinorath",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/3d/5b/623d5bbb-066b-502b-abe8-2fb4487db3e8/0.jpg/80x80bb.webp",
-        "appleID": "%C3%A0-toa/1775489254"
-    },
-    {
-        "ranking": "6",
-        "title": "BOLOLO (feat. Dibongu, Ze Grogu & Polback)",
-        "artist": "Rednav",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/f2/f1/2cf2f1b3-393b-928c-37dc-3af8c4459e68/cover.jpg/80x80bb.webp",
-        "appleID": "bololo-feat-dibongu-ze-grogu-polback/1763061435"
-    },
-    {
-        "ranking": "7",
-        "title": "Sweet Dreams",
-        "artist": "j-hope",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/9d/61/069d612b-4cfc-1868-5ec8-3abb515f1266/198704353512_Cover.jpg/80x80bb.webp",
-        "appleID": "sweet-dreams/1798229715"
-    },
-    {
-        "ranking": "8",
-        "title": "DJA NU DANA",
-        "artist": "Vdoz Caipbby Marito",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/90/cf/d090cf29-cbe8-2a06-146d-3b3c3ac9cbb4/artwork.jpg/80x80bb.webp",
-        "appleID": "dja-nu-dana/1788753354"
-    },
-    {
-        "ranking": "9",
-        "title": "STORM",
-        "artist": "Mark Delman",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/52/9f/ad529f84-a695-f467-69be-799b4422ba56/cover.jpg/80x80bb.webp",
-        "appleID": "storm/1757419730"
-    },
-    {
-        "ranking": "10",
-        "title": "Jungle Fever",
-        "artist": "Nelson Freitas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/10/2e/f4102e2c-1095-55c5-0855-77d4b5a14787/199066764121.jpg/80x80bb.webp",
-        "appleID": "jungle-fever/1794477077"
-    },
-    {
-        "ranking": "11",
-        "title": "tv off (feat. Lefty Gunplay)",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
-        "youtubeID": "U8F5G5wR1mk"
-    },
-    {
-        "ranking": "12",
-        "title": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167",
-        "youtubeID": "H58vbez_m4E"
-    },
-    {
-        "ranking": "13",
-        "title": "Oh Garota Eu Quero Você Só Pra Mim (feat. MC K9, MC Rodrigo do CN & mc pl alves)",
-        "artist": "Oruam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/b3/02/f0b302ef-239b-4282-9f0c-5866af949112/0.jpg/80x80bb.webp",
-        "appleID": "oh-garota-eu-quero-voc%C3%AA-s%C3%B3-pra-mim-feat-mc-k9-mc-rodrigo/1785286873"
-    },
-    {
-        "ranking": "14",
-        "title": "luther",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323",
-        "youtubeID": "4_taypLmSMU"
-    },
-    {
-        "ranking": "15",
-        "title": "Korpu Viola",
-        "artist": "Alyrio",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/62/b0/0162b0d5-cbc1-6b6c-7081-2bfe0c0a6be3/artwork.jpg/80x80bb.webp",
-        "appleID": "korpu-viola/1777711341"
-    },
-    {
-        "ranking": "16",
-        "title": "Mussulo (feat. Dody) [Extended Mix]",
-        "artist": "DJ Malvado",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/65/21/09652195-aba4-abc0-a2de-5a2997f075cc/8447053264331.jpg/80x80bb.webp",
-        "appleID": "mussulo-feat-dody-extended-mix/1784213717"
-    },
-    {
-        "ranking": "17",
-        "title": "Interestelar",
-        "artist": "Plutónio",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/6f/c7/606fc790-537e-d55a-f5a8-17ce0387f585/196872557992.jpg/80x80bb.webp",
-        "appleID": "interestelar/1775412754",
-        "youtubeID": "lsBmNKMTrtw"
-    },
-    {
-        "ranking": "18",
-        "title": "Cry For Me",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "cry-for-me/1793654350"
-    },
-    {
-        "ranking": "19",
-        "title": "1+1 (Pensá na nos) (feat. Maya)",
-        "artist": "Batchart",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/1b/8a/a41b8a67-8195-544a-e3e4-bc7a00a7f253/artwork.jpg/80x80bb.webp",
-        "appleID": "1-1-pens%C3%A1-na-nos-feat-maya/1788215653"
-    },
-    {
-        "ranking": "20",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890",
-        "youtubeID": "5EpyN_6dqyk"
-    },
-    {
-        "ranking": "21",
-        "title": "mesa (feat. kiddye bonz & slaasty)",
-        "artist": "G.one1",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/72/45/3c7245ca-afb0-da8e-8856-3cbf984b226b/artwork.jpg/80x80bb.webp",
-        "appleID": "mesa-feat-kiddye-bonz-slaasty/1778804650"
-    },
-    {
-        "ranking": "22",
-        "title": "Lei Anti o.R.U.a.M (feat. Victor WAO & Maurin)",
-        "artist": "Oruam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
-        "appleID": "lei-anti-o-r-u-a-m-feat-victor-wao-maurin/1797736975"
-    },
-    {
-        "ranking": "23",
-        "title": "Resenha do Arrocha",
-        "artist": "J. Eskine",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/34/52/ae345258-b873-fcd3-aeda-012448b95fdf/0.jpg/80x80bb.webp",
-        "appleID": "resenha-do-arrocha/1781105100"
-    },
-    {
-        "ranking": "24",
-        "title": "Atena",
-        "artist": "DJ Nelasta Nel Flow",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/11/f5/ab11f52f-490d-0971-2498-d5751f261554/198500646962.jpg/80x80bb.webp",
-        "appleID": "atena/1741258762"
-    },
-    {
-        "ranking": "25",
-        "title": "SODADE (feat. Michelle)",
-        "artist": "Cesf",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/4b/6a/d54b6a41-0030-4580-c58b-4c9e2ae27e62/artwork.jpg/80x80bb.webp",
-        "appleID": "sodade-feat-michelle/1733120261"
-    },
-    {
-        "ranking": "26",
-        "title": "MAZ UM BEIJO",
-        "artist": "DENNYH",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/cb/14/bacb14e5-318e-2501-d3f1-0ac1a5a3f9a3/8447053293973.jpg/80x80bb.webp",
-        "appleID": "maz-um-beijo/1793542645"
-    },
-    {
-        "ranking": "27",
-        "title": "Avançando Muito",
-        "artist": "Oruam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
-        "appleID": "avan%C3%A7ando-muito/1797736974"
-    },
-    {
-        "ranking": "28",
-        "title": "RAZON",
-        "artist": "Miguel KR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/13/d5/2513d5ab-81af-bcc1-19a4-84ea44612348/artwork.jpg/80x80bb.webp",
-        "appleID": "razon/1758210688"
-    },
-    {
-        "ranking": "29",
-        "title": "All The Stars",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7c/f9/0f7cf9a6-651f-53ae-e374-6be14630bfae/18UMGIM00001.rgb.jpg/80x80bb.webp",
-        "appleID": "all-the-stars/1440906939"
-    },
-    {
-        "ranking": "30",
-        "title": "22 Meu Vulgo (feat. Goldgrain)",
-        "artist": "Oruam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
-        "appleID": "22-meu-vulgo-feat-goldgrain/1797736970"
-    },
-    {
-        "ranking": "31",
-        "title": "Brainstorm",
-        "artist": "Miguel KR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/a3/1e/72a31e31-8aaa-18a0-5449-a7905a8f79fb/artwork.jpg/80x80bb.webp",
-        "appleID": "brainstorm/1738426561"
-    },
-    {
-        "ranking": "32",
-        "title": "Karta Pá Nha Ex",
-        "artist": "Helio Batalha",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/c7/47/3fc74789-7532-368b-93b3-9d7e134b3635/0.jpg/80x80bb.webp",
-        "appleID": "karta-p%C3%A1-nha-ex/1796231801"
-    },
-    {
-        "ranking": "33",
-        "title": "Pidi la",
-        "artist": "DJ Deekay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/27/f5/d027f5a1-21d4-a12f-8329-1ab520da4eec/artwork.jpg/80x80bb.webp",
-        "appleID": "pidi-la/1735604787"
-    },
-    {
-        "ranking": "34",
-        "title": "Madrugada É Solidão (feat. Galdino)",
-        "artist": "Oruam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
-        "appleID": "madrugada-%C3%A9-solid%C3%A3o-feat-galdino/1797736971"
-    },
-    {
-        "ranking": "35",
-        "title": "Mãe Solteira",
-        "artist": "DG e Batidão Stronda",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/ec/61/3bec61f5-b21a-d4ae-4a2f-0417b2e162c5/cover.jpg/80x80bb.webp",
-        "appleID": "ma-e-solteira/1799243164"
-    },
-    {
-        "ranking": "36",
-        "title": "Baby (Is It A Crime)",
-        "artist": "Rema",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ec/75/59ec75eb-42b0-bf6a-38c7-48013ca1b11e/24UM1IM36412.rgb.jpg/80x80bb.webp",
-        "appleID": "baby-is-it-a-crime/1790699154"
-    },
-    {
-        "ranking": "37",
-        "title": "Só Sodadi (feat. Twenty Fingers & Teo no Beat)",
-        "artist": "Nelson Freitas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/2c/85/8e2c856e-6a1e-c364-dd77-b80110cddf5a/199066904558.jpg/80x80bb.webp",
-        "appleID": "so-sodadi-feat-twenty-fingers-teo-no-beat/1797683150"
-    },
-    {
-        "ranking": "38",
-        "title": "Under the Influence",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
-        "appleID": "under-the-influence/1481623864"
-    },
-    {
-        "ranking": "39",
-        "title": "Charm",
-        "artist": "Rema",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/97/ea/c897ea8e-fbc6-d4b8-48fe-d9e31b46f1ed/23SYMIM04172.rgb.jpg/80x80bb.webp",
-        "appleID": "charm/1683359955"
-    },
-    {
-        "ranking": "40",
-        "title": "Holy Ghost",
-        "artist": "Omah Lay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/e8/88/93e88861-c093-8e4f-019a-c43f7afc5c03/054391356826.jpg/80x80bb.webp",
-        "appleID": "holy-ghost/1714017003"
-    },
-    {
-        "ranking": "41",
-        "title": "NOKIA",
-        "artist": "Drake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "nokia/1796127375"
-    },
-    {
-        "ranking": "42",
-        "title": "Angel Numbers / Ten Toes",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/7b/f5/4c7bf575-5b86-222d-56b2-9637a68bb651/196871463010.jpg/80x80bb.webp",
-        "appleID": "angel-numbers-ten-toes/1715744237"
-    },
-    {
-        "ranking": "43",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "44",
-        "title": "Moving",
-        "artist": "Omah Lay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/3a/c2/5a3ac2f1-614d-3594-6a57-706d05b45136/054391256409.jpg/80x80bb.webp",
-        "appleID": "moving/1760873911"
-    },
-    {
-        "ranking": "45",
-        "title": "Free Me",
-        "artist": "Tory Lanez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d5/d4/14d5d440-0a87-7313-ec01-d446d6388ae0/810129981810.jpg/80x80bb.webp",
-        "appleID": "free-me/1800275204"
-    },
-    {
-        "ranking": "46",
-        "title": "Só Benção",
-        "artist": "Neyna",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/c4/04/e7c40452-f059-540c-5e24-33dcf14d5824/24UM1IM43369.rgb.jpg/80x80bb.webp",
-        "appleID": "s%C3%B3-ben%C3%A7%C3%A3o/1787056539"
-    },
-    {
-        "ranking": "47",
-        "title": "Loukidown (feat. Miguel KR)",
-        "artist": "Giiio",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/c2/21/20c221b6-1452-9e36-888d-05dc3b224d97/artwork.jpg/80x80bb.webp",
-        "appleID": "loukidown-feat-miguel-kr/1721165686"
-    },
-    {
-        "ranking": "48",
-        "title": "Resenha de Ex-Love",
-        "artist": "J. Eskine",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/d6/7f/b3d67f9d-ab49-04cc-df31-78de9a8d4287/0.jpg/80x80bb.webp",
-        "appleID": "resenha-de-ex-love/1792928542"
-    },
-    {
-        "ranking": "49",
-        "title": "Baptized In Fear",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "baptized-in-fear/1793654357"
-    },
-    {
-        "ranking": "50",
-        "title": "Mônaco Freestyle",
-        "artist": "Veigh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/42/5e/f4425e1b-3fa5-8760-4be5-c981163a2873/199041478890.png/80x80bb.webp",
-        "appleID": "m%C3%B4naco-freestyle/1791239627"
-    },
-    {
-        "ranking": "51",
-        "title": "SOMEBODY LOVES ME",
-        "artist": "PARTYNEXTDOOR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "somebody-loves-me/1796127378"
-    },
-    {
-        "ranking": "52",
-        "title": "GIMME A HUG",
-        "artist": "Drake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "gimme-a-hug/1796127367"
-    },
-    {
-        "ranking": "53",
-        "title": "UNAVAILABLE (feat. Musa Keys)",
-        "artist": "Davido",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "unavailable-feat-musa-keys/1675379749"
-    },
-    {
-        "ranking": "54",
-        "title": "Distancia (feat. Kady)",
-        "artist": "Cesf",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/43/94/5f439431-9426-93b5-9495-f5d29e57a43c/artwork.jpg/80x80bb.webp",
-        "appleID": "distancia-feat-kady/1749084789"
-    },
-    {
-        "ranking": "55",
-        "title": "MEMORIES #1 (feat. Raff Luke, RhymesK & Alexandra Leite)",
-        "artist": "Masterment",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/37/c8/e137c895-2f00-373d-7dab-001bb4e99f0f/artwork.jpg/80x80bb.webp",
-        "appleID": "memories-1-feat-raff-luke-rhymesk-alexandra-leite/1744368292"
-    },
-    {
-        "ranking": "56",
-        "title": "LV Bag (feat. Pharrell Williams)",
-        "artist": "Don Toliver",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/de/55/23de5501-2c54-6c14-c28b-71244ac9700e/075679620378.jpg/80x80bb.webp",
-        "appleID": "lv-bag-feat-pharrell-williams/1796272112"
-    },
-    {
-        "ranking": "57",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434",
-        "youtubeID": "eVli-tstM5E"
-    },
-    {
-        "ranking": "58",
-        "title": "Slipping x Falling",
-        "artist": "Tory Lanez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a0/3c/e2a03c84-4db2-7c29-338d-9bc1c7fc8c4e/810129980899.jpg/80x80bb.webp",
-        "appleID": "slipping-x-falling/1800353381"
-    },
-    {
-        "ranking": "59",
-        "title": "Sensational (feat. Davido & Lojay)",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/16/08/08160816-d5e8-9be0-56ec-9d8d3dda8ad2/196871554916.jpg/80x80bb.webp",
-        "appleID": "sensational-feat-davido-lojay/1712552509"
-    },
-    {
-        "ranking": "60",
-        "title": "Arrepios",
-        "artist": "Soarito",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2a/83/d5/2a83d5bd-ecaa-b5e4-3096-474c6bfe1ede/artwork.jpg/80x80bb.webp",
-        "appleID": "arrepios/1621143625"
-    },
-    {
-        "ranking": "61",
-        "title": "Xkece",
-        "artist": "Djodje",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/54/78/4c547826-e640-2343-064a-6820c14fce20/8447053128534.jpg/80x80bb.webp",
-        "appleID": "xkece/1745004192"
-    },
-    {
-        "ranking": "62",
-        "title": "SPIDER-MAN SUPERMAN",
-        "artist": "PARTYNEXTDOOR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "spider-man-superman/1796127257"
-    },
-    {
-        "ranking": "63",
-        "title": "Wavy (feat. DJ Tarico & Mark Exodus)",
-        "artist": "Nelson Freitas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/2c/85/8e2c856e-6a1e-c364-dd77-b80110cddf5a/199066904558.jpg/80x80bb.webp",
-        "appleID": "wavy-feat-dj-tarico-mark-exodus/1797683153"
-    },
-    {
-        "ranking": "64",
-        "title": "Hero",
-        "artist": "Nelson Freitas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/e1/2e/1ee12e5f-e612-b83f-8551-197d35f43fff/197189904165.jpg/80x80bb.webp",
-        "appleID": "hero/1726487366"
-    },
-    {
-        "ranking": "65",
-        "title": "Rush",
-        "artist": "Ayra Starr",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573",
-        "youtubeID": "crtQSTYWtqE"
-    },
-    {
-        "ranking": "66",
-        "title": "Sneeze Wrong",
-        "artist": "Tory Lanez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a0/3c/e2a03c84-4db2-7c29-338d-9bc1c7fc8c4e/810129980899.jpg/80x80bb.webp",
-        "appleID": "sneeze-wrong/1800353009"
-    },
-    {
-        "ranking": "67",
-        "title": "Celine (feat. SOS MUCCI)",
-        "artist": "Elji Beatzkilla",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/3f/b7/f03fb7bc-198e-eab5-e7c7-ab01ce10f903/cover.jpg/80x80bb.webp",
-        "appleID": "celine-feat-sos-mucci/1699200649"
-    },
-    {
-        "ranking": "68",
-        "title": "PIMMIE'S DILEMMA",
-        "artist": "Pimmie",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "pimmies-dilemma/1796127362"
-    },
-    {
-        "ranking": "69",
-        "title": "Residuals",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
-        "appleID": "residuals/1740206493"
-    },
-    {
-        "ranking": "70",
-        "title": "The Abyss",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "the-abyss/1793654652"
-    },
-    {
-        "ranking": "71",
-        "title": "Versos & Poesias #4: Céu Azul (feat. Penelas Sidney, Chelsea Dinorath, LordCkOficial, Queen Marcy, Sheila Da Cunha, LilBoy Bruce, Mary J & Fábio S)",
-        "artist": "Black Spygo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/51/68/ea51685a-69fb-fd1f-eccc-41ba3a39a327/22UMGIM81778.rgb.jpg/80x80bb.webp",
-        "appleID": "versos-poesias-4-c%C3%A9u-azul-feat-penelas-sidney-chelsea/1635813657"
-    },
-    {
-        "ranking": "72",
-        "title": "Não Mente pra Mentiroso",
-        "artist": "Oruam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
-        "appleID": "n%C3%A3o-mente-pra-mentiroso/1797736979"
-    },
-    {
-        "ranking": "73",
-        "title": "heart pt. 6",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "heart-pt-6/1781270549",
-        "youtubeID": "m-PO1_fzxVM"
-    },
-    {
-        "ranking": "74",
-        "title": "Open Hearts",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "open-hearts/1793654358"
-    },
-    {
-        "ranking": "75",
-        "title": "Viver",
-        "artist": "Vado Más Ki Ás",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/a5/e5/9ba5e56e-9664-8276-b635-c1bc976f12b5/8447053094617.jpg/80x80bb.webp",
-        "appleID": "viver/1735756216"
-    },
-    {
-        "ranking": "76",
-        "title": "Dentu Kubico",
-        "artist": "CESF",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/b4/82/beb48211-a2e9-06a1-93f9-722bc21dda02/artwork.jpg/80x80bb.webp",
-        "appleID": "dentu-kubico/1723023398"
-    },
-    {
-        "ranking": "77",
-        "title": "gloria",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "gloria/1781270555",
-        "youtubeID": "G5YwhjCywvw"
-    },
-    {
-        "ranking": "78",
-        "title": "Ba Detá (feat. Kiddye Bonz)",
-        "artist": "Raff Luke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/b0/53/8ab05328-36eb-a220-44a6-cf2a30480b87/artwork.jpg/80x80bb.webp",
-        "appleID": "ba-det%C3%A1-feat-kiddye-bonz/1785533801"
-    },
-    {
-        "ranking": "79",
-        "title": "Audi Blue",
-        "artist": "Oruam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
-        "appleID": "audi-blue/1797736976"
-    },
-    {
-        "ranking": "80",
-        "title": "Uni-Verso",
-        "artist": "Cesf",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/8a/f2/348af2bf-fcef-65e8-f24c-789f9eb228b6/8447053295922.jpg/80x80bb.webp",
-        "appleID": "uni-verso/1793870356"
-    },
-    {
-        "ranking": "81",
-        "title": "Ghanama (Zulu Version)",
-        "artist": "Sdala B",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/2a/37/7e2a3742-a2dc-f213-012e-62e77b70abb6/0757572923823.png/80x80bb.webp",
-        "appleID": "ghanama-zulu-version/1579829187"
-    },
-    {
-        "ranking": "82",
-        "title": "9$IDE x Amethyst",
-        "artist": "Tory Lanez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a0/3c/e2a03c84-4db2-7c29-338d-9bc1c7fc8c4e/810129980899.jpg/80x80bb.webp",
-        "appleID": "9%24ide-x-amethyst/1800353015"
-    },
-    {
-        "ranking": "83",
-        "title": "White Lightning",
-        "artist": "Tory Lanez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d5/d4/14d5d440-0a87-7313-ec01-d446d6388ae0/810129981810.jpg/80x80bb.webp",
-        "appleID": "white-lightning/1800275206"
-    },
-    {
-        "ranking": "84",
-        "title": "São Paulo",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/80x80bb.webp",
-        "appleID": "s%C3%A3o-paulo/1776914757"
-    },
-    {
-        "ranking": "85",
-        "title": "CELIBACY",
-        "artist": "PARTYNEXTDOOR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "celibacy/1796127410"
-    },
-    {
-        "ranking": "86",
-        "title": "Adora a bunda, odeia o rosto (feat. Veigh & Niink)",
-        "artist": "Supernova Ent",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/8a/0b/368a0baf-1406-c96c-617d-d7a57173b2ee/5034644310879.jpg/80x80bb.webp",
-        "appleID": "adora-a-bunda-odeia-o-rosto-feat-veigh-niink/1782229757"
-    },
-    {
-        "ranking": "87",
-        "title": "Falta De Mim (feat. Nelson Freitas)",
-        "artist": "Dream Boyz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d6/d5/ad/d6d5adc6-edb3-66e6-809e-adf045f7c267/859728360633_cover.jpg/80x80bb.webp",
-        "appleID": "falta-de-mim-feat-nelson-freitas/1434331164"
-    },
-    {
-        "ranking": "88",
-        "title": "País das Maravilhas",
-        "artist": "Plutónio",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/b5/42/7db54276-a783-c308-bbc4-c75f5efef89f/196872557923.jpg/80x80bb.webp",
-        "appleID": "pa%C3%ADs-das-maravilhas/1776657471",
-        "youtubeID": "JolO6Y7TkRQ"
-    },
-    {
-        "ranking": "89",
-        "title": "Pedaço de Céu (feat. Felishia)",
-        "artist": "Soarito",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d1/f2/18/d1f218b5-96d0-25fe-f5f2-80c9fddb3b76/artwork.jpg/80x80bb.webp",
-        "appleID": "peda%C3%A7o-de-c%C3%A9u-feat-felishia/1647539704"
-    },
-    {
-        "ranking": "90",
-        "title": "understand",
-        "artist": "Omah Lay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a7/4d/13a74d60-f269-603c-a8ee-527c0daba041/093624841319_01.jpg/80x80bb.webp",
-        "appleID": "understand/1744453757"
-    },
-    {
-        "ranking": "91",
-        "title": "Eu Não Tenho Casa (Faixa Bônus)",
-        "artist": "Oruam",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
-        "appleID": "eu-n%C3%A3o-tenho-casa-faixa-b%C3%B4nus/1797736993"
-    },
-    {
-        "ranking": "92",
-        "title": "I'M DAT N***A",
-        "artist": "Future",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
-        "appleID": "im-dat-n-a/1621119426"
-    },
-    {
-        "ranking": "93",
-        "title": "$ailor Moon",
-        "artist": "Tory Lanez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d5/d4/14d5d440-0a87-7313-ec01-d446d6388ae0/810129981810.jpg/80x80bb.webp",
-        "appleID": "%24ailor-moon/1800275631"
-    },
-    {
-        "ranking": "94",
-        "title": "Smooth Operator",
-        "artist": "Sade",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/d5/a1/4dd5a1b7-7134-f0ec-b55c-54ac47cc88a5/886448655886.jpg/80x80bb.webp",
-        "appleID": "smooth-operator/1524651263"
-    },
-    {
-        "ranking": "95",
-        "title": "Pipoca",
-        "artist": "Vado Más Ki Ás",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/fa/ff/1afaff7b-eec9-7336-7067-3d44ba16944e/8447053117088.jpg/80x80bb.webp",
-        "appleID": "pipoca/1741641134"
-    },
-    {
-        "ranking": "96",
-        "title": "Tu És a Mulher",
-        "artist": "C4 pedro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/40/3f/43403fec-8e57-5b8d-f7c9-b3b31131377f/886445508895.jpg/80x80bb.webp",
-        "appleID": "tu-%C3%A9s-a-mulher/1041204868"
-    },
-    {
-        "ranking": "97",
-        "title": "Tentason",
-        "artist": "Djodje",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/b1/1a/d8b11a6c-b1ab-a908-45e4-c810ee364017/8447053074046.jpg/80x80bb.webp",
-        "appleID": "tentason/1729791770"
-    },
-    {
-        "ranking": "98",
-        "title": "Prepara",
-        "artist": "El Bruxo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/ef/86/a4ef8674-4114-a38d-1607-13c906c1e85b/7300341083179.jpg/80x80bb.webp",
-        "appleID": "prepara/1746944782"
-    },
-    {
-        "ranking": "99",
-        "title": "PAPU RETU",
-        "artist": "Alyrio",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/2f/2d/c42f2d90-8def-6c9f-5f71-0c1127159517/artwork.jpg/80x80bb.webp",
-        "appleID": "papu-retu/1770964791"
-    },
-    {
-        "ranking": "100",
-        "title": "Who",
-        "artist": "Jimin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093",
-        "youtubeID": "Av9DvtlJ9_M"
-    }
+  {
+    "ranking": "1",
+    "title": "Mussulo (feat. Dody)",
+    "artist": "DJ Malvado",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/65/21/09652195-aba4-abc0-a2de-5a2997f075cc/8447053264331.jpg/80x80bb.webp",
+    "appleID": "mussulo-feat-dody/1784213696"
+  },
+  {
+    "ranking": "2",
+    "title": "4 Kampé",
+    "artist": "Joé Dwèt Filé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
+    "appleID": "4-kamp%C3%A9/1773819412",
+    "youtubeID": "Srvt_6up-0o",
+    "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
+  },
+  {
+    "ranking": "3",
+    "title": "Vibra Ku Mi",
+    "artist": "Miguel KR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/b5/58/acb5582a-8ae5-69f2-3c43-6cfc06c6f68b/artwork.jpg/80x80bb.webp",
+    "appleID": "vibra-ku-mi/1793915618"
+  },
+  {
+    "ranking": "4",
+    "title": "Obra Prima",
+    "artist": "Mark Delman",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/6e/fe/6d6efeab-b471-b2ff-2a31-9c66a66ebb77/cover.jpg/80x80bb.webp",
+    "appleID": "obra-prima/1766723413"
+  },
+  {
+    "ranking": "5",
+    "title": "À Toa",
+    "artist": "Chelsea Dinorath",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/3d/5b/623d5bbb-066b-502b-abe8-2fb4487db3e8/0.jpg/80x80bb.webp",
+    "appleID": "%C3%A0-toa/1775489254"
+  },
+  {
+    "ranking": "6",
+    "title": "BOLOLO (feat. Dibongu, Ze Grogu & Polback)",
+    "artist": "Rednav",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/f2/f1/2cf2f1b3-393b-928c-37dc-3af8c4459e68/cover.jpg/80x80bb.webp",
+    "appleID": "bololo-feat-dibongu-ze-grogu-polback/1763061435"
+  },
+  {
+    "ranking": "7",
+    "title": "Sweet Dreams",
+    "artist": "j-hope",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/9d/61/069d612b-4cfc-1868-5ec8-3abb515f1266/198704353512_Cover.jpg/80x80bb.webp",
+    "appleID": "sweet-dreams/1798229715",
+    "youtubeID": "kW1e8NtdW90"
+  },
+  {
+    "ranking": "8",
+    "title": "DJA NU DANA",
+    "artist": "Vdoz Caipbby Marito",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/90/cf/d090cf29-cbe8-2a06-146d-3b3c3ac9cbb4/artwork.jpg/80x80bb.webp",
+    "appleID": "dja-nu-dana/1788753354"
+  },
+  {
+    "ranking": "9",
+    "title": "STORM",
+    "artist": "Mark Delman",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/52/9f/ad529f84-a695-f467-69be-799b4422ba56/cover.jpg/80x80bb.webp",
+    "appleID": "storm/1757419730"
+  },
+  {
+    "ranking": "10",
+    "title": "Jungle Fever",
+    "artist": "Nelson Freitas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/10/2e/f4102e2c-1095-55c5-0855-77d4b5a14787/199066764121.jpg/80x80bb.webp",
+    "appleID": "jungle-fever/1794477077"
+  },
+  {
+    "ranking": "11",
+    "title": "tv off (feat. Lefty Gunplay)",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+    "youtubeID": "U8F5G5wR1mk"
+  },
+  {
+    "ranking": "12",
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+    "appleID": "not-like-us/1744776167",
+    "youtubeID": "H58vbez_m4E"
+  },
+  {
+    "ranking": "13",
+    "title": "Oh Garota Eu Quero Você Só Pra Mim (feat. MC K9, MC Rodrigo do CN & mc pl alves)",
+    "artist": "Oruam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/b3/02/f0b302ef-239b-4282-9f0c-5866af949112/0.jpg/80x80bb.webp",
+    "appleID": "oh-garota-eu-quero-voc%C3%AA-s%C3%B3-pra-mim-feat-mc-k9-mc-rodrigo/1785286873",
+    "youtubeID": "Q3zkwywXXHc"
+  },
+  {
+    "ranking": "14",
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "luther/1781270323",
+    "youtubeID": "4_taypLmSMU"
+  },
+  {
+    "ranking": "15",
+    "title": "Korpu Viola",
+    "artist": "Alyrio",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/62/b0/0162b0d5-cbc1-6b6c-7081-2bfe0c0a6be3/artwork.jpg/80x80bb.webp",
+    "appleID": "korpu-viola/1777711341"
+  },
+  {
+    "ranking": "16",
+    "title": "Mussulo (feat. Dody) [Extended Mix]",
+    "artist": "DJ Malvado",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/65/21/09652195-aba4-abc0-a2de-5a2997f075cc/8447053264331.jpg/80x80bb.webp",
+    "appleID": "mussulo-feat-dody-extended-mix/1784213717"
+  },
+  {
+    "ranking": "17",
+    "title": "Interestelar",
+    "artist": "Plutónio",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/6f/c7/606fc790-537e-d55a-f5a8-17ce0387f585/196872557992.jpg/80x80bb.webp",
+    "appleID": "interestelar/1775412754",
+    "youtubeID": "lsBmNKMTrtw"
+  },
+  {
+    "ranking": "18",
+    "title": "Cry For Me",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
+    "appleID": "cry-for-me/1793654350",
+    "youtubeID": "bn8gP5N8hqM"
+  },
+  {
+    "ranking": "19",
+    "title": "1+1 (Pensá na nos) (feat. Maya)",
+    "artist": "Batchart",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/1b/8a/a41b8a67-8195-544a-e3e4-bc7a00a7f253/artwork.jpg/80x80bb.webp",
+    "appleID": "1-1-pens%C3%A1-na-nos-feat-maya/1788215653"
+  },
+  {
+    "ranking": "20",
+    "title": "Timeless",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "ranking": "21",
+    "title": "mesa (feat. kiddye bonz & slaasty)",
+    "artist": "G.one1",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/72/45/3c7245ca-afb0-da8e-8856-3cbf984b226b/artwork.jpg/80x80bb.webp",
+    "appleID": "mesa-feat-kiddye-bonz-slaasty/1778804650"
+  },
+  {
+    "ranking": "22",
+    "title": "Lei Anti o.R.U.a.M (feat. Victor WAO & Maurin)",
+    "artist": "Oruam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
+    "appleID": "lei-anti-o-r-u-a-m-feat-victor-wao-maurin/1797736975",
+    "youtubeID": "b7GjV_aeoK4"
+  },
+  {
+    "ranking": "23",
+    "title": "Resenha do Arrocha",
+    "artist": "J. Eskine",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/34/52/ae345258-b873-fcd3-aeda-012448b95fdf/0.jpg/80x80bb.webp",
+    "appleID": "resenha-do-arrocha/1781105100"
+  },
+  {
+    "ranking": "24",
+    "title": "Atena",
+    "artist": "DJ Nelasta Nel Flow",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/11/f5/ab11f52f-490d-0971-2498-d5751f261554/198500646962.jpg/80x80bb.webp",
+    "appleID": "atena/1741258762"
+  },
+  {
+    "ranking": "25",
+    "title": "SODADE (feat. Michelle)",
+    "artist": "Cesf",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/4b/6a/d54b6a41-0030-4580-c58b-4c9e2ae27e62/artwork.jpg/80x80bb.webp",
+    "appleID": "sodade-feat-michelle/1733120261"
+  },
+  {
+    "ranking": "26",
+    "title": "MAZ UM BEIJO",
+    "artist": "DENNYH",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/cb/14/bacb14e5-318e-2501-d3f1-0ac1a5a3f9a3/8447053293973.jpg/80x80bb.webp",
+    "appleID": "maz-um-beijo/1793542645",
+    "youtubeID": "WA_bqNWSvpE"
+  },
+  {
+    "ranking": "27",
+    "title": "Avançando Muito",
+    "artist": "Oruam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
+    "appleID": "avan%C3%A7ando-muito/1797736974"
+  },
+  {
+    "ranking": "28",
+    "title": "RAZON",
+    "artist": "Miguel KR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/13/d5/2513d5ab-81af-bcc1-19a4-84ea44612348/artwork.jpg/80x80bb.webp",
+    "appleID": "razon/1758210688"
+  },
+  {
+    "ranking": "29",
+    "title": "All The Stars",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7c/f9/0f7cf9a6-651f-53ae-e374-6be14630bfae/18UMGIM00001.rgb.jpg/80x80bb.webp",
+    "appleID": "all-the-stars/1440906939"
+  },
+  {
+    "ranking": "30",
+    "title": "22 Meu Vulgo (feat. Goldgrain)",
+    "artist": "Oruam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
+    "appleID": "22-meu-vulgo-feat-goldgrain/1797736970",
+    "youtubeID": "WiGZQD76IgQ"
+  },
+  {
+    "ranking": "31",
+    "title": "Brainstorm",
+    "artist": "Miguel KR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/a3/1e/72a31e31-8aaa-18a0-5449-a7905a8f79fb/artwork.jpg/80x80bb.webp",
+    "appleID": "brainstorm/1738426561"
+  },
+  {
+    "ranking": "32",
+    "title": "Karta Pá Nha Ex",
+    "artist": "Helio Batalha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/c7/47/3fc74789-7532-368b-93b3-9d7e134b3635/0.jpg/80x80bb.webp",
+    "appleID": "karta-p%C3%A1-nha-ex/1796231801"
+  },
+  {
+    "ranking": "33",
+    "title": "Pidi la",
+    "artist": "DJ Deekay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/27/f5/d027f5a1-21d4-a12f-8329-1ab520da4eec/artwork.jpg/80x80bb.webp",
+    "appleID": "pidi-la/1735604787"
+  },
+  {
+    "ranking": "34",
+    "title": "Madrugada É Solidão (feat. Galdino)",
+    "artist": "Oruam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
+    "appleID": "madrugada-%C3%A9-solid%C3%A3o-feat-galdino/1797736971"
+  },
+  {
+    "ranking": "35",
+    "title": "Mãe Solteira",
+    "artist": "DG e Batidão Stronda",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/ec/61/3bec61f5-b21a-d4ae-4a2f-0417b2e162c5/cover.jpg/80x80bb.webp",
+    "appleID": "ma-e-solteira/1799243164"
+  },
+  {
+    "ranking": "36",
+    "title": "Baby (Is It A Crime)",
+    "artist": "Rema",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ec/75/59ec75eb-42b0-bf6a-38c7-48013ca1b11e/24UM1IM36412.rgb.jpg/80x80bb.webp",
+    "appleID": "baby-is-it-a-crime/1790699154",
+    "youtubeID": "MsZhYgo9MoA"
+  },
+  {
+    "ranking": "37",
+    "title": "Só Sodadi (feat. Twenty Fingers & Teo no Beat)",
+    "artist": "Nelson Freitas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/2c/85/8e2c856e-6a1e-c364-dd77-b80110cddf5a/199066904558.jpg/80x80bb.webp",
+    "appleID": "so-sodadi-feat-twenty-fingers-teo-no-beat/1797683150"
+  },
+  {
+    "ranking": "38",
+    "title": "Under the Influence",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+    "appleID": "under-the-influence/1481623864",
+    "youtubeID": "pfxyk1glEq4"
+  },
+  {
+    "ranking": "39",
+    "title": "Charm",
+    "artist": "Rema",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/97/ea/c897ea8e-fbc6-d4b8-48fe-d9e31b46f1ed/23SYMIM04172.rgb.jpg/80x80bb.webp",
+    "appleID": "charm/1683359955"
+  },
+  {
+    "ranking": "40",
+    "title": "Holy Ghost",
+    "artist": "Omah Lay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/e8/88/93e88861-c093-8e4f-019a-c43f7afc5c03/054391356826.jpg/80x80bb.webp",
+    "appleID": "holy-ghost/1714017003"
+  },
+  {
+    "ranking": "41",
+    "title": "NOKIA",
+    "artist": "Drake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "nokia/1796127375",
+    "youtubeID": "UWyFj-TD9-M"
+  },
+  {
+    "ranking": "42",
+    "title": "Angel Numbers / Ten Toes",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/7b/f5/4c7bf575-5b86-222d-56b2-9637a68bb651/196871463010.jpg/80x80bb.webp",
+    "appleID": "angel-numbers-ten-toes/1715744237",
+    "youtubeID": "wWR0VD6qgt8"
+  },
+  {
+    "ranking": "43",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "44",
+    "title": "Moving",
+    "artist": "Omah Lay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/3a/c2/5a3ac2f1-614d-3594-6a57-706d05b45136/054391256409.jpg/80x80bb.webp",
+    "appleID": "moving/1760873911"
+  },
+  {
+    "ranking": "45",
+    "title": "Free Me",
+    "artist": "Tory Lanez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d5/d4/14d5d440-0a87-7313-ec01-d446d6388ae0/810129981810.jpg/80x80bb.webp",
+    "appleID": "free-me/1800275204"
+  },
+  {
+    "ranking": "46",
+    "title": "Só Benção",
+    "artist": "Neyna",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/c4/04/e7c40452-f059-540c-5e24-33dcf14d5824/24UM1IM43369.rgb.jpg/80x80bb.webp",
+    "appleID": "s%C3%B3-ben%C3%A7%C3%A3o/1787056539"
+  },
+  {
+    "ranking": "47",
+    "title": "Loukidown (feat. Miguel KR)",
+    "artist": "Giiio",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/c2/21/20c221b6-1452-9e36-888d-05dc3b224d97/artwork.jpg/80x80bb.webp",
+    "appleID": "loukidown-feat-miguel-kr/1721165686"
+  },
+  {
+    "ranking": "48",
+    "title": "Resenha de Ex-Love",
+    "artist": "J. Eskine",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/d6/7f/b3d67f9d-ab49-04cc-df31-78de9a8d4287/0.jpg/80x80bb.webp",
+    "appleID": "resenha-de-ex-love/1792928542"
+  },
+  {
+    "ranking": "49",
+    "title": "Baptized In Fear",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
+    "appleID": "baptized-in-fear/1793654357"
+  },
+  {
+    "ranking": "50",
+    "title": "Mônaco Freestyle",
+    "artist": "Veigh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/42/5e/f4425e1b-3fa5-8760-4be5-c981163a2873/199041478890.png/80x80bb.webp",
+    "appleID": "m%C3%B4naco-freestyle/1791239627"
+  },
+  {
+    "ranking": "51",
+    "title": "SOMEBODY LOVES ME",
+    "artist": "PARTYNEXTDOOR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "somebody-loves-me/1796127378"
+  },
+  {
+    "ranking": "52",
+    "title": "GIMME A HUG",
+    "artist": "Drake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "gimme-a-hug/1796127367",
+    "youtubeID": "2OiCqFdTDp4"
+  },
+  {
+    "ranking": "53",
+    "title": "UNAVAILABLE (feat. Musa Keys)",
+    "artist": "Davido",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+    "appleID": "unavailable-feat-musa-keys/1675379749",
+    "youtubeID": "OSBan_sH_b8"
+  },
+  {
+    "ranking": "54",
+    "title": "Distancia (feat. Kady)",
+    "artist": "Cesf",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/43/94/5f439431-9426-93b5-9495-f5d29e57a43c/artwork.jpg/80x80bb.webp",
+    "appleID": "distancia-feat-kady/1749084789"
+  },
+  {
+    "ranking": "55",
+    "title": "MEMORIES #1 (feat. Raff Luke, RhymesK & Alexandra Leite)",
+    "artist": "Masterment",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/37/c8/e137c895-2f00-373d-7dab-001bb4e99f0f/artwork.jpg/80x80bb.webp",
+    "appleID": "memories-1-feat-raff-luke-rhymesk-alexandra-leite/1744368292"
+  },
+  {
+    "ranking": "56",
+    "title": "LV Bag (feat. Pharrell Williams)",
+    "artist": "Don Toliver",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/de/55/23de5501-2c54-6c14-c28b-71244ac9700e/075679620378.jpg/80x80bb.webp",
+    "appleID": "lv-bag-feat-pharrell-williams/1796272112"
+  },
+  {
+    "ranking": "57",
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+    "appleID": "espresso/1740212434",
+    "youtubeID": "eVli-tstM5E"
+  },
+  {
+    "ranking": "58",
+    "title": "Slipping x Falling",
+    "artist": "Tory Lanez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a0/3c/e2a03c84-4db2-7c29-338d-9bc1c7fc8c4e/810129980899.jpg/80x80bb.webp",
+    "appleID": "slipping-x-falling/1800353381"
+  },
+  {
+    "ranking": "59",
+    "title": "Sensational (feat. Davido & Lojay)",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/16/08/08160816-d5e8-9be0-56ec-9d8d3dda8ad2/196871554916.jpg/80x80bb.webp",
+    "appleID": "sensational-feat-davido-lojay/1712552509"
+  },
+  {
+    "ranking": "60",
+    "title": "Arrepios",
+    "artist": "Soarito",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2a/83/d5/2a83d5bd-ecaa-b5e4-3096-474c6bfe1ede/artwork.jpg/80x80bb.webp",
+    "appleID": "arrepios/1621143625"
+  },
+  {
+    "ranking": "61",
+    "title": "Xkece",
+    "artist": "Djodje",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/54/78/4c547826-e640-2343-064a-6820c14fce20/8447053128534.jpg/80x80bb.webp",
+    "appleID": "xkece/1745004192"
+  },
+  {
+    "ranking": "62",
+    "title": "SPIDER-MAN SUPERMAN",
+    "artist": "PARTYNEXTDOOR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "spider-man-superman/1796127257"
+  },
+  {
+    "ranking": "63",
+    "title": "Wavy (feat. DJ Tarico & Mark Exodus)",
+    "artist": "Nelson Freitas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/2c/85/8e2c856e-6a1e-c364-dd77-b80110cddf5a/199066904558.jpg/80x80bb.webp",
+    "appleID": "wavy-feat-dj-tarico-mark-exodus/1797683153"
+  },
+  {
+    "ranking": "64",
+    "title": "Hero",
+    "artist": "Nelson Freitas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/e1/2e/1ee12e5f-e612-b83f-8551-197d35f43fff/197189904165.jpg/80x80bb.webp",
+    "appleID": "hero/1726487366"
+  },
+  {
+    "ranking": "65",
+    "title": "Rush",
+    "artist": "Ayra Starr",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
+    "appleID": "rush/1642898573",
+    "youtubeID": "crtQSTYWtqE"
+  },
+  {
+    "ranking": "66",
+    "title": "Sneeze Wrong",
+    "artist": "Tory Lanez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a0/3c/e2a03c84-4db2-7c29-338d-9bc1c7fc8c4e/810129980899.jpg/80x80bb.webp",
+    "appleID": "sneeze-wrong/1800353009"
+  },
+  {
+    "ranking": "67",
+    "title": "Celine (feat. SOS MUCCI)",
+    "artist": "Elji Beatzkilla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/3f/b7/f03fb7bc-198e-eab5-e7c7-ab01ce10f903/cover.jpg/80x80bb.webp",
+    "appleID": "celine-feat-sos-mucci/1699200649"
+  },
+  {
+    "ranking": "68",
+    "title": "PIMMIE'S DILEMMA",
+    "artist": "Pimmie",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "pimmies-dilemma/1796127362"
+  },
+  {
+    "ranking": "69",
+    "title": "Residuals",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+    "appleID": "residuals/1740206493",
+    "youtubeID": "N6i1SeRmKL0"
+  },
+  {
+    "ranking": "70",
+    "title": "The Abyss",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
+    "appleID": "the-abyss/1793654652"
+  },
+  {
+    "ranking": "71",
+    "title": "Versos & Poesias #4: Céu Azul (feat. Penelas Sidney, Chelsea Dinorath, LordCkOficial, Queen Marcy, Sheila Da Cunha, LilBoy Bruce, Mary J & Fábio S)",
+    "artist": "Black Spygo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/51/68/ea51685a-69fb-fd1f-eccc-41ba3a39a327/22UMGIM81778.rgb.jpg/80x80bb.webp",
+    "appleID": "versos-poesias-4-c%C3%A9u-azul-feat-penelas-sidney-chelsea/1635813657"
+  },
+  {
+    "ranking": "72",
+    "title": "Não Mente pra Mentiroso",
+    "artist": "Oruam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
+    "appleID": "n%C3%A3o-mente-pra-mentiroso/1797736979"
+  },
+  {
+    "ranking": "73",
+    "title": "heart pt. 6",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "heart-pt-6/1781270549",
+    "youtubeID": "m-PO1_fzxVM"
+  },
+  {
+    "ranking": "74",
+    "title": "Open Hearts",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
+    "appleID": "open-hearts/1793654358",
+    "youtubeID": "Bn-3ICGjz0U"
+  },
+  {
+    "ranking": "75",
+    "title": "Viver",
+    "artist": "Vado Más Ki Ás",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/a5/e5/9ba5e56e-9664-8276-b635-c1bc976f12b5/8447053094617.jpg/80x80bb.webp",
+    "appleID": "viver/1735756216"
+  },
+  {
+    "ranking": "76",
+    "title": "Dentu Kubico",
+    "artist": "CESF",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/b4/82/beb48211-a2e9-06a1-93f9-722bc21dda02/artwork.jpg/80x80bb.webp",
+    "appleID": "dentu-kubico/1723023398"
+  },
+  {
+    "ranking": "77",
+    "title": "gloria",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "gloria/1781270555",
+    "youtubeID": "G5YwhjCywvw"
+  },
+  {
+    "ranking": "78",
+    "title": "Ba Detá (feat. Kiddye Bonz)",
+    "artist": "Raff Luke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/b0/53/8ab05328-36eb-a220-44a6-cf2a30480b87/artwork.jpg/80x80bb.webp",
+    "appleID": "ba-det%C3%A1-feat-kiddye-bonz/1785533801"
+  },
+  {
+    "ranking": "79",
+    "title": "Audi Blue",
+    "artist": "Oruam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
+    "appleID": "audi-blue/1797736976"
+  },
+  {
+    "ranking": "80",
+    "title": "Uni-Verso",
+    "artist": "Cesf",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/8a/f2/348af2bf-fcef-65e8-f24c-789f9eb228b6/8447053295922.jpg/80x80bb.webp",
+    "appleID": "uni-verso/1793870356"
+  },
+  {
+    "ranking": "81",
+    "title": "Ghanama (Zulu Version)",
+    "artist": "Sdala B",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/2a/37/7e2a3742-a2dc-f213-012e-62e77b70abb6/0757572923823.png/80x80bb.webp",
+    "appleID": "ghanama-zulu-version/1579829187"
+  },
+  {
+    "ranking": "82",
+    "title": "9$IDE x Amethyst",
+    "artist": "Tory Lanez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a0/3c/e2a03c84-4db2-7c29-338d-9bc1c7fc8c4e/810129980899.jpg/80x80bb.webp",
+    "appleID": "9%24ide-x-amethyst/1800353015"
+  },
+  {
+    "ranking": "83",
+    "title": "White Lightning",
+    "artist": "Tory Lanez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d5/d4/14d5d440-0a87-7313-ec01-d446d6388ae0/810129981810.jpg/80x80bb.webp",
+    "appleID": "white-lightning/1800275206"
+  },
+  {
+    "ranking": "84",
+    "title": "São Paulo",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/80x80bb.webp",
+    "appleID": "s%C3%A3o-paulo/1776914757",
+    "youtubeID": "2kjolTLZ_Mg"
+  },
+  {
+    "ranking": "85",
+    "title": "CELIBACY",
+    "artist": "PARTYNEXTDOOR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "celibacy/1796127410"
+  },
+  {
+    "ranking": "86",
+    "title": "Adora a bunda, odeia o rosto (feat. Veigh & Niink)",
+    "artist": "Supernova Ent",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/8a/0b/368a0baf-1406-c96c-617d-d7a57173b2ee/5034644310879.jpg/80x80bb.webp",
+    "appleID": "adora-a-bunda-odeia-o-rosto-feat-veigh-niink/1782229757"
+  },
+  {
+    "ranking": "87",
+    "title": "Falta De Mim (feat. Nelson Freitas)",
+    "artist": "Dream Boyz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d6/d5/ad/d6d5adc6-edb3-66e6-809e-adf045f7c267/859728360633_cover.jpg/80x80bb.webp",
+    "appleID": "falta-de-mim-feat-nelson-freitas/1434331164"
+  },
+  {
+    "ranking": "88",
+    "title": "País das Maravilhas",
+    "artist": "Plutónio",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/b5/42/7db54276-a783-c308-bbc4-c75f5efef89f/196872557923.jpg/80x80bb.webp",
+    "appleID": "pa%C3%ADs-das-maravilhas/1776657471",
+    "youtubeID": "JolO6Y7TkRQ"
+  },
+  {
+    "ranking": "89",
+    "title": "Pedaço de Céu (feat. Felishia)",
+    "artist": "Soarito",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d1/f2/18/d1f218b5-96d0-25fe-f5f2-80c9fddb3b76/artwork.jpg/80x80bb.webp",
+    "appleID": "peda%C3%A7o-de-c%C3%A9u-feat-felishia/1647539704"
+  },
+  {
+    "ranking": "90",
+    "title": "understand",
+    "artist": "Omah Lay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a7/4d/13a74d60-f269-603c-a8ee-527c0daba041/093624841319_01.jpg/80x80bb.webp",
+    "appleID": "understand/1744453757",
+    "youtubeID": "X3Ai6osw3Mk"
+  },
+  {
+    "ranking": "91",
+    "title": "Eu Não Tenho Casa (Faixa Bônus)",
+    "artist": "Oruam",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/79/6d/02796d54-f823-6d94-bf5e-2a231f4748bc/020357161414.png/80x80bb.webp",
+    "appleID": "eu-n%C3%A3o-tenho-casa-faixa-b%C3%B4nus/1797736993"
+  },
+  {
+    "ranking": "92",
+    "title": "I'M DAT N***A",
+    "artist": "Future",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
+    "appleID": "im-dat-n-a/1621119426"
+  },
+  {
+    "ranking": "93",
+    "title": "$ailor Moon",
+    "artist": "Tory Lanez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d5/d4/14d5d440-0a87-7313-ec01-d446d6388ae0/810129981810.jpg/80x80bb.webp",
+    "appleID": "%24ailor-moon/1800275631"
+  },
+  {
+    "ranking": "94",
+    "title": "Smooth Operator",
+    "artist": "Sade",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/d5/a1/4dd5a1b7-7134-f0ec-b55c-54ac47cc88a5/886448655886.jpg/80x80bb.webp",
+    "appleID": "smooth-operator/1524651263"
+  },
+  {
+    "ranking": "95",
+    "title": "Pipoca",
+    "artist": "Vado Más Ki Ás",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/fa/ff/1afaff7b-eec9-7336-7067-3d44ba16944e/8447053117088.jpg/80x80bb.webp",
+    "appleID": "pipoca/1741641134"
+  },
+  {
+    "ranking": "96",
+    "title": "Tu És a Mulher",
+    "artist": "C4 pedro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/40/3f/43403fec-8e57-5b8d-f7c9-b3b31131377f/886445508895.jpg/80x80bb.webp",
+    "appleID": "tu-%C3%A9s-a-mulher/1041204868"
+  },
+  {
+    "ranking": "97",
+    "title": "Tentason",
+    "artist": "Djodje",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/b1/1a/d8b11a6c-b1ab-a908-45e4-c810ee364017/8447053074046.jpg/80x80bb.webp",
+    "appleID": "tentason/1729791770"
+  },
+  {
+    "ranking": "98",
+    "title": "Prepara",
+    "artist": "El Bruxo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/ef/86/a4ef8674-4114-a38d-1607-13c906c1e85b/7300341083179.jpg/80x80bb.webp",
+    "appleID": "prepara/1746944782"
+  },
+  {
+    "ranking": "99",
+    "title": "PAPU RETU",
+    "artist": "Alyrio",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/2f/2d/c42f2d90-8def-6c9f-5f71-0c1127159517/artwork.jpg/80x80bb.webp",
+    "appleID": "papu-retu/1770964791"
+  },
+  {
+    "ranking": "100",
+    "title": "Who",
+    "artist": "Jimin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+    "appleID": "who/1751773093",
+    "youtubeID": "Av9DvtlJ9_M"
+  }
 ]

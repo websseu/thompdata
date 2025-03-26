@@ -1,722 +1,742 @@
 [
-    {
-        "ranking": "1",
-        "title": "Holiday Season",
-        "artist": "Didi B",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/68/80/2f688075-c248-a164-4356-f0c5c905266e/cover.jpg/80x80bb.webp",
-        "appleID": "holiday-season/1797503373"
-    },
-    {
-        "ranking": "2",
-        "title": "FREE CONGO (feat. Josman, Youssoupha & Kalash Criminel)",
-        "artist": "Gradur",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/4b/5a/594b5aa4-1558-c350-6502-da1c0dd112ff/199066930656.jpg/80x80bb.webp",
-        "appleID": "free-congo-feat-josman-youssoupha-kalash-criminel/1797091308"
-    },
-    {
-        "ranking": "3",
-        "title": "PERFORMANTE",
-        "artist": "Dinos",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/7e/9d/b47e9d4e-8aa1-5b2e-b85e-64d6ff5387a3/cover.jpg/80x80bb.webp",
-        "appleID": "performante/1796146511"
-    },
-    {
-        "ranking": "4",
-        "title": "Run",
-        "artist": "Rim'K",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/ae/9b/42ae9b04-b06c-fcdf-10a7-b77185740579/3663729356222_cover.jpg/80x80bb.webp",
-        "appleID": "run/1786379092"
-    },
-    {
-        "ranking": "5",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144",
-        "youtubeID": "IWKyykQBRKo",
-        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-        "ranking": "6",
-        "title": "Abu Bakr Shatri (Qur’an 21: 30 - 40)",
-        "artist": "Taraweeh",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d2/c8/09/d2c8099b-da54-fc32-6c51-c6459d8f975c/198001522765.png/80x80bb.webp",
-        "appleID": "abu-bakr-shatri-quran-21-30-40/1590619175"
-    },
-    {
-        "ranking": "7",
-        "title": "DIANA",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/8f/55/d68f5534-10b3-2cf5-c2f1-2b2fd148041e/cover.jpg/80x80bb.webp",
-        "appleID": "diana/1784443772"
-    },
-    {
-        "ranking": "8",
-        "title": "Al-Baqara - Chapter 2 (Verse 1 - Verse 25)",
-        "artist": "Abdul Rahman Al-Sudais",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/c3/18/37c318db-76cc-df7e-5092-dab41a524d47/5060071981559.jpg/80x80bb.webp",
-        "appleID": "al-baqara-chapter-2-verse-1-verse-25/431126154"
-    },
-    {
-        "ranking": "9",
-        "title": "NINAO",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/9b/4c/0f9b4ce6-918a-9057-040e-85950cc438df/cover.jpg/80x80bb.webp",
-        "appleID": "ninao/1797518241"
-    },
-    {
-        "ranking": "10",
-        "title": "VETEMENTS",
-        "artist": "Himra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/fc/0c/4efc0cc8-c043-e4fc-dfa7-5e6f9bb189e7/085365044852.jpg/80x80bb.webp",
-        "appleID": "vetements/1774762224"
-    },
-    {
-        "ranking": "11",
-        "title": "Evening Adkhar (dua and rememberance)",
-        "artist": "Omar Hisham",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1a/88/52/1a885206-b94d-46ce-6076-27d490952ef9/artwork.jpg/80x80bb.webp",
-        "appleID": "evening-adkhar-dua-and-rememberance/1653248975"
-    },
-    {
-        "ranking": "12",
-        "title": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167",
-        "youtubeID": "H58vbez_m4E"
-    },
-    {
-        "ranking": "13",
-        "title": "CARTIER SANTOS",
-        "artist": "SDM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302",
-        "youtubeID": "3nGdVePdlT4",
-        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
-    },
-    {
-        "ranking": "14",
-        "title": "A N X I E T Y (feat. Doechii)",
-        "artist": "Sleepy Hallow",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/46/6a/5f466a44-b343-ad30-7c9b-f8c80c5b16bd/196871357111.jpg/80x80bb.webp",
-        "appleID": "a-n-x-i-e-t-y-feat-doechii/1706412053"
-    },
-    {
-        "ranking": "15",
-        "title": "YOROBO DRILL ACTE 3",
-        "artist": "Himra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b2/77/71b277a2-ad0d-8519-7611-e6f78a67e63a/9360932790334.jpg/80x80bb.webp",
-        "appleID": "yorobo-drill-acte-3/1774761191"
-    },
-    {
-        "ranking": "16",
-        "title": "yeti (feat. Old Sea Brigade)",
-        "artist": "Paris Paloma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/38/63/3538633a-5590-83b9-8ea9-2d012c36ebfc/067003498869.png/80x80bb.webp",
-        "appleID": "yeti-feat-old-sea-brigade/1679479135"
-    },
-    {
-        "ranking": "17",
-        "title": "Coup du marteau (feat. Team Paiya, Ste Milano, Renard Barakissa, Tazeboy & PSK)",
-        "artist": "Tam Sir",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/90/03/57900342-2f4b-6ad9-940a-64d1401c2867/cover.jpg/80x80bb.webp",
-        "appleID": "coup-du-marteau-feat-team-paiya-ste-milano-renard-barakissa/1720608724"
-    },
-    {
-        "ranking": "18",
-        "title": "i love you",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/80x80bb.webp",
-        "appleID": "i-love-you/1450695895"
-    },
-    {
-        "ranking": "19",
-        "title": "10.03.2023",
-        "artist": "Werenoi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/a5/6f/eda56f1f-e119-cec9-2b92-58dad17c0cab/cover.jpg/80x80bb.webp",
-        "appleID": "10-03-2023/1673376546"
-    },
-    {
-        "ranking": "20",
-        "title": "Who (feat. BTS)",
-        "artist": "Lauv",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/ad/f1/ccadf18b-590a-9cdc-bb66-bcd42d6a367f/5056167113867_1.jpg/80x80bb.webp",
-        "appleID": "who-feat-bts/1480846930"
-    },
-    {
-        "ranking": "21",
-        "title": "Matinal",
-        "artist": "Zé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/f2/32/b2f23233-17c3-8bef-614e-aa04c7844fcc/199282230745_cover.jpg/80x80bb.webp",
-        "appleID": "matinal/1796473162"
-    },
-    {
-        "ranking": "22",
-        "title": "last woman on earth",
-        "artist": "Paris Paloma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/61/cd/1e61cd7e-925f-33cf-5ead-542cda39bf31/067003150750.png/80x80bb.webp",
-        "appleID": "last-woman-on-earth/1717937648"
-    },
-    {
-        "ranking": "23",
-        "title": "Lonely At The Top",
-        "artist": "Asake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
-        "appleID": "lonely-at-the-top/1688642838"
-    },
-    {
-        "ranking": "24",
-        "title": "4 Kampé",
-        "artist": "Joé Dwèt Filé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412",
-        "youtubeID": "Srvt_6up-0o",
-        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
-    },
-    {
-        "ranking": "25",
-        "title": "Surah Al Kahf (Be Heaven)",
-        "artist": "Omar Hisham",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/18/03/761803b9-1384-c869-6bcd-ed9fa359e53e/artwork.jpg/80x80bb.webp",
-        "appleID": "surah-al-kahf-be-heaven/1539968674"
-    },
-    {
-        "ranking": "26",
-        "title": "Une semaine pour oublier...",
-        "artist": "Dadju",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/8d/5f/dd8d5f04-23bd-c8ca-a2ec-ffe2517d29a2/cover.jpg/80x80bb.webp",
-        "appleID": "une-semaine-pour-oublier/1728573720"
-    },
-    {
-        "ranking": "27",
-        "title": "Forévà",
-        "artist": "Tayc",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/ac/9f/25ac9fab-dda3-e37e-525f-e9dc6bd4cff9/cover.jpg/80x80bb.webp",
-        "appleID": "for%C3%A9v%C3%A0/1783384632"
-    },
-    {
-        "ranking": "28",
-        "title": "Lilith (Diablo IV Anthem)",
-        "artist": "Halsey",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/67/a6/7567a643-a3ec-7f1a-53fa-02eb8abe1b87/23UMGIM44277.rgb.jpg/80x80bb.webp",
-        "appleID": "lilith-diablo-iv-anthem/1690878724"
-    },
-    {
-        "ranking": "29",
-        "title": "Surah Al Waqiah (Be Heaven)",
-        "artist": "Omar Hisham",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/6d/88/6a6d8873-8e2a-b42a-cc16-535bba3f946e/artwork.jpg/80x80bb.webp",
-        "appleID": "surah-al-waqiah-be-heaven/1589193219"
-    },
-    {
-        "ranking": "30",
-        "title": "Childs Play",
-        "artist": "Drake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/80x80bb.webp",
-        "appleID": "childs-play/1440841387"
-    },
-    {
-        "ranking": "31",
-        "title": "SOIS PAS TIMIDE",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
-        "appleID": "sois-pas-timide/1757643303",
-        "youtubeID": "Sq5EDI7JktA",
-        "spotifyID": "0yyFAbTlOk7DFhh6RSug9S"
-    },
-    {
-        "ranking": "32",
-        "title": "Au dessus",
-        "artist": "Doc OVG",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/fe/2a/16fe2a4f-cfa2-2e81-3fd9-dcc0e26ad8b1/artwork.jpg/80x80bb.webp",
-        "appleID": "au-dessus/1794786374"
-    },
-    {
-        "ranking": "33",
-        "title": "POUR ELLE",
-        "artist": "SDM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "pour-elle/1757803290",
-        "youtubeID": "eYG5Qg6RCyE",
-        "spotifyID": "5jX61gvbNenSDMldQrbtsU"
-    },
-    {
-        "ranking": "34",
-        "title": "GANJAMAN (feat. Reggie, Beeztrap KOTM & O'Kenneth)",
-        "artist": "Himra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/fc/0c/4efc0cc8-c043-e4fc-dfa7-5e6f9bb189e7/085365044852.jpg/80x80bb.webp",
-        "appleID": "ganjaman-feat-reggie-beeztrap-kotm-okenneth/1758219707"
-    },
-    {
-        "ranking": "35",
-        "title": "AZAMAN",
-        "artist": "Rema",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "appleID": "azaman/1755408616"
-    },
-    {
-        "ranking": "36",
-        "title": "Surah Yaseen (Be Heaven)",
-        "artist": "Omar Hisham",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/83/0d/cb830da4-112d-2a9e-86cd-96c8876f6832/artwork.jpg/80x80bb.webp",
-        "appleID": "surah-yaseen-be-heaven/1537311926"
-    },
-    {
-        "ranking": "37",
-        "title": "Pélican",
-        "artist": "L2B",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/f9/cd/28f9cdec-c763-656c-3161-fa531425ed9f/25UMGIM09182.rgb.jpg/80x80bb.webp",
-        "appleID": "p%C3%A9lican/1795483576"
-    },
-    {
-        "ranking": "38",
-        "title": "Laho",
-        "artist": "Shallipopi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/d3/c2/44d3c249-1170-5062-d998-7eaf99843017/196872917529.jpg/80x80bb.webp",
-        "appleID": "laho/1797598732"
-    },
-    {
-        "ranking": "39",
-        "title": "Dancin (Krono Remix) [feat. Luvli]",
-        "artist": "Aaron Smith",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6d/7a/e0/6d7ae01d-683e-9232-20a9-929d611833ba/886444926584.jpg/80x80bb.webp",
-        "appleID": "dancin-krono-remix-feat-luvli/933075723"
-    },
-    {
-        "ranking": "40",
-        "title": "MANON B (feat. MC Cebezinho, Oskoow & Ryflo) [Brazilian Remix]",
-        "artist": "Tiakola",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
-        "appleID": "manon-b-feat-mc-cebezinho-oskoow-ryflo-brazilian-remix/1766324129"
-    },
-    {
-        "ranking": "41",
-        "title": "PROBATION",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/cd/60/7ecd6037-c833-3b0d-c638-d734e3b06c22/196872607345.jpg/80x80bb.webp",
-        "appleID": "probation/1776875282",
-        "youtubeID": "e6QY_1fixvk",
-        "spotifyID": "75j42uvZCRoUxBcGsEP9Mk"
-    },
-    {
-        "ranking": "42",
-        "title": "Morning Dua and Remembrance",
-        "artist": "Omar Hisham",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/51/cf/8351cf1a-9752-4ec8-a881-d452ac8f474b/artwork.jpg/80x80bb.webp",
-        "appleID": "morning-dua-and-remembrance/1591772082"
-    },
-    {
-        "ranking": "43",
-        "title": "Morning Rain",
-        "artist": "Toshiro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/23/8d/f0238d5b-d759-4a9f-6b97-0cc5fabcc4cc/840405779930_cover.jpg/80x80bb.webp",
-        "appleID": "morning-rain/1785737996"
-    },
-    {
-        "ranking": "44",
-        "title": "No love",
-        "artist": "Ninho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/03/c6/8803c68b-20b3-f471-56cd-f82e67a2a2c1/5054197731204.jpg/80x80bb.webp",
-        "appleID": "no-love/1693872262"
-    },
-    {
-        "ranking": "45",
-        "title": "Hit & Run",
-        "artist": "Shenseea",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/42/ed/4d42edf6-6a14-5e74-9a02-a01fe9bff99c/23UM1IM07501.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run/1727264203"
-    },
-    {
-        "ranking": "46",
-        "title": "J'ai zayé",
-        "artist": "Dadju",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/79/bb/e979bbe0-0b3d-8880-5f55-b10a5443c386/cover.jpg/80x80bb.webp",
-        "appleID": "jai-zay%C3%A9/1796412652"
-    },
-    {
-        "ranking": "47",
-        "title": "Dynasty",
-        "artist": "Miia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/4b/a6/7a4ba6b4-9224-a65f-d644-2e6188ded0cb/0859715611588_Cover.jpg/80x80bb.webp",
-        "appleID": "dynasty/1717666012"
-    },
-    {
-        "ranking": "48",
-        "title": "3 singes (feat. Ninho)",
-        "artist": "Werenoi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/73/d5/b073d53f-caf4-5579-1139-1211e7e10510/cover.jpg/80x80bb.webp",
-        "appleID": "3-singes-feat-ninho/1669584235"
-    },
-    {
-        "ranking": "49",
-        "title": "Joy is Coming",
-        "artist": "Fido",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/3b/97/fa3b9707-f2ac-13de-4b74-4fb758a9b448/197342982153_cover.jpg/80x80bb.webp",
-        "appleID": "joy-is-coming/1795505206"
-    },
-    {
-        "ranking": "50",
-        "title": "Top Boy",
-        "artist": "Himra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/d2/f4/d9d2f40c-cd51-1d44-4ea3-d528442323c9/197190457131.jpg/80x80bb.webp",
-        "appleID": "top-boy/1717665285"
-    },
-    {
-        "ranking": "51",
-        "title": "Jëli (feat. Wally B. Seck)",
-        "artist": "AMADEUS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/78/c8/ce78c843-fbec-39f2-e6c8-eda35f14ec65/cover.jpg/80x80bb.webp",
-        "appleID": "j%C3%ABli-feat-wally-b-seck/1770365839"
-    },
-    {
-        "ranking": "52",
-        "title": "Peace",
-        "artist": "MohBad",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/38/fd/c8/38fdc8ed-1f90-9997-ecc2-21e81ea3f1c0/196925609586.jpg/80x80bb.webp",
-        "appleID": "peace/1641900881"
-    },
-    {
-        "ranking": "53",
-        "title": "Surah Maryam (Be Heaven)",
-        "artist": "Omar Hisham",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/f9/09/1ef9092c-344a-0d76-5c84-a11108efd21e/artwork.jpg/80x80bb.webp",
-        "appleID": "surah-maryam-be-heaven/1546915373"
-    },
-    {
-        "ranking": "54",
-        "title": "Minimum ça",
-        "artist": "Dr. Yaro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/ba/f8/a7baf8ed-265f-a88c-5fa5-74f13861b5e8/859792094922.jpg/80x80bb.webp",
-        "appleID": "minimum-%C3%A7a/1773286871",
-        "youtubeID": "Xjws8nS606Q",
-        "spotifyID": "4mNttG8qiVh4BKrMUrUhCI"
-    },
-    {
-        "ranking": "55",
-        "title": "NANANI NANANA",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "nanani-nanana/1780778119",
-        "youtubeID": "8Bkgi6yB6P8",
-        "spotifyID": "0qlYaRFGvgR6afy1f4BBwD"
-    },
-    {
-        "ranking": "56",
-        "title": "Surah Ar-Rahman (Be Heaven)",
-        "artist": "Omar Hisham",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ed/ef/7a/edef7a4d-7d68-74a2-193b-0b2ecb9e4bea/artwork.jpg/80x80bb.webp",
-        "appleID": "surah-ar-rahman-be-heaven/1508869771"
-    },
-    {
-        "ranking": "57",
-        "title": "BIG AKA FOR AKA KAI",
-        "artist": "Himra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/a9/5c/f6a95cea-827b-3b86-4b71-f2cbdce67540/9361713195126.jpg/80x80bb.webp",
-        "appleID": "big-aka-for-aka-kai/1798486091"
-    },
-    {
-        "ranking": "58",
-        "title": "Al-Baqarah (البقرة, La vache, La génisse)",
-        "artist": "Salah Al Budair",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/37/62/6f3762e8-7149-8ff3-e512-e5af0c61201a/cover.jpg/80x80bb.webp",
-        "appleID": "al-baqarah-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9-la-vache-la-g%C3%A9nisse/544348324"
-    },
-    {
-        "ranking": "59",
-        "title": "BANGER",
-        "artist": "Himra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b2/77/71b277a2-ad0d-8519-7611-e6f78a67e63a/9360932790334.jpg/80x80bb.webp",
-        "appleID": "banger/1774761178"
-    },
-    {
-        "ranking": "60",
-        "title": "CIEL",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/4a/df/7e4adfc1-7cf7-7a96-a4cb-2fc338a5b03e/cover.jpg/80x80bb.webp",
-        "appleID": "ciel/1773791057",
-        "youtubeID": "QS0A-CjRdAE",
-        "spotifyID": "1RiCNSkK4AfT1j8ZM4JnVs"
-    },
-    {
-        "ranking": "61",
-        "title": "Chouchou des nanas",
-        "artist": "kulturr",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/f7/4f/01f74f52-45f0-9693-4cf5-08e3702a3902/5021732393371.jpg/80x80bb.webp",
-        "appleID": "chouchou-des-nanas/1748753815"
-    },
-    {
-        "ranking": "62",
-        "title": "Arme de poing",
-        "artist": "Ninho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
-        "appleID": "arme-de-poing/1597121778"
-    },
-    {
-        "ranking": "63",
-        "title": "Woman",
-        "artist": "Rema",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cd/7a/41/cd7a4150-3efd-731f-5104-04653312fbf7/20UMGIM51463.rgb.jpg/80x80bb.webp",
-        "appleID": "woman/1521265340"
-    },
-    {
-        "ranking": "64",
-        "title": "Surah Fajr",
-        "artist": "Abdul Rahman Al-Sudais",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/54/29/7f/54297fa6-2d87-f455-911a-912689d96db4/889845443650.jpg/80x80bb.webp",
-        "appleID": "surah-fajr/1020856795"
-    },
-    {
-        "ranking": "65",
-        "title": "MANON B",
-        "artist": "Tiakola",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/4f/27/904f27e6-cd74-cb9d-c9a9-8d7ad562a6cf/5021732476425.jpg/80x80bb.webp",
-        "appleID": "manon-b/1764936550"
-    },
-    {
-        "ranking": "66",
-        "title": "Surah Duha",
-        "artist": "Abdul Rahman Al-Sudais",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/54/29/7f/54297fa6-2d87-f455-911a-912689d96db4/889845443650.jpg/80x80bb.webp",
-        "appleID": "surah-duha/1020856980"
-    },
-    {
-        "ranking": "67",
-        "title": "Set You Free",
-        "artist": "Jack Harlow",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/be/f4/93bef4cb-5a7e-9889-0bac-a1f714fd4cf7/075679618818.jpg/80x80bb.webp",
-        "appleID": "set-you-free/1794677365"
-    },
-    {
-        "ranking": "68",
-        "title": "DX3 (Dégâts X3)",
-        "artist": "Didi B",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/67/27/2767275a-3a72-7a3b-fc50-4d43f990dd13/24UM1IM40659.rgb.jpg/80x80bb.webp",
-        "appleID": "dx3-d%C3%A9g%C3%A2ts-x3/1785003672"
-    },
-    {
-        "ranking": "69",
-        "title": "10 Bottles",
-        "artist": "Zlatan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/25/7b/12257b5a-8b46-982b-a7ee-64a66839f4c0/0.jpg/80x80bb.webp",
-        "appleID": "10-bottles/1713570969"
-    },
-    {
-        "ranking": "70",
-        "title": "My Salsa (feat. Tory Lanez)",
-        "artist": "Franglish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/cd/0e/cacd0eaa-fbb4-55fd-59dc-a4d889e3c649/20UMGIM43522.rgb.jpg/80x80bb.webp",
-        "appleID": "my-salsa-feat-tory-lanez/1519964851"
-    },
-    {
-        "ranking": "71",
-        "title": "Finesse out the Gang Way (feat. Lil Baby)",
-        "artist": "Lil Durk",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/30/46/383046d9-5bbf-fcd1-1ec5-3b02ca585011/602435731520.jpg/80x80bb.webp",
-        "appleID": "finesse-out-the-gang-way-feat-lil-baby/1575643978"
-    },
-    {
-        "ranking": "72",
-        "title": "SOMEBODY LOVES ME",
-        "artist": "PARTYNEXTDOOR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "somebody-loves-me/1796127378"
-    },
-    {
-        "ranking": "73",
-        "title": "Aure Remix (feat. Boyskido)",
-        "artist": "Emteey Shmurda",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/da/cb/c4dacb6b-2704-6ee6-36de-81c2fba9b581/5063501467869_cover.jpg/80x80bb.webp",
-        "appleID": "aure-remix-feat-boyskido/1750540229"
-    },
-    {
-        "ranking": "74",
-        "title": "Surah Al Mulk (Be Heaven)",
-        "artist": "Omar Hisham",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/99/32/70/9932701c-5526-38ff-378f-a79997b8013a/artwork.jpg/80x80bb.webp",
-        "appleID": "surah-al-mulk-be-heaven/1506422671"
-    },
-    {
-        "ranking": "75",
-        "title": "J'coupe tout (feat. Musto)",
-        "artist": "La Mano 1.9",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/a7/14/51a714ff-d7ac-3294-76ce-5c5db4dd4d22/24UMGIM45053.rgb.jpg/80x80bb.webp",
-        "appleID": "jcoupe-tout-feat-musto/1741770329"
-    },
-    {
-        "ranking": "76",
-        "title": "Al-Kahf - Chapter 18 (Verse 23 - Verse 48)",
-        "artist": "Abdul Rahman Al-Sudais",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/c3/18/37c318db-76cc-df7e-5092-dab41a524d47/5060071981559.jpg/80x80bb.webp",
-        "appleID": "al-kahf-chapter-18-verse-23-verse-48/431126862"
-    },
-    {
-        "ranking": "77",
-        "title": "Schéma",
-        "artist": "Damso",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/7e/45/ab7e45a4-ce66-2342-8df4-e096fe60e855/5034644184210.jpg/80x80bb.webp",
-        "appleID": "sch%C3%A9ma/1778748586"
-    },
-    {
-        "ranking": "78",
-        "title": "Huntin’ Wabbitz",
-        "artist": "J. Cole",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/91/e9/e591e93a-969f-6b82-9dc5-874edc3d22ba/24UMGIM38890.rgb.jpg/80x80bb.webp",
-        "appleID": "huntin-wabbitz/1739698399"
-    },
-    {
-        "ranking": "79",
-        "title": "Elle est bonne sa mère (feat. Ninho)",
-        "artist": "Vegedream",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/73/67/df736797-c1b1-8f63-74a2-6261bab92113/19UMGIM40294.rgb.jpg/80x80bb.webp",
-        "appleID": "elle-est-bonne-sa-m%C3%A8re-feat-ninho/1464512260"
-    },
-    {
-        "ranking": "80",
-        "title": "Billie Jean",
-        "artist": "Michael Jackson",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
-        "appleID": "billie-jean/269573364",
-        "youtubeID": "Zi_XLOBDo_Y"
-    },
-    {
-        "ranking": "81",
-        "title": "Anybody",
-        "artist": "Burna Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/9e/ad/cc9ead4a-6d92-6153-0b30-c6d944d56cc8/075679840547.jpg/80x80bb.webp",
-        "appleID": "anybody/1743941193"
-    },
-    {
-        "ranking": "82",
-        "title": "reason",
-        "artist": "Omah Lay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/ff/1f/c8ff1f28-54db-8c3a-91b1-8042173223c2/093624841319_02.jpg/80x80bb.webp",
-        "appleID": "reason/1744454683"
-    },
-    {
-        "ranking": "83",
-        "title": "Passat (feat. Maes)",
-        "artist": "SDM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/e5/46/11e546be-f554-ae83-083e-e5ec336a838b/21UM1IM38971.rgb.jpg/80x80bb.webp",
-        "appleID": "passat-feat-maes/1605596487"
-    },
-    {
-        "ranking": "84",
-        "title": "Baby (Is It A Crime)",
-        "artist": "Rema",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ec/75/59ec75eb-42b0-bf6a-38c7-48013ca1b11e/24UM1IM36412.rgb.jpg/80x80bb.webp",
-        "appleID": "baby-is-it-a-crime/1790699154"
-    },
-    {
-        "ranking": "85",
-        "title": "Amour toxic",
-        "artist": "Dadju",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/7c/9a/5a7c9a69-08da-38c0-e2d3-70e4f7c56f30/19UM1IM13351.rgb.jpg/80x80bb.webp",
-        "appleID": "amour-toxic/1532275011"
-    },
-    {
-        "ranking": "86",
-        "title": "Boucan (feat. Franglish)",
-        "artist": "KeBlack",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/bb/8a/48bb8a9f-cf75-7e76-622d-b662d1ee3c9a/cover.jpg/80x80bb.webp",
-        "appleID": "boucan-feat-franglish/1742512277"
-    },
-    {
-        "ranking": "87",
-        "title": "Amapiano",
-        "artist": "Asake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
-        "appleID": "amapiano/1688641993"
-    },
-    {
-        "ranking": "88",
-        "title": "Nigani",
-        "artist": "Ya Levis",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/cc/92/6dcc925b-e55b-61fc-b260-cb979057d7ae/cover.jpg/80x80bb.webp",
-        "appleID": "nigani/1761212366"
-    },
-    {
-        "ranking": "89",
-        "title": "Ya Nabi (Arabic Version - Bonus Track)",
-        "artist": "Maher Zain",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/28/ab/fb28ab10-826d-3043-f261-356d93035f62/5060071981825.jpg/80x80bb.webp",
-        "appleID": "ya-nabi-arabic-version-bonus-track/335439340"
-    },
-    {
-        "ranking": "90",
-        "title": "Juz 30, 4th Quarter",
-        "artist": "Abdul Rahman Al-Sudais",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/71/68/03/716803ac-07d9-cb49-ba01-621ac7ad709e/405341.jpg/80x80bb.webp",
-        "appleID": "juz-30-4th-quarter/1458892318"
-    },
-    {
-        "ranking": "91",
-        "title": "Jefe",
-        "artist": "Ninho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
-        "appleID": "jefe/1597121344"
-    },
-    {
-        "ranking": "92",
-        "title": "GBP",
-        "artist": "Central Cee",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
-        "appleID": "gbp/1783404294"
-    },
-    {
-        "ranking": "93",
-        "title": "Joro",
-        "artist": "Wizkid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/20/05/17/200517ab-c3a3-b833-74b3-9bb3399c780c/886447834886.jpg/80x80bb.webp",
-        "appleID": "joro/1471034860"
-    },
-    {
-        "ranking": "94",
-        "title": "Residuals",
-        "artist": "Chris Brown",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
-        "appleID": "residuals/1740206493"
-    },
-    {
-        "ranking": "95",
-        "title": "Likolo (feat. Ninho)",
-        "artist": "Fally Ipupa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/a5/86/c7a5867b-0dc7-9e9e-64f3-63c6e88cdb34/190295113940.jpg/80x80bb.webp",
-        "appleID": "likolo-feat-ninho/1539474664"
-    },
-    {
-        "ranking": "96",
-        "title": "Un Poco",
-        "artist": "Ninho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/b2/07/5cb2071c-cd33-db0c-9228-2add489c24b1/190295644376.jpg/80x80bb.webp",
-        "appleID": "un-poco/1363233595"
-    },
-    {
-        "ranking": "97",
-        "title": "Truth In The Lies",
-        "artist": "Central Cee",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
-        "appleID": "truth-in-the-lies/1783404301"
-    },
-    {
-        "ranking": "98",
-        "title": "Tout en Gucci",
-        "artist": "Ninho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/9a/4d/349a4d91-1354-932b-4dd4-17fd8ba25a7b/190295127442.jpg/80x80bb.webp",
-        "appleID": "tout-en-gucci/1536468983"
-    },
-    {
-        "ranking": "99",
-        "title": "16.02.2024",
-        "artist": "Werenoi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/93/ae/d493ae32-3c3a-1b09-9940-1abaa679cde7/cover.jpg/80x80bb.webp",
-        "appleID": "16-02-2024/1728627025"
-    },
-    {
-        "ranking": "100",
-        "title": "Intro DVM (feat. Freeze Corleone)",
-        "artist": "DVM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/95/40/b7954092-6d0e-0e03-4f81-cb5660d70a0a/cover.jpg/80x80bb.webp",
-        "appleID": "intro-dvm-feat-freeze-corleone/1789105467"
-    }
+  {
+    "ranking": "1",
+    "title": "Holiday Season",
+    "artist": "Didi B",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/68/80/2f688075-c248-a164-4356-f0c5c905266e/cover.jpg/80x80bb.webp",
+    "appleID": "holiday-season/1797503373"
+  },
+  {
+    "ranking": "2",
+    "title": "FREE CONGO (feat. Josman, Youssoupha & Kalash Criminel)",
+    "artist": "Gradur",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/4b/5a/594b5aa4-1558-c350-6502-da1c0dd112ff/199066930656.jpg/80x80bb.webp",
+    "appleID": "free-congo-feat-josman-youssoupha-kalash-criminel/1797091308"
+  },
+  {
+    "ranking": "3",
+    "title": "PERFORMANTE",
+    "artist": "Dinos",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/7e/9d/b47e9d4e-8aa1-5b2e-b85e-64d6ff5387a3/cover.jpg/80x80bb.webp",
+    "appleID": "performante/1796146511"
+  },
+  {
+    "ranking": "4",
+    "title": "Run",
+    "artist": "Rim'K",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/ae/9b/42ae9b04-b06c-fcdf-10a7-b77185740579/3663729356222_cover.jpg/80x80bb.webp",
+    "appleID": "run/1786379092"
+  },
+  {
+    "ranking": "5",
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "wildflower/1739659144",
+    "youtubeID": "IWKyykQBRKo",
+    "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
+  },
+  {
+    "ranking": "6",
+    "title": "Abu Bakr Shatri (Qur’an 21: 30 - 40)",
+    "artist": "Taraweeh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d2/c8/09/d2c8099b-da54-fc32-6c51-c6459d8f975c/198001522765.png/80x80bb.webp",
+    "appleID": "abu-bakr-shatri-quran-21-30-40/1590619175"
+  },
+  {
+    "ranking": "7",
+    "title": "DIANA",
+    "artist": "GIMS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/8f/55/d68f5534-10b3-2cf5-c2f1-2b2fd148041e/cover.jpg/80x80bb.webp",
+    "appleID": "diana/1784443772",
+    "youtubeID": "h1nVxC_x0PI"
+  },
+  {
+    "ranking": "8",
+    "title": "Al-Baqara - Chapter 2 (Verse 1 - Verse 25)",
+    "artist": "Abdul Rahman Al-Sudais",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/c3/18/37c318db-76cc-df7e-5092-dab41a524d47/5060071981559.jpg/80x80bb.webp",
+    "appleID": "al-baqara-chapter-2-verse-1-verse-25/431126154"
+  },
+  {
+    "ranking": "9",
+    "title": "NINAO",
+    "artist": "GIMS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/9b/4c/0f9b4ce6-918a-9057-040e-85950cc438df/cover.jpg/80x80bb.webp",
+    "appleID": "ninao/1797518241",
+    "youtubeID": "VT2qF97pQNw"
+  },
+  {
+    "ranking": "10",
+    "title": "VETEMENTS",
+    "artist": "Himra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/fc/0c/4efc0cc8-c043-e4fc-dfa7-5e6f9bb189e7/085365044852.jpg/80x80bb.webp",
+    "appleID": "vetements/1774762224"
+  },
+  {
+    "ranking": "11",
+    "title": "Evening Adkhar (dua and rememberance)",
+    "artist": "Omar Hisham",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1a/88/52/1a885206-b94d-46ce-6076-27d490952ef9/artwork.jpg/80x80bb.webp",
+    "appleID": "evening-adkhar-dua-and-rememberance/1653248975"
+  },
+  {
+    "ranking": "12",
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+    "appleID": "not-like-us/1744776167",
+    "youtubeID": "H58vbez_m4E"
+  },
+  {
+    "ranking": "13",
+    "title": "CARTIER SANTOS",
+    "artist": "SDM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
+    "appleID": "cartier-santos/1757803302",
+    "youtubeID": "3nGdVePdlT4",
+    "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
+  },
+  {
+    "ranking": "14",
+    "title": "A N X I E T Y (feat. Doechii)",
+    "artist": "Sleepy Hallow",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/46/6a/5f466a44-b343-ad30-7c9b-f8c80c5b16bd/196871357111.jpg/80x80bb.webp",
+    "appleID": "a-n-x-i-e-t-y-feat-doechii/1706412053",
+    "youtubeID": "AkUeD0kzWaI"
+  },
+  {
+    "ranking": "15",
+    "title": "YOROBO DRILL ACTE 3",
+    "artist": "Himra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b2/77/71b277a2-ad0d-8519-7611-e6f78a67e63a/9360932790334.jpg/80x80bb.webp",
+    "appleID": "yorobo-drill-acte-3/1774761191"
+  },
+  {
+    "ranking": "16",
+    "title": "yeti (feat. Old Sea Brigade)",
+    "artist": "Paris Paloma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/38/63/3538633a-5590-83b9-8ea9-2d012c36ebfc/067003498869.png/80x80bb.webp",
+    "appleID": "yeti-feat-old-sea-brigade/1679479135"
+  },
+  {
+    "ranking": "17",
+    "title": "Coup du marteau (feat. Team Paiya, Ste Milano, Renard Barakissa, Tazeboy & PSK)",
+    "artist": "Tam Sir",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/90/03/57900342-2f4b-6ad9-940a-64d1401c2867/cover.jpg/80x80bb.webp",
+    "appleID": "coup-du-marteau-feat-team-paiya-ste-milano-renard-barakissa/1720608724",
+    "youtubeID": "5zaeAcjTito"
+  },
+  {
+    "ranking": "18",
+    "title": "i love you",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/80x80bb.webp",
+    "appleID": "i-love-you/1450695895"
+  },
+  {
+    "ranking": "19",
+    "title": "10.03.2023",
+    "artist": "Werenoi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/a5/6f/eda56f1f-e119-cec9-2b92-58dad17c0cab/cover.jpg/80x80bb.webp",
+    "appleID": "10-03-2023/1673376546"
+  },
+  {
+    "ranking": "20",
+    "title": "Who (feat. BTS)",
+    "artist": "Lauv",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/ad/f1/ccadf18b-590a-9cdc-bb66-bcd42d6a367f/5056167113867_1.jpg/80x80bb.webp",
+    "appleID": "who-feat-bts/1480846930"
+  },
+  {
+    "ranking": "21",
+    "title": "Matinal",
+    "artist": "Zé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/f2/32/b2f23233-17c3-8bef-614e-aa04c7844fcc/199282230745_cover.jpg/80x80bb.webp",
+    "appleID": "matinal/1796473162"
+  },
+  {
+    "ranking": "22",
+    "title": "last woman on earth",
+    "artist": "Paris Paloma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/61/cd/1e61cd7e-925f-33cf-5ead-542cda39bf31/067003150750.png/80x80bb.webp",
+    "appleID": "last-woman-on-earth/1717937648"
+  },
+  {
+    "ranking": "23",
+    "title": "Lonely At The Top",
+    "artist": "Asake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+    "appleID": "lonely-at-the-top/1688642838",
+    "youtubeID": "bbVZo4Yw7pI"
+  },
+  {
+    "ranking": "24",
+    "title": "4 Kampé",
+    "artist": "Joé Dwèt Filé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
+    "appleID": "4-kamp%C3%A9/1773819412",
+    "youtubeID": "Srvt_6up-0o",
+    "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
+  },
+  {
+    "ranking": "25",
+    "title": "Surah Al Kahf (Be Heaven)",
+    "artist": "Omar Hisham",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/18/03/761803b9-1384-c869-6bcd-ed9fa359e53e/artwork.jpg/80x80bb.webp",
+    "appleID": "surah-al-kahf-be-heaven/1539968674"
+  },
+  {
+    "ranking": "26",
+    "title": "Une semaine pour oublier...",
+    "artist": "Dadju",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/8d/5f/dd8d5f04-23bd-c8ca-a2ec-ffe2517d29a2/cover.jpg/80x80bb.webp",
+    "appleID": "une-semaine-pour-oublier/1728573720"
+  },
+  {
+    "ranking": "27",
+    "title": "Forévà",
+    "artist": "Tayc",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/ac/9f/25ac9fab-dda3-e37e-525f-e9dc6bd4cff9/cover.jpg/80x80bb.webp",
+    "appleID": "for%C3%A9v%C3%A0/1783384632",
+    "youtubeID": "K9blr2upXs0"
+  },
+  {
+    "ranking": "28",
+    "title": "Lilith (Diablo IV Anthem)",
+    "artist": "Halsey",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/67/a6/7567a643-a3ec-7f1a-53fa-02eb8abe1b87/23UMGIM44277.rgb.jpg/80x80bb.webp",
+    "appleID": "lilith-diablo-iv-anthem/1690878724"
+  },
+  {
+    "ranking": "29",
+    "title": "Surah Al Waqiah (Be Heaven)",
+    "artist": "Omar Hisham",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/6d/88/6a6d8873-8e2a-b42a-cc16-535bba3f946e/artwork.jpg/80x80bb.webp",
+    "appleID": "surah-al-waqiah-be-heaven/1589193219"
+  },
+  {
+    "ranking": "30",
+    "title": "Childs Play",
+    "artist": "Drake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/80x80bb.webp",
+    "appleID": "childs-play/1440841387"
+  },
+  {
+    "ranking": "31",
+    "title": "SOIS PAS TIMIDE",
+    "artist": "GIMS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
+    "appleID": "sois-pas-timide/1757643303",
+    "youtubeID": "Sq5EDI7JktA",
+    "spotifyID": "0yyFAbTlOk7DFhh6RSug9S"
+  },
+  {
+    "ranking": "32",
+    "title": "Au dessus",
+    "artist": "Doc OVG",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/fe/2a/16fe2a4f-cfa2-2e81-3fd9-dcc0e26ad8b1/artwork.jpg/80x80bb.webp",
+    "appleID": "au-dessus/1794786374"
+  },
+  {
+    "ranking": "33",
+    "title": "POUR ELLE",
+    "artist": "SDM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
+    "appleID": "pour-elle/1757803290",
+    "youtubeID": "eYG5Qg6RCyE",
+    "spotifyID": "5jX61gvbNenSDMldQrbtsU"
+  },
+  {
+    "ranking": "34",
+    "title": "GANJAMAN (feat. Reggie, Beeztrap KOTM & O'Kenneth)",
+    "artist": "Himra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/fc/0c/4efc0cc8-c043-e4fc-dfa7-5e6f9bb189e7/085365044852.jpg/80x80bb.webp",
+    "appleID": "ganjaman-feat-reggie-beeztrap-kotm-okenneth/1758219707"
+  },
+  {
+    "ranking": "35",
+    "title": "AZAMAN",
+    "artist": "Rema",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
+    "appleID": "azaman/1755408616",
+    "youtubeID": "Z2L51xr45As"
+  },
+  {
+    "ranking": "36",
+    "title": "Surah Yaseen (Be Heaven)",
+    "artist": "Omar Hisham",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/83/0d/cb830da4-112d-2a9e-86cd-96c8876f6832/artwork.jpg/80x80bb.webp",
+    "appleID": "surah-yaseen-be-heaven/1537311926"
+  },
+  {
+    "ranking": "37",
+    "title": "Pélican",
+    "artist": "L2B",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/f9/cd/28f9cdec-c763-656c-3161-fa531425ed9f/25UMGIM09182.rgb.jpg/80x80bb.webp",
+    "appleID": "p%C3%A9lican/1795483576",
+    "youtubeID": "1943hnaZoYg"
+  },
+  {
+    "ranking": "38",
+    "title": "Laho",
+    "artist": "Shallipopi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/d3/c2/44d3c249-1170-5062-d998-7eaf99843017/196872917529.jpg/80x80bb.webp",
+    "appleID": "laho/1797598732",
+    "youtubeID": "OFtYscjjdCk"
+  },
+  {
+    "ranking": "39",
+    "title": "Dancin (Krono Remix) [feat. Luvli]",
+    "artist": "Aaron Smith",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6d/7a/e0/6d7ae01d-683e-9232-20a9-929d611833ba/886444926584.jpg/80x80bb.webp",
+    "appleID": "dancin-krono-remix-feat-luvli/933075723"
+  },
+  {
+    "ranking": "40",
+    "title": "MANON B (feat. MC Cebezinho, Oskoow & Ryflo) [Brazilian Remix]",
+    "artist": "Tiakola",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
+    "appleID": "manon-b-feat-mc-cebezinho-oskoow-ryflo-brazilian-remix/1766324129"
+  },
+  {
+    "ranking": "41",
+    "title": "PROBATION",
+    "artist": "Gazo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/cd/60/7ecd6037-c833-3b0d-c638-d734e3b06c22/196872607345.jpg/80x80bb.webp",
+    "appleID": "probation/1776875282",
+    "youtubeID": "e6QY_1fixvk",
+    "spotifyID": "75j42uvZCRoUxBcGsEP9Mk"
+  },
+  {
+    "ranking": "42",
+    "title": "Morning Dua and Remembrance",
+    "artist": "Omar Hisham",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/51/cf/8351cf1a-9752-4ec8-a881-d452ac8f474b/artwork.jpg/80x80bb.webp",
+    "appleID": "morning-dua-and-remembrance/1591772082"
+  },
+  {
+    "ranking": "43",
+    "title": "Morning Rain",
+    "artist": "Toshiro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/23/8d/f0238d5b-d759-4a9f-6b97-0cc5fabcc4cc/840405779930_cover.jpg/80x80bb.webp",
+    "appleID": "morning-rain/1785737996"
+  },
+  {
+    "ranking": "44",
+    "title": "No love",
+    "artist": "Ninho",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/03/c6/8803c68b-20b3-f471-56cd-f82e67a2a2c1/5054197731204.jpg/80x80bb.webp",
+    "appleID": "no-love/1693872262"
+  },
+  {
+    "ranking": "45",
+    "title": "Hit & Run",
+    "artist": "Shenseea",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/42/ed/4d42edf6-6a14-5e74-9a02-a01fe9bff99c/23UM1IM07501.rgb.jpg/80x80bb.webp",
+    "appleID": "hit-run/1727264203",
+    "youtubeID": "rJwEphsNVH8"
+  },
+  {
+    "ranking": "46",
+    "title": "J'ai zayé",
+    "artist": "Dadju",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/79/bb/e979bbe0-0b3d-8880-5f55-b10a5443c386/cover.jpg/80x80bb.webp",
+    "appleID": "jai-zay%C3%A9/1796412652"
+  },
+  {
+    "ranking": "47",
+    "title": "Dynasty",
+    "artist": "Miia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/4b/a6/7a4ba6b4-9224-a65f-d644-2e6188ded0cb/0859715611588_Cover.jpg/80x80bb.webp",
+    "appleID": "dynasty/1717666012"
+  },
+  {
+    "ranking": "48",
+    "title": "3 singes (feat. Ninho)",
+    "artist": "Werenoi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/73/d5/b073d53f-caf4-5579-1139-1211e7e10510/cover.jpg/80x80bb.webp",
+    "appleID": "3-singes-feat-ninho/1669584235"
+  },
+  {
+    "ranking": "49",
+    "title": "Joy is Coming",
+    "artist": "Fido",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/3b/97/fa3b9707-f2ac-13de-4b74-4fb758a9b448/197342982153_cover.jpg/80x80bb.webp",
+    "appleID": "joy-is-coming/1795505206",
+    "youtubeID": "9jO84E3QQM4"
+  },
+  {
+    "ranking": "50",
+    "title": "Top Boy",
+    "artist": "Himra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/d2/f4/d9d2f40c-cd51-1d44-4ea3-d528442323c9/197190457131.jpg/80x80bb.webp",
+    "appleID": "top-boy/1717665285"
+  },
+  {
+    "ranking": "51",
+    "title": "Jëli (feat. Wally B. Seck)",
+    "artist": "AMADEUS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/78/c8/ce78c843-fbec-39f2-e6c8-eda35f14ec65/cover.jpg/80x80bb.webp",
+    "appleID": "j%C3%ABli-feat-wally-b-seck/1770365839"
+  },
+  {
+    "ranking": "52",
+    "title": "Peace",
+    "artist": "MohBad",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/38/fd/c8/38fdc8ed-1f90-9997-ecc2-21e81ea3f1c0/196925609586.jpg/80x80bb.webp",
+    "appleID": "peace/1641900881"
+  },
+  {
+    "ranking": "53",
+    "title": "Surah Maryam (Be Heaven)",
+    "artist": "Omar Hisham",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/f9/09/1ef9092c-344a-0d76-5c84-a11108efd21e/artwork.jpg/80x80bb.webp",
+    "appleID": "surah-maryam-be-heaven/1546915373"
+  },
+  {
+    "ranking": "54",
+    "title": "Minimum ça",
+    "artist": "Dr. Yaro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/ba/f8/a7baf8ed-265f-a88c-5fa5-74f13861b5e8/859792094922.jpg/80x80bb.webp",
+    "appleID": "minimum-%C3%A7a/1773286871",
+    "youtubeID": "Xjws8nS606Q",
+    "spotifyID": "4mNttG8qiVh4BKrMUrUhCI"
+  },
+  {
+    "ranking": "55",
+    "title": "NANANI NANANA",
+    "artist": "Gazo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
+    "appleID": "nanani-nanana/1780778119",
+    "youtubeID": "8Bkgi6yB6P8",
+    "spotifyID": "0qlYaRFGvgR6afy1f4BBwD"
+  },
+  {
+    "ranking": "56",
+    "title": "Surah Ar-Rahman (Be Heaven)",
+    "artist": "Omar Hisham",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ed/ef/7a/edef7a4d-7d68-74a2-193b-0b2ecb9e4bea/artwork.jpg/80x80bb.webp",
+    "appleID": "surah-ar-rahman-be-heaven/1508869771"
+  },
+  {
+    "ranking": "57",
+    "title": "BIG AKA FOR AKA KAI",
+    "artist": "Himra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/a9/5c/f6a95cea-827b-3b86-4b71-f2cbdce67540/9361713195126.jpg/80x80bb.webp",
+    "appleID": "big-aka-for-aka-kai/1798486091"
+  },
+  {
+    "ranking": "58",
+    "title": "Al-Baqarah (البقرة, La vache, La génisse)",
+    "artist": "Salah Al Budair",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/37/62/6f3762e8-7149-8ff3-e512-e5af0c61201a/cover.jpg/80x80bb.webp",
+    "appleID": "al-baqarah-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9-la-vache-la-g%C3%A9nisse/544348324"
+  },
+  {
+    "ranking": "59",
+    "title": "BANGER",
+    "artist": "Himra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b2/77/71b277a2-ad0d-8519-7611-e6f78a67e63a/9360932790334.jpg/80x80bb.webp",
+    "appleID": "banger/1774761178"
+  },
+  {
+    "ranking": "60",
+    "title": "CIEL",
+    "artist": "GIMS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/4a/df/7e4adfc1-7cf7-7a96-a4cb-2fc338a5b03e/cover.jpg/80x80bb.webp",
+    "appleID": "ciel/1773791057",
+    "youtubeID": "QS0A-CjRdAE",
+    "spotifyID": "1RiCNSkK4AfT1j8ZM4JnVs"
+  },
+  {
+    "ranking": "61",
+    "title": "Chouchou des nanas",
+    "artist": "kulturr",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/f7/4f/01f74f52-45f0-9693-4cf5-08e3702a3902/5021732393371.jpg/80x80bb.webp",
+    "appleID": "chouchou-des-nanas/1748753815"
+  },
+  {
+    "ranking": "62",
+    "title": "Arme de poing",
+    "artist": "Ninho",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
+    "appleID": "arme-de-poing/1597121778"
+  },
+  {
+    "ranking": "63",
+    "title": "Woman",
+    "artist": "Rema",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cd/7a/41/cd7a4150-3efd-731f-5104-04653312fbf7/20UMGIM51463.rgb.jpg/80x80bb.webp",
+    "appleID": "woman/1521265340"
+  },
+  {
+    "ranking": "64",
+    "title": "Surah Fajr",
+    "artist": "Abdul Rahman Al-Sudais",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/54/29/7f/54297fa6-2d87-f455-911a-912689d96db4/889845443650.jpg/80x80bb.webp",
+    "appleID": "surah-fajr/1020856795"
+  },
+  {
+    "ranking": "65",
+    "title": "MANON B",
+    "artist": "Tiakola",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/4f/27/904f27e6-cd74-cb9d-c9a9-8d7ad562a6cf/5021732476425.jpg/80x80bb.webp",
+    "appleID": "manon-b/1764936550",
+    "youtubeID": "v0duI6_MxR0"
+  },
+  {
+    "ranking": "66",
+    "title": "Surah Duha",
+    "artist": "Abdul Rahman Al-Sudais",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/54/29/7f/54297fa6-2d87-f455-911a-912689d96db4/889845443650.jpg/80x80bb.webp",
+    "appleID": "surah-duha/1020856980"
+  },
+  {
+    "ranking": "67",
+    "title": "Set You Free",
+    "artist": "Jack Harlow",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/be/f4/93bef4cb-5a7e-9889-0bac-a1f714fd4cf7/075679618818.jpg/80x80bb.webp",
+    "appleID": "set-you-free/1794677365"
+  },
+  {
+    "ranking": "68",
+    "title": "DX3 (Dégâts X3)",
+    "artist": "Didi B",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/67/27/2767275a-3a72-7a3b-fc50-4d43f990dd13/24UM1IM40659.rgb.jpg/80x80bb.webp",
+    "appleID": "dx3-d%C3%A9g%C3%A2ts-x3/1785003672"
+  },
+  {
+    "ranking": "69",
+    "title": "10 Bottles",
+    "artist": "Zlatan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/25/7b/12257b5a-8b46-982b-a7ee-64a66839f4c0/0.jpg/80x80bb.webp",
+    "appleID": "10-bottles/1713570969",
+    "youtubeID": "O5kHmmfcEDs"
+  },
+  {
+    "ranking": "70",
+    "title": "My Salsa (feat. Tory Lanez)",
+    "artist": "Franglish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/cd/0e/cacd0eaa-fbb4-55fd-59dc-a4d889e3c649/20UMGIM43522.rgb.jpg/80x80bb.webp",
+    "appleID": "my-salsa-feat-tory-lanez/1519964851"
+  },
+  {
+    "ranking": "71",
+    "title": "Finesse out the Gang Way (feat. Lil Baby)",
+    "artist": "Lil Durk",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/30/46/383046d9-5bbf-fcd1-1ec5-3b02ca585011/602435731520.jpg/80x80bb.webp",
+    "appleID": "finesse-out-the-gang-way-feat-lil-baby/1575643978"
+  },
+  {
+    "ranking": "72",
+    "title": "SOMEBODY LOVES ME",
+    "artist": "PARTYNEXTDOOR",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "somebody-loves-me/1796127378"
+  },
+  {
+    "ranking": "73",
+    "title": "Aure Remix (feat. Boyskido)",
+    "artist": "Emteey Shmurda",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/da/cb/c4dacb6b-2704-6ee6-36de-81c2fba9b581/5063501467869_cover.jpg/80x80bb.webp",
+    "appleID": "aure-remix-feat-boyskido/1750540229"
+  },
+  {
+    "ranking": "74",
+    "title": "Surah Al Mulk (Be Heaven)",
+    "artist": "Omar Hisham",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/99/32/70/9932701c-5526-38ff-378f-a79997b8013a/artwork.jpg/80x80bb.webp",
+    "appleID": "surah-al-mulk-be-heaven/1506422671"
+  },
+  {
+    "ranking": "75",
+    "title": "J'coupe tout (feat. Musto)",
+    "artist": "La Mano 1.9",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/a7/14/51a714ff-d7ac-3294-76ce-5c5db4dd4d22/24UMGIM45053.rgb.jpg/80x80bb.webp",
+    "appleID": "jcoupe-tout-feat-musto/1741770329"
+  },
+  {
+    "ranking": "76",
+    "title": "Al-Kahf - Chapter 18 (Verse 23 - Verse 48)",
+    "artist": "Abdul Rahman Al-Sudais",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/c3/18/37c318db-76cc-df7e-5092-dab41a524d47/5060071981559.jpg/80x80bb.webp",
+    "appleID": "al-kahf-chapter-18-verse-23-verse-48/431126862"
+  },
+  {
+    "ranking": "77",
+    "title": "Schéma",
+    "artist": "Damso",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/7e/45/ab7e45a4-ce66-2342-8df4-e096fe60e855/5034644184210.jpg/80x80bb.webp",
+    "appleID": "sch%C3%A9ma/1778748586"
+  },
+  {
+    "ranking": "78",
+    "title": "Huntin’ Wabbitz",
+    "artist": "J. Cole",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/91/e9/e591e93a-969f-6b82-9dc5-874edc3d22ba/24UMGIM38890.rgb.jpg/80x80bb.webp",
+    "appleID": "huntin-wabbitz/1739698399"
+  },
+  {
+    "ranking": "79",
+    "title": "Elle est bonne sa mère (feat. Ninho)",
+    "artist": "Vegedream",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/73/67/df736797-c1b1-8f63-74a2-6261bab92113/19UMGIM40294.rgb.jpg/80x80bb.webp",
+    "appleID": "elle-est-bonne-sa-m%C3%A8re-feat-ninho/1464512260"
+  },
+  {
+    "ranking": "80",
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+    "appleID": "billie-jean/269573364",
+    "youtubeID": "Zi_XLOBDo_Y"
+  },
+  {
+    "ranking": "81",
+    "title": "Anybody",
+    "artist": "Burna Boy",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/9e/ad/cc9ead4a-6d92-6153-0b30-c6d944d56cc8/075679840547.jpg/80x80bb.webp",
+    "appleID": "anybody/1743941193"
+  },
+  {
+    "ranking": "82",
+    "title": "reason",
+    "artist": "Omah Lay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/ff/1f/c8ff1f28-54db-8c3a-91b1-8042173223c2/093624841319_02.jpg/80x80bb.webp",
+    "appleID": "reason/1744454683",
+    "youtubeID": "vmytMK1ZjcY"
+  },
+  {
+    "ranking": "83",
+    "title": "Passat (feat. Maes)",
+    "artist": "SDM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/e5/46/11e546be-f554-ae83-083e-e5ec336a838b/21UM1IM38971.rgb.jpg/80x80bb.webp",
+    "appleID": "passat-feat-maes/1605596487"
+  },
+  {
+    "ranking": "84",
+    "title": "Baby (Is It A Crime)",
+    "artist": "Rema",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ec/75/59ec75eb-42b0-bf6a-38c7-48013ca1b11e/24UM1IM36412.rgb.jpg/80x80bb.webp",
+    "appleID": "baby-is-it-a-crime/1790699154",
+    "youtubeID": "MsZhYgo9MoA"
+  },
+  {
+    "ranking": "85",
+    "title": "Amour toxic",
+    "artist": "Dadju",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/7c/9a/5a7c9a69-08da-38c0-e2d3-70e4f7c56f30/19UM1IM13351.rgb.jpg/80x80bb.webp",
+    "appleID": "amour-toxic/1532275011"
+  },
+  {
+    "ranking": "86",
+    "title": "Boucan (feat. Franglish)",
+    "artist": "KeBlack",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/bb/8a/48bb8a9f-cf75-7e76-622d-b662d1ee3c9a/cover.jpg/80x80bb.webp",
+    "appleID": "boucan-feat-franglish/1742512277",
+    "youtubeID": "WQQ4pBn1gHs"
+  },
+  {
+    "ranking": "87",
+    "title": "Amapiano",
+    "artist": "Asake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+    "appleID": "amapiano/1688641993"
+  },
+  {
+    "ranking": "88",
+    "title": "Nigani",
+    "artist": "Ya Levis",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/cc/92/6dcc925b-e55b-61fc-b260-cb979057d7ae/cover.jpg/80x80bb.webp",
+    "appleID": "nigani/1761212366"
+  },
+  {
+    "ranking": "89",
+    "title": "Ya Nabi (Arabic Version - Bonus Track)",
+    "artist": "Maher Zain",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/28/ab/fb28ab10-826d-3043-f261-356d93035f62/5060071981825.jpg/80x80bb.webp",
+    "appleID": "ya-nabi-arabic-version-bonus-track/335439340"
+  },
+  {
+    "ranking": "90",
+    "title": "Juz 30, 4th Quarter",
+    "artist": "Abdul Rahman Al-Sudais",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/71/68/03/716803ac-07d9-cb49-ba01-621ac7ad709e/405341.jpg/80x80bb.webp",
+    "appleID": "juz-30-4th-quarter/1458892318"
+  },
+  {
+    "ranking": "91",
+    "title": "Jefe",
+    "artist": "Ninho",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
+    "appleID": "jefe/1597121344",
+    "youtubeID": "pxjsZK_fkO4"
+  },
+  {
+    "ranking": "92",
+    "title": "GBP",
+    "artist": "Central Cee",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
+    "appleID": "gbp/1783404294"
+  },
+  {
+    "ranking": "93",
+    "title": "Joro",
+    "artist": "Wizkid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/20/05/17/200517ab-c3a3-b833-74b3-9bb3399c780c/886447834886.jpg/80x80bb.webp",
+    "appleID": "joro/1471034860"
+  },
+  {
+    "ranking": "94",
+    "title": "Residuals",
+    "artist": "Chris Brown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+    "appleID": "residuals/1740206493",
+    "youtubeID": "N6i1SeRmKL0"
+  },
+  {
+    "ranking": "95",
+    "title": "Likolo (feat. Ninho)",
+    "artist": "Fally Ipupa",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/a5/86/c7a5867b-0dc7-9e9e-64f3-63c6e88cdb34/190295113940.jpg/80x80bb.webp",
+    "appleID": "likolo-feat-ninho/1539474664"
+  },
+  {
+    "ranking": "96",
+    "title": "Un Poco",
+    "artist": "Ninho",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/b2/07/5cb2071c-cd33-db0c-9228-2add489c24b1/190295644376.jpg/80x80bb.webp",
+    "appleID": "un-poco/1363233595"
+  },
+  {
+    "ranking": "97",
+    "title": "Truth In The Lies",
+    "artist": "Central Cee",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/7f/ef/5a7fefe9-5b4c-c72b-2446-6d4a0bc1d819/196872591545.jpg/80x80bb.webp",
+    "appleID": "truth-in-the-lies/1783404301"
+  },
+  {
+    "ranking": "98",
+    "title": "Tout en Gucci",
+    "artist": "Ninho",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/9a/4d/349a4d91-1354-932b-4dd4-17fd8ba25a7b/190295127442.jpg/80x80bb.webp",
+    "appleID": "tout-en-gucci/1536468983",
+    "youtubeID": "HqJ1qP05Si0"
+  },
+  {
+    "ranking": "99",
+    "title": "16.02.2024",
+    "artist": "Werenoi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/93/ae/d493ae32-3c3a-1b09-9940-1abaa679cde7/cover.jpg/80x80bb.webp",
+    "appleID": "16-02-2024/1728627025"
+  },
+  {
+    "ranking": "100",
+    "title": "Intro DVM (feat. Freeze Corleone)",
+    "artist": "DVM",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/95/40/b7954092-6d0e-0e03-4f81-cb5660d70a0a/cover.jpg/80x80bb.webp",
+    "appleID": "intro-dvm-feat-freeze-corleone/1789105467",
+    "youtubeID": "ItYfx6LM6LY"
+  }
 ]

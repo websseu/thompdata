@@ -1,780 +1,793 @@
 [
-    {
-        "ranking": "1",
-        "title": "All I Want for Christmas Is You",
-        "artist": "Mariah Carey",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803",
-        "youtubeID": "aAkMkVFwAoo"
-    },
-    {
-        "ranking": "2",
-        "title": "It's Beginning To Look a Lot Like Christmas",
-        "artist": "Michael Bublé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
-        "youtubeID": "QJ5DOWPGxwg",
-        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-        "ranking": "3",
-        "title": "Joulun kanssas jaan (feat. Cantores Minores)",
-        "artist": "Haloo Helsinki!",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d7/c4/1d/d7c41df9-897b-1ebd-707c-354106fe6f14/886446875170.jpg/80x80bb.webp",
-        "appleID": "joulun-kanssas-jaan-feat-cantores-minores/1316639572"
-    },
-    {
-        "ranking": "4",
-        "title": "Last Christmas (Single Version)",
-        "artist": "Wham!",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas/282658482",
-        "youtubeID": "E8gmARGvPlI",
-        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-        "ranking": "5",
-        "title": "It's the Most Wonderful Time of the Year",
-        "artist": "Andy Williams",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
-        "youtubeID": "cbZTfrhcamA",
-        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-        "ranking": "6",
-        "title": "Feliz Navidad",
-        "artist": "José Feliciano",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
-        "appleID": "feliz-navidad/255615879",
-        "youtubeID": "N8NcQzMQN_U",
-        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
-    },
-    {
-        "ranking": "7",
-        "title": "Snowman",
-        "artist": "Sia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017",
-        "youtubeID": "gset79KMmt0"
-    },
-    {
-        "ranking": "8",
-        "title": "Santa Tell Me",
-        "artist": "Ariana Grande",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982",
-        "youtubeID": "nlR0MkrRklg"
-    },
-    {
-        "ranking": "9",
-        "title": "Tulkoon Joulu",
-        "artist": "Suvi Teräsniska",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/5a/80/bb/mzi.zfcoftgh.jpg/80x80bb.webp",
-        "appleID": "tulkoon-joulu/337563698",
-        "youtubeID": "ifbO9m3p2tY",
-        "spotifyID": "1K0ZirzQ9KtHAKOLB5efXs"
-    },
-    {
-        "ranking": "10",
-        "title": "Mistletoe",
-        "artist": "Justin Bieber",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/80x80bb.webp",
-        "appleID": "mistletoe/1440640717",
-        "youtubeID": "LUjn3RpkcKY",
-        "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-        "ranking": "11",
-        "title": "Do They Know It's Christmas? (Original 1984 Version)",
-        "artist": "Band Aid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/52/a8/52/52a8524d-c292-a99a-92db-ae07376cdb09/06UMGIM39644.rgb.jpg/80x80bb.webp",
-        "appleID": "do-they-know-its-christmas/1445001424"
-    },
-    {
-        "ranking": "12",
-        "title": "Joulun henki",
-        "artist": "Suvi Teräsniska",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/20/43/09/204309d9-af9a-fec6-8f68-e8c45ceb3fd9/825646184903.jpg/80x80bb.webp",
-        "appleID": "joulun-henki/932452226"
-    },
-    {
-        "ranking": "13",
-        "title": "Underneath the Tree",
-        "artist": "Kelly Clarkson",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368",
-        "youtubeID": "EM2Fnp_qnE8"
-    },
-    {
-        "ranking": "14",
-        "title": "Last Christmas",
-        "artist": "Wham!",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6e/c3/66/6ec3666f-7b4d-49b8-808f-9e40774443e3/mzi.ynkcpjdq.jpg/80x80bb.webp",
-        "appleID": "last-christmas/282658482",
-        "youtubeID": "E8gmARGvPlI",
-        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-        "ranking": "15",
-        "title": "Fairytale of New York (feat. Kirsty MacColl)",
-        "artist": "The Pogues",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/03/ca/f9/03caf99f-f9dd-b9b6-56f4-16a21b96c4b4/mzi.mxyznycs.jpg/80x80bb.webp",
-        "appleID": "fairytale-of-new-york-feat-kirsty-maccoll/189233734"
-    },
-    {
-        "ranking": "16",
-        "title": "My Only Wish (This Year)",
-        "artist": "Britney Spears",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c4/25/d8/c425d8ea-a2aa-6f19-f9d4-e19057957818/886448715719.jpg/80x80bb.webp",
-        "appleID": "my-only-wish-this-year/1537659110"
-    },
-    {
-        "ranking": "17",
-        "title": "Have Yourself a Merry Little Christmas",
-        "artist": "Sam Smith",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d5/46/c9/d546c928-2888-1536-86f3-dd703ebfd92a/14UMGIM58946.rgb.jpg/80x80bb.webp",
-        "appleID": "have-yourself-a-merry-little-christmas/1445297300"
-    },
-    {
-        "ranking": "18",
-        "title": "Let It Snow! Let It Snow! Let It Snow!",
-        "artist": "Dean Martin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
-        "youtubeID": "2TA3IKH8Y5c",
-        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-        "ranking": "19",
-        "title": "Joulumaa",
-        "artist": "Katri Helena",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/36/30/2d36303b-a767-fce5-b150-ecc37da1227d/mzi.znkjckvh.jpg/80x80bb.webp",
-        "appleID": "joulumaa/202269537",
-        "youtubeID": "Ex53WUcnOFI",
-        "spotifyID": "3QqsEc7mv1Kq9aWNpQgHsU"
-    },
-    {
-        "ranking": "20",
-        "title": "Driving Home for Christmas",
-        "artist": "Chris Rea",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ca/6d/f4/ca6df4b3-133c-5771-2fde-25cfd9a3efd5/190295711870.jpg/80x80bb.webp",
-        "appleID": "driving-home-for-christmas/1309544023",
-        "youtubeID": "uSjq7x67kzM"
-    },
-    {
-        "ranking": "21",
-        "title": "Jingle Bell Rock",
-        "artist": "Bobby Helms",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132",
-        "youtubeID": "Z0ajuTaHBtM",
-        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-        "ranking": "22",
-        "title": "Hallelujah",
-        "artist": "Pentatonix",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/9c/87/209c87ba-7992-8062-0576-758c8550564a/886446670744.jpg/80x80bb.webp",
-        "appleID": "hallelujah/1296455325",
-        "youtubeID": "LRP8d7hhpoQ",
-        "spotifyID": "550rQQCGkrTzvp4SfpOPzx"
-    },
-    {
-        "ranking": "23",
-        "title": "White Christmas",
-        "artist": "Bing Crosby",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/05/d3/9f05d3bb-c85c-3d87-af68-a82129e86f1f/06UMGIM06377.rgb.jpg/80x80bb.webp",
-        "appleID": "white-christmas/1425235073"
-    },
-    {
-        "ranking": "24",
-        "title": "Christmas Lights",
-        "artist": "Coldplay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/a3/c6/51a3c6b0-e243-7330-b27b-67bd625ff4ec/5099907194658.jpg/80x80bb.webp",
-        "appleID": "christmas-lights/693526009",
-        "spotifyID": "4fzyvSu73BhGvi96p2zwjL"
-    },
-    {
-        "ranking": "25",
-        "title": "Wonderful Christmastime (Edited Version)",
-        "artist": "Paul McCartney",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/80x80bb.webp",
-        "appleID": "wonderful-christmastime-edited-version/1440953981",
-        "youtubeID": "94Ye-3C1FC8"
-    },
-    {
-        "ranking": "26",
-        "title": "Happy Xmas (War Is Over) [The Ultimate Mix]",
-        "artist": "John Lennon",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/a0/94/10a094fd-a25a-c83f-512e-14f3020f8f3b/20UMGIM66609.rgb.jpg/80x80bb.webp",
-        "appleID": "happy-xmas-war-is-over-the-ultimate-mix/1527742022"
-    },
-    {
-        "ranking": "27",
-        "title": "This Christmas",
-        "artist": "Donny Hathaway",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/50/f8/64/50f86432-2051-dcb6-c80c-26751db6c88a/mzi.nsvpouqk.jpg/80x80bb.webp",
-        "appleID": "this-christmas/281714391"
-    },
-    {
-        "ranking": "28",
-        "title": "Avaruus",
-        "artist": "Samuli Edelmann",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/fb/05/1b/fb051bc0-822e-79a9-8e9c-8254ba5520a3/825646555208.jpg/80x80bb.webp",
-        "appleID": "avaruus/574672166"
-    },
-    {
-        "ranking": "29",
-        "title": "Taikuri",
-        "artist": "Turisti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/b9/15afb991-2b1c-c5c0-ad4e-2a95c6b9740d/5021732487315.jpg/80x80bb.webp",
-        "appleID": "taikuri/1768755250",
-        "youtubeID": "t3EgO8j_wS0",
-        "spotifyID": "7fdNCtxfZArtOZK3hLqqm3"
-    },
-    {
-        "ranking": "30",
-        "title": "Under the Tree (from “That Christmas”)",
-        "artist": "Ed Sheeran",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4f/aa/6f4faac6-0a1d-d683-a114-ca278aa281c4/5021732533715.jpg/80x80bb.webp",
-        "appleID": "under-the-tree-from-that-christmas/1779779328"
-    },
-    {
-        "ranking": "31",
-        "title": "Tule Meille Jouluksi",
-        "artist": "Jenni Vartiainen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/2f/70/d2/2f70d277-e9c3-715d-a43d-17681f15492e/825646398478.jpg/80x80bb.webp",
-        "appleID": "tule-meille-jouluksi/709205410"
-    },
-    {
-        "ranking": "32",
-        "title": "Merry Christmas Everyone",
-        "artist": "Shakin' Stevens",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/1a/fc/7f/mzi.znxgldzx.jpg/80x80bb.webp",
-        "appleID": "merry-christmas-everyone/347010852",
-        "youtubeID": "ZeyHl1tQeaQ",
-        "spotifyID": "2TE4xW3ImvpltVU0cPcKUn"
-    },
-    {
-        "ranking": "33",
-        "title": "Rukous",
-        "artist": "Antti Tuisku",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/cf/69/mzi.ngxpxhoh.jpg/80x80bb.webp",
-        "appleID": "rukous/475226446"
-    },
-    {
-        "ranking": "34",
-        "title": "Diva",
-        "artist": "Averagekidluke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d9/20/80d92029-9721-67be-3fe7-d748f47a07a9/5021732542021.jpg/80x80bb.webp",
-        "appleID": "diva/1777810477",
-        "youtubeID": "LJ0GFkS5RZw",
-        "spotifyID": "6zLzNEyVqtyZoohE75maSy"
-    },
-    {
-        "ranking": "35",
-        "title": "Step into Christmas",
-        "artist": "Elton John",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/02/ee/dc02ee4a-ff56-75df-64d4-9afcf8c0885d/18UMGIM35649.rgb.jpg/80x80bb.webp",
-        "appleID": "step-into-christmas/1484999360",
-        "youtubeID": "IbRtGMm96F8"
-    },
-    {
-        "ranking": "36",
-        "title": "Little Things",
-        "artist": "ABBA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/59/c9/d959c92f-045d-44e4-7a20-f1e36fa46135/21UMGIM85473.rgb.jpg/80x80bb.webp",
-        "appleID": "little-things/1583785398"
-    },
-    {
-        "ranking": "37",
-        "title": "Mary's Boy Child / Oh My Lord",
-        "artist": "Boney M.",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/76/b4/94/mzi.vmxuisdh.jpg/80x80bb.webp",
-        "appleID": "marys-boy-child-oh-my-lord/1439640326",
-        "spotifyID": "2qqZ5fOGuNvYVzgPFDLQ4l"
-    },
-    {
-        "ranking": "38",
-        "title": "Jeesus",
-        "artist": "koira",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/49/7f/49497fb5-ef4e-ae08-098a-82427f6cfb2a/397.jpg/80x80bb.webp",
-        "appleID": "jeesus/1786145105",
-        "spotifyID": "5BqTedQR0QEN7UkyvEKNeS"
-    },
-    {
-        "ranking": "39",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221",
-        "youtubeID": "ekr2nIex040",
-        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-        "ranking": "40",
-        "title": "Ave Maria",
-        "artist": "Rajaton",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/f7/c8/31f7c81c-189a-5be7-dc4c-f4f0eb4859ba/859795649532_cover.jpg/80x80bb.webp",
-        "appleID": "ave-maria/1774353844"
-    },
-    {
-        "ranking": "41",
-        "title": "Rockin' Around the Christmas Tree (Single Version)",
-        "artist": "Brenda Lee",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/6f/7b/4e6f7b88-da9c-bdde-8e9d-5bd3bf3c4653/06UMGIM05568.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree-single-version/1434774881",
-        "youtubeID": "TFsZy9t-qDc",
-        "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-        "ranking": "42",
-        "title": "Little Saint Nick",
-        "artist": "The Beach Boys",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/0a/39/650a39be-5682-77b8-e98d-7a72285b5602/13UABIM51358.rgb.jpg/80x80bb.webp",
-        "appleID": "little-saint-nick/1440856020",
-        "youtubeID": "xp9rK8FmYog",
-        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
-    },
-    {
-        "ranking": "43",
-        "title": "Blue Christmas",
-        "artist": "Elvis Presley",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/04/02/e0040287-bd23-a030-693b-c48d146de930/886444095303.jpg/80x80bb.webp",
-        "appleID": "blue-christmas/676288368",
-        "spotifyID": "3QiAAp20rPC3dcAtKtMaqQ"
-    },
-    {
-        "ranking": "44",
-        "title": "Christmas (Baby Please Come Home)",
-        "artist": "Darlene Love",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "christmas-baby-please-come-home/336037344",
-        "youtubeID": "vf4ZXBzbAio"
-    },
-    {
-        "ranking": "45",
-        "title": "Frosty the Snowman (feat. The Puppini Sisters)",
-        "artist": "Michael Bublé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c2/f7/e7/c2f7e74d-43c3-afa5-90e5-7fd51b9415f9/093624896050.jpg/80x80bb.webp",
-        "appleID": "frosty-the-snowman-feat-the-puppini-sisters/1484370575"
-    },
-    {
-        "ranking": "46",
-        "title": "Kun Joulupukki Suukon Sai",
-        "artist": "Laura Voutilainen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/d7/0f/f5/dj.lihbfjyz.jpg/80x80bb.webp",
-        "appleID": "kun-joulupukki-suukon-sai/266128463"
-    },
-    {
-        "ranking": "47",
-        "title": "Thank God It's Christmas (Single)",
-        "artist": "Queen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/cc/06/f3cc068f-8991-d6a0-24e9-9b9918dd0852/14DMGIM05611.rgb.jpg/80x80bb.webp",
-        "appleID": "thank-god-its-christmas-single/1440810992"
-    },
-    {
-        "ranking": "48",
-        "title": "What Christmas Means To Me",
-        "artist": "Stevie Wonder",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/38/75/4838752f-752a-524a-7621-5011c99c202d/24UMGIM56142.rgb.jpg/80x80bb.webp",
-        "appleID": "what-christmas-means-to-me/1749926433"
-    },
-    {
-        "ranking": "49",
-        "title": "Have Yourself a Merry Little Christmas",
-        "artist": "Michael Bublé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "have-yourself-a-merry-little-christmas/669854840",
-        "spotifyID": "4QMEcIbG9GtSrkbvk7Pswd"
-    },
-    {
-        "ranking": "50",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732",
-        "youtubeID": "kPa7bsKwL-c",
-        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-        "ranking": "51",
-        "title": "Santa Claus Is Comin' to Town",
-        "artist": "Frank Sinatra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town/923608497",
-        "youtubeID": "rHKn6N-1_EY"
-    },
-    {
-        "ranking": "52",
-        "title": "Sleigh Ride",
-        "artist": "The Ronettes",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "sleigh-ride/336037282",
-        "youtubeID": "DkXIJe8CaIc",
-        "spotifyID": "7fUYUcWy853HS8YJn0b3Sr"
-    },
-    {
-        "ranking": "53",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142",
-        "youtubeID": "V9PVRfjEBTI"
-    },
-    {
-        "ranking": "54",
-        "title": "Holly Jolly Christmas",
-        "artist": "Michael Bublé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/53/0eaf535d-d955-9255-4bb8-aa0fe02fa22a/093624834687.jpg/80x80bb.webp",
-        "appleID": "holly-jolly-christmas/1782947597",
-        "spotifyID": "67mgz7S5y7hnCE63YBjfO6"
-    },
-    {
-        "ranking": "55",
-        "title": "Jingle Bells",
-        "artist": "Rajaton",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/3a/ef/f23aef06-5854-b992-536d-62ea5d4599c6/859796977429_cover.jpg/80x80bb.webp",
-        "appleID": "jingle-bells/1778666198"
-    },
-    {
-        "ranking": "56",
-        "title": "The Christmas Song (Merry Christmas to You)",
-        "artist": "Nat \"King\" Cole",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/80x80bb.webp",
-        "appleID": "the-christmas-song-merry-christmas-to-you/1435551062"
-    },
-    {
-        "ranking": "57",
-        "title": "Anteeks",
-        "artist": "william",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/89/b7/8789b768-1f7b-1d0c-905f-65cde1165a50/5021732548450.jpg/80x80bb.webp",
-        "appleID": "anteeks/1779195928"
-    },
-    {
-        "ranking": "58",
-        "title": "I'll Be Home",
-        "artist": "Meghan Trainor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/62/8e/9b/628e9b01-ac96-de8c-260c-5410e41ee2ab/886444919944.jpg/80x80bb.webp",
-        "appleID": "ill-be-home/939015076",
-        "spotifyID": "0lTurWECr2XL607eJAj1A3"
-    },
-    {
-        "ranking": "59",
-        "title": "Merry Xmas Everybody",
-        "artist": "Slade",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/34/89/11/34891101-b6d3-53b4-d421-6a2620a3ff4a/4050538465952.jpg/80x80bb.webp",
-        "appleID": "merry-xmas-everybody/1446735502",
-        "youtubeID": "PTslBTBl1X8",
-        "spotifyID": "0z5jr9YE1siursT3dJUwDV"
-    },
-    {
-        "ranking": "60",
-        "title": "Lumilinna",
-        "artist": "Jari Sillanpää",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/e2/4b/ae/e24bae71-add2-7cb3-1b7e-5d9893286aa5/886444705998.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/jari-sillanp%C3%A4%C3%A4/31392413"
-    },
-    {
-        "ranking": "61",
-        "title": "Santa Baby",
-        "artist": "Kylie Minogue",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/10/3c/a1/103ca1d5-1782-13b3-9288-7f78028711a3/190295889319.jpg/80x80bb.webp",
-        "appleID": "santa-baby/1168801383",
-        "spotifyID": "2SBr3MK1sdMs8IxdRcN6qz"
-    },
-    {
-        "ranking": "62",
-        "title": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "artist": "Bruce Springsteen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/75/3e/0a/753e0a5e-888d-fca1-2e62-e4916c3cfc01/dj.jmpfisia.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town/923608497",
-        "youtubeID": "76WFkKp8Tjs",
-        "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee"
-    },
-    {
-        "ranking": "63",
-        "title": "Jossain On Kai Vielä Joulu",
-        "artist": "Katri Helena",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/36/30/2d36303b-a767-fce5-b150-ecc37da1227d/mzi.znkjckvh.jpg/80x80bb.webp",
-        "appleID": "jossain-on-kai-viel%C3%A4-joulu/202270293"
-    },
-    {
-        "ranking": "64",
-        "title": "Please Come Home for Christmas",
-        "artist": "Eagles",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b7/b1/5a/b7b15a8e-bf61-11be-4a64-cde4904c5daa/603497214266.jpg/80x80bb.webp",
-        "appleID": "please-come-home-for-christmas/635815759",
-        "youtubeID": "5LUfDEATQHM",
-        "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
-    },
-    {
-        "ranking": "65",
-        "title": "Silver Bells (feat. Count Basie and His Big Band)",
-        "artist": "Tony Bennett",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8d/54/1a/8d541a44-47f5-699f-b615-8a835c378af2/888880804846.jpg/80x80bb.webp",
-        "appleID": "silver-bells-feat-count-basie-and-his-big-band/293005700"
-    },
-    {
-        "ranking": "66",
-        "title": "It's Gonna Be a Cold, Cold Christmas",
-        "artist": "Dana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/72/ad/2072ad2a-ca61-b326-374e-fd290159a984/886447389782.jpg/80x80bb.webp",
-        "appleID": "its-gonna-be-a-cold-cold-christmas/1439640702"
-    },
-    {
-        "ranking": "67",
-        "title": "Sleigh Ride",
-        "artist": "Ella Fitzgerald",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/0b/c0/b60bc03c-e899-8bf7-0632-8067aa00795b/06UMGIM12344.rgb.jpg/80x80bb.webp",
-        "appleID": "sleigh-ride/1469551485"
-    },
-    {
-        "ranking": "68",
-        "title": "Happy Holiday / The Holiday Season",
-        "artist": "Andy Williams",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "happy-holiday-the-holiday-season/171434558",
-        "spotifyID": "1Wf14bTyb6UeKojy8ykPYm"
-    },
-    {
-        "ranking": "69",
-        "title": "Winter Wonderland",
-        "artist": "Aretha Franklin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/55/6c/e6556c65-06ba-0aeb-9de6-da2dc68048da/dj.jdgnmcde.jpg/80x80bb.webp",
-        "appleID": "winter-wonderland/425847943"
-    },
-    {
-        "ranking": "70",
-        "title": "Someday At Christmas",
-        "artist": "Stevie Wonder",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/38/75/4838752f-752a-524a-7621-5011c99c202d/24UMGIM56142.rgb.jpg/80x80bb.webp",
-        "appleID": "someday-at-christmas/1749926250",
-        "youtubeID": "MaA7B9cu4kU"
-    },
-    {
-        "ranking": "71",
-        "title": "Moon in Your Eyes",
-        "artist": "Serum",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/0c/93/2a0c93b5-e8b9-0e28-c84e-d4baaaaadbda/5060182937186_cover.jpg/80x80bb.webp",
-        "appleID": "moon-in-your-eyes/1473244284"
-    },
-    {
-        "ranking": "72",
-        "title": "Luotathan",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/52/9e/62529e4d-cd6b-4ce1-f847-77f6ff6efc37/24UMGIM55894.rgb.jpg/80x80bb.webp",
-        "appleID": "luotathan/1746731643"
-    },
-    {
-        "ranking": "73",
-        "title": "Toive",
-        "artist": "Paula Koivuniemi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/9a/33/a6/9a33a699-f150-3a20-3e8c-3cd123a63952/825646355044.jpg/80x80bb.webp",
-        "appleID": "toive/734441791"
-    },
-    {
-        "ranking": "74",
-        "title": "Kuuletko sä myös sen",
-        "artist": "Diandra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0e/36/c4/0e36c4ee-94e3-faa2-75a6-50c568ed7f9e/00602537196951.rgb.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/diandra/534191414"
-    },
-    {
-        "ranking": "75",
-        "title": "Piparia piparia",
-        "artist": "Stig",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/8d/7a/e38d7aef-5ad1-0ca1-7b35-7d87d3c381d3/886445138665.jpg/80x80bb.webp",
-        "appleID": "piparia-piparia/1743523702"
-    },
-    {
-        "ranking": "76",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890",
-        "youtubeID": "5EpyN_6dqyk"
-    },
-    {
-        "ranking": "77",
-        "title": "Iha miten vaa",
-        "artist": "Ares",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/28/f5/da28f5f4-1b38-f483-4d36-b941e56d62fe/5021732519085.jpg/80x80bb.webp",
-        "appleID": "iha-miten-vaa/1773128063"
-    },
-    {
-        "ranking": "78",
-        "title": "White Christmas (with Shania Twain)",
-        "artist": "Michael Bublé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/53/0eaf535d-d955-9255-4bb8-aa0fe02fa22a/093624834687.jpg/80x80bb.webp",
-        "appleID": "white-christmas-with-shania-twain/1782947592",
-        "spotifyID": "4buHBCFNm5WvttEDevaj9C"
-    },
-    {
-        "ranking": "79",
-        "title": "Run Rudolph Run",
-        "artist": "Chuck Berry",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/bd/06/03bd06bd-91bd-d8c2-03c4-4930e98742de/06UMGIM18712.rgb.jpg/80x80bb.webp",
-        "appleID": "run-rudolph-run/1443832242",
-        "youtubeID": "YiadNVhaGwk",
-        "spotifyID": "2pnPe4pJtq7689i5ydzvJJ"
-    },
-    {
-        "ranking": "80",
-        "title": "Santa Claus Is Coming to Town",
-        "artist": "Michael Bublé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/53/0eaf535d-d955-9255-4bb8-aa0fe02fa22a/093624834687.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-coming-to-town/1782947587",
-        "spotifyID": "7Ivelh8N9J25Yj9KKxYj6w"
-    },
-    {
-        "ranking": "81",
-        "title": "Sylvian joululaulu",
-        "artist": "Aino Venna",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ad/45/e3/ad45e3ef-68a4-aafe-340f-85697836e709/cover.jpg/80x80bb.webp",
-        "appleID": "sylvian-joululaulu/1173964393"
-    },
-    {
-        "ranking": "82",
-        "title": "Mele Kalikimaka (Merry Christmas)",
-        "artist": "Bing Crosby",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/05/d3/9f05d3bb-c85c-3d87-af68-a82129e86f1f/06UMGIM06377.rgb.jpg/80x80bb.webp",
-        "appleID": "mele-kalikimaka-merry-christmas/1425235224"
-    },
-    {
-        "ranking": "83",
-        "title": "Further",
-        "artist": "Boy Extra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/18/f0/87/18f087b9-d508-b8cc-0651-bd5e315062ae/artwork.jpg/80x80bb.webp",
-        "appleID": "further/1507850279"
-    },
-    {
-        "ranking": "84",
-        "title": "On / Off",
-        "artist": "Averagekidluke",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
-        "appleID": "on-off/1762680743",
-        "spotifyID": "6jRJ1RAvdNxC1TG03VRFVg"
-    },
-    {
-        "ranking": "85",
-        "title": "Lightskinboy (feat. Sexmane)",
-        "artist": "Turisti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/17/15/5e1715d3-620b-8859-ce89-d51caf9221e6/5021732381910.jpg/80x80bb.webp",
-        "appleID": "lightskinboy-feat-sexmane/1746314081"
-    },
-    {
-        "ranking": "86",
-        "title": "Harmon King",
-        "artist": "We Can Do It",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7f/db/a3/7fdba351-66e1-1d0f-c8cb-fb8e9e0567f6/859726201211_cover.jpg/80x80bb.webp",
-        "appleID": "harmon-king/1370050887"
-    },
-    {
-        "ranking": "87",
-        "title": "High",
-        "artist": "Rollercoaster",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a6/1d/35/a61d35ab-c4ea-963d-dbef-5d90f8d59421/859731898789_cover.jpg/80x80bb.webp",
-        "appleID": "high/1459401560"
-    },
-    {
-        "ranking": "88",
-        "title": "Timanttei",
-        "artist": "Mirella",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/55/be/0d55bef3-3606-8c34-6615-7587a7e51335/23UM1IM65059.rgb.jpg/80x80bb.webp",
-        "appleID": "timanttei/1721431952",
-        "youtubeID": "I4hrPA2a9RI",
-        "spotifyID": "36lT6tdND08VVvv3HwbhZD"
-    },
-    {
-        "ranking": "89",
-        "title": "Rockin' Around the Christmas Tree",
-        "artist": "Mel & Kim",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/52/fd/9a52fdef-34c2-dc9d-8fa4-462c4bb99e8b/17UM1IM53286.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree/1445017114",
-        "spotifyID": "5gpImN0eqlucE3a3r121SF"
-    },
-    {
-        "ranking": "90",
-        "title": "Afterlife (Instrumental)",
-        "artist": "Zpace and Time",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b6/ff/42/b6ff4219-bf04-6963-518c-776110b285f0/715235532560.jpg/80x80bb.webp",
-        "appleID": "afterlife-instrumental/1441721517"
-    },
-    {
-        "ranking": "91",
-        "title": "Tonttuparaati (Heinzelmännchens Wachtparade)",
-        "artist": "Laila Kinnunen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/67/1f/6d/mzi.qzdasfyf.jpg/80x80bb.webp",
-        "appleID": "tonttuparaati-heinzelm%C3%A4nnchens-wachtparade/403720271"
-    },
-    {
-        "ranking": "92",
-        "title": "Sydämeeni Joulun Teen",
-        "artist": "Vesa-Matti Loiri",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/77/5f/5d/mzi.scboztql.jpg/80x80bb.webp",
-        "appleID": "syd%C3%A4meeni-joulun-teen/203884919",
-        "youtubeID": "Ki0mVpIs0zE",
-        "spotifyID": "2Kouu3rnDZ5ZVqWtPEAsGo"
-    },
-    {
-        "ranking": "93",
-        "title": "Ain't No Chimneys In the Projects",
-        "artist": "Sharon Jones & The Dap-Kings",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/6a/b4/4b6ab414-4af9-3b21-ec3d-41bbec6a790f/889845404378.jpg/80x80bb.webp",
-        "appleID": "aint-no-chimneys-in-the-projects/1485052422"
-    },
-    {
-        "ranking": "94",
-        "title": "Here Comes Santa Claus (Down Santa Claus Lane)",
-        "artist": "Doris Day",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/80/fb/0a/mzi.xfsqwzrx.jpg/80x80bb.webp",
-        "appleID": "here-comes-santa-claus-down-santa-claus-lane/186748283"
-    },
-    {
-        "ranking": "95",
-        "title": "Mousea",
-        "artist": "Reacher",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cc/29/1d/cc291d8b-68dd-3722-61ca-5396448008fe/5059366932345_cover.jpg/80x80bb.webp",
-        "appleID": "mousea/1473167881"
-    },
-    {
-        "ranking": "96",
-        "title": "(There's No Place Like) Home for the Holidays (1954 Version)",
-        "artist": "Perry Como",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/60/40/70604079-333d-3122-4c15-06acf2d421f9/886444694179.jpg/80x80bb.webp",
-        "appleID": "theres-no-place-like-home-for-the-holidays-1954-version/919420123"
-    },
-    {
-        "ranking": "97",
-        "title": "That’s So True",
-        "artist": "Gracie Abrams",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483",
-        "youtubeID": "BDHM8cyJQa8",
-        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-        "ranking": "98",
-        "title": "Valkea Joulu - White Christmas",
-        "artist": "Annikki Tähti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/19/88/69/1988693e-1144-f204-2bf4-d4714bef2e91/825646676750.jpg/80x80bb.webp",
-        "appleID": "valkea-joulu-white-christmas/862146948"
-    },
-    {
-        "ranking": "99",
-        "title": "Joulupukin Maa",
-        "artist": "Eini",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/45/ea/cf/mzi.dgoydytw.jpg/80x80bb.webp",
-        "appleID": "joulupukin-maa/203891339"
-    },
-    {
-        "ranking": "100",
-        "title": "I'll Be Home For Christmas",
-        "artist": "Michael Bublé",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "ill-be-home-for-christmas/669854848",
-        "spotifyID": "0GyXfYRuvG9nt71zF99SER"
-    }
+  {
+    "ranking": "1",
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
+    "appleID": "all-i-want-for-christmas-is-you/585972803",
+    "youtubeID": "aAkMkVFwAoo"
+  },
+  {
+    "ranking": "2",
+    "title": "It's Beginning To Look a Lot Like Christmas",
+    "artist": "Michael Bublé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
+    "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+    "youtubeID": "QJ5DOWPGxwg",
+    "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
+  },
+  {
+    "ranking": "3",
+    "title": "Joulun kanssas jaan (feat. Cantores Minores)",
+    "artist": "Haloo Helsinki!",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d7/c4/1d/d7c41df9-897b-1ebd-707c-354106fe6f14/886446875170.jpg/80x80bb.webp",
+    "appleID": "joulun-kanssas-jaan-feat-cantores-minores/1316639572",
+    "youtubeID": "vRB_be8jCxU"
+  },
+  {
+    "ranking": "4",
+    "title": "Last Christmas (Single Version)",
+    "artist": "Wham!",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
+    "appleID": "last-christmas/282658482",
+    "youtubeID": "E8gmARGvPlI",
+    "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
+  },
+  {
+    "ranking": "5",
+    "title": "It's the Most Wonderful Time of the Year",
+    "artist": "Andy Williams",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
+    "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+    "youtubeID": "cbZTfrhcamA",
+    "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
+  },
+  {
+    "ranking": "6",
+    "title": "Feliz Navidad",
+    "artist": "José Feliciano",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
+    "appleID": "feliz-navidad/255615879",
+    "youtubeID": "N8NcQzMQN_U",
+    "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
+  },
+  {
+    "ranking": "7",
+    "title": "Snowman",
+    "artist": "Sia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
+    "appleID": "snowman/1440098017",
+    "youtubeID": "gset79KMmt0"
+  },
+  {
+    "ranking": "8",
+    "title": "Santa Tell Me",
+    "artist": "Ariana Grande",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
+    "appleID": "santa-tell-me/1444319982",
+    "youtubeID": "nlR0MkrRklg"
+  },
+  {
+    "ranking": "9",
+    "title": "Tulkoon Joulu",
+    "artist": "Suvi Teräsniska",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/5a/80/bb/mzi.zfcoftgh.jpg/80x80bb.webp",
+    "appleID": "tulkoon-joulu/337563698",
+    "youtubeID": "ifbO9m3p2tY",
+    "spotifyID": "1K0ZirzQ9KtHAKOLB5efXs"
+  },
+  {
+    "ranking": "10",
+    "title": "Mistletoe",
+    "artist": "Justin Bieber",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/80x80bb.webp",
+    "appleID": "mistletoe/1440640717",
+    "youtubeID": "LUjn3RpkcKY",
+    "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
+  },
+  {
+    "ranking": "11",
+    "title": "Do They Know It's Christmas? (Original 1984 Version)",
+    "artist": "Band Aid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/52/a8/52/52a8524d-c292-a99a-92db-ae07376cdb09/06UMGIM39644.rgb.jpg/80x80bb.webp",
+    "appleID": "do-they-know-its-christmas/1445001424",
+    "youtubeID": "CDiYk07FG1Y"
+  },
+  {
+    "ranking": "12",
+    "title": "Joulun henki",
+    "artist": "Suvi Teräsniska",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/20/43/09/204309d9-af9a-fec6-8f68-e8c45ceb3fd9/825646184903.jpg/80x80bb.webp",
+    "appleID": "joulun-henki/932452226"
+  },
+  {
+    "ranking": "13",
+    "title": "Underneath the Tree",
+    "artist": "Kelly Clarkson",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
+    "appleID": "underneath-the-tree/1537216368",
+    "youtubeID": "EM2Fnp_qnE8"
+  },
+  {
+    "ranking": "14",
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6e/c3/66/6ec3666f-7b4d-49b8-808f-9e40774443e3/mzi.ynkcpjdq.jpg/80x80bb.webp",
+    "appleID": "last-christmas/282658482",
+    "youtubeID": "E8gmARGvPlI",
+    "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
+  },
+  {
+    "ranking": "15",
+    "title": "Fairytale of New York (feat. Kirsty MacColl)",
+    "artist": "The Pogues",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/03/ca/f9/03caf99f-f9dd-b9b6-56f4-16a21b96c4b4/mzi.mxyznycs.jpg/80x80bb.webp",
+    "appleID": "fairytale-of-new-york-feat-kirsty-maccoll/189233734",
+    "youtubeID": "j9jbdgZidu8"
+  },
+  {
+    "ranking": "16",
+    "title": "My Only Wish (This Year)",
+    "artist": "Britney Spears",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c4/25/d8/c425d8ea-a2aa-6f19-f9d4-e19057957818/886448715719.jpg/80x80bb.webp",
+    "appleID": "my-only-wish-this-year/1537659110"
+  },
+  {
+    "ranking": "17",
+    "title": "Have Yourself a Merry Little Christmas",
+    "artist": "Sam Smith",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d5/46/c9/d546c928-2888-1536-86f3-dd703ebfd92a/14UMGIM58946.rgb.jpg/80x80bb.webp",
+    "appleID": "have-yourself-a-merry-little-christmas/1445297300"
+  },
+  {
+    "ranking": "18",
+    "title": "Let It Snow! Let It Snow! Let It Snow!",
+    "artist": "Dean Martin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
+    "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+    "youtubeID": "2TA3IKH8Y5c",
+    "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
+  },
+  {
+    "ranking": "19",
+    "title": "Joulumaa",
+    "artist": "Katri Helena",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/36/30/2d36303b-a767-fce5-b150-ecc37da1227d/mzi.znkjckvh.jpg/80x80bb.webp",
+    "appleID": "joulumaa/202269537",
+    "youtubeID": "Ex53WUcnOFI",
+    "spotifyID": "3QqsEc7mv1Kq9aWNpQgHsU"
+  },
+  {
+    "ranking": "20",
+    "title": "Driving Home for Christmas",
+    "artist": "Chris Rea",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ca/6d/f4/ca6df4b3-133c-5771-2fde-25cfd9a3efd5/190295711870.jpg/80x80bb.webp",
+    "appleID": "driving-home-for-christmas/1309544023",
+    "youtubeID": "uSjq7x67kzM"
+  },
+  {
+    "ranking": "21",
+    "title": "Jingle Bell Rock",
+    "artist": "Bobby Helms",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
+    "appleID": "jingle-bell-rock/1358462132",
+    "youtubeID": "Z0ajuTaHBtM",
+    "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
+  },
+  {
+    "ranking": "22",
+    "title": "Hallelujah",
+    "artist": "Pentatonix",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/9c/87/209c87ba-7992-8062-0576-758c8550564a/886446670744.jpg/80x80bb.webp",
+    "appleID": "hallelujah/1296455325",
+    "youtubeID": "LRP8d7hhpoQ",
+    "spotifyID": "550rQQCGkrTzvp4SfpOPzx"
+  },
+  {
+    "ranking": "23",
+    "title": "White Christmas",
+    "artist": "Bing Crosby",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/05/d3/9f05d3bb-c85c-3d87-af68-a82129e86f1f/06UMGIM06377.rgb.jpg/80x80bb.webp",
+    "appleID": "white-christmas/1425235073"
+  },
+  {
+    "ranking": "24",
+    "title": "Christmas Lights",
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/a3/c6/51a3c6b0-e243-7330-b27b-67bd625ff4ec/5099907194658.jpg/80x80bb.webp",
+    "appleID": "christmas-lights/693526009",
+    "spotifyID": "4fzyvSu73BhGvi96p2zwjL",
+    "youtubeID": "z1rYmzQ8C9Q"
+  },
+  {
+    "ranking": "25",
+    "title": "Wonderful Christmastime (Edited Version)",
+    "artist": "Paul McCartney",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/80x80bb.webp",
+    "appleID": "wonderful-christmastime-edited-version/1440953981",
+    "youtubeID": "94Ye-3C1FC8"
+  },
+  {
+    "ranking": "26",
+    "title": "Happy Xmas (War Is Over) [The Ultimate Mix]",
+    "artist": "John Lennon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/a0/94/10a094fd-a25a-c83f-512e-14f3020f8f3b/20UMGIM66609.rgb.jpg/80x80bb.webp",
+    "appleID": "happy-xmas-war-is-over-the-ultimate-mix/1527742022"
+  },
+  {
+    "ranking": "27",
+    "title": "This Christmas",
+    "artist": "Donny Hathaway",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/50/f8/64/50f86432-2051-dcb6-c80c-26751db6c88a/mzi.nsvpouqk.jpg/80x80bb.webp",
+    "appleID": "this-christmas/281714391",
+    "youtubeID": "PhKVSZsRxQM"
+  },
+  {
+    "ranking": "28",
+    "title": "Avaruus",
+    "artist": "Samuli Edelmann",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/fb/05/1b/fb051bc0-822e-79a9-8e9c-8254ba5520a3/825646555208.jpg/80x80bb.webp",
+    "appleID": "avaruus/574672166"
+  },
+  {
+    "ranking": "29",
+    "title": "Taikuri",
+    "artist": "Turisti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/b9/15afb991-2b1c-c5c0-ad4e-2a95c6b9740d/5021732487315.jpg/80x80bb.webp",
+    "appleID": "taikuri/1768755250",
+    "youtubeID": "t3EgO8j_wS0",
+    "spotifyID": "7fdNCtxfZArtOZK3hLqqm3"
+  },
+  {
+    "ranking": "30",
+    "title": "Under the Tree (from “That Christmas”)",
+    "artist": "Ed Sheeran",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4f/aa/6f4faac6-0a1d-d683-a114-ca278aa281c4/5021732533715.jpg/80x80bb.webp",
+    "appleID": "under-the-tree-from-that-christmas/1779779328",
+    "youtubeID": "nBCkXe3ZfoI"
+  },
+  {
+    "ranking": "31",
+    "title": "Tule Meille Jouluksi",
+    "artist": "Jenni Vartiainen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/2f/70/d2/2f70d277-e9c3-715d-a43d-17681f15492e/825646398478.jpg/80x80bb.webp",
+    "appleID": "tule-meille-jouluksi/709205410"
+  },
+  {
+    "ranking": "32",
+    "title": "Merry Christmas Everyone",
+    "artist": "Shakin' Stevens",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/1a/fc/7f/mzi.znxgldzx.jpg/80x80bb.webp",
+    "appleID": "merry-christmas-everyone/347010852",
+    "youtubeID": "ZeyHl1tQeaQ",
+    "spotifyID": "2TE4xW3ImvpltVU0cPcKUn"
+  },
+  {
+    "ranking": "33",
+    "title": "Rukous",
+    "artist": "Antti Tuisku",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/cf/69/mzi.ngxpxhoh.jpg/80x80bb.webp",
+    "appleID": "rukous/475226446"
+  },
+  {
+    "ranking": "34",
+    "title": "Diva",
+    "artist": "Averagekidluke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d9/20/80d92029-9721-67be-3fe7-d748f47a07a9/5021732542021.jpg/80x80bb.webp",
+    "appleID": "diva/1777810477",
+    "youtubeID": "LJ0GFkS5RZw",
+    "spotifyID": "6zLzNEyVqtyZoohE75maSy"
+  },
+  {
+    "ranking": "35",
+    "title": "Step into Christmas",
+    "artist": "Elton John",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/02/ee/dc02ee4a-ff56-75df-64d4-9afcf8c0885d/18UMGIM35649.rgb.jpg/80x80bb.webp",
+    "appleID": "step-into-christmas/1484999360",
+    "youtubeID": "IbRtGMm96F8"
+  },
+  {
+    "ranking": "36",
+    "title": "Little Things",
+    "artist": "ABBA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/59/c9/d959c92f-045d-44e4-7a20-f1e36fa46135/21UMGIM85473.rgb.jpg/80x80bb.webp",
+    "appleID": "little-things/1583785398"
+  },
+  {
+    "ranking": "37",
+    "title": "Mary's Boy Child / Oh My Lord",
+    "artist": "Boney M.",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/76/b4/94/mzi.vmxuisdh.jpg/80x80bb.webp",
+    "appleID": "marys-boy-child-oh-my-lord/1439640326",
+    "spotifyID": "2qqZ5fOGuNvYVzgPFDLQ4l"
+  },
+  {
+    "ranking": "38",
+    "title": "Jeesus",
+    "artist": "koira",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/49/7f/49497fb5-ef4e-ae08-098a-82427f6cfb2a/397.jpg/80x80bb.webp",
+    "appleID": "jeesus/1786145105",
+    "spotifyID": "5BqTedQR0QEN7UkyvEKNeS"
+  },
+  {
+    "ranking": "39",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221",
+    "youtubeID": "ekr2nIex040",
+    "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
+  },
+  {
+    "ranking": "40",
+    "title": "Ave Maria",
+    "artist": "Rajaton",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/f7/c8/31f7c81c-189a-5be7-dc4c-f4f0eb4859ba/859795649532_cover.jpg/80x80bb.webp",
+    "appleID": "ave-maria/1774353844"
+  },
+  {
+    "ranking": "41",
+    "title": "Rockin' Around the Christmas Tree (Single Version)",
+    "artist": "Brenda Lee",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/6f/7b/4e6f7b88-da9c-bdde-8e9d-5bd3bf3c4653/06UMGIM05568.rgb.jpg/80x80bb.webp",
+    "appleID": "rockin-around-the-christmas-tree-single-version/1434774881",
+    "youtubeID": "TFsZy9t-qDc",
+    "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
+  },
+  {
+    "ranking": "42",
+    "title": "Little Saint Nick",
+    "artist": "The Beach Boys",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/0a/39/650a39be-5682-77b8-e98d-7a72285b5602/13UABIM51358.rgb.jpg/80x80bb.webp",
+    "appleID": "little-saint-nick/1440856020",
+    "youtubeID": "xp9rK8FmYog",
+    "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
+  },
+  {
+    "ranking": "43",
+    "title": "Blue Christmas",
+    "artist": "Elvis Presley",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/04/02/e0040287-bd23-a030-693b-c48d146de930/886444095303.jpg/80x80bb.webp",
+    "appleID": "blue-christmas/676288368",
+    "spotifyID": "3QiAAp20rPC3dcAtKtMaqQ"
+  },
+  {
+    "ranking": "44",
+    "title": "Christmas (Baby Please Come Home)",
+    "artist": "Darlene Love",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
+    "appleID": "christmas-baby-please-come-home/336037344",
+    "youtubeID": "vf4ZXBzbAio"
+  },
+  {
+    "ranking": "45",
+    "title": "Frosty the Snowman (feat. The Puppini Sisters)",
+    "artist": "Michael Bublé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c2/f7/e7/c2f7e74d-43c3-afa5-90e5-7fd51b9415f9/093624896050.jpg/80x80bb.webp",
+    "appleID": "frosty-the-snowman-feat-the-puppini-sisters/1484370575"
+  },
+  {
+    "ranking": "46",
+    "title": "Kun Joulupukki Suukon Sai",
+    "artist": "Laura Voutilainen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/d7/0f/f5/dj.lihbfjyz.jpg/80x80bb.webp",
+    "appleID": "kun-joulupukki-suukon-sai/266128463"
+  },
+  {
+    "ranking": "47",
+    "title": "Thank God It's Christmas (Single)",
+    "artist": "Queen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/cc/06/f3cc068f-8991-d6a0-24e9-9b9918dd0852/14DMGIM05611.rgb.jpg/80x80bb.webp",
+    "appleID": "thank-god-its-christmas-single/1440810992",
+    "youtubeID": "EIfZXSXRsYI"
+  },
+  {
+    "ranking": "48",
+    "title": "What Christmas Means To Me",
+    "artist": "Stevie Wonder",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/38/75/4838752f-752a-524a-7621-5011c99c202d/24UMGIM56142.rgb.jpg/80x80bb.webp",
+    "appleID": "what-christmas-means-to-me/1749926433"
+  },
+  {
+    "ranking": "49",
+    "title": "Have Yourself a Merry Little Christmas",
+    "artist": "Michael Bublé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
+    "appleID": "have-yourself-a-merry-little-christmas/669854840",
+    "spotifyID": "4QMEcIbG9GtSrkbvk7Pswd",
+    "youtubeID": "l3l83C-we-k"
+  },
+  {
+    "ranking": "50",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c",
+    "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "ranking": "51",
+    "title": "Santa Claus Is Comin' to Town",
+    "artist": "Frank Sinatra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/80x80bb.webp",
+    "appleID": "santa-claus-is-comin-to-town/923608497",
+    "youtubeID": "rHKn6N-1_EY"
+  },
+  {
+    "ranking": "52",
+    "title": "Sleigh Ride",
+    "artist": "The Ronettes",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
+    "appleID": "sleigh-ride/336037282",
+    "youtubeID": "DkXIJe8CaIc",
+    "spotifyID": "7fUYUcWy853HS8YJn0b3Sr"
+  },
+  {
+    "ranking": "53",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "birds-of-a-feather/1739659142",
+    "youtubeID": "V9PVRfjEBTI"
+  },
+  {
+    "ranking": "54",
+    "title": "Holly Jolly Christmas",
+    "artist": "Michael Bublé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/53/0eaf535d-d955-9255-4bb8-aa0fe02fa22a/093624834687.jpg/80x80bb.webp",
+    "appleID": "holly-jolly-christmas/1782947597",
+    "spotifyID": "67mgz7S5y7hnCE63YBjfO6",
+    "youtubeID": "Dkq3LD-4pmM"
+  },
+  {
+    "ranking": "55",
+    "title": "Jingle Bells",
+    "artist": "Rajaton",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/3a/ef/f23aef06-5854-b992-536d-62ea5d4599c6/859796977429_cover.jpg/80x80bb.webp",
+    "appleID": "jingle-bells/1778666198"
+  },
+  {
+    "ranking": "56",
+    "title": "The Christmas Song (Merry Christmas to You)",
+    "artist": "Nat \"King\" Cole",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/80x80bb.webp",
+    "appleID": "the-christmas-song-merry-christmas-to-you/1435551062"
+  },
+  {
+    "ranking": "57",
+    "title": "Anteeks",
+    "artist": "william",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/89/b7/8789b768-1f7b-1d0c-905f-65cde1165a50/5021732548450.jpg/80x80bb.webp",
+    "appleID": "anteeks/1779195928"
+  },
+  {
+    "ranking": "58",
+    "title": "I'll Be Home",
+    "artist": "Meghan Trainor",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/62/8e/9b/628e9b01-ac96-de8c-260c-5410e41ee2ab/886444919944.jpg/80x80bb.webp",
+    "appleID": "ill-be-home/939015076",
+    "spotifyID": "0lTurWECr2XL607eJAj1A3"
+  },
+  {
+    "ranking": "59",
+    "title": "Merry Xmas Everybody",
+    "artist": "Slade",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/34/89/11/34891101-b6d3-53b4-d421-6a2620a3ff4a/4050538465952.jpg/80x80bb.webp",
+    "appleID": "merry-xmas-everybody/1446735502",
+    "youtubeID": "PTslBTBl1X8",
+    "spotifyID": "0z5jr9YE1siursT3dJUwDV"
+  },
+  {
+    "ranking": "60",
+    "title": "Lumilinna",
+    "artist": "Jari Sillanpää",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/e2/4b/ae/e24bae71-add2-7cb3-1b7e-5d9893286aa5/886444705998.jpg/80x80bb.webp",
+    "appleID": "https://music.apple.com/us/artist/jari-sillanp%C3%A4%C3%A4/31392413"
+  },
+  {
+    "ranking": "61",
+    "title": "Santa Baby",
+    "artist": "Kylie Minogue",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/10/3c/a1/103ca1d5-1782-13b3-9288-7f78028711a3/190295889319.jpg/80x80bb.webp",
+    "appleID": "santa-baby/1168801383",
+    "spotifyID": "2SBr3MK1sdMs8IxdRcN6qz"
+  },
+  {
+    "ranking": "62",
+    "title": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+    "artist": "Bruce Springsteen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/75/3e/0a/753e0a5e-888d-fca1-2e62-e4916c3cfc01/dj.jmpfisia.jpg/80x80bb.webp",
+    "appleID": "santa-claus-is-comin-to-town/923608497",
+    "youtubeID": "76WFkKp8Tjs",
+    "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee"
+  },
+  {
+    "ranking": "63",
+    "title": "Jossain On Kai Vielä Joulu",
+    "artist": "Katri Helena",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/36/30/2d36303b-a767-fce5-b150-ecc37da1227d/mzi.znkjckvh.jpg/80x80bb.webp",
+    "appleID": "jossain-on-kai-viel%C3%A4-joulu/202270293"
+  },
+  {
+    "ranking": "64",
+    "title": "Please Come Home for Christmas",
+    "artist": "Eagles",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b7/b1/5a/b7b15a8e-bf61-11be-4a64-cde4904c5daa/603497214266.jpg/80x80bb.webp",
+    "appleID": "please-come-home-for-christmas/635815759",
+    "youtubeID": "5LUfDEATQHM",
+    "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
+  },
+  {
+    "ranking": "65",
+    "title": "Silver Bells (feat. Count Basie and His Big Band)",
+    "artist": "Tony Bennett",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8d/54/1a/8d541a44-47f5-699f-b615-8a835c378af2/888880804846.jpg/80x80bb.webp",
+    "appleID": "silver-bells-feat-count-basie-and-his-big-band/293005700"
+  },
+  {
+    "ranking": "66",
+    "title": "It's Gonna Be a Cold, Cold Christmas",
+    "artist": "Dana",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/72/ad/2072ad2a-ca61-b326-374e-fd290159a984/886447389782.jpg/80x80bb.webp",
+    "appleID": "its-gonna-be-a-cold-cold-christmas/1439640702"
+  },
+  {
+    "ranking": "67",
+    "title": "Sleigh Ride",
+    "artist": "Ella Fitzgerald",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/0b/c0/b60bc03c-e899-8bf7-0632-8067aa00795b/06UMGIM12344.rgb.jpg/80x80bb.webp",
+    "appleID": "sleigh-ride/1469551485"
+  },
+  {
+    "ranking": "68",
+    "title": "Happy Holiday / The Holiday Season",
+    "artist": "Andy Williams",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
+    "appleID": "happy-holiday-the-holiday-season/171434558",
+    "spotifyID": "1Wf14bTyb6UeKojy8ykPYm"
+  },
+  {
+    "ranking": "69",
+    "title": "Winter Wonderland",
+    "artist": "Aretha Franklin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/55/6c/e6556c65-06ba-0aeb-9de6-da2dc68048da/dj.jdgnmcde.jpg/80x80bb.webp",
+    "appleID": "winter-wonderland/425847943"
+  },
+  {
+    "ranking": "70",
+    "title": "Someday At Christmas",
+    "artist": "Stevie Wonder",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/38/75/4838752f-752a-524a-7621-5011c99c202d/24UMGIM56142.rgb.jpg/80x80bb.webp",
+    "appleID": "someday-at-christmas/1749926250",
+    "youtubeID": "MaA7B9cu4kU"
+  },
+  {
+    "ranking": "71",
+    "title": "Moon in Your Eyes",
+    "artist": "Serum",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/0c/93/2a0c93b5-e8b9-0e28-c84e-d4baaaaadbda/5060182937186_cover.jpg/80x80bb.webp",
+    "appleID": "moon-in-your-eyes/1473244284"
+  },
+  {
+    "ranking": "72",
+    "title": "Luotathan",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/52/9e/62529e4d-cd6b-4ce1-f847-77f6ff6efc37/24UMGIM55894.rgb.jpg/80x80bb.webp",
+    "appleID": "luotathan/1746731643"
+  },
+  {
+    "ranking": "73",
+    "title": "Toive",
+    "artist": "Paula Koivuniemi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/9a/33/a6/9a33a699-f150-3a20-3e8c-3cd123a63952/825646355044.jpg/80x80bb.webp",
+    "appleID": "toive/734441791"
+  },
+  {
+    "ranking": "74",
+    "title": "Kuuletko sä myös sen",
+    "artist": "Diandra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0e/36/c4/0e36c4ee-94e3-faa2-75a6-50c568ed7f9e/00602537196951.rgb.jpg/80x80bb.webp",
+    "appleID": "https://music.apple.com/us/artist/diandra/534191414"
+  },
+  {
+    "ranking": "75",
+    "title": "Piparia piparia",
+    "artist": "Stig",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/8d/7a/e38d7aef-5ad1-0ca1-7b35-7d87d3c381d3/886445138665.jpg/80x80bb.webp",
+    "appleID": "piparia-piparia/1743523702"
+  },
+  {
+    "ranking": "76",
+    "title": "Timeless",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "ranking": "77",
+    "title": "Iha miten vaa",
+    "artist": "Ares",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/28/f5/da28f5f4-1b38-f483-4d36-b941e56d62fe/5021732519085.jpg/80x80bb.webp",
+    "appleID": "iha-miten-vaa/1773128063"
+  },
+  {
+    "ranking": "78",
+    "title": "White Christmas (with Shania Twain)",
+    "artist": "Michael Bublé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/53/0eaf535d-d955-9255-4bb8-aa0fe02fa22a/093624834687.jpg/80x80bb.webp",
+    "appleID": "white-christmas-with-shania-twain/1782947592",
+    "spotifyID": "4buHBCFNm5WvttEDevaj9C",
+    "youtubeID": "30TkClWvT5k"
+  },
+  {
+    "ranking": "79",
+    "title": "Run Rudolph Run",
+    "artist": "Chuck Berry",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/bd/06/03bd06bd-91bd-d8c2-03c4-4930e98742de/06UMGIM18712.rgb.jpg/80x80bb.webp",
+    "appleID": "run-rudolph-run/1443832242",
+    "youtubeID": "YiadNVhaGwk",
+    "spotifyID": "2pnPe4pJtq7689i5ydzvJJ"
+  },
+  {
+    "ranking": "80",
+    "title": "Santa Claus Is Coming to Town",
+    "artist": "Michael Bublé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/53/0eaf535d-d955-9255-4bb8-aa0fe02fa22a/093624834687.jpg/80x80bb.webp",
+    "appleID": "santa-claus-is-coming-to-town/1782947587",
+    "spotifyID": "7Ivelh8N9J25Yj9KKxYj6w",
+    "youtubeID": "R8CBoVc_OMI"
+  },
+  {
+    "ranking": "81",
+    "title": "Sylvian joululaulu",
+    "artist": "Aino Venna",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ad/45/e3/ad45e3ef-68a4-aafe-340f-85697836e709/cover.jpg/80x80bb.webp",
+    "appleID": "sylvian-joululaulu/1173964393"
+  },
+  {
+    "ranking": "82",
+    "title": "Mele Kalikimaka (Merry Christmas)",
+    "artist": "Bing Crosby",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/05/d3/9f05d3bb-c85c-3d87-af68-a82129e86f1f/06UMGIM06377.rgb.jpg/80x80bb.webp",
+    "appleID": "mele-kalikimaka-merry-christmas/1425235224"
+  },
+  {
+    "ranking": "83",
+    "title": "Further",
+    "artist": "Boy Extra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/18/f0/87/18f087b9-d508-b8cc-0651-bd5e315062ae/artwork.jpg/80x80bb.webp",
+    "appleID": "further/1507850279"
+  },
+  {
+    "ranking": "84",
+    "title": "On / Off",
+    "artist": "Averagekidluke",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
+    "appleID": "on-off/1762680743",
+    "spotifyID": "6jRJ1RAvdNxC1TG03VRFVg",
+    "youtubeID": "DFx6wM_FDj0"
+  },
+  {
+    "ranking": "85",
+    "title": "Lightskinboy (feat. Sexmane)",
+    "artist": "Turisti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/17/15/5e1715d3-620b-8859-ce89-d51caf9221e6/5021732381910.jpg/80x80bb.webp",
+    "appleID": "lightskinboy-feat-sexmane/1746314081",
+    "youtubeID": "yOZdA-Qqz94"
+  },
+  {
+    "ranking": "86",
+    "title": "Harmon King",
+    "artist": "We Can Do It",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7f/db/a3/7fdba351-66e1-1d0f-c8cb-fb8e9e0567f6/859726201211_cover.jpg/80x80bb.webp",
+    "appleID": "harmon-king/1370050887"
+  },
+  {
+    "ranking": "87",
+    "title": "High",
+    "artist": "Rollercoaster",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a6/1d/35/a61d35ab-c4ea-963d-dbef-5d90f8d59421/859731898789_cover.jpg/80x80bb.webp",
+    "appleID": "high/1459401560"
+  },
+  {
+    "ranking": "88",
+    "title": "Timanttei",
+    "artist": "Mirella",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/55/be/0d55bef3-3606-8c34-6615-7587a7e51335/23UM1IM65059.rgb.jpg/80x80bb.webp",
+    "appleID": "timanttei/1721431952",
+    "youtubeID": "I4hrPA2a9RI",
+    "spotifyID": "36lT6tdND08VVvv3HwbhZD"
+  },
+  {
+    "ranking": "89",
+    "title": "Rockin' Around the Christmas Tree",
+    "artist": "Mel & Kim",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/52/fd/9a52fdef-34c2-dc9d-8fa4-462c4bb99e8b/17UM1IM53286.rgb.jpg/80x80bb.webp",
+    "appleID": "rockin-around-the-christmas-tree/1445017114",
+    "spotifyID": "5gpImN0eqlucE3a3r121SF"
+  },
+  {
+    "ranking": "90",
+    "title": "Afterlife (Instrumental)",
+    "artist": "Zpace and Time",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b6/ff/42/b6ff4219-bf04-6963-518c-776110b285f0/715235532560.jpg/80x80bb.webp",
+    "appleID": "afterlife-instrumental/1441721517"
+  },
+  {
+    "ranking": "91",
+    "title": "Tonttuparaati (Heinzelmännchens Wachtparade)",
+    "artist": "Laila Kinnunen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/67/1f/6d/mzi.qzdasfyf.jpg/80x80bb.webp",
+    "appleID": "tonttuparaati-heinzelm%C3%A4nnchens-wachtparade/403720271"
+  },
+  {
+    "ranking": "92",
+    "title": "Sydämeeni Joulun Teen",
+    "artist": "Vesa-Matti Loiri",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/77/5f/5d/mzi.scboztql.jpg/80x80bb.webp",
+    "appleID": "syd%C3%A4meeni-joulun-teen/203884919",
+    "youtubeID": "Ki0mVpIs0zE",
+    "spotifyID": "2Kouu3rnDZ5ZVqWtPEAsGo"
+  },
+  {
+    "ranking": "93",
+    "title": "Ain't No Chimneys In the Projects",
+    "artist": "Sharon Jones & The Dap-Kings",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/6a/b4/4b6ab414-4af9-3b21-ec3d-41bbec6a790f/889845404378.jpg/80x80bb.webp",
+    "appleID": "aint-no-chimneys-in-the-projects/1485052422"
+  },
+  {
+    "ranking": "94",
+    "title": "Here Comes Santa Claus (Down Santa Claus Lane)",
+    "artist": "Doris Day",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/80/fb/0a/mzi.xfsqwzrx.jpg/80x80bb.webp",
+    "appleID": "here-comes-santa-claus-down-santa-claus-lane/186748283"
+  },
+  {
+    "ranking": "95",
+    "title": "Mousea",
+    "artist": "Reacher",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cc/29/1d/cc291d8b-68dd-3722-61ca-5396448008fe/5059366932345_cover.jpg/80x80bb.webp",
+    "appleID": "mousea/1473167881"
+  },
+  {
+    "ranking": "96",
+    "title": "(There's No Place Like) Home for the Holidays (1954 Version)",
+    "artist": "Perry Como",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/60/40/70604079-333d-3122-4c15-06acf2d421f9/886444694179.jpg/80x80bb.webp",
+    "appleID": "theres-no-place-like-home-for-the-holidays-1954-version/919420123"
+  },
+  {
+    "ranking": "97",
+    "title": "That’s So True",
+    "artist": "Gracie Abrams",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+    "appleID": "thats-so-true/1773474483",
+    "youtubeID": "BDHM8cyJQa8",
+    "spotifyID": "7ne4VBA60CxGM75vw0EYad"
+  },
+  {
+    "ranking": "98",
+    "title": "Valkea Joulu - White Christmas",
+    "artist": "Annikki Tähti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/19/88/69/1988693e-1144-f204-2bf4-d4714bef2e91/825646676750.jpg/80x80bb.webp",
+    "appleID": "valkea-joulu-white-christmas/862146948"
+  },
+  {
+    "ranking": "99",
+    "title": "Joulupukin Maa",
+    "artist": "Eini",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/45/ea/cf/mzi.dgoydytw.jpg/80x80bb.webp",
+    "appleID": "joulupukin-maa/203891339"
+  },
+  {
+    "ranking": "100",
+    "title": "I'll Be Home For Christmas",
+    "artist": "Michael Bublé",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
+    "appleID": "ill-be-home-for-christmas/669854848",
+    "spotifyID": "0GyXfYRuvG9nt71zF99SER"
+  }
 ]
