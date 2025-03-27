@@ -1,702 +1,743 @@
 [
-    {
-        "ranking": "1",
-        "title": "Doar La Ea, Ba La Ea",
-        "artist": "Denis Nuca",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/10/4c/9d104cfa-02ba-7431-fb75-beca84edfe0a/cover.jpg/80x80bb.webp",
-        "appleID": "doar-la-ea-ba-la-ea/1799180238"
-    },
-    {
-        "ranking": "2",
-        "title": "Prințesa și lăutarul",
-        "artist": "Lele",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/d5/40/6dd5404d-44d7-642f-f8aa-5b7b07214020/24UMGIM47391.rgb.jpg/80x80bb.webp",
-        "appleID": "prin%C8%9Besa-%C8%99i-l%C4%83utarul/1742790051"
-    },
-    {
-        "ranking": "3",
-        "title": "EVIL J0RDAN",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "evil-j0rdan/1802175276"
-    },
-    {
-        "ranking": "4",
-        "title": "BROTHERZ",
-        "artist": "RAVA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/d9/d3/02d9d3e0-1f40-9f13-9ecd-6c1197fafaa6/cover.jpg/80x80bb.webp",
-        "appleID": "brotherz/1801462575"
-    },
-    {
-        "ranking": "5",
-        "title": "Să nu uiți cât te-am iubit",
-        "artist": "Irina Rimes",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/3f/24/323f24c9-00de-3c0b-6107-5be78e353869/cover.jpg/80x80bb.webp",
-        "appleID": "s%C4%83-nu-ui%C8%9Bi-c%C3%A2t-te-am-iubit/1795745292"
-    },
-    {
-        "ranking": "6",
-        "title": "Lumea toată",
-        "artist": "Erika Isac",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/d8/ee/34d8ee2c-7dfd-a0d4-0dc9-02288d11b106/cover.jpg/80x80bb.webp",
-        "appleID": "lumea-toat%C4%83/1798754883"
-    },
-    {
-        "ranking": "7",
-        "title": "RATHER LIE",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "rather-lie/1802175533"
-    },
-    {
-        "ranking": "8",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
-    },
-    {
-        "ranking": "9",
-        "title": "Trag Aer In Piept (feat. Alberto)",
-        "artist": "Celia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/25/8d/fc258df4-dcde-1044-738d-3433059af5ec/6420565339591.jpg/80x80bb.webp",
-        "appleID": "trag-aer-in-piept-feat-alberto/1555177903"
-    },
-    {
-        "ranking": "10",
-        "title": "Vino să te f",
-        "artist": "Dani Mocanu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/8f/ae/008fae79-5058-224e-f603-1347a96f3181/cover.jpg/80x80bb.webp",
-        "appleID": "vino-s%C4%83-te-f/1783375990"
-    },
-    {
-        "ranking": "11",
-        "title": "TOXIC",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "toxic/1802175536"
-    },
-    {
-        "ranking": "12",
-        "title": "Cry For Me",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "cry-for-me/1793654350"
-    },
-    {
-        "ranking": "13",
-        "title": "Show Me Love",
-        "artist": "WizTheMc",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/17/d2/6717d2e9-4c17-2b43-9f90-5674f3bc6e9f/021865185794.png/80x80bb.webp",
-        "appleID": "show-me-love/1791098133"
-    },
-    {
-        "ranking": "14",
-        "title": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
-    },
-    {
-        "ranking": "15",
-        "title": "São Paulo",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/80x80bb.webp",
-        "appleID": "s%C3%A3o-paulo/1776914757"
-    },
-    {
-        "ranking": "16",
-        "title": "NUEVAYoL",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "nuevayol/1787022572"
-    },
-    {
-        "ranking": "17",
-        "title": "EoO",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "eoo/1787023929"
-    },
-    {
-        "ranking": "18",
-        "title": "Baklava",
-        "artist": "Gya",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/11/40/b9114005-59f9-8fee-0f03-2fd00522a0af/cover.jpg/80x80bb.webp",
-        "appleID": "baklava/1740931886"
-    },
-    {
-        "ranking": "19",
-        "title": "PHILLY",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "philly/1802175284"
-    },
-    {
-        "ranking": "20",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
-    },
-    {
-        "ranking": "21",
-        "title": "Anxiety",
-        "artist": "Doechii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/40/3c/29403c14-83aa-dba0-9f89-e8ff2d039f42/25UMGIM39878.rgb.jpg/80x80bb.webp",
-        "appleID": "anxiety/1800052074"
-    },
-    {
-        "ranking": "22",
-        "title": "GOOD CREDIT",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "good-credit/1802175545"
-    },
-    {
-        "ranking": "23",
-        "title": "PE STRADĂ",
-        "artist": "AlbertNbn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/36/14/4e36140e-0e0a-9874-da1c-7ded35d03ebd/cover.jpg/80x80bb.webp",
-        "appleID": "pe-strad%C4%83/1800794676"
-    },
-    {
-        "ranking": "24",
-        "title": "Bine Ai Venit in Balcani",
-        "artist": "Lele",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/34/f4/3334f4bc-c9e6-d4d9-634c-0c6881c2144f/859769162555_cover.jpg/80x80bb.webp",
-        "appleID": "bine-ai-venit-in-balcani/1662368863"
-    },
-    {
-        "ranking": "25",
-        "title": "DtMF",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "dtmf/1787023936"
-    },
-    {
-        "ranking": "26",
-        "title": "Mercedes",
-        "artist": "Iuly Neamtu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/47/de/9547deff-4ee6-abb7-5ce4-7c9c5a91bcbf/cover.jpg/80x80bb.webp",
-        "appleID": "mercedes/1761817607"
-    },
-    {
-        "ranking": "27",
-        "title": "MOJO JOJO",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "mojo-jojo/1802175278"
-    },
-    {
-        "ranking": "28",
-        "title": "CHARGE DEM HOES A FEE",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "charge-dem-hoes-a-fee/1802175543"
-    },
-    {
-        "ranking": "29",
-        "title": "TRIM",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "trim/1802175553"
-    },
-    {
-        "ranking": "30",
-        "title": "HBA",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "hba/1802175752"
-    },
-    {
-        "ranking": "31",
-        "title": "Păi naa",
-        "artist": "Babasha",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/5c/cf/365ccf24-6dd7-1bb8-218a-c2707fc90769/cover.jpg/80x80bb.webp",
-        "appleID": "p%C4%83i-naa/1749494539"
-    },
-    {
-        "ranking": "32",
-        "title": "WAKE UP F1LTHY",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "wake-up-f1lthy/1802175551"
-    },
-    {
-        "ranking": "33",
-        "title": "Sports car",
-        "artist": "Tate McRae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/8a/29/518a29f3-5915-662a-d861-663e6d0fbfe4/196872648911.jpg/80x80bb.webp",
-        "appleID": "sports-car/1779319634"
-    },
-    {
-        "ranking": "34",
-        "title": "Cu Mine Te Stie Lumea (feat. Kristiyana)",
-        "artist": "Costel Biju",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/e7/2d/dce72dc1-b3d4-b141-fa4f-d48a1f1b4cbe/198001248016.png/80x80bb.webp",
-        "appleID": "cu-mine-te-stie-lumea-feat-kristiyana/1569984488"
-    },
-    {
-        "ranking": "35",
-        "title": "Regele Junglei",
-        "artist": "Dani Mocanu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/ec/8f/e5ec8fd1-ec07-cf4e-7c80-28a41f3f0497/199999138525.png/80x80bb.webp",
-        "appleID": "regele-junglei/1797707418"
-    },
-    {
-        "ranking": "36",
-        "title": "NUMAI FEMEI",
-        "artist": "Adrian Norocel",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/06/da/9006da52-f3d6-1229-ed7b-1e56c1d7c23b/cover.jpg/80x80bb.webp",
-        "appleID": "numai-femei/1631972102"
-    },
-    {
-        "ranking": "37",
-        "title": "Amo, Amo",
-        "artist": "Babasha",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/73/b5/ef73b5e6-e62f-d0d1-9a9d-e8d2eb3896b3/cover.jpg/80x80bb.webp",
-        "appleID": "amo-amo/1754567259"
-    },
-    {
-        "ranking": "38",
-        "title": "CRUSH",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "crush/1802175274"
-    },
-    {
-        "ranking": "39",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
-    },
-    {
-        "ranking": "40",
-        "title": "Am un secret",
-        "artist": "Alessandra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/9e/99/229e9964-0b18-1e75-8cad-1a10faa33dc7/cover.jpg/80x80bb.webp",
-        "appleID": "am-un-secret/1796200114"
-    },
-    {
-        "ranking": "41",
-        "title": "Meneaito (feat. Costel Biju)",
-        "artist": "Tzanca Uraganu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/72/0e/b7720e66-d3b5-30f8-9870-dec9673a49fd/cover.jpg/80x80bb.webp",
-        "appleID": "meneaito-feat-costel-biju/1785641622"
-    },
-    {
-        "ranking": "42",
-        "title": "Ancora",
-        "artist": "The Urs",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/03/9e/a0039ee1-b198-e39e-c133-e4dc989320b6/cover.jpg/80x80bb.webp",
-        "appleID": "ancora/1800221804"
-    },
-    {
-        "ranking": "43",
-        "title": "CRANK",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "crank/1802175541"
-    },
-    {
-        "ranking": "44",
-        "title": "Sugar Daddy",
-        "artist": "Iuly Neamtu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/60/1b/0f601b9c-12b1-483c-9f24-8fd0a9ea985f/cover.jpg/80x80bb.webp",
-        "appleID": "sugar-daddy/1731053033"
-    },
-    {
-        "ranking": "45",
-        "title": "Ma Suni Noaptea",
-        "artist": "Bogdan DLP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/68/9c/9c689c6d-019a-ab7a-3214-c9963c1eb78d/cover.jpg/80x80bb.webp",
-        "appleID": "ma-suni-noaptea/1567560657"
-    },
-    {
-        "ranking": "46",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
-    },
-    {
-        "ranking": "47",
-        "title": "Le vreau, le vreau, le vreau pe ele",
-        "artist": "Copilul De Aur",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/19/75/e61975e7-cae4-3e75-9ea2-9f310e4adf99/cover.jpg/80x80bb.webp",
-        "appleID": "le-vreau-le-vreau-le-vreau-pe-ele/1802160685"
-    },
-    {
-        "ranking": "48",
-        "title": "Winter Ahead",
-        "artist": "V",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
-    },
-    {
-        "ranking": "49",
-        "title": "Hai sa ne iubim ca nemtii",
-        "artist": "Dani Mocanu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/82/4e/ac824e75-bdb0-dede-3969-d8fa03f382e4/cover.jpg/80x80bb.webp",
-        "appleID": "hai-sa-ne-iubim-ca-nemtii/1756129546"
-    },
-    {
-        "ranking": "50",
-        "title": "Merhaba (Stil Turcesc)",
-        "artist": "Denis Ramniceanu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/66/66/cb6666b9-90cc-2e96-0ee4-2883e97c13ec/cover.jpg/80x80bb.webp",
-        "appleID": "merhaba-stil-turcesc/1761326105"
-    },
-    {
-        "ranking": "51",
-        "title": "Nebunia lui Babasha",
-        "artist": "Babasha",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d1/10/24/d110244b-521e-84f7-1a87-ead3257d3cc3/cover.jpg/80x80bb.webp",
-        "appleID": "nebunia-lui-babasha/1733506650"
-    },
-    {
-        "ranking": "52",
-        "title": "K POP",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "k-pop/1802175275"
-    },
-    {
-        "ranking": "53",
-        "title": "Obsesia (feat. Zanni)",
-        "artist": "Bogdan DLP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c2/06/9d/c2069dcb-0df9-8cff-94fc-12b37b220552/cover.jpg/80x80bb.webp",
-        "appleID": "obsesia-feat-zanni/1536744570"
-    },
-    {
-        "ranking": "54",
-        "title": "Kylie Jenner",
-        "artist": "candyboii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/85/9f/62859f27-726f-a5f0-31e9-348398b16a8c/cover.jpg/80x80bb.webp",
-        "appleID": "kylie-jenner/1763258834"
-    },
-    {
-        "ranking": "55",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "appleID": "gata-only/1727813561"
-    },
-    {
-        "ranking": "56",
-        "title": "Amore",
-        "artist": "Iuly Neamtu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/39/79/a5397954-085a-dd25-cc98-baca2172e6a7/cover.jpg/80x80bb.webp",
-        "appleID": "amore/1720179648"
-    },
-    {
-        "ranking": "57",
-        "title": "Alo, mama",
-        "artist": "Babasha",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/ea/2f/12ea2f83-6f18-879d-580d-f93753a31a02/cover.jpg/80x80bb.webp",
-        "appleID": "alo-mama/1790826759"
-    },
-    {
-        "ranking": "58",
-        "title": "Buzele Cu Rosu Inchis",
-        "artist": "Tzanca Uraganu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/e3/d4/e8e3d4f0-cf38-2201-4349-cebc2c42d0f0/cover.jpg/80x80bb.webp",
-        "appleID": "buzele-cu-rosu-inchis/1612803960"
-    },
-    {
-        "ranking": "59",
-        "title": "Messy",
-        "artist": "Lola Young",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
-    },
-    {
-        "ranking": "60",
-        "title": "WE NEED ALL DA VIBES",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "we-need-all-da-vibes/1802175559"
-    },
-    {
-        "ranking": "61",
-        "title": "RADAR",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "radar/1802175532"
-    },
-    {
-        "ranking": "62",
-        "title": "Bad Dreams",
-        "artist": "Teddy Swims",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
-    },
-    {
-        "ranking": "63",
-        "title": "Amantul Tau Fidel",
-        "artist": "Costel Biju",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/6b/42/4c6b4252-2b16-1af9-4fcb-a400f73c5400/859753425918_cover.jpg/80x80bb.webp",
-        "appleID": "amantul-tau-fidel/1607505187"
-    },
-    {
-        "ranking": "64",
-        "title": "Ia-ma Du-ma",
-        "artist": "Babasha",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/a4/aa/ada4aa6e-d170-6810-a695-3a24bc2f871b/cover.jpg/80x80bb.webp",
-        "appleID": "ia-ma-du-ma/1701178945"
-    },
-    {
-        "ranking": "65",
-        "title": "NOKIA",
-        "artist": "Drake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "nokia/1796127375"
-    },
-    {
-        "ranking": "66",
-        "title": "ANGELINA JOLIE",
-        "artist": "NOUA UNSPE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/70/47/35704772-c300-03f6-4847-d686bd8a2c68/cover.jpg/80x80bb.webp",
-        "appleID": "angelina-jolie/1791124341"
-    },
-    {
-        "ranking": "67",
-        "title": "BACKD00R (feat. Kendrick Lamar & Jhené Aiko)",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "backd00r-feat-kendrick-lamar-jhen%C3%A9-aiko/1802175535"
-    },
-    {
-        "ranking": "68",
-        "title": "Parfumul Tau",
-        "artist": "Bogdan DLP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0e/bc/1d/0ebc1d81-d4f4-1b44-5978-9de54ba1d07f/cover.jpg/80x80bb.webp",
-        "appleID": "parfumul-tau/1642397331"
-    },
-    {
-        "ranking": "69",
-        "title": "Abracadabra",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/c9/45/40c94523-abf6-724b-a7a3-24ca0f8c95b0/25UMGIM06790.rgb.jpg/80x80bb.webp",
-        "appleID": "abracadabra/1793869710"
-    },
-    {
-        "ranking": "70",
-        "title": "Type Shit",
-        "artist": "Future",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "type-shit/1737150156"
-    },
-    {
-        "ranking": "71",
-        "title": "HIGHEST IN THE ROOM",
-        "artist": "Travis Scott",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "appleID": "highest-in-the-room/1481874619"
-    },
-    {
-        "ranking": "72",
-        "title": "Fair Trade (feat. Travis Scott)",
-        "artist": "Drake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
-        "appleID": "fair-trade-feat-travis-scott/1584281493"
-    },
-    {
-        "ranking": "73",
-        "title": "Havana",
-        "artist": "Tzanca Uraganu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d2/24/03/d22403a2-b241-117f-9f55-8941145d138b/cover.jpg/80x80bb.webp",
-        "appleID": "havana/1635772333"
-    },
-    {
-        "ranking": "74",
-        "title": "I Adore You (feat. Daecolm)",
-        "artist": "HUGEL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
-        "appleID": "i-adore-you-feat-daecolm/1756335935"
-    },
-    {
-        "ranking": "75",
-        "title": "E Wow",
-        "artist": "Adrian Norocel",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/03/62/c403622c-fcbb-1687-24a9-7d2ca38e96b3/cover.jpg/80x80bb.webp",
-        "appleID": "e-wow/1770800000"
-    },
-    {
-        "ranking": "76",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
-    },
-    {
-        "ranking": "77",
-        "title": "FINE SHIT",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "fine-shit/1802175534"
-    },
-    {
-        "ranking": "78",
-        "title": "El chapo",
-        "artist": "Dani Mocanu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/3d/73/203d7350-05ce-3678-2b26-d5af01735556/cover.jpg/80x80bb.webp",
-        "appleID": "el-chapo/1720228536"
-    },
-    {
-        "ranking": "79",
-        "title": "goosebumps",
-        "artist": "Travis Scott",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
-        "appleID": "goosebumps/1150135924"
-    },
-    {
-        "ranking": "80",
-        "title": "How Does It Feel To Be Forgotten",
-        "artist": "Selena Gomez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/05/65/23056516-0ba3-97d6-b1be-55e5d1bd209b/25UMGIM10095.rgb.jpg/80x80bb.webp",
-        "appleID": "how-does-it-feel-to-be-forgotten/1795151528"
-    },
-    {
-        "ranking": "81",
-        "title": "Te vreau",
-        "artist": "Lele",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/c8/f6/4ec8f613-7443-f0ec-6084-2854f9338679/23UM1IM05584.rgb.jpg/80x80bb.webp",
-        "appleID": "te-vreau/1706269371"
-    },
-    {
-        "ranking": "82",
-        "title": "Ordinary",
-        "artist": "Alex Warren",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
-        "appleID": "ordinary/1793663645"
-    },
-    {
-        "ranking": "83",
-        "title": "luther",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
-    },
-    {
-        "ranking": "84",
-        "title": "CUM SE MIȘCĂ (feat. Nosfe & YNY SEBI)",
-        "artist": "RAVA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/44/0d/a5440d99-3bb3-0cfc-9c30-21e9033134d0/cover.jpg/80x80bb.webp",
-        "appleID": "cum-se-mi%C8%99c%C4%83-feat-nosfe-yny-sebi/1611406593"
-    },
-    {
-        "ranking": "85",
-        "title": "Yali, Yali",
-        "artist": "Babasha",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/58/d5/ad58d531-9835-66de-32c1-b98d5370eaa6/cover.jpg/80x80bb.webp",
-        "appleID": "yali-yali/1761325384"
-    },
-    {
-        "ranking": "86",
-        "title": "Bagabonti si Dame",
-        "artist": "Sami G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/3c/6a/8f3c6a29-3fee-fe22-f142-38c833a6f18f/cover.jpg/80x80bb.webp",
-        "appleID": "bagabonti-si-dame/1796369179"
-    },
-    {
-        "ranking": "87",
-        "title": "Ebal (From “Romina VTM” The Movie)",
-        "artist": "Bogdan DLP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/9f/f5/699ff5af-9f01-c128-bd60-e8e8fb831428/cover.jpg/80x80bb.webp",
-        "appleID": "ebal-from-romina-vtm-the-movie/1656661346"
-    },
-    {
-        "ranking": "88",
-        "title": "Revolving door",
-        "artist": "Tate McRae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/8a/29/518a29f3-5915-662a-d861-663e6d0fbfe4/196872648911.jpg/80x80bb.webp",
-        "appleID": "revolving-door/1779319626"
-    },
-    {
-        "ranking": "89",
-        "title": "O Noapte in Medellin",
-        "artist": "Lele",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/69/33/1469335a-8238-1bd2-045e-3152887dac3d/859763196792_cover.jpg/80x80bb.webp",
-        "appleID": "o-noapte-in-medellin/1631723275"
-    },
-    {
-        "ranking": "90",
-        "title": "A venit poliția (From \"Candidatul perfect\" The Movie)",
-        "artist": "Theo Rose",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c6/6c/cec66c83-db8e-3f7e-4830-d8dff710bb92/cover.jpg/80x80bb.webp",
-        "appleID": "a-venit-poli%C8%9Bia-from-candidatul-perfect-the-movie/1772034093"
-    },
-    {
-        "ranking": "91",
-        "title": "VOY A LLeVARTE PA PR",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "voy-a-llevarte-pa-pr/1787022587"
-    },
-    {
-        "ranking": "92",
-        "title": "Bagabond Asa Ma Vrea",
-        "artist": "Tzanca Uraganu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/0f/7d/5c0f7d0a-77f1-2795-4b44-e9e9d9b4f8be/cover.jpg/80x80bb.webp",
-        "appleID": "bagabond-asa-ma-vrea/1612638773"
-    },
-    {
-        "ranking": "93",
-        "title": "Vreau",
-        "artist": "Sami G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/97/27/119727b4-33f6-e8e0-6616-5bbbc57e2a9d/cover.jpg/80x80bb.webp",
-        "appleID": "vreau/1774463706"
-    },
-    {
-        "ranking": "94",
-        "title": "Skinny",
-        "artist": "Jador",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/eb/d3/ff/ebd3ffde-3cb4-2e73-a4cc-07f1d128ec0e/cover.jpg/80x80bb.webp",
-        "appleID": "skinny/1668144583"
-    },
-    {
-        "ranking": "95",
-        "title": "Dancing In The Flames",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
-    },
-    {
-        "ranking": "96",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
-    },
-    {
-        "ranking": "97",
-        "title": "POP OUT",
-        "artist": "Playboi Carti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
-        "appleID": "pop-out/1802175272"
-    },
-    {
-        "ranking": "98",
-        "title": "Move",
-        "artist": "Adam Port",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
-        "appleID": "move/1749043132"
-    },
-    {
-        "ranking": "99",
-        "title": "Test Drive",
-        "artist": "Iuly Neamtu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/33/d2/7133d2d1-5173-6df5-ca7e-cac46164c06b/cover.jpg/80x80bb.webp",
-        "appleID": "test-drive/1645878667"
-    },
-    {
-        "ranking": "100",
-        "title": "Like That",
-        "artist": "Future",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "like-that/1737150439"
-    }
+  {
+    "ranking": "1",
+    "title": "Doar La Ea, Ba La Ea",
+    "artist": "Denis Nuca",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/10/4c/9d104cfa-02ba-7431-fb75-beca84edfe0a/cover.jpg/80x80bb.webp",
+    "appleID": "doar-la-ea-ba-la-ea/1799180238"
+  },
+  {
+    "ranking": "2",
+    "title": "Prințesa și lăutarul",
+    "artist": "Lele",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/d5/40/6dd5404d-44d7-642f-f8aa-5b7b07214020/24UMGIM47391.rgb.jpg/80x80bb.webp",
+    "appleID": "prin%C8%9Besa-%C8%99i-l%C4%83utarul/1742790051"
+  },
+  {
+    "ranking": "3",
+    "title": "EVIL J0RDAN",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "evil-j0rdan/1802175276",
+    "youtubeID": "VcRc2DHHhoM"
+  },
+  {
+    "ranking": "4",
+    "title": "BROTHERZ",
+    "artist": "RAVA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/d9/d3/02d9d3e0-1f40-9f13-9ecd-6c1197fafaa6/cover.jpg/80x80bb.webp",
+    "appleID": "brotherz/1801462575"
+  },
+  {
+    "ranking": "5",
+    "title": "Să nu uiți cât te-am iubit",
+    "artist": "Irina Rimes",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/3f/24/323f24c9-00de-3c0b-6107-5be78e353869/cover.jpg/80x80bb.webp",
+    "appleID": "s%C4%83-nu-ui%C8%9Bi-c%C3%A2t-te-am-iubit/1795745292",
+    "youtubeID": "nftFq9WFyZY"
+  },
+  {
+    "ranking": "6",
+    "title": "Lumea toată",
+    "artist": "Erika Isac",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/d8/ee/34d8ee2c-7dfd-a0d4-0dc9-02288d11b106/cover.jpg/80x80bb.webp",
+    "appleID": "lumea-toat%C4%83/1798754883"
+  },
+  {
+    "ranking": "7",
+    "title": "RATHER LIE",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "rather-lie/1802175533"
+  },
+  {
+    "ranking": "8",
+    "title": "Timeless",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "ranking": "9",
+    "title": "Trag Aer In Piept (feat. Alberto)",
+    "artist": "Celia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/25/8d/fc258df4-dcde-1044-738d-3433059af5ec/6420565339591.jpg/80x80bb.webp",
+    "appleID": "trag-aer-in-piept-feat-alberto/1555177903",
+    "youtubeID": "X4aEnz7zPlo"
+  },
+  {
+    "ranking": "10",
+    "title": "Vino să te f",
+    "artist": "Dani Mocanu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/8f/ae/008fae79-5058-224e-f603-1347a96f3181/cover.jpg/80x80bb.webp",
+    "appleID": "vino-s%C4%83-te-f/1783375990",
+    "youtubeID": "o23xEQZBd8M"
+  },
+  {
+    "ranking": "11",
+    "title": "TOXIC",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "toxic/1802175536"
+  },
+  {
+    "ranking": "12",
+    "title": "Cry For Me",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
+    "appleID": "cry-for-me/1793654350",
+    "youtubeID": "bn8gP5N8hqM"
+  },
+  {
+    "ranking": "13",
+    "title": "Show Me Love",
+    "artist": "WizTheMc",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/17/d2/6717d2e9-4c17-2b43-9f90-5674f3bc6e9f/021865185794.png/80x80bb.webp",
+    "appleID": "show-me-love/1791098133"
+  },
+  {
+    "ranking": "14",
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+    "appleID": "not-like-us/1744776167",
+    "youtubeID": "H58vbez_m4E"
+  },
+  {
+    "ranking": "15",
+    "title": "São Paulo",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/80x80bb.webp",
+    "appleID": "s%C3%A3o-paulo/1776914757",
+    "youtubeID": "2kjolTLZ_Mg"
+  },
+  {
+    "ranking": "16",
+    "title": "NUEVAYoL",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "nuevayol/1787022572",
+    "youtubeID": "zAfrPjTvSNs"
+  },
+  {
+    "ranking": "17",
+    "title": "EoO",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "eoo/1787023929",
+    "youtubeID": "myDIeOjqQos"
+  },
+  {
+    "ranking": "18",
+    "title": "Baklava",
+    "artist": "Gya",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/11/40/b9114005-59f9-8fee-0f03-2fd00522a0af/cover.jpg/80x80bb.webp",
+    "appleID": "baklava/1740931886"
+  },
+  {
+    "ranking": "19",
+    "title": "PHILLY",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "philly/1802175284"
+  },
+  {
+    "ranking": "20",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c"
+  },
+  {
+    "ranking": "21",
+    "title": "Anxiety",
+    "artist": "Doechii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/40/3c/29403c14-83aa-dba0-9f89-e8ff2d039f42/25UMGIM39878.rgb.jpg/80x80bb.webp",
+    "appleID": "anxiety/1800052074",
+    "youtubeID": "egemoVK0IKY"
+  },
+  {
+    "ranking": "22",
+    "title": "GOOD CREDIT",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "good-credit/1802175545"
+  },
+  {
+    "ranking": "23",
+    "title": "PE STRADĂ",
+    "artist": "AlbertNbn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/36/14/4e36140e-0e0a-9874-da1c-7ded35d03ebd/cover.jpg/80x80bb.webp",
+    "appleID": "pe-strad%C4%83/1800794676"
+  },
+  {
+    "ranking": "24",
+    "title": "Bine Ai Venit in Balcani",
+    "artist": "Lele",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/34/f4/3334f4bc-c9e6-d4d9-634c-0c6881c2144f/859769162555_cover.jpg/80x80bb.webp",
+    "appleID": "bine-ai-venit-in-balcani/1662368863",
+    "youtubeID": "XEzXzQC60ZY"
+  },
+  {
+    "ranking": "25",
+    "title": "DtMF",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "dtmf/1787023936",
+    "youtubeID": "v9T_MGfzq7I"
+  },
+  {
+    "ranking": "26",
+    "title": "Mercedes",
+    "artist": "Iuly Neamtu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/47/de/9547deff-4ee6-abb7-5ce4-7c9c5a91bcbf/cover.jpg/80x80bb.webp",
+    "appleID": "mercedes/1761817607"
+  },
+  {
+    "ranking": "27",
+    "title": "MOJO JOJO",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "mojo-jojo/1802175278",
+    "youtubeID": "w5U7hemoc28"
+  },
+  {
+    "ranking": "28",
+    "title": "CHARGE DEM HOES A FEE",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "charge-dem-hoes-a-fee/1802175543"
+  },
+  {
+    "ranking": "29",
+    "title": "TRIM",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "trim/1802175553"
+  },
+  {
+    "ranking": "30",
+    "title": "HBA",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "hba/1802175752"
+  },
+  {
+    "ranking": "31",
+    "title": "Păi naa",
+    "artist": "Babasha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/5c/cf/365ccf24-6dd7-1bb8-218a-c2707fc90769/cover.jpg/80x80bb.webp",
+    "appleID": "p%C4%83i-naa/1749494539"
+  },
+  {
+    "ranking": "32",
+    "title": "WAKE UP F1LTHY",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "wake-up-f1lthy/1802175551"
+  },
+  {
+    "ranking": "33",
+    "title": "Sports car",
+    "artist": "Tate McRae",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/8a/29/518a29f3-5915-662a-d861-663e6d0fbfe4/196872648911.jpg/80x80bb.webp",
+    "appleID": "sports-car/1779319634",
+    "youtubeID": "7InTkBxPtK4"
+  },
+  {
+    "ranking": "34",
+    "title": "Cu Mine Te Stie Lumea (feat. Kristiyana)",
+    "artist": "Costel Biju",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/e7/2d/dce72dc1-b3d4-b141-fa4f-d48a1f1b4cbe/198001248016.png/80x80bb.webp",
+    "appleID": "cu-mine-te-stie-lumea-feat-kristiyana/1569984488"
+  },
+  {
+    "ranking": "35",
+    "title": "Regele Junglei",
+    "artist": "Dani Mocanu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/ec/8f/e5ec8fd1-ec07-cf4e-7c80-28a41f3f0497/199999138525.png/80x80bb.webp",
+    "appleID": "regele-junglei/1797707418",
+    "youtubeID": "6-eyN2rgNHA"
+  },
+  {
+    "ranking": "36",
+    "title": "NUMAI FEMEI",
+    "artist": "Adrian Norocel",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/06/da/9006da52-f3d6-1229-ed7b-1e56c1d7c23b/cover.jpg/80x80bb.webp",
+    "appleID": "numai-femei/1631972102",
+    "youtubeID": "49uSrJgJaHs"
+  },
+  {
+    "ranking": "37",
+    "title": "Amo, Amo",
+    "artist": "Babasha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/73/b5/ef73b5e6-e62f-d0d1-9a9d-e8d2eb3896b3/cover.jpg/80x80bb.webp",
+    "appleID": "amo-amo/1754567259"
+  },
+  {
+    "ranking": "38",
+    "title": "CRUSH",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "crush/1802175274"
+  },
+  {
+    "ranking": "39",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221"
+  },
+  {
+    "ranking": "40",
+    "title": "Am un secret",
+    "artist": "Alessandra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/9e/99/229e9964-0b18-1e75-8cad-1a10faa33dc7/cover.jpg/80x80bb.webp",
+    "appleID": "am-un-secret/1796200114"
+  },
+  {
+    "ranking": "41",
+    "title": "Meneaito (feat. Costel Biju)",
+    "artist": "Tzanca Uraganu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/72/0e/b7720e66-d3b5-30f8-9870-dec9673a49fd/cover.jpg/80x80bb.webp",
+    "appleID": "meneaito-feat-costel-biju/1785641622",
+    "youtubeID": "b1cXgCFOiaE"
+  },
+  {
+    "ranking": "42",
+    "title": "Ancora",
+    "artist": "The Urs",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/03/9e/a0039ee1-b198-e39e-c133-e4dc989320b6/cover.jpg/80x80bb.webp",
+    "appleID": "ancora/1800221804",
+    "youtubeID": "i3qdTmfM-cE"
+  },
+  {
+    "ranking": "43",
+    "title": "CRANK",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "crank/1802175541"
+  },
+  {
+    "ranking": "44",
+    "title": "Sugar Daddy",
+    "artist": "Iuly Neamtu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/60/1b/0f601b9c-12b1-483c-9f24-8fd0a9ea985f/cover.jpg/80x80bb.webp",
+    "appleID": "sugar-daddy/1731053033"
+  },
+  {
+    "ranking": "45",
+    "title": "Ma Suni Noaptea",
+    "artist": "Bogdan DLP",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/68/9c/9c689c6d-019a-ab7a-3214-c9963c1eb78d/cover.jpg/80x80bb.webp",
+    "appleID": "ma-suni-noaptea/1567560657"
+  },
+  {
+    "ranking": "46",
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "wildflower/1739659144",
+    "youtubeID": "IWKyykQBRKo"
+  },
+  {
+    "ranking": "47",
+    "title": "Le vreau, le vreau, le vreau pe ele",
+    "artist": "Copilul De Aur",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/19/75/e61975e7-cae4-3e75-9ea2-9f310e4adf99/cover.jpg/80x80bb.webp",
+    "appleID": "le-vreau-le-vreau-le-vreau-pe-ele/1802160685"
+  },
+  {
+    "ranking": "48",
+    "title": "Winter Ahead",
+    "artist": "V",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
+    "appleID": "winter-ahead/1780285815",
+    "youtubeID": "HAWYOuMGkK0"
+  },
+  {
+    "ranking": "49",
+    "title": "Hai sa ne iubim ca nemtii",
+    "artist": "Dani Mocanu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/82/4e/ac824e75-bdb0-dede-3969-d8fa03f382e4/cover.jpg/80x80bb.webp",
+    "appleID": "hai-sa-ne-iubim-ca-nemtii/1756129546",
+    "youtubeID": "NYuBwlEWWm0"
+  },
+  {
+    "ranking": "50",
+    "title": "Merhaba (Stil Turcesc)",
+    "artist": "Denis Ramniceanu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/66/66/cb6666b9-90cc-2e96-0ee4-2883e97c13ec/cover.jpg/80x80bb.webp",
+    "appleID": "merhaba-stil-turcesc/1761326105"
+  },
+  {
+    "ranking": "51",
+    "title": "Nebunia lui Babasha",
+    "artist": "Babasha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d1/10/24/d110244b-521e-84f7-1a87-ead3257d3cc3/cover.jpg/80x80bb.webp",
+    "appleID": "nebunia-lui-babasha/1733506650"
+  },
+  {
+    "ranking": "52",
+    "title": "K POP",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "k-pop/1802175275",
+    "youtubeID": "d14JwYJBotw"
+  },
+  {
+    "ranking": "53",
+    "title": "Obsesia (feat. Zanni)",
+    "artist": "Bogdan DLP",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c2/06/9d/c2069dcb-0df9-8cff-94fc-12b37b220552/cover.jpg/80x80bb.webp",
+    "appleID": "obsesia-feat-zanni/1536744570"
+  },
+  {
+    "ranking": "54",
+    "title": "Kylie Jenner",
+    "artist": "candyboii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/85/9f/62859f27-726f-a5f0-31e9-348398b16a8c/cover.jpg/80x80bb.webp",
+    "appleID": "kylie-jenner/1763258834"
+  },
+  {
+    "ranking": "55",
+    "title": "Gata Only",
+    "artist": "FloyyMenor",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+    "appleID": "gata-only/1727813561"
+  },
+  {
+    "ranking": "56",
+    "title": "Amore",
+    "artist": "Iuly Neamtu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/39/79/a5397954-085a-dd25-cc98-baca2172e6a7/cover.jpg/80x80bb.webp",
+    "appleID": "amore/1720179648"
+  },
+  {
+    "ranking": "57",
+    "title": "Alo, mama",
+    "artist": "Babasha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/ea/2f/12ea2f83-6f18-879d-580d-f93753a31a02/cover.jpg/80x80bb.webp",
+    "appleID": "alo-mama/1790826759"
+  },
+  {
+    "ranking": "58",
+    "title": "Buzele Cu Rosu Inchis",
+    "artist": "Tzanca Uraganu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/e3/d4/e8e3d4f0-cf38-2201-4349-cebc2c42d0f0/cover.jpg/80x80bb.webp",
+    "appleID": "buzele-cu-rosu-inchis/1612803960"
+  },
+  {
+    "ranking": "59",
+    "title": "Messy",
+    "artist": "Lola Young",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
+    "appleID": "messy/1743250261",
+    "youtubeID": "k-k2_Liofy8"
+  },
+  {
+    "ranking": "60",
+    "title": "WE NEED ALL DA VIBES",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "we-need-all-da-vibes/1802175559"
+  },
+  {
+    "ranking": "61",
+    "title": "RADAR",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "radar/1802175532"
+  },
+  {
+    "ranking": "62",
+    "title": "Bad Dreams",
+    "artist": "Teddy Swims",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+    "appleID": "bad-dreams/1765799904",
+    "youtubeID": "Qh8QwVYOSVU"
+  },
+  {
+    "ranking": "63",
+    "title": "Amantul Tau Fidel",
+    "artist": "Costel Biju",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/6b/42/4c6b4252-2b16-1af9-4fcb-a400f73c5400/859753425918_cover.jpg/80x80bb.webp",
+    "appleID": "amantul-tau-fidel/1607505187"
+  },
+  {
+    "ranking": "64",
+    "title": "Ia-ma Du-ma",
+    "artist": "Babasha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/a4/aa/ada4aa6e-d170-6810-a695-3a24bc2f871b/cover.jpg/80x80bb.webp",
+    "appleID": "ia-ma-du-ma/1701178945"
+  },
+  {
+    "ranking": "65",
+    "title": "NOKIA",
+    "artist": "Drake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "nokia/1796127375",
+    "youtubeID": "UWyFj-TD9-M"
+  },
+  {
+    "ranking": "66",
+    "title": "ANGELINA JOLIE",
+    "artist": "NOUA UNSPE",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/70/47/35704772-c300-03f6-4847-d686bd8a2c68/cover.jpg/80x80bb.webp",
+    "appleID": "angelina-jolie/1791124341"
+  },
+  {
+    "ranking": "67",
+    "title": "BACKD00R (feat. Kendrick Lamar & Jhené Aiko)",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "backd00r-feat-kendrick-lamar-jhen%C3%A9-aiko/1802175535",
+    "youtubeID": "4LgZZVGvEyE"
+  },
+  {
+    "ranking": "68",
+    "title": "Parfumul Tau",
+    "artist": "Bogdan DLP",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0e/bc/1d/0ebc1d81-d4f4-1b44-5978-9de54ba1d07f/cover.jpg/80x80bb.webp",
+    "appleID": "parfumul-tau/1642397331"
+  },
+  {
+    "ranking": "69",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/c9/45/40c94523-abf6-724b-a7a3-24ca0f8c95b0/25UMGIM06790.rgb.jpg/80x80bb.webp",
+    "appleID": "abracadabra/1793869710",
+    "youtubeID": "vBynw9Isr28"
+  },
+  {
+    "ranking": "70",
+    "title": "Type Shit",
+    "artist": "Future",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+    "appleID": "type-shit/1737150156"
+  },
+  {
+    "ranking": "71",
+    "title": "HIGHEST IN THE ROOM",
+    "artist": "Travis Scott",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+    "appleID": "highest-in-the-room/1481874619"
+  },
+  {
+    "ranking": "72",
+    "title": "Fair Trade (feat. Travis Scott)",
+    "artist": "Drake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+    "appleID": "fair-trade-feat-travis-scott/1584281493"
+  },
+  {
+    "ranking": "73",
+    "title": "Havana",
+    "artist": "Tzanca Uraganu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d2/24/03/d22403a2-b241-117f-9f55-8941145d138b/cover.jpg/80x80bb.webp",
+    "appleID": "havana/1635772333"
+  },
+  {
+    "ranking": "74",
+    "title": "I Adore You (feat. Daecolm)",
+    "artist": "HUGEL",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+    "appleID": "i-adore-you-feat-daecolm/1756335935"
+  },
+  {
+    "ranking": "75",
+    "title": "E Wow",
+    "artist": "Adrian Norocel",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/03/62/c403622c-fcbb-1687-24a9-7d2ca38e96b3/cover.jpg/80x80bb.webp",
+    "appleID": "e-wow/1770800000",
+    "youtubeID": "Pdzef5gqubg"
+  },
+  {
+    "ranking": "76",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "birds-of-a-feather/1739659142",
+    "youtubeID": "V9PVRfjEBTI"
+  },
+  {
+    "ranking": "77",
+    "title": "FINE SHIT",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "fine-shit/1802175534",
+    "youtubeID": "5dT4Chowfag"
+  },
+  {
+    "ranking": "78",
+    "title": "El chapo",
+    "artist": "Dani Mocanu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/3d/73/203d7350-05ce-3678-2b26-d5af01735556/cover.jpg/80x80bb.webp",
+    "appleID": "el-chapo/1720228536"
+  },
+  {
+    "ranking": "79",
+    "title": "goosebumps",
+    "artist": "Travis Scott",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
+    "appleID": "goosebumps/1150135924"
+  },
+  {
+    "ranking": "80",
+    "title": "How Does It Feel To Be Forgotten",
+    "artist": "Selena Gomez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/05/65/23056516-0ba3-97d6-b1be-55e5d1bd209b/25UMGIM10095.rgb.jpg/80x80bb.webp",
+    "appleID": "how-does-it-feel-to-be-forgotten/1795151528"
+  },
+  {
+    "ranking": "81",
+    "title": "Te vreau",
+    "artist": "Lele",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/c8/f6/4ec8f613-7443-f0ec-6084-2854f9338679/23UM1IM05584.rgb.jpg/80x80bb.webp",
+    "appleID": "te-vreau/1706269371"
+  },
+  {
+    "ranking": "82",
+    "title": "Ordinary",
+    "artist": "Alex Warren",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+    "appleID": "ordinary/1793663645",
+    "youtubeID": "u2ah9tWTkmk"
+  },
+  {
+    "ranking": "83",
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+    "appleID": "luther/1781270323",
+    "youtubeID": "4_taypLmSMU"
+  },
+  {
+    "ranking": "84",
+    "title": "CUM SE MIȘCĂ (feat. Nosfe & YNY SEBI)",
+    "artist": "RAVA",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/44/0d/a5440d99-3bb3-0cfc-9c30-21e9033134d0/cover.jpg/80x80bb.webp",
+    "appleID": "cum-se-mi%C8%99c%C4%83-feat-nosfe-yny-sebi/1611406593"
+  },
+  {
+    "ranking": "85",
+    "title": "Yali, Yali",
+    "artist": "Babasha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/58/d5/ad58d531-9835-66de-32c1-b98d5370eaa6/cover.jpg/80x80bb.webp",
+    "appleID": "yali-yali/1761325384"
+  },
+  {
+    "ranking": "86",
+    "title": "Bagabonti si Dame",
+    "artist": "Sami G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/3c/6a/8f3c6a29-3fee-fe22-f142-38c833a6f18f/cover.jpg/80x80bb.webp",
+    "appleID": "bagabonti-si-dame/1796369179",
+    "youtubeID": "A2efBxpuDLI"
+  },
+  {
+    "ranking": "87",
+    "title": "Ebal (From “Romina VTM” The Movie)",
+    "artist": "Bogdan DLP",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/9f/f5/699ff5af-9f01-c128-bd60-e8e8fb831428/cover.jpg/80x80bb.webp",
+    "appleID": "ebal-from-romina-vtm-the-movie/1656661346"
+  },
+  {
+    "ranking": "88",
+    "title": "Revolving door",
+    "artist": "Tate McRae",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/8a/29/518a29f3-5915-662a-d861-663e6d0fbfe4/196872648911.jpg/80x80bb.webp",
+    "appleID": "revolving-door/1779319626",
+    "youtubeID": "rwlFWWGaZ5Y"
+  },
+  {
+    "ranking": "89",
+    "title": "O Noapte in Medellin",
+    "artist": "Lele",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/69/33/1469335a-8238-1bd2-045e-3152887dac3d/859763196792_cover.jpg/80x80bb.webp",
+    "appleID": "o-noapte-in-medellin/1631723275"
+  },
+  {
+    "ranking": "90",
+    "title": "A venit poliția (From \"Candidatul perfect\" The Movie)",
+    "artist": "Theo Rose",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c6/6c/cec66c83-db8e-3f7e-4830-d8dff710bb92/cover.jpg/80x80bb.webp",
+    "appleID": "a-venit-poli%C8%9Bia-from-candidatul-perfect-the-movie/1772034093",
+    "youtubeID": "BnG6AXPNbco"
+  },
+  {
+    "ranking": "91",
+    "title": "VOY A LLeVARTE PA PR",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "voy-a-llevarte-pa-pr/1787022587",
+    "youtubeID": "X2MGCIDOMZ4"
+  },
+  {
+    "ranking": "92",
+    "title": "Bagabond Asa Ma Vrea",
+    "artist": "Tzanca Uraganu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/0f/7d/5c0f7d0a-77f1-2795-4b44-e9e9d9b4f8be/cover.jpg/80x80bb.webp",
+    "appleID": "bagabond-asa-ma-vrea/1612638773"
+  },
+  {
+    "ranking": "93",
+    "title": "Vreau",
+    "artist": "Sami G",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/97/27/119727b4-33f6-e8e0-6616-5bbbc57e2a9d/cover.jpg/80x80bb.webp",
+    "appleID": "vreau/1774463706",
+    "youtubeID": "bU4-CGxCXNM"
+  },
+  {
+    "ranking": "94",
+    "title": "Skinny",
+    "artist": "Jador",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/eb/d3/ff/ebd3ffde-3cb4-2e73-a4cc-07f1d128ec0e/cover.jpg/80x80bb.webp",
+    "appleID": "skinny/1668144583"
+  },
+  {
+    "ranking": "95",
+    "title": "Dancing In The Flames",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+    "appleID": "dancing-in-the-flames/1767511513"
+  },
+  {
+    "ranking": "96",
+    "title": "CHIHIRO",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "chihiro/1739659141",
+    "youtubeID": "BY_XwvKogC8"
+  },
+  {
+    "ranking": "97",
+    "title": "POP OUT",
+    "artist": "Playboi Carti",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/24/10/03241047-f22d-7e64-3932-6df7550acc42/25UMGIM46212.rgb.jpg/80x80bb.webp",
+    "appleID": "pop-out/1802175272",
+    "youtubeID": "-V_GygtBQJo"
+  },
+  {
+    "ranking": "98",
+    "title": "Move",
+    "artist": "Adam Port",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
+    "appleID": "move/1749043132"
+  },
+  {
+    "ranking": "99",
+    "title": "Test Drive",
+    "artist": "Iuly Neamtu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/33/d2/7133d2d1-5173-6df5-ca7e-cac46164c06b/cover.jpg/80x80bb.webp",
+    "appleID": "test-drive/1645878667"
+  },
+  {
+    "ranking": "100",
+    "title": "Like That",
+    "artist": "Future",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+    "appleID": "like-that/1737150439"
+  }
 ]

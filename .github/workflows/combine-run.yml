@@ -1,10 +1,10 @@
 name: Run Combine Scripts
 
 on:
-  push:
-    branches: ['main']
-  pull_request:
-    branches: ['main']
+  # push:
+  #   branches: ['main']
+  # pull_request:
+  #   branches: ['main']
   schedule:
     - cron: '0 20 * * *' # UTC 20:00 → 한국시간(KST) 05:00
 
