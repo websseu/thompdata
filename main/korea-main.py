@@ -2,6 +2,8 @@ import os
 import json
 from datetime import datetime
 
+# korea 서비스마다 1위~10위까지 추출하여 정리
+
 # 🎯 기본 설정 (폴더 경로 맞추기)
 base_folder = "main"  # 실행되는 폴더
 korea_folder = "korea"  # "korea" 폴더는 main과 같은 레벨에 존재
