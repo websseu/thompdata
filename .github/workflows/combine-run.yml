@@ -47,6 +47,9 @@ jobs:
       - name: Run combine-youtube3.py
         run: python combine/combine-youtube3.py
 
+      - name: Run combine-youtube4.py
+        run: python combine/combine-youtube4.py
+
       # 6. 변경된 파일 확인 후 커밋 및 푸시
       - name: Commit and Push Changes
         run: |

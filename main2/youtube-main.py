@@ -3,9 +3,9 @@ import json
 from datetime import datetime
 
 # 🎯 기본 설정 (폴더 경로 맞추기)
-base_folder = "main"  # 실행되는 폴더
-korea_folder = "korea"  # "korea" 폴더는 main과 같은 레벨에 존재
-platforms = ["bugs", "flo", "genie", "melon", "vibe"]  # 지원하는 플랫폼
+base_folder = "main2"  # 실행되는 폴더
+youtube_folder = "youtube"  # "youtube" 폴더는 main2과 같은 레벨에 존재
+platforms = ["argentina", "australia", "austria", "belgium", "bolivia"]  # 지원하는 플랫폼
 
 # 📅 오늘 날짜 가져오기 (YYYY-MM-DD 형식)
 # today = datetime.today().strftime("%Y-%m-%d")  # ex) 2024-03-04
@@ -16,7 +16,7 @@ def process_date(date_str):
     combined_data = {}  # 날짜별 데이터 저장
 
     for platform in platforms:
-        platform_folder = os.path.join(korea_folder, platform)  # 플랫폼 폴더 경로
+        platform_folder = os.path.join(youtube_folder, platform)  # 플랫폼 폴더 경로
         json_file = os.path.join(platform_folder, f"{platform}Top100_{date_str}.json")
 
         # JSON 파일이 존재하는지 확인
@@ -31,8 +31,10 @@ def process_date(date_str):
 
             # 리스트 형태인지 확인 후 TOP 10 추출
             if isinstance(data, list):
-                top_10 = data[:10]  # 상위 10개 곡만 저장
-                # 각 곡에서 원하는 키만 추출
+                # 상위 10개 곡만 가져오기
+                top_10 = data[:10]
+
+                # title, artist, image, youtubeID만 필터링
                 filtered_top_10 = []
                 for item in top_10:
                     filtered_item = {
@@ -42,6 +44,7 @@ def process_date(date_str):
                         "youtubeID": item.get("youtubeID", "")
                     }
                     filtered_top_10.append(filtered_item)
+
                 combined_data[platform] = filtered_top_10
             else:
                 print(f"⚠️ {platform} - {date_str} JSON 형식이 잘못되었습니다.")
@@ -49,8 +52,8 @@ def process_date(date_str):
         except json.JSONDecodeError:
             print(f"❌ {platform} - {date_str} JSON 파싱 오류 발생!")
 
-    # 결과 파일 저장 (main 폴더에 korea-main_YYYY-MM-DD.json 생성)
-    output_file = os.path.join(base_folder, f"korea-main_{date_str}.json")
+    # 결과 파일 저장 (main 폴더에 youtube-main_YYYY-MM-DD.json 생성)
+    output_file = os.path.join(base_folder, f"youtube-main_{date_str}.json")
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(combined_data, f, ensure_ascii=False, indent=2)
 

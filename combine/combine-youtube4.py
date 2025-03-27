@@ -2,6 +2,8 @@ import os
 import json
 import re
 
+# 4. main에 korea-main 파일에 youtubeID 추가
+
 def clean_text(text):
     return re.sub(r"\s*\([^)]*\)", "", text).strip().lower()
 
