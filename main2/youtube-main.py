@@ -10,8 +10,8 @@ youtube_folder = "youtube"  # "youtube" 폴더는 main2과 같은 레벨에 존�
 platforms = ["argentina", "australia", "austria", "belgium", "bolivia", "brazil", "canada", "chile", "colombia", "costa-rica", "czechia", "denmark", "dominican_republic", "ecuador", "egypt", "el-salvador", "estonia", "finland", "france", "germany", "guatemala", "honduras", "hungary", "iceland", "india", "indonesia", "israel", "italy", "japan", "kenya", "luxembourg", "mexico", "netherlands", "new-zealand", "nicaragua", "nigeria", "norway", "panama", "paraguay", "peru", "poland", "portugal", "romania", "russia", "saudi-arabia", "serbia", "south-africa", "south-korea", "spain", "sweden", "switzerland", "tanzania", "turkey", "uganda", "ukraine", "united-arab-emirates", "united-kingdom", "united-states", "uruguay", "zimbabwe"]  
 
 # 📅 오늘 날짜 가져오기 (YYYY-MM-DD 형식)
-# today = datetime.today().strftime("%Y-%m-%d")  # ex) 2024-03-04
-today = "2025-03-26"
+today = datetime.today().strftime("%Y-%m-%d")
+# today = "2025-03-26"
 
 # 🔹 날짜별 JSON 파일을 처리하는 함수
 def process_date(date_str):
