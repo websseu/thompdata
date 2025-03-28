@@ -38,17 +38,25 @@ jobs:
           pip install -r requirements.txt || pip install requests beautifulsoup4 lxml pandas selenium webdriver_manager
 
       # 5. 스크립트 실행
+      # 1. 유튜브 데이터 통합
       - name: Run combine-youtube1.py
-        run: python combine/combine-youtube1.py
+        run: python3 combine/combine-youtube1.py
 
+      # 2. Korea 파일과 비교 후 youtubeID 추가
       - name: Run combine-youtube2.py
-        run: python combine/combine-youtube2.py
+        run: python3 combine/combine-youtube2.py
 
+      # 3. Apple 파일과 비교 후 youtubeID 추가
       - name: Run combine-youtube3.py
-        run: python combine/combine-youtube3.py
+        run: python3 combine/combine-youtube3.py
 
-      - name: Run combine-youtube4.py
-        run: python combine/combine-youtube4.py
+      # 4. korea 파일 1위~10위까지 추출하여 정리
+      - name: Run korea-main.py
+        run: python3 main/korea-main.py
+
+      # 5. youtube 파일 1위~10위까지 추출하여 정리
+      - name: Run youtube-main.py
+        run: python3 main2/youtube-main.py
 
       # 6. 변경된 파일 확인 후 커밋 및 푸시
       - name: Commit and Push Changes

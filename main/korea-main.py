@@ -10,8 +10,8 @@ korea_folder = "korea"  # "korea" 폴더는 main과 같은 레벨에 존재
 platforms = ["bugs", "flo", "genie", "melon", "vibe"]  # 지원하는 플랫폼
 
 # 📅 오늘 날짜 가져오기 (YYYY-MM-DD 형식)
-today = datetime.today().strftime("%Y-%m-%d") 
-# today = "2025-03-26"
+# today = datetime.today().strftime("%Y-%m-%d") 
+today = "2025-03-01"
 
 # 🔹 날짜별 JSON 파일을 처리하는 함수
 def process_date(date_str):

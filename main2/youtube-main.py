@@ -11,7 +11,7 @@ platforms = ["argentina", "australia", "austria", "belgium", "bolivia", "brazil"
 
 # 📅 오늘 날짜 가져오기 (YYYY-MM-DD 형식)
 today = datetime.today().strftime("%Y-%m-%d")
-# today = "2025-03-26"
+# today = "2025-03-01"
 
 # 🔹 날짜별 JSON 파일을 처리하는 함수
 def process_date(date_str):
