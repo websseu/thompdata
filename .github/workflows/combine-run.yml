@@ -61,6 +61,6 @@ jobs:
       # 6. 변경된 파일 확인 후 커밋 및 푸시
       - name: Commit and Push Changes
         run: |
-          git add combine/combine-youtube.json korea/*.json
+          git add combine/*.json korea/*.json apple/*.json youtube/*.json main/*.json main2/*.json
           git commit -m "Combine Update JSON - $(date +"%Y-%m-%d")" || echo "No changes to commit"
           git push origin main
