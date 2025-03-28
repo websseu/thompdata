@@ -2,7 +2,7 @@ import os
 import json
 from datetime import datetime
 
-# korea 서비스마다 1위~10위까지 추출하여 정리
+# korea 서비스마다 1위~20위까지 추출하여 정리
 
 # 🎯 기본 설정 (폴더 경로 맞추기)
 base_folder = "main"  # 실행되는 폴더
@@ -11,7 +11,7 @@ platforms = ["bugs", "flo", "genie", "melon", "vibe"]  # 지원하는 플랫폼
 
 # 📅 오늘 날짜 가져오기 (YYYY-MM-DD 형식)
 today = datetime.today().strftime("%Y-%m-%d") 
-# today = "2025-03-27"
+# today = "2025-03-20"
 
 # 🔹 날짜별 JSON 파일을 처리하는 함수
 def process_date(date_str):
@@ -31,20 +31,20 @@ def process_date(date_str):
             with open(json_file, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
-            # 리스트 형태인지 확인 후 TOP 10 추출
+            # 리스트 형태인지 확인 후 TOP 20 추출
             if isinstance(data, list):
-                top_10 = data[:10]  # 상위 10개 곡만 저장
+                top_20 = data[:20]  # 상위 20개 곡만 저장
                 # 각 곡에서 원하는 키만 추출
-                filtered_top_10 = []
-                for item in top_10:
+                filtered_top_20 = []
+                for item in top_20:
                     filtered_item = {
                         "title": item.get("title", ""),
                         "artist": item.get("artist", ""),
                         "image": item.get("image", ""),
                         "youtubeID": item.get("youtubeID", "")
                     }
-                    filtered_top_10.append(filtered_item)
-                combined_data[platform] = filtered_top_10
+                    filtered_top_20.append(filtered_item)
+                combined_data[platform] = filtered_top_20
             else:
                 print(f"⚠️ {platform} - {date_str} JSON 형식이 잘못되었습니다.")
 
