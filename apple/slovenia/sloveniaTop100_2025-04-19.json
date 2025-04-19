@@ -1,702 +1,740 @@
 [
-    {
-        "ranking": "1",
-        "title": "Tajland",
-        "artist": "Rasta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/c5/5e/ccc55ea7-1ce0-3139-781f-50f715325639/cover.jpg/80x80bb.webp",
-        "appleID": "tajland/1802668686"
-    },
-    {
-        "ranking": "2",
-        "title": "BLAKA BLAKA",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
-        "appleID": "blaka-blaka/1787038508"
-    },
-    {
-        "ranking": "3",
-        "title": "Dumdum",
-        "artist": "Klijent",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/3b/12/823b12a5-c842-d6ac-5744-1ef6f35f5084/cover_4062851134712.jpg/80x80bb.webp",
-        "appleID": "dumdum/1806064613"
-    },
-    {
-        "ranking": "4",
-        "title": "Ciganka",
-        "artist": "Trile",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/b9/6b/dfb96b49-fead-3e2e-1c38-db520b5673e5/cover_4062851110730.jpg/80x80bb.webp",
-        "appleID": "ciganka/1793140284"
-    },
-    {
-        "ranking": "5",
-        "title": "Ordinary",
-        "artist": "Alex Warren",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
-        "appleID": "ordinary/1793663645"
-    },
-    {
-        "ranking": "6",
-        "title": "BASS",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
-        "appleID": "bass/1787038384"
-    },
-    {
-        "ranking": "7",
-        "title": "Harizmatika",
-        "artist": "Rasta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/9c/e8/f19ce8b1-8a11-0680-a2ca-e5ec6c5c88b4/cover.jpg/80x80bb.webp",
-        "appleID": "harizmatika/1787455176"
-    },
-    {
-        "ranking": "8",
-        "title": "Au",
-        "artist": "Biba",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/31/13/693113a3-b912-7116-8d67-1349b6a97bf0/cover.jpg/80x80bb.webp",
-        "appleID": "au/1804983565"
-    },
-    {
-        "ranking": "9",
-        "title": "Forza",
-        "artist": "Grše",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ec/18/62ec1883-aac6-1a1b-8808-c8a79fab5201/cover.jpg/80x80bb.webp",
-        "appleID": "forza/1751269959"
-    },
-    {
-        "ranking": "10",
-        "title": "SEXDRIVE",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
-        "appleID": "sexdrive/1787038510"
-    },
-    {
-        "ranking": "11",
-        "title": "Automatti",
-        "artist": "Nucci",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/d5/c7/b6d5c70f-3361-4df7-1a00-267552f7219e/8600525083346.jpg/80x80bb.webp",
-        "appleID": "automatti/1770874282"
-    },
-    {
-        "ranking": "12",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
-    },
-    {
-        "ranking": "13",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
-    },
-    {
-        "ranking": "14",
-        "title": "Ona'e",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/6a/ac/b06aac1d-e7a6-dcd9-1594-1c8485849496/1887.jpg/80x80bb.webp",
-        "appleID": "onae/1782147766"
-    },
-    {
-        "ranking": "15",
-        "title": "Anđeo (From \"Sram\")",
-        "artist": "Miach",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/cc/b1/dbccb1a9-dc6d-c371-4106-3d4b0217e5c5/cover.jpg/80x80bb.webp",
-        "appleID": "an%C4%91eo-from-sram/1776033580"
-    },
-    {
-        "ranking": "16",
-        "title": "KEHLANI",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
-        "appleID": "kehlani/1787038504"
-    },
-    {
-        "ranking": "17",
-        "title": "99",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/11/86/b011869b-845e-15c2-3b96-14767d387e1c/5248.jpg/80x80bb.webp",
-        "appleID": "99/1782161991"
-    },
-    {
-        "ranking": "18",
-        "title": "Irina Shayk",
-        "artist": "Buba Corelli",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/ed/20/46ed20cb-28e5-f1dc-e291-add7f456ce41/1275.jpg/80x80bb.webp",
-        "appleID": "irina-shayk/1782145496"
-    },
-    {
-        "ranking": "19",
-        "title": "Messy",
-        "artist": "Lola Young",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
-    },
-    {
-        "ranking": "20",
-        "title": "Bez Koda",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/42/75/96427505-7355-66ad-3ca6-c346dc3cc379/1078.jpg/80x80bb.webp",
-        "appleID": "bez-koda/1782139510"
-    },
-    {
-        "ranking": "21",
-        "title": "Prava Ljubav",
-        "artist": "Luka Nižetić",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/63/55/a9/6355a9b9-93d0-8c67-30db-9f6b8e581aa1/cover.jpg/80x80bb.webp",
-        "appleID": "prava-ljubav/1418289430"
-    },
-    {
-        "ranking": "22",
-        "title": "That’s So True",
-        "artist": "Gracie Abrams",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
-    },
-    {
-        "ranking": "23",
-        "title": "Padam",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/64/fd/0064fdc0-112c-a7df-2e0a-3f7190a341a9/4715.jpg/80x80bb.webp",
-        "appleID": "padam/1782159798"
-    },
-    {
-        "ranking": "24",
-        "title": "AMGVSQ7AUDI",
-        "artist": "Rasta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/c6/5b/b5c65b87-4f18-583b-d99a-346b22cede8b/cover.jpg/80x80bb.webp",
-        "appleID": "amgvsq7audi/1757695503"
-    },
-    {
-        "ranking": "25",
-        "title": "Localo",
-        "artist": "Nucci",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/cc/32/51cc32d0-3c47-4368-edca-ae7d5b7eb454/8600525070797.jpg/80x80bb.webp",
-        "appleID": "localo/1770864308"
-    },
-    {
-        "ranking": "26",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
-    },
-    {
-        "ranking": "27",
-        "title": "NOKIA",
-        "artist": "Drake",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
-        "appleID": "nokia/1796127375"
-    },
-    {
-        "ranking": "28",
-        "title": "VRATI JE TATI",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
-        "appleID": "vrati-je-tati/1787038500"
-    },
-    {
-        "ranking": "29",
-        "title": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
-    },
-    {
-        "ranking": "30",
-        "title": "Karantin",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/3b/e1/c43be137-9938-a7c3-ddb0-ef211811c03d/2370.jpg/80x80bb.webp",
-        "appleID": "karantin/1782150258"
-    },
-    {
-        "ranking": "31",
-        "title": "Abracadabra",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/c9/45/40c94523-abf6-724b-a7a3-24ca0f8c95b0/25UMGIM06790.rgb.jpg/80x80bb.webp",
-        "appleID": "abracadabra/1793869710"
-    },
-    {
-        "ranking": "32",
-        "title": "Vvs",
-        "artist": "Voyage",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/d8/92/13d892fd-9113-2956-a10a-b827ec2eb571/11676.jpg/80x80bb.webp",
-        "appleID": "vvs/1757146222"
-    },
-    {
-        "ranking": "33",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
-    },
-    {
-        "ranking": "34",
-        "title": "Fantazija (feat. Miach)",
-        "artist": "Grše",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ef/45/da/ef45dad2-4891-83df-e102-dbb6a7cae9e3/cover.jpg/80x80bb.webp",
-        "appleID": "fantazija-feat-miach/1728309796"
-    },
-    {
-        "ranking": "35",
-        "title": "Djerdan",
-        "artist": "Nucci",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/7e/68/f87e6879-4542-436c-a913-cc5cb3e6e6a7/cover.jpg/80x80bb.webp",
-        "appleID": "djerdan/1657017712"
-    },
-    {
-        "ranking": "36",
-        "title": "Tango",
-        "artist": "Voyage",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/97/4a/33974ab2-b6aa-d899-3658-d493b600010f/9419.jpg/80x80bb.webp",
-        "appleID": "tango/1628769460"
-    },
-    {
-        "ranking": "37",
-        "title": "Vroom",
-        "artist": "Nucci",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/18/bc/db18bc5d-369a-72d2-ce9d-728b6b5bc377/8600525024288.jpg/80x80bb.webp",
-        "appleID": "vroom/1770860976"
-    },
-    {
-        "ranking": "38",
-        "title": "Tu Tu Tu (feat. Breskvica)",
-        "artist": "Devito",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
-        "appleID": "tu-tu-tu-feat-breskvica/1738428783"
-    },
-    {
-        "ranking": "39",
-        "title": "Anxiety",
-        "artist": "Doechii",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/1a/e2/aa1ae273-7eba-74ea-29fd-b98776cc8251/25UMGIM39878.rgb.jpg/80x80bb.webp",
-        "appleID": "anxiety/1800052074"
-    },
-    {
-        "ranking": "40",
-        "title": "Palme",
-        "artist": "Ano",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/0b/8b/750b8b2b-be0e-cfc1-cc3c-56ae40f2fc6e/cover_4062851038386.jpg/80x80bb.webp",
-        "appleID": "palme/1763361982"
-    },
-    {
-        "ranking": "41",
-        "title": "Roze",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/31/0e/1e310ede-9f6e-258d-73e7-70b59c13eb7d/810.jpg/80x80bb.webp",
-        "appleID": "roze/1782138954"
-    },
-    {
-        "ranking": "42",
-        "title": "Zatvaranje",
-        "artist": "Elena",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/c3/f0/d7c3f001-6873-92e5-a5df-09412f087145/cover.jpg/80x80bb.webp",
-        "appleID": "zatvaranje/1798225253"
-    },
-    {
-        "ranking": "43",
-        "title": "Mangio Pasta",
-        "artist": "Peki",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/6c/07/1d6c0700-5f09-6134-e1d7-f9e8e6bd2032/cover.jpg/80x80bb.webp",
-        "appleID": "mangio-pasta/1739818936"
-    },
-    {
-        "ranking": "44",
-        "title": "Voice",
-        "artist": "Nucci",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
-        "appleID": "voice/1771842504"
-    },
-    {
-        "ranking": "45",
-        "title": "Kamikaza",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/e0/27/eee027f4-21bc-698b-968a-92dd06e669cd/4168.jpg/80x80bb.webp",
-        "appleID": "kamikaza/1782158144"
-    },
-    {
-        "ranking": "46",
-        "title": "Ankaran",
-        "artist": "Hiljson Mandela",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/24/b9/8324b94b-413a-4e97-0e4b-878ad5ff7bc1/cover.jpg/80x80bb.webp",
-        "appleID": "ankaran/1746127179"
-    },
-    {
-        "ranking": "47",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
-    },
-    {
-        "ranking": "48",
-        "title": "Cocctel",
-        "artist": "Desingerica",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/e6/d9/e7e6d94a-9999-ac83-2cc4-3b47a7696b38/13380.jpg/80x80bb.webp",
-        "appleID": "cocctel/1803914331"
-    },
-    {
-        "ranking": "49",
-        "title": "Bad Dreams",
-        "artist": "Teddy Swims",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
-    },
-    {
-        "ranking": "50",
-        "title": "O.d.d.d.",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/11/86/b011869b-845e-15c2-3b96-14767d387e1c/5248.jpg/80x80bb.webp",
-        "appleID": "o-d-d-d/1782161731"
-    },
-    {
-        "ranking": "51",
-        "title": "Mamma Mia",
-        "artist": "Grše",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/28/46/2728465b-b119-8645-1c77-cfaa9559df30/cover.jpg/80x80bb.webp",
-        "appleID": "mamma-mia/1682031746"
-    },
-    {
-        "ranking": "52",
-        "title": "Beautiful Things",
-        "artist": "Benson Boone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
-    },
-    {
-        "ranking": "53",
-        "title": "Zove Vienna",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/11/86/b011869b-845e-15c2-3b96-14767d387e1c/5248.jpg/80x80bb.webp",
-        "appleID": "zove-vienna/1782162000"
-    },
-    {
-        "ranking": "54",
-        "title": "Ceo Fazon (feat. Nucci)",
-        "artist": "Biba",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/31/13/693113a3-b912-7116-8d67-1349b6a97bf0/cover.jpg/80x80bb.webp",
-        "appleID": "ceo-fazon-feat-nucci/1804983564"
-    },
-    {
-        "ranking": "55",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
-    },
-    {
-        "ranking": "56",
-        "title": "Mamuran",
-        "artist": "Connect",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/0c/7e/180c7e53-a4db-8ca7-1865-885b170d8e29/3624.jpg/80x80bb.webp",
-        "appleID": "mamuran/1578156929"
-    },
-    {
-        "ranking": "57",
-        "title": "Sports car",
-        "artist": "Tate McRae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/8a/29/518a29f3-5915-662a-d861-663e6d0fbfe4/196872648911.jpg/80x80bb.webp",
-        "appleID": "sports-car/1779319634"
-    },
-    {
-        "ranking": "58",
-        "title": "Ceo Svet",
-        "artist": "Nucci",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
-        "appleID": "ceo-svet/1771842526"
-    },
-    {
-        "ranking": "59",
-        "title": "Svemir (feat. INAS)",
-        "artist": "Devito",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
-        "appleID": "svemir-feat-inas/1738429149"
-    },
-    {
-        "ranking": "60",
-        "title": "NINAO",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/9b/4c/0f9b4ce6-918a-9057-040e-85950cc438df/cover.jpg/80x80bb.webp",
-        "appleID": "ninao/1797518241"
-    },
-    {
-        "ranking": "61",
-        "title": "Kavali",
-        "artist": "Rasta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d5/4a/8fd54ae6-541e-eea8-e7fe-db46b3c9f30b/cover.jpg/80x80bb.webp",
-        "appleID": "kavali/1755400669"
-    },
-    {
-        "ranking": "62",
-        "title": "Hollywood (feat. Rasta)",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/42/75/96427505-7355-66ad-3ca6-c346dc3cc379/1078.jpg/80x80bb.webp",
-        "appleID": "hollywood-feat-rasta/1782139509"
-    },
-    {
-        "ranking": "63",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
-    },
-    {
-        "ranking": "64",
-        "title": "Nova Godina (feat. Amna)",
-        "artist": "Biba",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/31/13/693113a3-b912-7116-8d67-1349b6a97bf0/cover.jpg/80x80bb.webp",
-        "appleID": "nova-godina-feat-amna/1804983578"
-    },
-    {
-        "ranking": "65",
-        "title": "Samo Jako (feat. Coby & Stoja)",
-        "artist": "Relja",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/e7/1b/35e71b18-bc78-bf43-d74e-36fa1c706f4b/5418.jpg/80x80bb.webp",
-        "appleID": "samo-jako-feat-coby-stoja/1578173679"
-    },
-    {
-        "ranking": "66",
-        "title": "Pilula",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/0d/e3/e90de3b8-6ff5-041e-2572-36938236c905/3447.jpg/80x80bb.webp",
-        "appleID": "pilula/1782155142"
-    },
-    {
-        "ranking": "67",
-        "title": "Martini",
-        "artist": "Henny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/a4/63/c1a4638c-00c1-06bf-64b4-499580a84410/8600525076072.jpg/80x80bb.webp",
-        "appleID": "martini/1770864512"
-    },
-    {
-        "ranking": "68",
-        "title": "Sigue",
-        "artist": "Beny Jr",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/49/37/6c4937f0-3fab-d1d8-ba4e-b95cc81b5249/8445162639651.jpg/80x80bb.webp",
-        "appleID": "sigue/1616813414"
-    },
-    {
-        "ranking": "69",
-        "title": "Da Raskinem Sa Njom",
-        "artist": "Ceca",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/ed/40/19ed4022-87a3-6882-d48a-dc49ffbcc2ce/cover.jpg/80x80bb.webp",
-        "appleID": "da-raskinem-sa-njom/1595919103"
-    },
-    {
-        "ranking": "70",
-        "title": "Divljam",
-        "artist": "Buba Corelli",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/a3/b1/14a3b1ab-531f-5aad-577d-648cf94e6a76/4326.jpg/80x80bb.webp",
-        "appleID": "divljam/1782158383"
-    },
-    {
-        "ranking": "71",
-        "title": "Zmijsko Tijelo",
-        "artist": "Inas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/6a/16/f86a1675-b2eb-51ac-51a5-8f6d59f9d7df/cover_4061707072369.jpg/80x80bb.webp",
-        "appleID": "zmijsko-tijelo/1574892046"
-    },
-    {
-        "ranking": "72",
-        "title": "Limun",
-        "artist": "Rasta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/68/a3/3668a35c-4dac-c7bc-2c36-aaac7e140c59/cover.jpg/80x80bb.webp",
-        "appleID": "limun/1755400658"
-    },
-    {
-        "ranking": "73",
-        "title": "KINGSTON",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
-        "appleID": "kingston/1787038515"
-    },
-    {
-        "ranking": "74",
-        "title": "Delija",
-        "artist": "SENIDAH",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/7d/fe/267dfef7-2817-db4f-4252-27ac59463950/cover.jpg/80x80bb.webp",
-        "appleID": "delija/1743482487"
-    },
-    {
-        "ranking": "75",
-        "title": "DtMF",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "dtmf/1787023936"
-    },
-    {
-        "ranking": "76",
-        "title": "Dan & Noc",
-        "artist": "Rasta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/c9/13/86c913cb-055d-bb86-214e-e9dfb2510cd0/cover.jpg/80x80bb.webp",
-        "appleID": "dan-noc/1758080831"
-    },
-    {
-        "ranking": "77",
-        "title": "Gad",
-        "artist": "Voyage",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b9/35/37b9358c-d4ff-6a81-0f85-5c69687c921c/11943.jpg/80x80bb.webp",
-        "appleID": "gad/1622341342"
-    },
-    {
-        "ranking": "78",
-        "title": "Nikad Dosta (feat. Sara Jo)",
-        "artist": "Biba",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/31/13/693113a3-b912-7116-8d67-1349b6a97bf0/cover.jpg/80x80bb.webp",
-        "appleID": "nikad-dosta-feat-sara-jo/1804983581"
-    },
-    {
-        "ranking": "79",
-        "title": "Taste",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079"
-    },
-    {
-        "ranking": "80",
-        "title": "HI HI - HA HA (feat. Biba & Devito)",
-        "artist": "Nucci",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
-        "appleID": "hi-hi-ha-ha-feat-biba-devito/1771842254"
-    },
-    {
-        "ranking": "81",
-        "title": "Bebi",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/ec/94/9eec94cc-424c-437b-b479-9446ee7d4b63/3271.jpg/80x80bb.webp",
-        "appleID": "bebi/1782154833"
-    },
-    {
-        "ranking": "82",
-        "title": "undressed",
-        "artist": "sombr",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/80x80bb.webp",
-        "appleID": "undressed/1802084938"
-    },
-    {
-        "ranking": "83",
-        "title": "Ljubavi Moja (feat. Dado Polumenta)",
-        "artist": "Elitni Odredi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/76/c9/ab/76c9abbb-5b7e-1f25-46e0-d2bd77b2dec4/5877.jpg/80x80bb.webp",
-        "appleID": "ljubavi-moja-feat-dado-polumenta/1578161232"
-    },
-    {
-        "ranking": "84",
-        "title": "100%",
-        "artist": "SENIDAH",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/c2/37/d6c237a4-b08c-9836-e607-4ff5863f313c/cover.jpg/80x80bb.webp",
-        "appleID": "100/1489621000"
-    },
-    {
-        "ranking": "85",
-        "title": "Hotel",
-        "artist": "Rasta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/96/42/d0964299-735b-7078-fbdf-e770d1a8e158/cover.jpg/80x80bb.webp",
-        "appleID": "hotel/1755400371"
-    },
-    {
-        "ranking": "86",
-        "title": "Bebe",
-        "artist": "Devito",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/f1/c5/60f1c523-ac87-658d-bb65-d73f5361eb69/cover.jpg/80x80bb.webp",
-        "appleID": "bebe/1738412731"
-    },
-    {
-        "ranking": "87",
-        "title": "Omadjijala",
-        "artist": "Devito",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/75/a3/5275a301-ed9f-eca7-66a3-747e4f395410/cover.jpg/80x80bb.webp",
-        "appleID": "omadjijala/1738450490"
-    },
-    {
-        "ranking": "88",
-        "title": "Revolving door",
-        "artist": "Tate McRae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/8a/29/518a29f3-5915-662a-d861-663e6d0fbfe4/196872648911.jpg/80x80bb.webp",
-        "appleID": "revolving-door/1779319626"
-    },
-    {
-        "ranking": "89",
-        "title": "Autogram",
-        "artist": "Ceca",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/06/51/6906517f-9530-3a2c-1d07-a64b807a9a05/cover.jpg/80x80bb.webp",
-        "appleID": "autogram/1594273924"
-    },
-    {
-        "ranking": "90",
-        "title": "Baraba",
-        "artist": "Zera",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/9d/59/5c9d5905-0d15-7cea-2814-c5c166dba346/8600525077604.jpg/80x80bb.webp",
-        "appleID": "baraba/1770863267"
-    },
-    {
-        "ranking": "91",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "appleID": "gata-only/1727813561"
-    },
-    {
-        "ranking": "92",
-        "title": "Tokyo Drift (feat. Mimi Mercedez)",
-        "artist": "Grše",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/3a/25/a73a25bd-9399-a166-e5c2-cfbc357cf002/cover.jpg/80x80bb.webp",
-        "appleID": "tokyo-drift-feat-mimi-mercedez/1729883244"
-    },
-    {
-        "ranking": "93",
-        "title": "Libar",
-        "artist": "Gibonni",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/fa/ac/f6faac1a-a963-3837-dbdd-0583e87e1f14/cover.jpg/80x80bb.webp",
-        "appleID": "libar/979226032"
-    },
-    {
-        "ranking": "94",
-        "title": "Htela Je Da Zna (feat. Relja)",
-        "artist": "Devito",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
-        "appleID": "htela-je-da-zna-feat-relja/1738428780"
-    },
-    {
-        "ranking": "95",
-        "title": "Cry For Me",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "cry-for-me/1793654350"
-    },
-    {
-        "ranking": "96",
-        "title": "S TABO RES RAD",
-        "artist": "Modrijani",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5a/4c/0c/5a4c0cd4-237f-53de-ae7b-eaa5e503948f/cover.jpg/80x80bb.webp",
-        "appleID": "s-tabo-res-rad/1702045119"
-    },
-    {
-        "ranking": "97",
-        "title": "Lose Control",
-        "artist": "Teddy Swims",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
-    },
-    {
-        "ranking": "98",
-        "title": "BLUR",
-        "artist": "Jala Brat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
-        "appleID": "blur/1787038551"
-    },
-    {
-        "ranking": "99",
-        "title": "Play Hard (feat. Ne-Yo & Akon)",
-        "artist": "David Guetta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/af/50/7daf504b-a2dc-a4dd-ee9d-5ca9094a1679/5059460202825.jpg/80x80bb.webp",
-        "appleID": "play-hard-feat-ne-yo-akon/1688187513"
-    },
-    {
-        "ranking": "100",
-        "title": "Mi Amor",
-        "artist": "Relja",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/87/2c/86872ce9-022f-e5b8-6a5d-6ec6ab999bd8/2693.jpg/80x80bb.webp",
-        "appleID": "mi-amor/1578173329"
-    }
+  {
+    "ranking": "1",
+    "title": "Tajland",
+    "artist": "Rasta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/c5/5e/ccc55ea7-1ce0-3139-781f-50f715325639/cover.jpg/80x80bb.webp",
+    "appleID": "tajland/1802668686",
+    "youtubeID": "UjR2j2Rrkt0"
+  },
+  {
+    "ranking": "2",
+    "title": "BLAKA BLAKA",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
+    "appleID": "blaka-blaka/1787038508"
+  },
+  {
+    "ranking": "3",
+    "title": "Dumdum",
+    "artist": "Klijent",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/3b/12/823b12a5-c842-d6ac-5744-1ef6f35f5084/cover_4062851134712.jpg/80x80bb.webp",
+    "appleID": "dumdum/1806064613"
+  },
+  {
+    "ranking": "4",
+    "title": "Ciganka",
+    "artist": "Trile",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/b9/6b/dfb96b49-fead-3e2e-1c38-db520b5673e5/cover_4062851110730.jpg/80x80bb.webp",
+    "appleID": "ciganka/1793140284",
+    "youtubeID": "AT4j4uo5t6o"
+  },
+  {
+    "ranking": "5",
+    "title": "Ordinary",
+    "artist": "Alex Warren",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+    "appleID": "ordinary/1793663645",
+    "youtubeID": "u2ah9tWTkmk"
+  },
+  {
+    "ranking": "6",
+    "title": "BASS",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
+    "appleID": "bass/1787038384"
+  },
+  {
+    "ranking": "7",
+    "title": "Harizmatika",
+    "artist": "Rasta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/9c/e8/f19ce8b1-8a11-0680-a2ca-e5ec6c5c88b4/cover.jpg/80x80bb.webp",
+    "appleID": "harizmatika/1787455176",
+    "youtubeID": "q5KZgqqOmec"
+  },
+  {
+    "ranking": "8",
+    "title": "Au",
+    "artist": "Biba",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/31/13/693113a3-b912-7116-8d67-1349b6a97bf0/cover.jpg/80x80bb.webp",
+    "appleID": "au/1804983565",
+    "youtubeID": "4Fs3d9xilPA"
+  },
+  {
+    "ranking": "9",
+    "title": "Forza",
+    "artist": "Grše",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ec/18/62ec1883-aac6-1a1b-8808-c8a79fab5201/cover.jpg/80x80bb.webp",
+    "appleID": "forza/1751269959",
+    "youtubeID": "-w55SIKYZxc"
+  },
+  {
+    "ranking": "10",
+    "title": "SEXDRIVE",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
+    "appleID": "sexdrive/1787038510"
+  },
+  {
+    "ranking": "11",
+    "title": "Automatti",
+    "artist": "Nucci",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/d5/c7/b6d5c70f-3361-4df7-1a00-267552f7219e/8600525083346.jpg/80x80bb.webp",
+    "appleID": "automatti/1770874282"
+  },
+  {
+    "ranking": "12",
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+    "appleID": "apt/1773452221"
+  },
+  {
+    "ranking": "13",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+    "appleID": "die-with-a-smile/1762656732",
+    "youtubeID": "kPa7bsKwL-c"
+  },
+  {
+    "ranking": "14",
+    "title": "Ona'e",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/6a/ac/b06aac1d-e7a6-dcd9-1594-1c8485849496/1887.jpg/80x80bb.webp",
+    "appleID": "onae/1782147766"
+  },
+  {
+    "ranking": "15",
+    "title": "Anđeo (From \"Sram\")",
+    "artist": "Miach",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/cc/b1/dbccb1a9-dc6d-c371-4106-3d4b0217e5c5/cover.jpg/80x80bb.webp",
+    "appleID": "an%C4%91eo-from-sram/1776033580"
+  },
+  {
+    "ranking": "16",
+    "title": "KEHLANI",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
+    "appleID": "kehlani/1787038504"
+  },
+  {
+    "ranking": "17",
+    "title": "99",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/11/86/b011869b-845e-15c2-3b96-14767d387e1c/5248.jpg/80x80bb.webp",
+    "appleID": "99/1782161991"
+  },
+  {
+    "ranking": "18",
+    "title": "Irina Shayk",
+    "artist": "Buba Corelli",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/ed/20/46ed20cb-28e5-f1dc-e291-add7f456ce41/1275.jpg/80x80bb.webp",
+    "appleID": "irina-shayk/1782145496",
+    "youtubeID": "gaPvNo44spg"
+  },
+  {
+    "ranking": "19",
+    "title": "Messy",
+    "artist": "Lola Young",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
+    "appleID": "messy/1743250261",
+    "youtubeID": "k-k2_Liofy8"
+  },
+  {
+    "ranking": "20",
+    "title": "Bez Koda",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/42/75/96427505-7355-66ad-3ca6-c346dc3cc379/1078.jpg/80x80bb.webp",
+    "appleID": "bez-koda/1782139510"
+  },
+  {
+    "ranking": "21",
+    "title": "Prava Ljubav",
+    "artist": "Luka Nižetić",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/63/55/a9/6355a9b9-93d0-8c67-30db-9f6b8e581aa1/cover.jpg/80x80bb.webp",
+    "appleID": "prava-ljubav/1418289430"
+  },
+  {
+    "ranking": "22",
+    "title": "That’s So True",
+    "artist": "Gracie Abrams",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+    "appleID": "thats-so-true/1773474483",
+    "youtubeID": "BDHM8cyJQa8"
+  },
+  {
+    "ranking": "23",
+    "title": "Padam",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/64/fd/0064fdc0-112c-a7df-2e0a-3f7190a341a9/4715.jpg/80x80bb.webp",
+    "appleID": "padam/1782159798"
+  },
+  {
+    "ranking": "24",
+    "title": "AMGVSQ7AUDI",
+    "artist": "Rasta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/c6/5b/b5c65b87-4f18-583b-d99a-346b22cede8b/cover.jpg/80x80bb.webp",
+    "appleID": "amgvsq7audi/1757695503"
+  },
+  {
+    "ranking": "25",
+    "title": "Localo",
+    "artist": "Nucci",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/cc/32/51cc32d0-3c47-4368-edca-ae7d5b7eb454/8600525070797.jpg/80x80bb.webp",
+    "appleID": "localo/1770864308"
+  },
+  {
+    "ranking": "26",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "birds-of-a-feather/1739659142",
+    "youtubeID": "V9PVRfjEBTI"
+  },
+  {
+    "ranking": "27",
+    "title": "NOKIA",
+    "artist": "Drake",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/10/1e/34101e1f-f4b9-907a-ce47-3fba5b3ee5e8/50222.jpg/80x80bb.webp",
+    "appleID": "nokia/1796127375",
+    "youtubeID": "8ekJMC8OtGU"
+  },
+  {
+    "ranking": "28",
+    "title": "VRATI JE TATI",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
+    "appleID": "vrati-je-tati/1787038500"
+  },
+  {
+    "ranking": "29",
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+    "appleID": "not-like-us/1744776167",
+    "youtubeID": "H58vbez_m4E"
+  },
+  {
+    "ranking": "30",
+    "title": "Karantin",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/3b/e1/c43be137-9938-a7c3-ddb0-ef211811c03d/2370.jpg/80x80bb.webp",
+    "appleID": "karantin/1782150258"
+  },
+  {
+    "ranking": "31",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/c9/45/40c94523-abf6-724b-a7a3-24ca0f8c95b0/25UMGIM06790.rgb.jpg/80x80bb.webp",
+    "appleID": "abracadabra/1793869710",
+    "youtubeID": "vBynw9Isr28"
+  },
+  {
+    "ranking": "32",
+    "title": "Vvs",
+    "artist": "Voyage",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/d8/92/13d892fd-9113-2956-a10a-b827ec2eb571/11676.jpg/80x80bb.webp",
+    "appleID": "vvs/1757146222"
+  },
+  {
+    "ranking": "33",
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "wildflower/1739659144",
+    "youtubeID": "IWKyykQBRKo"
+  },
+  {
+    "ranking": "34",
+    "title": "Fantazija (feat. Miach)",
+    "artist": "Grše",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ef/45/da/ef45dad2-4891-83df-e102-dbb6a7cae9e3/cover.jpg/80x80bb.webp",
+    "appleID": "fantazija-feat-miach/1728309796",
+    "youtubeID": "JjqHECpLLSE"
+  },
+  {
+    "ranking": "35",
+    "title": "Djerdan",
+    "artist": "Nucci",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/7e/68/f87e6879-4542-436c-a913-cc5cb3e6e6a7/cover.jpg/80x80bb.webp",
+    "appleID": "djerdan/1657017712"
+  },
+  {
+    "ranking": "36",
+    "title": "Tango",
+    "artist": "Voyage",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/97/4a/33974ab2-b6aa-d899-3658-d493b600010f/9419.jpg/80x80bb.webp",
+    "appleID": "tango/1628769460"
+  },
+  {
+    "ranking": "37",
+    "title": "Vroom",
+    "artist": "Nucci",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/18/bc/db18bc5d-369a-72d2-ce9d-728b6b5bc377/8600525024288.jpg/80x80bb.webp",
+    "appleID": "vroom/1770860976"
+  },
+  {
+    "ranking": "38",
+    "title": "Tu Tu Tu (feat. Breskvica)",
+    "artist": "Devito",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
+    "appleID": "tu-tu-tu-feat-breskvica/1738428783",
+    "youtubeID": "ssMkC5JYbIE"
+  },
+  {
+    "ranking": "39",
+    "title": "Anxiety",
+    "artist": "Doechii",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/1a/e2/aa1ae273-7eba-74ea-29fd-b98776cc8251/25UMGIM39878.rgb.jpg/80x80bb.webp",
+    "appleID": "anxiety/1800052074",
+    "youtubeID": "egemoVK0IKY"
+  },
+  {
+    "ranking": "40",
+    "title": "Palme",
+    "artist": "Ano",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/0b/8b/750b8b2b-be0e-cfc1-cc3c-56ae40f2fc6e/cover_4062851038386.jpg/80x80bb.webp",
+    "appleID": "palme/1763361982"
+  },
+  {
+    "ranking": "41",
+    "title": "Roze",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/31/0e/1e310ede-9f6e-258d-73e7-70b59c13eb7d/810.jpg/80x80bb.webp",
+    "appleID": "roze/1782138954"
+  },
+  {
+    "ranking": "42",
+    "title": "Zatvaranje",
+    "artist": "Elena",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/c3/f0/d7c3f001-6873-92e5-a5df-09412f087145/cover.jpg/80x80bb.webp",
+    "appleID": "zatvaranje/1798225253"
+  },
+  {
+    "ranking": "43",
+    "title": "Mangio Pasta",
+    "artist": "Peki",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/6c/07/1d6c0700-5f09-6134-e1d7-f9e8e6bd2032/cover.jpg/80x80bb.webp",
+    "appleID": "mangio-pasta/1739818936"
+  },
+  {
+    "ranking": "44",
+    "title": "Voice",
+    "artist": "Nucci",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+    "appleID": "voice/1771842504",
+    "youtubeID": "rS9pEB3LgI8"
+  },
+  {
+    "ranking": "45",
+    "title": "Kamikaza",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/e0/27/eee027f4-21bc-698b-968a-92dd06e669cd/4168.jpg/80x80bb.webp",
+    "appleID": "kamikaza/1782158144"
+  },
+  {
+    "ranking": "46",
+    "title": "Ankaran",
+    "artist": "Hiljson Mandela",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/24/b9/8324b94b-413a-4e97-0e4b-878ad5ff7bc1/cover.jpg/80x80bb.webp",
+    "appleID": "ankaran/1746127179"
+  },
+  {
+    "ranking": "47",
+    "title": "Timeless",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "ranking": "48",
+    "title": "Cocctel",
+    "artist": "Desingerica",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/e6/d9/e7e6d94a-9999-ac83-2cc4-3b47a7696b38/13380.jpg/80x80bb.webp",
+    "appleID": "cocctel/1803914331"
+  },
+  {
+    "ranking": "49",
+    "title": "Bad Dreams",
+    "artist": "Teddy Swims",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+    "appleID": "bad-dreams/1765799904",
+    "youtubeID": "Qh8QwVYOSVU"
+  },
+  {
+    "ranking": "50",
+    "title": "O.d.d.d.",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/11/86/b011869b-845e-15c2-3b96-14767d387e1c/5248.jpg/80x80bb.webp",
+    "appleID": "o-d-d-d/1782161731"
+  },
+  {
+    "ranking": "51",
+    "title": "Mamma Mia",
+    "artist": "Grše",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/28/46/2728465b-b119-8645-1c77-cfaa9559df30/cover.jpg/80x80bb.webp",
+    "appleID": "mamma-mia/1682031746"
+  },
+  {
+    "ranking": "52",
+    "title": "Beautiful Things",
+    "artist": "Benson Boone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+    "appleID": "beautiful-things/1724488124",
+    "youtubeID": "Oa_RSwwpPaA"
+  },
+  {
+    "ranking": "53",
+    "title": "Zove Vienna",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/11/86/b011869b-845e-15c2-3b96-14767d387e1c/5248.jpg/80x80bb.webp",
+    "appleID": "zove-vienna/1782162000"
+  },
+  {
+    "ranking": "54",
+    "title": "Ceo Fazon (feat. Nucci)",
+    "artist": "Biba",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/31/13/693113a3-b912-7116-8d67-1349b6a97bf0/cover.jpg/80x80bb.webp",
+    "appleID": "ceo-fazon-feat-nucci/1804983564",
+    "youtubeID": "K7Zq4Z-ROpw"
+  },
+  {
+    "ranking": "55",
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+    "appleID": "espresso/1740212434",
+    "youtubeID": "eVli-tstM5E"
+  },
+  {
+    "ranking": "56",
+    "title": "Mamuran",
+    "artist": "Connect",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/0c/7e/180c7e53-a4db-8ca7-1865-885b170d8e29/3624.jpg/80x80bb.webp",
+    "appleID": "mamuran/1578156929"
+  },
+  {
+    "ranking": "57",
+    "title": "Sports car",
+    "artist": "Tate McRae",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/8a/29/518a29f3-5915-662a-d861-663e6d0fbfe4/196872648911.jpg/80x80bb.webp",
+    "appleID": "sports-car/1779319634",
+    "youtubeID": "7InTkBxPtK4"
+  },
+  {
+    "ranking": "58",
+    "title": "Ceo Svet",
+    "artist": "Nucci",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+    "appleID": "ceo-svet/1771842526"
+  },
+  {
+    "ranking": "59",
+    "title": "Svemir (feat. INAS)",
+    "artist": "Devito",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
+    "appleID": "svemir-feat-inas/1738429149"
+  },
+  {
+    "ranking": "60",
+    "title": "NINAO",
+    "artist": "GIMS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/9b/4c/0f9b4ce6-918a-9057-040e-85950cc438df/cover.jpg/80x80bb.webp",
+    "appleID": "ninao/1797518241",
+    "youtubeID": "VT2qF97pQNw"
+  },
+  {
+    "ranking": "61",
+    "title": "Kavali",
+    "artist": "Rasta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d5/4a/8fd54ae6-541e-eea8-e7fe-db46b3c9f30b/cover.jpg/80x80bb.webp",
+    "appleID": "kavali/1755400669"
+  },
+  {
+    "ranking": "62",
+    "title": "Hollywood (feat. Rasta)",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/42/75/96427505-7355-66ad-3ca6-c346dc3cc379/1078.jpg/80x80bb.webp",
+    "appleID": "hollywood-feat-rasta/1782139509"
+  },
+  {
+    "ranking": "63",
+    "title": "CHIHIRO",
+    "artist": "Billie Eilish",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+    "appleID": "chihiro/1739659141",
+    "youtubeID": "BY_XwvKogC8"
+  },
+  {
+    "ranking": "64",
+    "title": "Nova Godina (feat. Amna)",
+    "artist": "Biba",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/31/13/693113a3-b912-7116-8d67-1349b6a97bf0/cover.jpg/80x80bb.webp",
+    "appleID": "nova-godina-feat-amna/1804983578",
+    "youtubeID": "J6cvLRPtWB0"
+  },
+  {
+    "ranking": "65",
+    "title": "Samo Jako (feat. Coby & Stoja)",
+    "artist": "Relja",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/e7/1b/35e71b18-bc78-bf43-d74e-36fa1c706f4b/5418.jpg/80x80bb.webp",
+    "appleID": "samo-jako-feat-coby-stoja/1578173679"
+  },
+  {
+    "ranking": "66",
+    "title": "Pilula",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/0d/e3/e90de3b8-6ff5-041e-2572-36938236c905/3447.jpg/80x80bb.webp",
+    "appleID": "pilula/1782155142"
+  },
+  {
+    "ranking": "67",
+    "title": "Martini",
+    "artist": "Henny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/a4/63/c1a4638c-00c1-06bf-64b4-499580a84410/8600525076072.jpg/80x80bb.webp",
+    "appleID": "martini/1770864512"
+  },
+  {
+    "ranking": "68",
+    "title": "Sigue",
+    "artist": "Beny Jr",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/49/37/6c4937f0-3fab-d1d8-ba4e-b95cc81b5249/8445162639651.jpg/80x80bb.webp",
+    "appleID": "sigue/1616813414"
+  },
+  {
+    "ranking": "69",
+    "title": "Da Raskinem Sa Njom",
+    "artist": "Ceca",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/ed/40/19ed4022-87a3-6882-d48a-dc49ffbcc2ce/cover.jpg/80x80bb.webp",
+    "appleID": "da-raskinem-sa-njom/1595919103"
+  },
+  {
+    "ranking": "70",
+    "title": "Divljam",
+    "artist": "Buba Corelli",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/a3/b1/14a3b1ab-531f-5aad-577d-648cf94e6a76/4326.jpg/80x80bb.webp",
+    "appleID": "divljam/1782158383"
+  },
+  {
+    "ranking": "71",
+    "title": "Zmijsko Tijelo",
+    "artist": "Inas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/6a/16/f86a1675-b2eb-51ac-51a5-8f6d59f9d7df/cover_4061707072369.jpg/80x80bb.webp",
+    "appleID": "zmijsko-tijelo/1574892046"
+  },
+  {
+    "ranking": "72",
+    "title": "Limun",
+    "artist": "Rasta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/68/a3/3668a35c-4dac-c7bc-2c36-aaac7e140c59/cover.jpg/80x80bb.webp",
+    "appleID": "limun/1755400658"
+  },
+  {
+    "ranking": "73",
+    "title": "KINGSTON",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
+    "appleID": "kingston/1787038515"
+  },
+  {
+    "ranking": "74",
+    "title": "Delija",
+    "artist": "SENIDAH",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/7d/fe/267dfef7-2817-db4f-4252-27ac59463950/cover.jpg/80x80bb.webp",
+    "appleID": "delija/1743482487",
+    "youtubeID": "gtTVuebS-Ss"
+  },
+  {
+    "ranking": "75",
+    "title": "DtMF",
+    "artist": "Bad Bunny",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
+    "appleID": "dtmf/1787023936",
+    "youtubeID": "v9T_MGfzq7I"
+  },
+  {
+    "ranking": "76",
+    "title": "Dan & Noc",
+    "artist": "Rasta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/c9/13/86c913cb-055d-bb86-214e-e9dfb2510cd0/cover.jpg/80x80bb.webp",
+    "appleID": "dan-noc/1758080831"
+  },
+  {
+    "ranking": "77",
+    "title": "Gad",
+    "artist": "Voyage",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b9/35/37b9358c-d4ff-6a81-0f85-5c69687c921c/11943.jpg/80x80bb.webp",
+    "appleID": "gad/1622341342"
+  },
+  {
+    "ranking": "78",
+    "title": "Nikad Dosta (feat. Sara Jo)",
+    "artist": "Biba",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/31/13/693113a3-b912-7116-8d67-1349b6a97bf0/cover.jpg/80x80bb.webp",
+    "appleID": "nikad-dosta-feat-sara-jo/1804983581",
+    "youtubeID": "0zji8ezGKAg"
+  },
+  {
+    "ranking": "79",
+    "title": "Taste",
+    "artist": "Sabrina Carpenter",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+    "appleID": "taste/1750307079",
+    "youtubeID": "KEG7b851Ric"
+  },
+  {
+    "ranking": "80",
+    "title": "HI HI - HA HA (feat. Biba & Devito)",
+    "artist": "Nucci",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+    "appleID": "hi-hi-ha-ha-feat-biba-devito/1771842254",
+    "youtubeID": "7wfHRpnbDC8"
+  },
+  {
+    "ranking": "81",
+    "title": "Bebi",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/ec/94/9eec94cc-424c-437b-b479-9446ee7d4b63/3271.jpg/80x80bb.webp",
+    "appleID": "bebi/1782154833"
+  },
+  {
+    "ranking": "82",
+    "title": "undressed",
+    "artist": "sombr",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/80x80bb.webp",
+    "appleID": "undressed/1802084938"
+  },
+  {
+    "ranking": "83",
+    "title": "Ljubavi Moja (feat. Dado Polumenta)",
+    "artist": "Elitni Odredi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/76/c9/ab/76c9abbb-5b7e-1f25-46e0-d2bd77b2dec4/5877.jpg/80x80bb.webp",
+    "appleID": "ljubavi-moja-feat-dado-polumenta/1578161232"
+  },
+  {
+    "ranking": "84",
+    "title": "100%",
+    "artist": "SENIDAH",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/c2/37/d6c237a4-b08c-9836-e607-4ff5863f313c/cover.jpg/80x80bb.webp",
+    "appleID": "100/1489621000"
+  },
+  {
+    "ranking": "85",
+    "title": "Hotel",
+    "artist": "Rasta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/96/42/d0964299-735b-7078-fbdf-e770d1a8e158/cover.jpg/80x80bb.webp",
+    "appleID": "hotel/1755400371",
+    "youtubeID": "Ek5yiu7rmO8"
+  },
+  {
+    "ranking": "86",
+    "title": "Bebe",
+    "artist": "Devito",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/f1/c5/60f1c523-ac87-658d-bb65-d73f5361eb69/cover.jpg/80x80bb.webp",
+    "appleID": "bebe/1738412731"
+  },
+  {
+    "ranking": "87",
+    "title": "Omadjijala",
+    "artist": "Devito",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/75/a3/5275a301-ed9f-eca7-66a3-747e4f395410/cover.jpg/80x80bb.webp",
+    "appleID": "omadjijala/1738450490"
+  },
+  {
+    "ranking": "88",
+    "title": "Revolving door",
+    "artist": "Tate McRae",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/8a/29/518a29f3-5915-662a-d861-663e6d0fbfe4/196872648911.jpg/80x80bb.webp",
+    "appleID": "revolving-door/1779319626",
+    "youtubeID": "rwlFWWGaZ5Y"
+  },
+  {
+    "ranking": "89",
+    "title": "Autogram",
+    "artist": "Ceca",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/06/51/6906517f-9530-3a2c-1d07-a64b807a9a05/cover.jpg/80x80bb.webp",
+    "appleID": "autogram/1594273924",
+    "youtubeID": "17LhH2IkZns"
+  },
+  {
+    "ranking": "90",
+    "title": "Baraba",
+    "artist": "Zera",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/9d/59/5c9d5905-0d15-7cea-2814-c5c166dba346/8600525077604.jpg/80x80bb.webp",
+    "appleID": "baraba/1770863267"
+  },
+  {
+    "ranking": "91",
+    "title": "Gata Only",
+    "artist": "FloyyMenor",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+    "appleID": "gata-only/1727813561"
+  },
+  {
+    "ranking": "92",
+    "title": "Tokyo Drift (feat. Mimi Mercedez)",
+    "artist": "Grše",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/3a/25/a73a25bd-9399-a166-e5c2-cfbc357cf002/cover.jpg/80x80bb.webp",
+    "appleID": "tokyo-drift-feat-mimi-mercedez/1729883244"
+  },
+  {
+    "ranking": "93",
+    "title": "Libar",
+    "artist": "Gibonni",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/fa/ac/f6faac1a-a963-3837-dbdd-0583e87e1f14/cover.jpg/80x80bb.webp",
+    "appleID": "libar/979226032"
+  },
+  {
+    "ranking": "94",
+    "title": "Htela Je Da Zna (feat. Relja)",
+    "artist": "Devito",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
+    "appleID": "htela-je-da-zna-feat-relja/1738428780"
+  },
+  {
+    "ranking": "95",
+    "title": "Cry For Me",
+    "artist": "The Weeknd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
+    "appleID": "cry-for-me/1793654350",
+    "youtubeID": "bn8gP5N8hqM"
+  },
+  {
+    "ranking": "96",
+    "title": "S TABO RES RAD",
+    "artist": "Modrijani",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5a/4c/0c/5a4c0cd4-237f-53de-ae7b-eaa5e503948f/cover.jpg/80x80bb.webp",
+    "appleID": "s-tabo-res-rad/1702045119"
+  },
+  {
+    "ranking": "97",
+    "title": "Lose Control",
+    "artist": "Teddy Swims",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+    "appleID": "lose-control/1691699836",
+    "youtubeID": "GZ3zL7kT6_c"
+  },
+  {
+    "ranking": "98",
+    "title": "BLUR",
+    "artist": "Jala Brat",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/d7/9f/e2d79fa6-68c7-5ea0-a56c-74fcb2a12be2/5913.jpg/80x80bb.webp",
+    "appleID": "blur/1787038551"
+  },
+  {
+    "ranking": "99",
+    "title": "Play Hard (feat. Ne-Yo & Akon)",
+    "artist": "David Guetta",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/af/50/7daf504b-a2dc-a4dd-ee9d-5ca9094a1679/5059460202825.jpg/80x80bb.webp",
+    "appleID": "play-hard-feat-ne-yo-akon/1688187513"
+  },
+  {
+    "ranking": "100",
+    "title": "Mi Amor",
+    "artist": "Relja",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/87/2c/86872ce9-022f-e5b8-6a5d-6ec6ab999bd8/2693.jpg/80x80bb.webp",
+    "appleID": "mi-amor/1578173329"
+  }
 ]
