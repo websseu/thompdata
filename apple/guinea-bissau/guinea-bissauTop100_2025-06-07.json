@@ -1,0 +1,702 @@
+[
+    {
+        "ranking": "1",
+        "title": "My Darling",
+        "artist": "Chella",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/61/7f/c0617f97-3e67-d38a-adc9-ca6e1f17c678/199316001174_cover.jpg/80x80bb.webp",
+        "appleID": "my-darling/1798849696"
+    },
+    {
+        "ranking": "2",
+        "title": "The Lands",
+        "artist": "Afro Brotherz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/06/7f/b8067f8b-df6b-f7ba-2333-463ad19b0704/artwork.jpg/80x80bb.webp",
+        "appleID": "the-lands/1553633638"
+    },
+    {
+        "ranking": "3",
+        "title": "Evita Problemas (feat. Heavy C)",
+        "artist": "Matias Damásio",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/62/2b/ee622b2b-5657-8d37-af16-af43fbba352a/cover.jpg/80x80bb.webp",
+        "appleID": "evita-problemas-feat-heavy-c/1758746145"
+    },
+    {
+        "ranking": "4",
+        "title": "Venha o Que Vier (feat. Big Nelo)",
+        "artist": "Matias Damásio",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ef/a4/fb/efa4fb38-9e96-eb29-76b0-eded5a61a571/cover.jpg/80x80bb.webp",
+        "appleID": "venha-o-que-vier-feat-big-nelo/1352427847"
+    },
+    {
+        "ranking": "5",
+        "title": "Vai Vai",
+        "artist": "Loony Johnson",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/90/b9/4e90b934-8d04-077a-5953-3ccd48bcd125/artwork.jpg/80x80bb.webp",
+        "appleID": "vai-vai/1579098781"
+    },
+    {
+        "ranking": "6",
+        "title": "Kassouma Ma",
+        "artist": "Sekouba Bambino",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/e9/9a/efe99aa2-ecc6-eba1-ca17-037c2da0ed1c/3663729036957_cover.jpg/80x80bb.webp",
+        "appleID": "kassouma-ma/1263613775"
+    },
+    {
+        "ranking": "7",
+        "title": "Tentason",
+        "artist": "Djodje",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/b1/1a/d8b11a6c-b1ab-a908-45e4-c810ee364017/8447053074046.jpg/80x80bb.webp",
+        "appleID": "tentason/1729791770"
+    },
+    {
+        "ranking": "8",
+        "title": "Encmenda de Terra",
+        "artist": "Mirri Lobo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a9/00/3c/a9003c47-97f6-9210-713e-2dcb95eace11/859706014183_cover.jpg/80x80bb.webp",
+        "appleID": "encmenda-de-terra/443249099"
+    },
+    {
+        "ranking": "9",
+        "title": "Cana",
+        "artist": "Gil Semedo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/2b/44/072b4466-d52f-9551-8f76-735be7b54638/artwork.jpg/80x80bb.webp",
+        "appleID": "cana/1454173954"
+    },
+    {
+        "ranking": "10",
+        "title": "N’godal (feat. Manecas Costa, Mikas Cabral, Maio Coopé, Patche di Rima & Magic Beatz)",
+        "artist": "Abeny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/41/c4/ef41c47e-f329-a63a-293a-487c6fc033d2/artwork.jpg/80x80bb.webp",
+        "appleID": "ngodal-feat-manecas-costa-mikas-cabral-maio-coop%C3%A9-patche/1796960248"
+    },
+    {
+        "ranking": "11",
+        "title": "VROOM VROOM (feat. Benjahmin)",
+        "artist": "Jizzle",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/2a/a9/342aa9cd-2856-37ce-7df3-a9ad5833abd6/artwork.jpg/80x80bb.webp",
+        "appleID": "vroom-vroom-feat-benjahmin/1813714127"
+    },
+    {
+        "ranking": "12",
+        "title": "Heads Will Roll",
+        "artist": "Yeah Yeah Yeahs",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/97/1f/5c/971f5c92-2def-b4cb-a76e-bc582a396ce3/09UMGIM02469.rgb.jpg/80x80bb.webp",
+        "appleID": "heads-will-roll/1440771850"
+    },
+    {
+        "ranking": "13",
+        "title": "Sucker (from the series Arcane League of Legends)",
+        "artist": "Marcus King",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/80x80bb.webp",
+        "appleID": "sucker-from-the-series-arcane-league-of-legends/1767031661"
+    },
+    {
+        "ranking": "14",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "appleID": "die-with-a-smile/1762656732"
+    },
+    {
+        "ranking": "15",
+        "title": "Commas",
+        "artist": "Ayra Starr",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
+        "appleID": "commas/1745016096"
+    },
+    {
+        "ranking": "16",
+        "title": "Holy Ghost",
+        "artist": "Omah Lay",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/e8/88/93e88861-c093-8e4f-019a-c43f7afc5c03/054391356826.jpg/80x80bb.webp",
+        "appleID": "holy-ghost/1714017003"
+    },
+    {
+        "ranking": "17",
+        "title": "Eu Te Amo",
+        "artist": "Loony Johnson",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/90/b9/4e90b934-8d04-077a-5953-3ccd48bcd125/artwork.jpg/80x80bb.webp",
+        "appleID": "eu-te-amo/1579098997"
+    },
+    {
+        "ranking": "18",
+        "title": "Felicidade",
+        "artist": "Sebem",
+        "image": null,
+        "appleID": "felicidade/998540723"
+    },
+    {
+        "ranking": "19",
+        "title": "Matrialista",
+        "artist": "Ivon Paris",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/5c/a4/cb/5ca4cb2a-45a1-aae7-f0ef-14cc4abc8033/889176379154.jpg/80x80bb.webp",
+        "appleID": "matrialista/958763262"
+    },
+    {
+        "ranking": "20",
+        "title": "Ties",
+        "artist": "Years & Years",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/2c/0a/e92c0a04-7ac6-9563-a9b1-ec93171fcca5/00602547836649.rgb.jpg/80x80bb.webp",
+        "appleID": "ties/1440842653"
+    },
+    {
+        "ranking": "21",
+        "title": "Kpo Kpo Di",
+        "artist": "Micle",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/7a/35/147a35f6-28cb-cf6e-7bc1-62bc8066ecf0/artwork.jpg/80x80bb.webp",
+        "appleID": "kpo-kpo-di/1806926045"
+    },
+    {
+        "ranking": "22",
+        "title": "Conakry / Tinkisso / Nina / Minaw / Souaressi / Sakodougou / Malissadio / Fouaba / Heleya",
+        "artist": "Kouyate & Kouyate",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/e8/92/4be89250-1f35-6481-78f6-9b10e1b3c204/3663729035752_cover.jpg/80x80bb.webp",
+        "appleID": "conakry-tinkisso-nina-minaw-souaressi-sakodougou-malissadio/1245605449"
+    },
+    {
+        "ranking": "23",
+        "title": "Moving Train",
+        "artist": "Jizzle",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/2a/a9/342aa9cd-2856-37ce-7df3-a9ad5833abd6/artwork.jpg/80x80bb.webp",
+        "appleID": "moving-train/1813714128"
+    },
+    {
+        "ranking": "24",
+        "title": "Like Dat (feat. ReFlex Tha Boy)",
+        "artist": "Jizzle",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/2a/a9/342aa9cd-2856-37ce-7df3-a9ad5833abd6/artwork.jpg/80x80bb.webp",
+        "appleID": "like-dat-feat-reflex-tha-boy/1813714130"
+    },
+    {
+        "ranking": "25",
+        "title": "Gimme Dat",
+        "artist": "Ayra Starr",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/38/13/7838132f-837b-7c2c-d4ca-a69a608f6185/25UMGIM58084.rgb.jpg/80x80bb.webp",
+        "appleID": "gimme-dat/1808959423"
+    },
+    {
+        "ranking": "26",
+        "title": "UNAVAILABLE (feat. Musa Keys)",
+        "artist": "Davido",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "appleID": "unavailable-feat-musa-keys/1675379749"
+    },
+    {
+        "ranking": "27",
+        "title": "Conquer (feat. Yemi Alade)",
+        "artist": "Selebobo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/a5/c2/73a5c273-1c48-0129-6391-43fcd6ec1924/d772f9bf-319d-4837-a200-f6e7d14fe26b.jpg/80x80bb.webp",
+        "appleID": "conquer-feat-yemi-alade/1604101896"
+    },
+    {
+        "ranking": "28",
+        "title": "Ta fête",
+        "artist": "Stromae",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/13/e0/4413e0be-302b-fe2a-5c88-5c02389f67df/13UAAIM66791.rgb.jpg/80x80bb.webp",
+        "appleID": "ta-f%C3%AAte/1440856005"
+    },
+    {
+        "ranking": "29",
+        "title": "LIBRAM (feat. Virgul)",
+        "artist": "Soraia Ramos",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/02/4e/b5024ed4-fbc5-1920-db39-ae97e232758a/25UMGIM68883.rgb.jpg/80x80bb.webp",
+        "appleID": "libram-feat-virgul/1813185193"
+    },
+    {
+        "ranking": "30",
+        "title": "The Emptiness Machine",
+        "artist": "LINKIN PARK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "appleID": "the-emptiness-machine/1766137051"
+    },
+    {
+        "ranking": "31",
+        "title": "Bobo",
+        "artist": "CEF Tanzy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/a0/ed/12a0edea-3a14-bdc8-1eaf-33371a7694e4/c8m005.jpg/80x80bb.webp",
+        "appleID": "bobo/1734849585"
+    },
+    {
+        "ranking": "32",
+        "title": "People",
+        "artist": "Libianca",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
+        "appleID": "people/1658390607"
+    },
+    {
+        "ranking": "33",
+        "title": "Me conseguiram",
+        "artist": "CEF Tanzy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/a0/ed/12a0edea-3a14-bdc8-1eaf-33371a7694e4/c8m005.jpg/80x80bb.webp",
+        "appleID": "me-conseguiram/1734849770"
+    },
+    {
+        "ranking": "34",
+        "title": "Milionário",
+        "artist": "Matias Damásio",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/3d/00/243d00e6-c69a-cfb2-b689-c0a42ef2db3d/196873106830.jpg/80x80bb.webp",
+        "appleID": "milion%C3%A1rio/1810257647"
+    },
+    {
+        "ranking": "35",
+        "title": "understand",
+        "artist": "Omah Lay",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a7/4d/13a74d60-f269-603c-a8ee-527c0daba041/093624841319_01.jpg/80x80bb.webp",
+        "appleID": "understand/1744453757"
+    },
+    {
+        "ranking": "36",
+        "title": "It's Plenty",
+        "artist": "Burna Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/eb/31/caeb3173-eaf0-0cd5-65ea-585adfe312ba/075679745156.jpg/80x80bb.webp",
+        "appleID": "its-plenty/1623677817"
+    },
+    {
+        "ranking": "37",
+        "title": "Off Para Ti",
+        "artist": "Anna Joyce",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/b7/1a/bab71aa9-6d03-ccd5-a229-c3fb6e97e1a9/24UMGIM56807.rgb.jpg/80x80bb.webp",
+        "appleID": "off-para-ti/1747766444"
+    },
+    {
+        "ranking": "38",
+        "title": "Σ. MOROSE",
+        "artist": "Damso",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/04/9e/53049e5d-1052-7e46-f906-d682c0f1b707/23UM1IM46984.rgb.jpg/80x80bb.webp",
+        "appleID": "%CF%83-morose/1714886642"
+    },
+    {
+        "ranking": "39",
+        "title": "Animal",
+        "artist": "Soarito",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/24/75/5b247541-2c4f-e80a-31c7-8d0141371e16/24UMGIM77339.rgb.jpg/80x80bb.webp",
+        "appleID": "animal/1757432107"
+    },
+    {
+        "ranking": "40",
+        "title": "Canta Comigo (Essa Keta)",
+        "artist": "SSP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c3/3b/2b/c33b2bd6-eafb-dbfa-9766-bb59e8ead406/886788426665.jpg/80x80bb.webp",
+        "appleID": "canta-comigo-essa-keta/494077998"
+    },
+    {
+        "ranking": "41",
+        "title": "O Canto da Cidade",
+        "artist": "Daniela Mercury",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/49/47/5c/mzi.ngdnvfqd.jpg/80x80bb.webp",
+        "appleID": "o-canto-da-cidade/308780305"
+    },
+    {
+        "ranking": "42",
+        "title": "Macarena (Bayside Boys Remix)",
+        "artist": "Los del Río",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/64/d4/71/64d47164-887b-d58e-1d68-11acfeacc73f/886445430844.jpg/80x80bb.webp",
+        "appleID": "macarena-bayside-boys-remix/1030800861"
+    },
+    {
+        "ranking": "43",
+        "title": "Acanadia",
+        "artist": "Sekouba Bambino",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/e9/9a/efe99aa2-ecc6-eba1-ca17-037c2da0ed1c/3663729036957_cover.jpg/80x80bb.webp",
+        "appleID": "acanadia/1263613102"
+    },
+    {
+        "ranking": "44",
+        "title": "To Brazil!",
+        "artist": "Vengaboys",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/f0/81/46f08113-0358-e0c4-c9d6-df2594d49fec/23UMGIM77922.rgb.jpg/80x80bb.webp",
+        "appleID": "to-brazil/1755762801"
+    },
+    {
+        "ranking": "45",
+        "title": "Rock N Roll",
+        "artist": "Avril Lavigne",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/fa/53/6afa53eb-c09f-e4fc-9a69-06e84b72e04e/886444213653.jpg/80x80bb.webp",
+        "appleID": "rock-n-roll/709175313"
+    },
+    {
+        "ranking": "46",
+        "title": "Fofo",
+        "artist": "Suzanna Lubrano",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/30/45/7a304576-b6f8-01d4-f44d-af9a60316475/cover.jpg/80x80bb.webp",
+        "appleID": "fofo/601743734"
+    },
+    {
+        "ranking": "47",
+        "title": "Contigo",
+        "artist": "Badoxa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/77/60/9577602b-1db6-95cf-cddd-3121961095cf/0.jpg/80x80bb.webp",
+        "appleID": "contigo/1812704650"
+    },
+    {
+        "ranking": "48",
+        "title": "Amar Pela Metade (Aimer À Moitié)",
+        "artist": "Calema",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
+        "appleID": "amar-pela-metade-aimer-%C3%A0-moiti%C3%A9/1767438350"
+    },
+    {
+        "ranking": "49",
+        "title": "Long & Lost",
+        "artist": "Florence + the Machine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/a6/0c/9fa60c63-a582-9ce9-0401-fefb48648c99/00602547252395.rgb.jpg/80x80bb.webp",
+        "appleID": "long-lost/1440832248"
+    },
+    {
+        "ranking": "50",
+        "title": "Please Don't Go",
+        "artist": "Double You",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/3d/6c/113d6cc4-32bd-0022-ca4d-570eb438ca60/cover.jpg/80x80bb.webp",
+        "appleID": "please-dont-go/166983735"
+    },
+    {
+        "ranking": "51",
+        "title": "Emorio",
+        "artist": "Kady",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/97/27/0f972770-0e1f-0a63-6a93-16b43b25482c/199350745263.jpg/80x80bb.webp",
+        "appleID": "emorio/1814930484"
+    },
+    {
+        "ranking": "52",
+        "title": "Mobali Ya Motema",
+        "artist": "Liriany",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/2c/c5/252cc596-30a4-7393-14a1-7bee88a5b0a0/0.jpg/80x80bb.webp",
+        "appleID": "mobali-ya-motema/1813483495"
+    },
+    {
+        "ranking": "53",
+        "title": "Bo é Bússola",
+        "artist": "Dynamo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/80/96/7a8096e4-e2af-8a5b-542a-a245fe2de183/8447053316900.jpg/80x80bb.webp",
+        "appleID": "bo-%C3%A9-b%C3%BAssola/1799793825"
+    },
+    {
+        "ranking": "54",
+        "title": "Move",
+        "artist": "Adam Port",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
+        "appleID": "move/1749043132"
+    },
+    {
+        "ranking": "55",
+        "title": "Abula Yaffo (feat. Benjahmin)",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "abula-yaffo-feat-benjahmin/1804003868"
+    },
+    {
+        "ranking": "56",
+        "title": "Natallo (feat. An2 Adi Sparky)",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "natallo-feat-an2-adi-sparky/1804003865"
+    },
+    {
+        "ranking": "57",
+        "title": "Lakatt",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "lakatt/1804003869"
+    },
+    {
+        "ranking": "58",
+        "title": "Foroo Dingo (feat. Rebellion The Recaller & Jahmiel)",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "foroo-dingo-feat-rebellion-the-recaller-jahmiel/1804003867"
+    },
+    {
+        "ranking": "59",
+        "title": "Mercy",
+        "artist": "Shawn Mendes",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/57/e4/5c57e46a-0950-7ebd-8010-28453c1c0055/16UMGIM51723.rgb.jpg/80x80bb.webp",
+        "appleID": "mercy/1440892706"
+    },
+    {
+        "ranking": "60",
+        "title": "Seenyol",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "seenyol/1804003862"
+    },
+    {
+        "ranking": "61",
+        "title": "Nna La Duwa",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "nna-la-duwa/1804003861"
+    },
+    {
+        "ranking": "62",
+        "title": "Ogechi (feat. Davido) [Remix]",
+        "artist": "BoyPee",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/ce/d9/5eced9f8-8b41-02e1-16b1-b0946739b881/766214751045.png/80x80bb.webp",
+        "appleID": "ogechi-feat-davido-remix/1753774056"
+    },
+    {
+        "ranking": "63",
+        "title": "Ngozi",
+        "artist": "Crayon",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/0a/6e/da0a6e7d-769d-209b-c8f8-c9af3789b0ee/5059449136325.png/80x80bb.webp",
+        "appleID": "ngozi/1696606135"
+    },
+    {
+        "ranking": "64",
+        "title": "Queen of Peace",
+        "artist": "Florence + the Machine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/a6/0c/9fa60c63-a582-9ce9-0401-fefb48648c99/00602547252395.rgb.jpg/80x80bb.webp",
+        "appleID": "queen-of-peace/1440832084"
+    },
+    {
+        "ranking": "65",
+        "title": "Opus",
+        "artist": "Eric Prydz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/6e/5d/e96e5de7-f9ca-792c-014c-646017c2d854/00602547503701.rgb.jpg/80x80bb.webp",
+        "appleID": "opus/1440851025"
+    },
+    {
+        "ranking": "66",
+        "title": "Mba Seena",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "mba-seena/1804003864"
+    },
+    {
+        "ranking": "67",
+        "title": "WHY LOVE",
+        "artist": "Asake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/65/07/186507c9-146c-473c-6eae-e4cf689c7357/197342969963_cover.jpg/80x80bb.webp",
+        "appleID": "why-love/1794619835"
+    },
+    {
+        "ranking": "68",
+        "title": "FEEL",
+        "artist": "Davido",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "appleID": "feel/1675379321"
+    },
+    {
+        "ranking": "69",
+        "title": "Blessed Is the Man (feat. Chronixx)",
+        "artist": "Kabaka Pyramid",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9a/80/6d/9a806d45-e703-a580-db9a-df1c1295257b/Kontraband-Cover.png/80x80bb.webp",
+        "appleID": "blessed-is-the-man-feat-chronixx/1374751063"
+    },
+    {
+        "ranking": "70",
+        "title": "Cacheu (feat. Cheikna)",
+        "artist": "Djidji Di Malaika",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/30/f3/2430f321-8824-84f1-9313-91875771d15f/cover.jpg/80x80bb.webp",
+        "appleID": "cacheu-feat-cheikna/1718938132"
+    },
+    {
+        "ranking": "71",
+        "title": "Frenesi",
+        "artist": "Yuri da Cunha",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/47/d0/7447d028-af27-aafc-d604-770485666703/0.jpg/80x80bb.webp",
+        "appleID": "frenesi/1766521196"
+    },
+    {
+        "ranking": "72",
+        "title": "Maravilhosa (feat. Djodje)",
+        "artist": "Josslyn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/e2/82/fee2828e-4236-27f3-8979-de0c09b76f22/8445162090483.jpg/80x80bb.webp",
+        "appleID": "maravilhosa-feat-djodje/1512092827"
+    },
+    {
+        "ranking": "73",
+        "title": "Buwa Jaburoo (feat. One Pac, Dogfather, Sammy T, Ruddy Gee & Musa Filly)",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "buwa-jaburoo-feat-one-pac-dogfather-sammy-t-ruddy-gee/1804003874"
+    },
+    {
+        "ranking": "74",
+        "title": "Pa Fe Mwen la Penn",
+        "artist": "Eric Virgal",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3f/47/94/3f47949e-6274-b507-957b-e20d91b4fa40/mzi.uhlxueht.jpg/80x80bb.webp",
+        "appleID": "pa-fe-mwen-la-penn/294712227"
+    },
+    {
+        "ranking": "75",
+        "title": "Lonely At The Top",
+        "artist": "Asake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+        "appleID": "lonely-at-the-top/1688642838"
+    },
+    {
+        "ranking": "76",
+        "title": "Coup du marteau (feat. Team Paiya, Ste Milano, Renard Barakissa, Tazeboy & PSK)",
+        "artist": "Tam Sir",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/90/03/57900342-2f4b-6ad9-940a-64d1401c2867/cover.jpg/80x80bb.webp",
+        "appleID": "coup-du-marteau-feat-team-paiya-ste-milano-renard-barakissa/1720608724"
+    },
+    {
+        "ranking": "77",
+        "title": "Nha Namorada",
+        "artist": "Gil Semedo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f5/30/9d/f5309d74-a2d9-834c-540c-33caf9b15a38/artwork.jpg/80x80bb.webp",
+        "appleID": "nha-namorada/1454168761"
+    },
+    {
+        "ranking": "78",
+        "title": "Ai di bó",
+        "artist": "Sangara Jr.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/e6/b8/39e6b8e7-733f-54ea-da1d-f0bf8d93c4dd/artwork.jpg/80x80bb.webp",
+        "appleID": "ai-di-b%C3%B3/1741946881"
+    },
+    {
+        "ranking": "79",
+        "title": "Waste Management",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "waste-management/1804003940"
+    },
+    {
+        "ranking": "80",
+        "title": "Laisse parler les gens (feat. Jacob Desvarieux & Passi)",
+        "artist": "Jocelyne Labylle",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7c/27/69/7c27698d-72a1-f8d8-56fc-a8a2f19161b0/3663729099136_cover.jpg/80x80bb.webp",
+        "appleID": "laisse-parler-les-gens-feat-jacob-desvarieux-passi/1481069287"
+    },
+    {
+        "ranking": "81",
+        "title": "Yirro Tutu",
+        "artist": "ST da Gambian Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ba/b1/cbbab174-d2d8-9145-d680-b4ec8d8ba84d/199199316136.jpg/80x80bb.webp",
+        "appleID": "yirro-tutu/1804003941"
+    },
+    {
+        "ranking": "82",
+        "title": "Wuluula",
+        "artist": "Jalex Akuntu",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/89/45/b6/8945b616-6211-1b78-7063-0bf89dc0e21c/artwork.jpg/80x80bb.webp",
+        "appleID": "wuluula/1289072774"
+    },
+    {
+        "ranking": "83",
+        "title": "Ololufe Mi",
+        "artist": "Jux",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/2c/7b/952c7b48-45dd-844d-2333-4ffc11206ac0/766214669005.png/80x80bb.webp",
+        "appleID": "ololufe-mi/1766598314"
+    },
+    {
+        "ranking": "84",
+        "title": "Si Bu Da'n",
+        "artist": "Gil Semedo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/0b/2b/3c0b2b7a-e7d5-5f8d-089a-c792bfe4eb52/artwork.jpg/80x80bb.webp",
+        "appleID": "si-bu-dan/1457631442"
+    },
+    {
+        "ranking": "85",
+        "title": "Luso Beat",
+        "artist": "Jorge do Rosario",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/33/d7/3133d706-bf76-d542-b20a-0e1575aeae27/cover.jpg/80x80bb.webp",
+        "appleID": "luso-beat/1796913432"
+    },
+    {
+        "ranking": "86",
+        "title": "Aperta",
+        "artist": "Dynamo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/3b/f5/5c3bf56f-3f62-c667-fb83-743839ab2ae2/8445162090025.jpg/80x80bb.webp",
+        "appleID": "aperta/1512090121"
+    },
+    {
+        "ranking": "87",
+        "title": "Lolita I",
+        "artist": "Grace Evora",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8a/36/c3/8a36c37e-85de-1ec1-ac8c-42851112246f/cover.jpg/80x80bb.webp",
+        "appleID": "lolita-i/1525964515"
+    },
+    {
+        "ranking": "88",
+        "title": "RULERS",
+        "artist": "Novel Core",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/e0/40/c8e04088-3202-9506-cf8a-780dcad88244/ANTCD-A0000012154.jpg/80x80bb.webp",
+        "appleID": "rulers/1720900062"
+    },
+    {
+        "ranking": "89",
+        "title": "Rété",
+        "artist": "Kassav'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/b1/fd/83/b1fd83d6-f4c1-db50-b64a-a22bb601b690/3596973435293_cover.jpg/80x80bb.webp",
+        "appleID": "r%C3%A9t%C3%A9/1175000385"
+    },
+    {
+        "ranking": "90",
+        "title": "Hasidol",
+        "artist": "An2 Adi Sparky",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/57/d9/8157d9de-ba52-be20-fcec-90defbc8490d/artwork.jpg/80x80bb.webp",
+        "appleID": "hasidol/1782680217"
+    },
+    {
+        "ranking": "91",
+        "title": "Antonio",
+        "artist": "Sam Mangwana",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/69/ab/4669aba4-14f3-6d96-495d-e97b129bcacb/5017742003171_cover.jpg/80x80bb.webp",
+        "appleID": "antonio/1257283556"
+    },
+    {
+        "ranking": "92",
+        "title": "Lé sé sa",
+        "artist": "Ruddy Gustan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/33/cb/a3/33cba384-24f1-ca73-fb09-d07b42e34a40/cover.jpg/80x80bb.webp",
+        "appleID": "l%C3%A9-s%C3%A9-sa/888903263"
+    },
+    {
+        "ranking": "93",
+        "title": "Bon Noma",
+        "artist": "An2 Adi Sparky",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/bc/17/39bc1751-b294-da3e-b501-e24f31b4b216/artwork.jpg/80x80bb.webp",
+        "appleID": "bon-noma/1798613947"
+    },
+    {
+        "ranking": "94",
+        "title": "Nakuma",
+        "artist": "An2 Adi Sparky",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/50/89/a55089c8-3ee5-f909-880a-81a97e57a574/artwork.jpg/80x80bb.webp",
+        "appleID": "nakuma/1782684925"
+    },
+    {
+        "ranking": "95",
+        "title": "Boleia",
+        "artist": "Tony Neves",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/5c/a4/cb/5ca4cb2a-45a1-aae7-f0ef-14cc4abc8033/889176379154.jpg/80x80bb.webp",
+        "appleID": "boleia/958763251"
+    },
+    {
+        "ranking": "96",
+        "title": "Badmind",
+        "artist": "An2 Adi Sparky",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/bc/17/39bc1751-b294-da3e-b501-e24f31b4b216/artwork.jpg/80x80bb.webp",
+        "appleID": "badmind/1798613954"
+    },
+    {
+        "ranking": "97",
+        "title": "Mim Tá Xinti Pa Bô",
+        "artist": "Jocel",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/df/29/5b/df295bf3-becf-cc25-ab05-f03773a1b2a4/190374046411.jpg/80x80bb.webp",
+        "appleID": "mim-t%C3%A1-xinti-pa-b%C3%B4/1059357411"
+    },
+    {
+        "ranking": "98",
+        "title": "Goza Bo Vida",
+        "artist": "Forsi Live 2000",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/cb/cb/becbcb3b-cb98-f973-0c36-1db32abcfc6e/889176379161.jpg/80x80bb.webp",
+        "appleID": "goza-bo-vida/957535488"
+    },
+    {
+        "ranking": "99",
+        "title": "woman",
+        "artist": "Omah Lay",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a7/4d/13a74d60-f269-603c-a8ee-527c0daba041/093624841319_01.jpg/80x80bb.webp",
+        "appleID": "woman/1744453747"
+    },
+    {
+        "ranking": "100",
+        "title": "For My Hand (feat. Ed Sheeran)",
+        "artist": "Burna Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
+        "appleID": "for-my-hand-feat-ed-sheeran/1749167058"
+    }
+]
