@@ -1,0 +1,702 @@
+[
+    {
+        "ranking": "1",
+        "title": "Базовый минимум",
+        "artist": "SABI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/3a/f8/203af802-de0c-5c70-5403-b5ca0bbff938/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC/1828467657"
+    },
+    {
+        "ranking": "2",
+        "title": "napıyosun mesela ?",
+        "artist": "BLOK3",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/fe/34/0dfe340b-1bcc-8b81-2688-9c53ef1774dc/cover.jpg/80x80bb.webp",
+        "appleID": "nap%C4%B1yosun-mesela/1826044051"
+    },
+    {
+        "ranking": "3",
+        "title": "Love Me Not",
+        "artist": "Ravyn Lenae",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/80x80bb.webp",
+        "appleID": "love-me-not/1743852427"
+    },
+    {
+        "ranking": "4",
+        "title": "The Fate of Ophelia",
+        "artist": "Taylor Swift",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/80x80bb.webp",
+        "appleID": "the-fate-of-ophelia/1833328840"
+    },
+    {
+        "ranking": "5",
+        "title": "KUSURA BAKMA",
+        "artist": "BLOK3",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/68/34/2268349d-ab8d-2ec8-3932-b4e915d1bcb1/cover.jpg/80x80bb.webp",
+        "appleID": "kusura-bakma/1855504629"
+    },
+    {
+        "ranking": "6",
+        "title": "We Are the People",
+        "artist": "Empire Of The Sun",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg/80x80bb.webp",
+        "appleID": "we-are-the-people/712862710"
+    },
+    {
+        "ranking": "7",
+        "title": "COOOK PARDON",
+        "artist": "Lvbel C5",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/0b/98/2e0b98ad-7d4d-65a0-8d70-5f0997860a0a/25UM1IM37307.rgb.jpg/80x80bb.webp",
+        "appleID": "coook-pardon/1838485958"
+    },
+    {
+        "ranking": "8",
+        "title": "Forever Young",
+        "artist": "Alphaville",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d22/h05/s05.qwwmqauc.jpg/80x80bb.webp",
+        "appleID": "forever-young/73255043"
+    },
+    {
+        "ranking": "9",
+        "title": "Adam (feat. Hemra Rejepow)",
+        "artist": "DZ-ED",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/27/3c/53273c06-07ca-df14-70e1-1694ae29f54e/artwork.jpg/80x80bb.webp",
+        "appleID": "adam-feat-hemra-rejepow/1791038024"
+    },
+    {
+        "ranking": "10",
+        "title": "Hakykat",
+        "artist": "Serdar Çaryýew",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/89/14/1989147e-e52d-37b2-0e3f-c293c8d110fe/0.jpg/80x80bb.webp",
+        "appleID": "hakykat/1836748373"
+    },
+    {
+        "ranking": "11",
+        "title": "Roi",
+        "artist": "Videoclub",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/31/b6/d8/31b6d8f0-7f75-5e1b-2e05-875be14dc74d/886447795095.jpg/80x80bb.webp",
+        "appleID": "roi/1469040760"
+    },
+    {
+        "ranking": "12",
+        "title": "Mon Amour (feat. Taze Yuz)",
+        "artist": "Durdy Durdyyev",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/92/dd/1d92ddb9-07b7-5d5c-8052-ef59304844bc/artwork.jpg/80x80bb.webp",
+        "appleID": "mon-amour-feat-taze-yuz/1855421126"
+    },
+    {
+        "ranking": "13",
+        "title": "Yarala Meni",
+        "artist": "Ka-Re",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/14/5c/98145cba-dde4-e633-7e2f-2981d04f08c0/cover.jpg/80x80bb.webp",
+        "appleID": "yarala-meni/1416605848"
+    },
+    {
+        "ranking": "14",
+        "title": "Чегери",
+        "artist": "Shamo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/cd/c3/2bcdc3f4-8490-fc80-b8fc-6de05568b322/cover.png/80x80bb.webp",
+        "appleID": "%D1%87%D0%B5%D0%B3%D0%B5%D1%80%D0%B8/1858947569"
+    },
+    {
+        "ranking": "15",
+        "title": "Gözümiň nury",
+        "artist": "Parahat Amandurdyyev",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/50/cf/5550cfef-3cfb-c9c2-df84-0a45ea02c3eb/0.jpg/80x80bb.webp",
+        "appleID": "g%C3%B6z%C3%BCmi%C5%88-nury/1834089326"
+    },
+    {
+        "ranking": "16",
+        "title": "О чем ты не спишь по ночам?",
+        "artist": "HAMMALI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/bf/91/44bf9157-eb80-5eda-80d6-5fc7915e4c9c/0.jpg/80x80bb.webp",
+        "appleID": "%D0%BE-%D1%87%D0%B5%D0%BC-%D1%82%D1%8B-%D0%BD%D0%B5-%D1%81%D0%BF%D0%B8%D1%88%D1%8C-%D0%BF%D0%BE-%D0%BD%D0%BE%D1%87%D0%B0%D0%BC/1865119131"
+    },
+    {
+        "ranking": "17",
+        "title": "Расскажи, Снегурочка",
+        "artist": "Sasha Komovich",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/02/db/9602dbbd-cddb-1e61-3131-c1366faaaf27/cover.jpg/80x80bb.webp",
+        "appleID": "%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B6%D0%B8-%D1%81%D0%BD%D0%B5%D0%B3%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B0/1862572434"
+    },
+    {
+        "ranking": "18",
+        "title": "По глазам",
+        "artist": "SLAVA MARLOW",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/97/ca/1097ca95-3430-4d41-614f-5ddb5abd858a/3616409843345.jpg/80x80bb.webp",
+        "appleID": "%D0%BF%D0%BE-%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC/1570269169"
+    },
+    {
+        "ranking": "19",
+        "title": "Ordinary",
+        "artist": "Alex Warren",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/80x80bb.webp",
+        "appleID": "ordinary/1793663645"
+    },
+    {
+        "ranking": "20",
+        "title": "Gar meni özüňe (feat. Bilbil)",
+        "artist": "Myrat Öwez",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/2d/7c/732d7c3d-d82a-d993-ae78-e01aa110e243/artwork.jpg/80x80bb.webp",
+        "appleID": "gar-meni-%C3%B6z%C3%BC%C5%88e-feat-bilbil/1865092279"
+    },
+    {
+        "ranking": "21",
+        "title": "Alyonushka",
+        "artist": "Sunnatillo Do'stov",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/6b/2c/9f6b2cae-6f8b-8d2f-dd49-250b38926a0a/cover.jpg/80x80bb.webp",
+        "appleID": "alyonushka/1767832195"
+    },
+    {
+        "ranking": "22",
+        "title": "git",
+        "artist": "BLOK3",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/fe/34/0dfe340b-1bcc-8b81-2688-9c53ef1774dc/cover.jpg/80x80bb.webp",
+        "appleID": "git/1826044054"
+    },
+    {
+        "ranking": "23",
+        "title": "Fire on Fire",
+        "artist": "Sam Smith",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/b9/32/83b9327b-0d7c-5700-554d-9e6769e12b05/18UMGIM80639.rgb.jpg/80x80bb.webp",
+        "appleID": "fire-on-fire/1446046515"
+    },
+    {
+        "ranking": "24",
+        "title": "back to friends",
+        "artist": "sombr",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d5/ad/5dd5ad1b-fabf-9218-77f0-3adbfd5328ac/054391237118.jpg/80x80bb.webp",
+        "appleID": "back-to-friends/1786481197"
+    },
+    {
+        "ranking": "25",
+        "title": "Hate It Or Love It (feat. 50 Cent)",
+        "artist": "The Game",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/c8/a7/53c8a79b-ee31-dcf3-9880-fdb3f498794b/00602498641439.rgb.jpg/80x80bb.webp",
+        "appleID": "hate-it-or-love-it-feat-50-cent/1440799195"
+    },
+    {
+        "ranking": "26",
+        "title": "Montagem Rugada",
+        "artist": "Sayfalse",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/1a/6b/ef1a6be3-3bc9-7052-a96e-078734f2eb70/038557963172.png/80x80bb.webp",
+        "appleID": "montagem-rugada/1834364896"
+    },
+    {
+        "ranking": "27",
+        "title": "Vielleicht Vielleicht",
+        "artist": "MilleniumKid",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/96/38/d8963894-2d11-1d8c-f7e1-84a6c5587ed4/5054197764806.jpg/80x80bb.webp",
+        "appleID": "vielleicht-vielleicht/1706990332"
+    },
+    {
+        "ranking": "28",
+        "title": "Çarhypelek (feat. Guwanç Satlykgulyjow)",
+        "artist": "DZ-ED",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/97/2f/4b972f26-76bf-d4f6-1cee-efce20ba3d1a/artwork.jpg/80x80bb.webp",
+        "appleID": "%C3%A7arhypelek-feat-guwan%C3%A7-satlykgulyjow/1868289016"
+    },
+    {
+        "ranking": "29",
+        "title": "Papaoutai",
+        "artist": "Stromae",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/19/d7/7f/19d77fb9-4e13-3a77-c84d-8399a4213316/13UMGIM59162.rgb.jpg/80x80bb.webp",
+        "appleID": "papaoutai/1445166906"
+    },
+    {
+        "ranking": "30",
+        "title": "Allah Humma (Outro)",
+        "artist": "Siedd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/00/d7/1000d78e-d0ff-7bdd-587d-5ea380e3938a/194152848723.png/80x80bb.webp",
+        "appleID": "allah-humma-outro/1548082479"
+    },
+    {
+        "ranking": "31",
+        "title": "Про любовь",
+        "artist": "Xcho",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/99/94/8c99947e-fb6e-dac2-5117-ad2784ac00ce/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%BF%D1%80%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1804969518"
+    },
+    {
+        "ranking": "32",
+        "title": "Sen Gerek",
+        "artist": "Taze Yuz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/be/d1/f6bed134-7d0a-859c-a7fc-cd77a88f934c/cover.jpg/80x80bb.webp",
+        "appleID": "sen-gerek/1846111116"
+    },
+    {
+        "ranking": "33",
+        "title": "WHERE IS MY HUSBAND!",
+        "artist": "RAYE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/80x80bb.webp",
+        "appleID": "where-is-my-husband/1838737598"
+    },
+    {
+        "ranking": "34",
+        "title": "Редко Звонишь",
+        "artist": "OG BUDA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/3f/48/ed3f4878-54ba-946f-69e6-351fa0a792c6/cover.jpg/80x80bb.webp",
+        "appleID": "%D1%80%D0%B5%D0%B4%D0%BA%D0%BE-%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%88%D1%8C/1856246409"
+    },
+    {
+        "ranking": "35",
+        "title": "Hate or Glory",
+        "artist": "Gesaffelstein",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/82/22/1f822220-b801-ed26-ee1b-9a77cf2357f4/825646397471.jpg/80x80bb.webp",
+        "appleID": "hate-or-glory/705962901"
+    },
+    {
+        "ranking": "36",
+        "title": "Ýalňyş ýerde",
+        "artist": "Syke Däli",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/d3/d7/93d3d756-2bb6-882d-e1f8-8abeeafb7436/artwork.jpg/80x80bb.webp",
+        "appleID": "%C3%BDal%C5%88y%C5%9F-%C3%BDerde/1786084432"
+    },
+    {
+        "ranking": "37",
+        "title": "Bad Boys (Theme from Cops)",
+        "artist": "Inner Circle",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/cf/f4/31cff491-e6e3-6f70-a7df-83662fa5f9d2/887158109676.jpg/80x80bb.webp",
+        "appleID": "bad-boys-theme-from-cops/1718313052"
+    },
+    {
+        "ranking": "38",
+        "title": "Как к себе домой (La La La La)",
+        "artist": "МОТ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/56/92/a1/5692a198-d684-1d71-eabe-594f21925d36/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%BA%D0%B0%D0%BA-%D0%BA-%D1%81%D0%B5%D0%B1%D0%B5-%D0%B4%D0%BE%D0%BC%D0%BE%D0%B9-la-la-la-la/1459253658"
+    },
+    {
+        "ranking": "39",
+        "title": "Камин",
+        "artist": "EMIN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+    },
+    {
+        "ranking": "40",
+        "title": "Somewhere Only We Know (Remastered 2024)",
+        "artist": "Keane",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6f/7a/fd/6f7afdfd-1699-0a38-4714-e9be679c9d41/24UMGIM07866.rgb.jpg/80x80bb.webp",
+        "appleID": "somewhere-only-we-know-remastered-2024/1729803393"
+    },
+    {
+        "ranking": "41",
+        "title": "Sen gerek (feat. Mekan Atayev)",
+        "artist": "DZ-ED",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/a4/52/6ea45229-ed74-a71b-ea61-1bba8a23c2b3/artwork.jpg/80x80bb.webp",
+        "appleID": "sen-gerek-feat-mekan-atayev/1841579062"
+    },
+    {
+        "ranking": "42",
+        "title": "Сопрано (feat. Ани Лорак)",
+        "artist": "МОТ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5c/f6/9b/5cf69b78-e0f2-702b-6ccb-3108397ca4a3/cover.jpg/80x80bb.webp",
+        "appleID": "%D1%81%D0%BE%D0%BF%D1%80%D0%B0%D0%BD%D0%BE-feat-%D0%B0%D0%BD%D0%B8-%D0%BB%D0%BE%D1%80%D0%B0%D0%BA/1197355317"
+    },
+    {
+        "ranking": "43",
+        "title": "Bad Dreams",
+        "artist": "Teddy Swims",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+        "appleID": "bad-dreams/1765799904"
+    },
+    {
+        "ranking": "44",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "appleID": "timeless/1770380890"
+    },
+    {
+        "ranking": "45",
+        "title": "Kuyseyan seni",
+        "artist": "Maksat Esenow",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/2f/d4/002fd40e-136f-267a-991e-042267ae3d2d/0.jpg/80x80bb.webp",
+        "appleID": "kuyseyan-seni/1854090266"
+    },
+    {
+        "ranking": "46",
+        "title": "VEM NO PIQUE",
+        "artist": "MGD",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/77/a0/9377a062-9167-5767-e17a-8c2f6f92ffb6/cover.jpg/80x80bb.webp",
+        "appleID": "vem-no-pique/1819703662"
+    },
+    {
+        "ranking": "47",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+        "appleID": "shape-of-you/1193701392"
+    },
+    {
+        "ranking": "48",
+        "title": "Şiire Gazele",
+        "artist": "Ahmet Kaya",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/d4/17/3ad417fb-2198-8c37-8719-0ead9ad42cc3/cover.jpg/80x80bb.webp",
+        "appleID": "%C5%9Fiire-gazele/622189665"
+    },
+    {
+        "ranking": "49",
+        "title": "Капкан",
+        "artist": "МОТ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f6/55/4d/f6554d6a-dd86-c5e3-b47a-9befb8fc564f/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769"
+    },
+    {
+        "ranking": "50",
+        "title": "днями и ночами",
+        "artist": "BUSHIDO ZHO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/9f/02/e39f0246-df23-71a6-b36a-ca5114f9b721/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%B4%D0%BD%D1%8F%D0%BC%D0%B8-%D0%B8-%D0%BD%D0%BE%D1%87%D0%B0%D0%BC%D0%B8/1856863157"
+    },
+    {
+        "ranking": "51",
+        "title": "Dymmaly (feat. DZ-ED)",
+        "artist": "Serdar Agaly",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3d/cb/a4/3dcba468-9155-9062-a051-4393c68ec6b0/0.jpg/80x80bb.webp",
+        "appleID": "dymmaly-feat-dz-ed/1640914100"
+    },
+    {
+        "ranking": "52",
+        "title": "Garaňky (feat. DZ-ED)",
+        "artist": "Taze Yuz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/30/dc/5230dc47-836d-6496-db91-5bd03a4ff848/artwork.jpg/80x80bb.webp",
+        "appleID": "gara%C5%88ky-feat-dz-ed/1792707900"
+    },
+    {
+        "ranking": "53",
+        "title": "неболей",
+        "artist": "Basta",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/e3/fe/33e3fe9e-3caf-7bce-1739-8f72441718f4/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D0%B5%D0%B1%D0%BE%D0%BB%D0%B5%D0%B9/1525792085"
+    },
+    {
+        "ranking": "54",
+        "title": "Жиганская",
+        "artist": "Jakone",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/f2/f5/ebf2f50d-1e86-3d19-f855-6a01ec763c8c/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%B6%D0%B8%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F/1848001063"
+    },
+    {
+        "ranking": "55",
+        "title": "Your Voice (Radio Edit)",
+        "artist": "Caiiro",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/6a/4a/656a4ae8-9531-ea81-1b28-f647b4e1d5eb/195081808154.jpg/80x80bb.webp",
+        "appleID": "your-voice-radio-edit/1521630368"
+    },
+    {
+        "ranking": "56",
+        "title": "секунду назад",
+        "artist": "Nochnye Snaipery",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e6/84/3f/e6843f95-9283-90b6-bbbe-a434a4e1b12b/cover.jpg/80x80bb.webp",
+        "appleID": "%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D1%83-%D0%BD%D0%B0%D0%B7%D0%B0%D0%B4/1487432606"
+    },
+    {
+        "ranking": "57",
+        "title": "Ortak",
+        "artist": "Melike Şahin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/86/da/1486dae4-97c6-054b-bda8-1ee448b44f40/198704059223.jpg/80x80bb.webp",
+        "appleID": "ortak/1811595359"
+    },
+    {
+        "ranking": "58",
+        "title": "End of Beginning",
+        "artist": "Djo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
+        "appleID": "end-of-beginning/1632448108"
+    },
+    {
+        "ranking": "59",
+        "title": "Под Новый Год",
+        "artist": "Betsy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/27/e0/7727e017-1cd7-8687-b3fb-42ef3d68dd1b/199806572917.jpg/80x80bb.webp",
+        "appleID": "%D0%BF%D0%BE%D0%B4-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B3%D0%BE%D0%B4/1856999671"
+    },
+    {
+        "ranking": "60",
+        "title": "Piece By Piece",
+        "artist": "Pharrell Williams",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/65/d8/9a65d89d-7ced-b7e6-b64f-127defaf3b83/196872424775.jpg/80x80bb.webp",
+        "appleID": "piece-by-piece/1766522028"
+    },
+    {
+        "ranking": "61",
+        "title": "История",
+        "artist": "Misha Marvin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/db/70/9b/db709bae-ee2b-6f22-18a2-d6821c681e3a/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/1278937214"
+    },
+    {
+        "ranking": "62",
+        "title": "Believer",
+        "artist": "Imagine Dragons",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
+        "appleID": "believer/1411628233"
+    },
+    {
+        "ranking": "63",
+        "title": "Snowman",
+        "artist": "Sia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
+        "appleID": "snowman/1440098017"
+    },
+    {
+        "ranking": "64",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "appleID": "lose-control/1691699836"
+    },
+    {
+        "ranking": "65",
+        "title": "Kalimba de Luna",
+        "artist": "Boney M.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/21/d9/4d/dj.ncdclret.jpg/80x80bb.webp",
+        "appleID": "kalimba-de-luna/220140155"
+    },
+    {
+        "ranking": "66",
+        "title": "Him & I",
+        "artist": "G-Eazy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e9/62/44/e96244d5-9440-efb6-c54d-954569a9e12f/886446765877.jpg/80x80bb.webp",
+        "appleID": "him-i/1308645368"
+    },
+    {
+        "ranking": "67",
+        "title": "Houdini",
+        "artist": "Dua Lipa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/af/ea/ddafeab5-797a-5b6f-7735-f96c537b45e0/5054197894091.jpg/80x80bb.webp",
+        "appleID": "houdini/1714502827"
+    },
+    {
+        "ranking": "68",
+        "title": "Yüreğim Ağlar",
+        "artist": "Amo988",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/a9/8c/1da98c0f-5c9c-f3e5-0652-7009fd7f8bbc/cover.jpg/80x80bb.webp",
+        "appleID": "y%C3%BCre%C4%9Fim-a%C4%9Flar/1798225607"
+    },
+    {
+        "ranking": "69",
+        "title": "Dubai Monaco (feat. Taze Yuz)",
+        "artist": "Durdy Durdyyev",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/b4/c7/b9b4c70b-5cba-beb8-5844-dfb434bb8b7f/artwork.jpg/80x80bb.webp",
+        "appleID": "dubai-monaco-feat-taze-yuz/1833867624"
+    },
+    {
+        "ranking": "70",
+        "title": "NaNaNa",
+        "artist": "Aarne",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/43/aa/1c43aa83-24e4-1fce-78d6-9321256901dc/cover.jpg/80x80bb.webp",
+        "appleID": "nanana/1850117751"
+    },
+    {
+        "ranking": "71",
+        "title": "Sendiň",
+        "artist": "Amalia Zehin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/e8/f2/c5e8f245-5370-bd33-93ec-523802a26428/859776764797_cover.jpg/80x80bb.webp",
+        "appleID": "sendi%C5%88/1701120003"
+    },
+    {
+        "ranking": "72",
+        "title": "Take On Me (2015 Remastered Version)",
+        "artist": "a-ha",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/5b/69/0b5b6991-cd46-7222-fca7-680b17318721/603497888191.jpg/80x80bb.webp",
+        "appleID": "take-on-me-2015-remastered-version/1037562348"
+    },
+    {
+        "ranking": "73",
+        "title": "Будь моим смыслом",
+        "artist": "Flëur",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/7f/1d/567f1d53-5842-5402-84be-c166346d9bd6/859752382953_cover.jpg/80x80bb.webp",
+        "appleID": "%D0%B1%D1%83%D0%B4%D1%8C-%D0%BC%D0%BE%D0%B8%D0%BC-%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%BC/1602236848"
+    },
+    {
+        "ranking": "74",
+        "title": "Seni belledim (feat. Jeren Halnazarowa)",
+        "artist": "MAD Nazarov",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/2d/7d/912d7d7c-3daf-fe24-c3f6-42a0080b883a/artwork.jpg/80x80bb.webp",
+        "appleID": "seni-belledim-feat-jeren-halnazarowa/1813648287"
+    },
+    {
+        "ranking": "75",
+        "title": "Внутренний голос",
+        "artist": "Jeny Vesna",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/65/ba/2a65ba1d-4a6b-a7a8-1ab5-d000270e1155/0.jpg/80x80bb.webp",
+        "appleID": "%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81/1855879378"
+    },
+    {
+        "ranking": "76",
+        "title": "Orom Nadori",
+        "artist": "Shabnami Tojiddin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/a8/24/f4a82426-c2ad-94e8-6f56-f1d134e8d831/8721416000492.png/80x80bb.webp",
+        "appleID": "orom-nadori/1831216773"
+    },
+    {
+        "ranking": "77",
+        "title": "Yerinde Dur",
+        "artist": "Sefo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/7b/52/a27b52a6-aa18-299e-5e55-202b361f8d0a/196873355177.jpg/80x80bb.webp",
+        "appleID": "yerinde-dur/1822502735"
+    },
+    {
+        "ranking": "78",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+        "appleID": "blinding-lights/1488408568"
+    },
+    {
+        "ranking": "79",
+        "title": "Не выноси",
+        "artist": "PUSSYKILLER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/ab/40/b8ab40a5-9a9f-8e6a-25e0-841af0ae412f/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D0%B5-%D0%B2%D1%8B%D0%BD%D0%BE%D1%81%D0%B8/1772666760"
+    },
+    {
+        "ranking": "80",
+        "title": "Icıp otursyn (feat. Hajy Yazmammedow)",
+        "artist": "Aziya Muzik",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/a7/e5/a3a7e580-9e3b-ec3c-4c95-94e004ba218b/artwork.jpg/80x80bb.webp",
+        "appleID": "ic%C4%B1p-otursyn-feat-hajy-yazmammedow/1602041631"
+    },
+    {
+        "ranking": "81",
+        "title": "Raindance",
+        "artist": "Dave",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/24/9949241c-e52c-3018-eae8-c686013a7474/25UM1IM68216.rgb.jpg/80x80bb.webp",
+        "appleID": "raindance/1847992612"
+    },
+    {
+        "ranking": "82",
+        "title": "Спи мой воробушек",
+        "artist": "Alsou",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/19/36/b3/1936b3bf-5d7c-4263-3a92-a21b0f8e80ec/cover.jpg/80x80bb.webp",
+        "appleID": "%D1%81%D0%BF%D0%B8-%D0%BC%D0%BE%D0%B9-%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D1%83%D1%88%D0%B5%D0%BA/1655976448"
+    },
+    {
+        "ranking": "83",
+        "title": "Desert Rose (My Songs Version)",
+        "artist": "Sting",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/7e/03/ec7e03b3-5a19-87d6-b87e-40cf8e530ad2/00602577628740.rgb.jpg/80x80bb.webp",
+        "appleID": "desert-rose-my-songs-version/1457221888"
+    },
+    {
+        "ranking": "84",
+        "title": "С неба (feat. TRIDA)",
+        "artist": "ELMAN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/50/08/7a5008dc-d22b-28a9-166b-723a648c8c12/cover.png/80x80bb.webp",
+        "appleID": "%D1%81-%D0%BD%D0%B5%D0%B1%D0%B0-feat-trida/1809374521"
+    },
+    {
+        "ranking": "85",
+        "title": "Cary Ataballyyew Gorunmezmis",
+        "artist": "Owadan Owaz.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/e7/ee/bde7eee7-94da-004e-102b-eecfdc7c8acf/artwork.jpg/80x80bb.webp",
+        "appleID": "cary-ataballyyew-gorunmezmis/1869895959"
+    },
+    {
+        "ranking": "86",
+        "title": "Apocalypse",
+        "artist": "Cigarettes After Sex",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
+        "appleID": "apocalypse/1217977755"
+    },
+    {
+        "ranking": "87",
+        "title": "Feeling",
+        "artist": "IRIAS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/6a/46/b56a4651-9cd0-58cf-ec66-9850fcbc75e0/cover.jpg/80x80bb.webp",
+        "appleID": "feeling/1850282363"
+    },
+    {
+        "ranking": "88",
+        "title": "I Adore You (feat. Daecolm)",
+        "artist": "HUGEL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+        "appleID": "i-adore-you-feat-daecolm/1756335935"
+    },
+    {
+        "ranking": "89",
+        "title": "I Just Might",
+        "artist": "Bruno Mars",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/80x80bb.webp",
+        "appleID": "i-just-might/1866732800"
+    },
+    {
+        "ranking": "90",
+        "title": "SENTE MAIS (SUPER SLOWED)",
+        "artist": "Eternxlkz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/95/6d/b0956d6c-d860-08f1-7589-4c407df001b0/199538398380.jpg/80x80bb.webp",
+        "appleID": "sente-mais-super-slowed/1829810570"
+    },
+    {
+        "ranking": "91",
+        "title": "Жить красиво",
+        "artist": "MONOVIKA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/86/17/fb86173a-c5cc-78c2-8043-3d19943b9155/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%B6%D0%B8%D1%82%D1%8C-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE/1863517310"
+    },
+    {
+        "ranking": "92",
+        "title": "Golden Brown (Slowed Down Version)",
+        "artist": "The Stranglers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/08/54/63085484-f6d3-49ba-7cf8-0c0dfbf6fad0/5021732873460.jpg/80x80bb.webp",
+        "appleID": "golden-brown-slowed-down-version/1827235586"
+    },
+    {
+        "ranking": "93",
+        "title": "Bir Güldün",
+        "artist": "Emre Fel",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/f8/41/bdf84190-2f32-ac8e-41d8-92d46b4e3b7a/198704817915_Cover.jpg/80x80bb.webp",
+        "appleID": "bir-g%C3%BCld%C3%BCn/1849422195"
+    },
+    {
+        "ranking": "94",
+        "title": "Lean On (feat. DJ Snake & MØ)",
+        "artist": "Major Lazer",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/15/da/6f15da97-5bea-4b90-dc0c-04482f235557/198704078941_Cover.jpg/80x80bb.webp",
+        "appleID": "lean-on-feat-dj-snake-m%C3%B8/1759267930"
+    },
+    {
+        "ranking": "95",
+        "title": "there he go",
+        "artist": "sosocamo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/e5/bc/41e5bc93-3473-4d7f-be6c-2b66c748a21a/663918241417.jpg/80x80bb.webp",
+        "appleID": "there-he-go/1814499079"
+    },
+    {
+        "ranking": "96",
+        "title": "Unuttun mu Beni?",
+        "artist": "Sezen Aksu",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/58/bd/0c58bd95-a824-7aa3-bd83-99642efcd41f/25UMGIM92890.rgb.jpg/80x80bb.webp",
+        "appleID": "unuttun-mu-beni/1834673715"
+    },
+    {
+        "ranking": "97",
+        "title": "Комета",
+        "artist": "JONY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cc/53/5b/cc535bca-c53a-8607-dd16-6f9fa3d4ae55/3616401130894.jpg/80x80bb.webp",
+        "appleID": "%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D0%B0/1570266123"
+    },
+    {
+        "ranking": "98",
+        "title": "Come & Get It",
+        "artist": "Selena Gomez",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/27/1e/02271e27-21e2-d044-1678-2644184681c9/13DMGIM03981.rgb.jpg/80x80bb.webp",
+        "appleID": "come-get-it/1440625020"
+    },
+    {
+        "ranking": "99",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "appleID": "die-with-a-smile/1762656732"
+    },
+    {
+        "ranking": "100",
+        "title": "Woman",
+        "artist": "Doja Cat",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/fe/76/2dfe76da-e6bd-3a2c-d798-5b8a901a67bd/886449410538.jpg/80x80bb.webp",
+        "appleID": "woman/1574004235"
+    }
+]
