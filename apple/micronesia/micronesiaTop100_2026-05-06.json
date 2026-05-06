@@ -1,0 +1,702 @@
+[
+    {
+        "ranking": "1",
+        "title": "Know Your Worth",
+        "artist": "Khalid",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/9c/17/559c17a3-7e4f-5394-370a-50e7401e159a/886448211488.jpg/80x80bb.webp",
+        "appleID": "know-your-worth/1496429735"
+    },
+    {
+        "ranking": "2",
+        "title": "Woman",
+        "artist": "Kane Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/70/3f/8a703f6a-1878-6e9f-6cfa-b01a97eac71c/196874109106.jpg/80x80bb.webp",
+        "appleID": "woman/1882549709"
+    },
+    {
+        "ranking": "3",
+        "title": "Lemonade (feat. NAV)",
+        "artist": "Internet Money",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/bc/ed/78bced7d-4b74-f314-b8ee-58e4109ea214/842812133572.jpg/80x80bb.webp",
+        "appleID": "lemonade-feat-nav/1711562198"
+    },
+    {
+        "ranking": "4",
+        "title": "If You Never Call Again",
+        "artist": "Deeps",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/5d/dd/395ddd27-baf5-ade7-3a44-2a27f8989fc3/859796673468_cover.jpg/80x80bb.webp",
+        "appleID": "if-you-never-call-again/1778282878"
+    },
+    {
+        "ranking": "5",
+        "title": "Work from Home (feat. Ty Dolla $ign)",
+        "artist": "Fifth Harmony",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/3b/da/733bda99-d0c8-02b2-db8f-ae9a87a5d933/886445740448.jpg/80x80bb.webp",
+        "appleID": "work-from-home-feat-ty-dolla-%24ign/1087445213"
+    },
+    {
+        "ranking": "6",
+        "title": "Don't",
+        "artist": "Bryson Tiller",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/26/4a/f9/264af9b7-813d-4b08-2822-de8b26c0e188/886445447811.jpg/80x80bb.webp",
+        "appleID": "dont/1031354882"
+    },
+    {
+        "ranking": "7",
+        "title": "Yippee Ki Yay (feat. Anoyd & International Santo)",
+        "artist": "Chris Webby",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a9/5a/95/a95a9530-9f65-388c-a3e1-071f37ea4abe/27742.jpg/80x80bb.webp",
+        "appleID": "yippee-ki-yay-feat-anoyd-international-santo/1665459760"
+    },
+    {
+        "ranking": "8",
+        "title": "Up Down (Do This All Day) [feat. B.o.B]",
+        "artist": "T-Pain",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a6/b3/4a/a6b34a5c-e96e-9f0d-e551-5a443b4a3332/886444759632.jpg/80x80bb.webp",
+        "appleID": "up-down-do-this-all-day-feat-b-o-b/926946170"
+    },
+    {
+        "ranking": "9",
+        "title": "When It Rains It Pours",
+        "artist": "Luke Combs",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/83/bf/3c83bf3e-bf4a-7e69-5668-d55f5a8e38e0/886446460840.jpg/80x80bb.webp",
+        "appleID": "when-it-rains-it-pours/1228888143"
+    },
+    {
+        "ranking": "10",
+        "title": "Why Kiki?",
+        "artist": "Iam Tongi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/cd/44/dacd4464-5b04-3021-6c58-7a31c0f139e6/43396644861.jpg/80x80bb.webp",
+        "appleID": "why-kiki/1837512195"
+    },
+    {
+        "ranking": "11",
+        "title": "Fair Trade (feat. Travis Scott)",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+        "appleID": "fair-trade-feat-travis-scott/1584281493"
+    },
+    {
+        "ranking": "12",
+        "title": "The Party & The After Party",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/d5/13/66d513dd-3cb0-b86b-4d11-1fbab2e6a639/12UMGIM54989.rgb.jpg/80x80bb.webp",
+        "appleID": "the-party-the-after-party/1714908989"
+    },
+    {
+        "ranking": "13",
+        "title": "My Oasis (feat. Burna Boy)",
+        "artist": "Sam Smith",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/13/1b/ad/131bad2f-0e38-f43e-cec3-66eaf8421298/20UMGIM60654.rgb.jpg/80x80bb.webp",
+        "appleID": "my-oasis-feat-burna-boy/1524008130"
+    },
+    {
+        "ranking": "14",
+        "title": "Gonna Make You Sweat (Everybody Dance Now) [feat. Freedom Williams]",
+        "artist": "C+C Music Factory",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/b0/8f/2cb08f9a-5d78-1742-125f-99db30768100/mzi.qzhckwut.jpg/80x80bb.webp",
+        "appleID": "gonna-make-you-sweat-everybody-dance-now-feat-freedom/193044536"
+    },
+    {
+        "ranking": "15",
+        "title": "Rasputin",
+        "artist": "Boney M.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/86/45/b786452a-a723-eaed-8170-cdc261367eb7/886443575578.jpg/80x80bb.webp",
+        "appleID": "rasputin/553356946"
+    },
+    {
+        "ranking": "16",
+        "title": "Suspicious Minds",
+        "artist": "Dwight Yoakam",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/66/34/5b663444-bce9-36a6-cc28-f7977b842116/603497892372.jpg/80x80bb.webp",
+        "appleID": "suspicious-minds/975754696"
+    },
+    {
+        "ranking": "17",
+        "title": "Lost in the Blue (feat. Nina Blaze)",
+        "artist": "Clara Lincoln",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/b2/28/d0b228fb-ead2-b8d3-65ab-305f7ac68b11/cover.jpg/80x80bb.webp",
+        "appleID": "https://music.apple.com/us/artist/clara-lincoln/1858670844"
+    },
+    {
+        "ranking": "18",
+        "title": "You Da One",
+        "artist": "Rihanna",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ae/46/51/ae465169-b0a4-3c10-42a0-63e4448d1508/16UMGIM59230.rgb.jpg/80x80bb.webp",
+        "appleID": "you-da-one/1443061969"
+    },
+    {
+        "ranking": "19",
+        "title": "New Flame (feat. Usher & Rick Ross)",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a3/3a/e3/a33ae3c7-821c-1531-0436-305fcd91f7fe/886444792073.jpg/80x80bb.webp",
+        "appleID": "new-flame-feat-usher-rick-ross/920685997"
+    },
+    {
+        "ranking": "20",
+        "title": "Chiquitita",
+        "artist": "ABBA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f8/a6/60f8a6bc-e875-238d-f2f8-f34a6034e6d2/14UMGIM07615.rgb.jpg/80x80bb.webp",
+        "appleID": "chiquitita/1422648967"
+    },
+    {
+        "ranking": "21",
+        "title": "LET 'EM KNOW",
+        "artist": "T.I.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/26/97/4e26974a-dc41-512d-f66a-159e9912dd27/199316448641_cover.jpg/80x80bb.webp",
+        "appleID": "let-em-know/1870116790"
+    },
+    {
+        "ranking": "22",
+        "title": "Slow Down",
+        "artist": "Chase Atlantic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/90/79/31907989-2f32-9e91-6f58-69d65ee2371e/5059033998360.jpg/80x80bb.webp",
+        "appleID": "slow-down/1708868572"
+    },
+    {
+        "ranking": "23",
+        "title": "DIE FOR ME",
+        "artist": "Chase Atlantic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/7c/f2/7a7cf28e-d054-8fa8-4e8d-608a0464b8e2/24CRGIM45554.rgb.jpg/80x80bb.webp",
+        "appleID": "die-for-me/1762099567"
+    },
+    {
+        "ranking": "24",
+        "title": "Head Over Boots",
+        "artist": "Jon Pardi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/6f/2f/c16f2fbe-b608-e931-1d2f-1171bdf2f7cc/16UMGIM11343.rgb.jpg/80x80bb.webp",
+        "appleID": "head-over-boots/1440847742"
+    },
+    {
+        "ranking": "25",
+        "title": "Morena",
+        "artist": "CARMELLE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/d0/b1/56d0b16a-87c2-44fb-4026-65e19dc95199/820200978271.jpg/80x80bb.webp",
+        "appleID": "morena/1893908498"
+    },
+    {
+        "ranking": "26",
+        "title": "Whatchamacallit (feat. Chris Brown)",
+        "artist": "Ella Mai",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/44/c4/c0/44c4c08a-2d71-2540-1e8d-e013093a3f34/18UMGIM59466.rgb.jpg/80x80bb.webp",
+        "appleID": "whatchamacallit-feat-chris-brown/1436555508"
+    },
+    {
+        "ranking": "27",
+        "title": "Hit & Run (Solo Version)",
+        "artist": "Shenseea",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/e7/09/d1e70996-be1f-a96a-3015-2d8f55a60040/24UMGIM33356.rgb.jpg/80x80bb.webp",
+        "appleID": "hit-run-solo-version/1737870691"
+    },
+    {
+        "ranking": "28",
+        "title": "Primadonna",
+        "artist": "Marina and The Diamonds",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/dc/88/4bdc8837-8831-9277-a89c-db947c21ea36/825646580118.jpg/80x80bb.webp",
+        "appleID": "primadonna/534340044"
+    },
+    {
+        "ranking": "29",
+        "title": "Girls Need Love",
+        "artist": "Summer Walker",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/80x80bb.webp",
+        "appleID": "girls-need-love/1438765134"
+    },
+    {
+        "ranking": "30",
+        "title": "E85",
+        "artist": "Don Toliver",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/e5/c6/e8e5c690-a958-622e-eb62-0dce6059300e/075679599360.jpg/80x80bb.webp",
+        "appleID": "e85/1871258330"
+    },
+    {
+        "ranking": "31",
+        "title": "Swim",
+        "artist": "Chase Atlantic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d1/36/7e/d1367ea2-40e5-c689-5241-290f1b0daaf9/093624914174.jpg/80x80bb.webp",
+        "appleID": "swim/1290756774"
+    },
+    {
+        "ranking": "32",
+        "title": "BLVD BOY",
+        "artist": "Travis Thompson",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/70/67/327067e5-a8b9-e792-aead-42805c34e03d/886449217359.jpg/80x80bb.webp",
+        "appleID": "blvd-boy/1577454533"
+    },
+    {
+        "ranking": "33",
+        "title": "People",
+        "artist": "Libianca",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
+        "appleID": "people/1658390607"
+    },
+    {
+        "ranking": "34",
+        "title": "Better",
+        "artist": "Khalid",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/13/f8/24/13f8244c-03cb-e123-9d7e-927484170344/886447357385.jpg/80x80bb.webp",
+        "appleID": "better/1438913057"
+    },
+    {
+        "ranking": "35",
+        "title": "NORMAL",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "normal/1868862387"
+    },
+    {
+        "ranking": "36",
+        "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+        "artist": "Post Malone",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/80x80bb.webp",
+        "appleID": "sunflower-spider-man-into-the-spider-verse/1445949267"
+    },
+    {
+        "ranking": "37",
+        "title": "Calm Down",
+        "artist": "Rema",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/80x80bb.webp",
+        "appleID": "calm-down/1640501238"
+    },
+    {
+        "ranking": "38",
+        "title": "Let Your Love Flow",
+        "artist": "The Bellamy Brothers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/7f/76/a37f7651-374a-633a-63d5-72d1b00cecf9/715187755420.png/80x80bb.webp",
+        "appleID": "let-your-love-flow/73988389"
+    },
+    {
+        "ranking": "39",
+        "title": "Lady Soul",
+        "artist": "Finn Gruva",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/d5/e3/4ed5e337-559f-b90d-b668-1f96485cb069/9611.jpg/80x80bb.webp",
+        "appleID": "lady-soul/1765053879"
+    },
+    {
+        "ranking": "40",
+        "title": "Lose My Mind (feat. Doja Cat)",
+        "artist": "Don Toliver",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/91/da/a691dac7-4cb7-82f5-0eda-e37b96f63f55/075679610720.jpg/80x80bb.webp",
+        "appleID": "lose-my-mind-feat-doja-cat/1810796700"
+    },
+    {
+        "ranking": "41",
+        "title": "Sad Songs (Say So Much)",
+        "artist": "Elton John",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/d0/71/c8d071c5-9373-fe47-9e9c-711053d947cc/00044007711125.rgb.jpg/80x80bb.webp",
+        "appleID": "sad-songs-say-so-much/1440766277"
+    },
+    {
+        "ranking": "42",
+        "title": "Psycho (feat. Ty Dolla $ign)",
+        "artist": "Post Malone",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/80x80bb.webp",
+        "appleID": "psycho-feat-ty-dolla-%24ign/1373517312"
+    },
+    {
+        "ranking": "43",
+        "title": "Rebel (feat. Shenseea)",
+        "artist": "Zum",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/1c/a8/911ca8df-2598-edfa-bcd9-28dd51721215/0.jpg/80x80bb.webp",
+        "appleID": "rebel-feat-shenseea/1572394671"
+    },
+    {
+        "ranking": "44",
+        "title": "Ciao!",
+        "artist": "Bryson Tiller",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/f3/99/fff39926-46a2-db5e-b0b8-a6b248b09d90/196871923804.jpg/80x80bb.webp",
+        "appleID": "ciao/1735997149"
+    },
+    {
+        "ranking": "45",
+        "title": "CALYPSO",
+        "artist": "Bryson Tiller",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/f3/99/fff39926-46a2-db5e-b0b8-a6b248b09d90/196871923804.jpg/80x80bb.webp",
+        "appleID": "calypso/1735997783"
+    },
+    {
+        "ranking": "46",
+        "title": "HIGHEST IN THE ROOM",
+        "artist": "Travis Scott",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+        "appleID": "highest-in-the-room/1481874619"
+    },
+    {
+        "ranking": "47",
+        "title": "Pink + White",
+        "artist": "Frank Ocean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
+        "appleID": "pink-white/1146195714"
+    },
+    {
+        "ranking": "48",
+        "title": "Love In This Club (feat. Young Jeezy)",
+        "artist": "USHER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/2a/4e/112a4ebd-2cae-d2b9-9146-66eb8ed095d1/mzi.rlfesxkp.jpg/80x80bb.webp",
+        "appleID": "love-in-this-club-feat-young-jeezy/281698335"
+    },
+    {
+        "ranking": "49",
+        "title": "Lost Me",
+        "artist": "GIVĒON",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/15/77/9a157761-5d28-9737-1772-56dc04127f15/886449310944.jpg/80x80bb.webp",
+        "appleID": "lost-me/1627366438"
+    },
+    {
+        "ranking": "50",
+        "title": "Save Your Tears",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+        "appleID": "save-your-tears/1499378613"
+    },
+    {
+        "ranking": "51",
+        "title": "Snooze",
+        "artist": "SZA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "appleID": "snooze/1657869492"
+    },
+    {
+        "ranking": "52",
+        "title": "More Than A Woman (SG's Paradise Edit)",
+        "artist": "Bee Gees",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/f8/79/f1f8794c-4342-f7a7-d05a-c638993c2714/21UMGIM51107.rgb.jpg/80x80bb.webp",
+        "appleID": "more-than-a-woman-sgs-paradise-edit/1571833431"
+    },
+    {
+        "ranking": "53",
+        "title": "Broken Clocks",
+        "artist": "SZA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/28/8f/20288f6f-fbf2-fb0f-6732-e7d334e1ff50/886446548432.jpg/80x80bb.webp",
+        "appleID": "broken-clocks/1239976610"
+    },
+    {
+        "ranking": "54",
+        "title": "euphoria",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/f5/d8/c5f5d812-ee54-9534-1e4c-bd78877d87ad/24UMGIM50373.rgb.jpg/80x80bb.webp",
+        "appleID": "euphoria/1744024751"
+    },
+    {
+        "ranking": "55",
+        "title": "Nobody's Perfect (feat. Missy Elliott)",
+        "artist": "J. Cole",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/4e/6c/3c4e6c35-c1cf-49f9-8cbb-524b1db743f5/18UMGIM69899.rgb.jpg/80x80bb.webp",
+        "appleID": "nobodys-perfect-feat-missy-elliott/1438893013"
+    },
+    {
+        "ranking": "56",
+        "title": "Get Along Better (feat. Ty Dolla $ign)",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+        "appleID": "get-along-better-feat-ty-dolla-%24ign/1584282050"
+    },
+    {
+        "ranking": "57",
+        "title": "New Rules",
+        "artist": "Dua Lipa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+        "appleID": "new-rules/1228739609"
+    },
+    {
+        "ranking": "58",
+        "title": "Thinkin Bout You",
+        "artist": "Frank Ocean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/80x80bb.webp",
+        "appleID": "thinkin-bout-you/1440766128"
+    },
+    {
+        "ranking": "59",
+        "title": "Journey",
+        "artist": "Aiesha",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/ea/6b/d0ea6b55-c12a-7629-f0a4-a2857b38b1d1/0.jpg/80x80bb.webp",
+        "appleID": "journey/1837951297"
+    },
+    {
+        "ranking": "60",
+        "title": "30 For 30 (with Kendrick Lamar)",
+        "artist": "SZA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/bd/88/97bd8804-7d3e-e6c8-0532-ff22877b931c/196871766890.jpg/80x80bb.webp",
+        "appleID": "30-for-30-with-kendrick-lamar/1786643047"
+    },
+    {
+        "ranking": "61",
+        "title": "Diamonds",
+        "artist": "Sam Smith",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/f3/9b/a6f39b28-0be0-383b-5987-a92c5ce14b14/20UMGIM49499.rgb.jpg/80x80bb.webp",
+        "appleID": "diamonds/1531499529"
+    },
+    {
+        "ranking": "62",
+        "title": "Heart Of A Woman",
+        "artist": "Summer Walker",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/2a/d9/9f2ad9e4-8b12-0759-edbf-962d3064168e/24UM1IM12906.rgb.jpg/80x80bb.webp",
+        "appleID": "heart-of-a-woman/1774543831"
+    },
+    {
+        "ranking": "63",
+        "title": "September",
+        "artist": "James Arthur",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/9e/3a/f29e3a22-ed78-a55c-97d6-d56def0bef25/886449290833.jpg/80x80bb.webp",
+        "appleID": "september/1568483625"
+    },
+    {
+        "ranking": "64",
+        "title": "Over My Head (Remastered)",
+        "artist": "Fleetwood Mac",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/cc/0b/64cc0b3b-92fb-66cf-1240-e2afba504e4b/603497863105.jpg/80x80bb.webp",
+        "appleID": "over-my-head-remastered/1308648841"
+    },
+    {
+        "ranking": "65",
+        "title": "Get You (feat. Kali Uchis)",
+        "artist": "Daniel Caesar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/cd/1a/b6cd1a5b-83af-a1e2-0ad7-ea530fcf2522/859722261219.jpg/80x80bb.webp",
+        "appleID": "get-you-feat-kali-uchis/1799080775"
+    },
+    {
+        "ranking": "66",
+        "title": "How Long",
+        "artist": "Charlie Puth",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/e2/1b/a8e21b3b-9c8d-2974-2318-6bcd4c9d2370/075679884336.jpg/80x80bb.webp",
+        "appleID": "how-long/1293230534"
+    },
+    {
+        "ranking": "67",
+        "title": "Stay",
+        "artist": "CARMELLE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/39/fb/2339fb09-b956-c2dc-d336-ffcfb2a99d15/820200542458.jpg/80x80bb.webp",
+        "appleID": "stay/1882856309"
+    },
+    {
+        "ranking": "68",
+        "title": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/05/1e/30051e57-a63a-3acc-4b30-42568293f5f7/15UMGIM36514.rgb.jpg/80x80bb.webp",
+        "appleID": "cant-feel-my-face/1440858500"
+    },
+    {
+        "ranking": "69",
+        "title": "Jerry Sprunger",
+        "artist": "Tory Lanez",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/5c/4b/d55c4b51-a191-2e6b-04a5-b04867de364c/19UMGIM98546.rgb.jpg/80x80bb.webp",
+        "appleID": "jerry-sprunger/1486710890"
+    },
+    {
+        "ranking": "70",
+        "title": "Call Out My Name",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/80x80bb.webp",
+        "appleID": "call-out-my-name/1363310482"
+    },
+    {
+        "ranking": "71",
+        "title": "Hopelessly Devoted to You",
+        "artist": "Olivia Newton-John",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/d5/dc/25d5dc67-bf45-6e42-510e-bcf6bcee1cda/00602547377951.rgb.jpg/80x80bb.webp",
+        "appleID": "hopelessly-devoted-to-you/1440844697"
+    },
+    {
+        "ranking": "72",
+        "title": "For You I Will",
+        "artist": "Monica",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/8d/12/58/mzi.wcwurvhr.jpg/80x80bb.webp",
+        "appleID": "for-you-i-will/258597158"
+    },
+    {
+        "ranking": "73",
+        "title": "Amen (feat. Teezo Touchdown)",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/50/ee/2150ee84-62c3-4190-7dfa-da30abd98ac8/23UM1IM09862.rgb.jpg/80x80bb.webp",
+        "appleID": "amen-feat-teezo-touchdown/1710685762"
+    },
+    {
+        "ranking": "74",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/ae/7c/26ae7c91-3ea9-a3d4-444b-93fb563b3d48/24UM1IM01029.rgb.jpg/80x80bb.webp",
+        "appleID": "dancing-in-the-flames/1768635695"
+    },
+    {
+        "ranking": "75",
+        "title": "JACKIE BROWN",
+        "artist": "Brent Faiyaz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/e5/8b/23e58bc2-e1b3-e83d-d0b2-b0685a88fbd9/dj.cnxxokoa.jpg/80x80bb.webp",
+        "appleID": "jackie-brown/1629943110"
+    },
+    {
+        "ranking": "76",
+        "title": "Super Rich Kids (feat. Earl Sweatshirt)",
+        "artist": "Frank Ocean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/80x80bb.webp",
+        "appleID": "super-rich-kids-feat-earl-sweatshirt/1440766411"
+    },
+    {
+        "ranking": "77",
+        "title": "Been Away",
+        "artist": "Brent Faiyaz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/e2/b2/a4e2b245-0296-b072-1700-e3ebbff687d0/193436188333_01_img001.jpg/80x80bb.webp",
+        "appleID": "been-away/1488014197"
+    },
+    {
+        "ranking": "78",
+        "title": "Rambo",
+        "artist": "Bryson Tiller",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/26/4a/f9/264af9b7-813d-4b08-2822-de8b26c0e188/886445447811.jpg/80x80bb.webp",
+        "appleID": "rambo/1031355366"
+    },
+    {
+        "ranking": "79",
+        "title": "Running To You",
+        "artist": "Eddie Dalton",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/46/75/9046758d-e934-f928-6519-cfbf4c96f84d/artwork.jpg/80x80bb.webp",
+        "appleID": "running-to-you/1884960541"
+    },
+    {
+        "ranking": "80",
+        "title": "Her Way",
+        "artist": "PARTYNEXTDOOR",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8b/ac/b2/8bacb2b9-0ff0-ac65-bbe2-58baef5abfcb/27496.jpg/80x80bb.webp",
+        "appleID": "her-way/1662164516"
+    },
+    {
+        "ranking": "81",
+        "title": "Nikes",
+        "artist": "Frank Ocean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
+        "appleID": "nikes/1146195712"
+    },
+    {
+        "ranking": "82",
+        "title": "ICE AGE (FEAT. TRAVIS SCOTT)",
+        "artist": "Don Toliver",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/3c/5d/223c5d96-501e-040e-a34d-0608e6e5c4ff/075679638434.jpg/80x80bb.webp",
+        "appleID": "ice-age-feat-travis-scott/1753901161"
+    },
+    {
+        "ranking": "83",
+        "title": "Don't Know How",
+        "artist": "PARTYNEXTDOOR",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d1/b0/20/d1b0204f-e5b4-6e58-2024-6d1b1c75423f/27498.jpg/80x80bb.webp",
+        "appleID": "dont-know-how/1662161603"
+    },
+    {
+        "ranking": "84",
+        "title": "Penthouse Red",
+        "artist": "Tory Lanez",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/6a/0a/1c6a0a2d-a614-33ff-e4fd-a2b1870f7771/20UMGIM22468.rgb.jpg/80x80bb.webp",
+        "appleID": "penthouse-red/1506270417"
+    },
+    {
+        "ranking": "85",
+        "title": "HOW DOES IT FEEL?",
+        "artist": "The Kid LAROI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/d6/f5/9dd6f561-8f74-a027-cfbd-64aa8e30fa64/196873108346.jpg/80x80bb.webp",
+        "appleID": "how-does-it-feel/1820029404"
+    },
+    {
+        "ranking": "86",
+        "title": "Undefeated",
+        "artist": "charlieonnafriday",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/77/b6/b777b627-332d-96aa-9c68-771d02dcb001/23UM1IM02689.rgb.jpg/80x80bb.webp",
+        "appleID": "undefeated/1705460934"
+    },
+    {
+        "ranking": "87",
+        "title": "What You Need",
+        "artist": "Don Toliver",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/ca/a0/fccaa0f7-0c60-0f80-ab06-5b3c7e23e240/075679767868.jpg/80x80bb.webp",
+        "appleID": "what-you-need/1587804195"
+    },
+    {
+        "ranking": "88",
+        "title": "Always Forever",
+        "artist": "Bryson Tiller",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/47/b9/8147b9a0-ceef-b950-c72b-b3ebbd48115a/886447864609.jpg/80x80bb.webp",
+        "appleID": "always-forever/1533349972"
+    },
+    {
+        "ranking": "89",
+        "title": "The Cut Off (feat. kiLL edward)",
+        "artist": "J. Cole",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/f4/a2/04f4a2ca-81d1-a258-0c70-ee555840bc15/18UMGIM22943.rgb.jpg/80x80bb.webp",
+        "appleID": "the-cut-off-feat-kill-edward/1373858926"
+    },
+    {
+        "ranking": "90",
+        "title": "Explode",
+        "artist": "REDZED",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/c2/73/acc27332-91b0-2825-432b-06fee71933ff/cover.jpg/80x80bb.webp",
+        "appleID": "explode/1538018136"
+    },
+    {
+        "ranking": "91",
+        "title": "Kiss Kiss (feat. T-Pain)",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2f/ec/dd/2fecdd59-1ca1-47c1-a945-2969eb0d347b/888880280336.jpg/80x80bb.webp",
+        "appleID": "kiss-kiss-feat-t-pain/267264869"
+    },
+    {
+        "ranking": "92",
+        "title": "Young Dumb & Broke",
+        "artist": "Khalid",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/45/5a/f8455a71-8307-aa9a-9c95-3d22efe0804f/886446326146.jpg/80x80bb.webp",
+        "appleID": "young-dumb-broke/1200868874"
+    },
+    {
+        "ranking": "93",
+        "title": "Thank You Lord for Your Blessings On Me",
+        "artist": "Jeff & Sheri Easter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/ec/ad/b6ecad3a-e86b-5d31-1e8e-6b86cb035ae2/mzi.sxwsxubj.jpg/80x80bb.webp",
+        "appleID": "thank-you-lord-for-your-blessings-on-me/292401936"
+    },
+    {
+        "ranking": "94",
+        "title": "One Day At a Time",
+        "artist": null,
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/70/37/dd/mzi.svmtbqlh.jpg/80x80bb.webp",
+        "appleID": "one-day-at-a-time/334010032"
+    },
+    {
+        "ranking": "95",
+        "title": "Breakin' Dishes",
+        "artist": "Rihanna",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/80x80bb.webp",
+        "appleID": "breakin-dishes/1441154440"
+    },
+    {
+        "ranking": "96",
+        "title": "One Love / People Get Ready",
+        "artist": "Bob Marley & The Wailers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/c2/0d/3cc20dcc-8f4e-f060-36dd-7de52a7ec8fe/12UMGIM14712.rgb.jpg/80x80bb.webp",
+        "appleID": "one-love-people-get-ready/1469576015"
+    },
+    {
+        "ranking": "97",
+        "title": "Star Shopping",
+        "artist": "Lil Peep",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/2b/9d/e52b9dd4-aad5-1c9c-2343-6215416e797c/197189939204.jpg/80x80bb.webp",
+        "appleID": "star-shopping/1709761157"
+    },
+    {
+        "ranking": "98",
+        "title": "We Can't Stop",
+        "artist": "Miley Cyrus",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/e0/84/e3e08400-2d03-75f9-6b8b-a3345452aa98/886444197816.jpg/80x80bb.webp",
+        "appleID": "we-cant-stop/1460315065"
+    },
+    {
+        "ranking": "99",
+        "title": "Free Fall (feat. J. Cole)",
+        "artist": "Tems",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/d4/91/11d4914d-4d97-91e8-e9db-690e0951f11c/196871994477.jpg/80x80bb.webp",
+        "appleID": "free-fall-feat-j-cole/1750362205"
+    },
+    {
+        "ranking": "100",
+        "title": "Liquor Store In The Sky (feat. Freddie Gibbs)",
+        "artist": "BJ the Chicago Kid",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/72/0f/aa720f8b-886e-8676-69fe-836f8ebe3151/196589843807.jpg/80x80bb.webp",
+        "appleID": "liquor-store-in-the-sky-feat-freddie-gibbs/1690472666"
+    }
+]
