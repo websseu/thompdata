@@ -1,0 +1,702 @@
+[
+    {
+        "ranking": "1",
+        "title": "Something In The Water",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/2c/95/492c9561-9df1-bdfc-ad24-00e9f2403db2/196874328361.jpg/80x80bb.webp",
+        "appleID": "something-in-the-water/6764419286"
+    },
+    {
+        "ranking": "2",
+        "title": "SWIM",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "swim/1868862384"
+    },
+    {
+        "ranking": "3",
+        "title": "Stay",
+        "artist": "Dezine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/36/12/d6361296-d467-ea3e-9cae-451d5d6cc780/0.jpg/80x80bb.webp",
+        "appleID": "stay/1890899502"
+    },
+    {
+        "ranking": "4",
+        "title": "Body to Body",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "body-to-body/1868862376"
+    },
+    {
+        "ranking": "5",
+        "title": "Risk It All",
+        "artist": "Bruno Mars",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/80x80bb.webp",
+        "appleID": "risk-it-all/1866732797"
+    },
+    {
+        "ranking": "6",
+        "title": "Slap The City",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/80x80bb.webp",
+        "appleID": "slap-the-city/6769551472"
+    },
+    {
+        "ranking": "7",
+        "title": "Janice STFU",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "janice-stfu/6769568596"
+    },
+    {
+        "ranking": "8",
+        "title": "Man I Need",
+        "artist": "Olivia Dean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+        "appleID": "man-i-need/1817609509"
+    },
+    {
+        "ranking": "9",
+        "title": "Background",
+        "artist": "Jin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/35/34/90353434-7681-fbf0-e425-8f0252f401d7/198704436611_Cover.jpg/80x80bb.webp",
+        "appleID": "background/1808005495"
+    },
+    {
+        "ranking": "10",
+        "title": "they don’t know ’bout us",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "they-dont-know-bout-us/1868862389"
+    },
+    {
+        "ranking": "11",
+        "title": "Nothing Without Your Love",
+        "artist": "Jin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/35/34/90353434-7681-fbf0-e425-8f0252f401d7/198704436611_Cover.jpg/80x80bb.webp",
+        "appleID": "nothing-without-your-love/1808005217"
+    },
+    {
+        "ranking": "12",
+        "title": "WNBA",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/80x80bb.webp",
+        "appleID": "wnba/6769551471"
+    },
+    {
+        "ranking": "13",
+        "title": "It's Not You It's Me",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/2c/95/492c9561-9df1-bdfc-ad24-00e9f2403db2/196874328361.jpg/80x80bb.webp",
+        "appleID": "its-not-you-its-me/6764419275"
+    },
+    {
+        "ranking": "14",
+        "title": "Fortworth",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/80x80bb.webp",
+        "appleID": "fortworth/6769551482"
+    },
+    {
+        "ranking": "15",
+        "title": "Ran To Atlanta",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "ran-to-atlanta/6769568597"
+    },
+    {
+        "ranking": "16",
+        "title": "2.0",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "2-0/1868862380"
+    },
+    {
+        "ranking": "17",
+        "title": "A Couple Minutes",
+        "artist": "Olivia Dean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+        "appleID": "a-couple-minutes/1817609514"
+    },
+    {
+        "ranking": "18",
+        "title": "So Easy (To Fall In Love)",
+        "artist": "Olivia Dean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+        "appleID": "so-easy-to-fall-in-love/1817609507"
+    },
+    {
+        "ranking": "19",
+        "title": "Choosin' Texas",
+        "artist": "Ella Langley",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/80x80bb.webp",
+        "appleID": "choosin-texas/1844932150"
+    },
+    {
+        "ranking": "20",
+        "title": "Make Them Cry",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "make-them-cry/6769568456"
+    },
+    {
+        "ranking": "21",
+        "title": "NORMAL",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "normal/1868862387"
+    },
+    {
+        "ranking": "22",
+        "title": "Back to Sleep",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/0b/4b/6f/0b4b6fc8-8231-dbfd-49d3-a92bb95d0f24/mzm.nsulprvx.jpg/80x80bb.webp",
+        "appleID": "back-to-sleep/1059869490"
+    },
+    {
+        "ranking": "23",
+        "title": "Raindance",
+        "artist": "Dave",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/24/9949241c-e52c-3018-eae8-c686013a7474/25UM1IM68216.rgb.jpg/80x80bb.webp",
+        "appleID": "raindance/1847992612"
+    },
+    {
+        "ranking": "24",
+        "title": "BBW",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/c0/e6/25c0e60b-5e99-58b2-6a52-821602141cce/26UMGIM63615.rgb.jpg/80x80bb.webp",
+        "appleID": "bbw/6769557058"
+    },
+    {
+        "ranking": "25",
+        "title": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "artist": "DJ Khaled",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/5d/32/035d32e9-6fdb-8f08-daf0-c2f208128d06/886446550695.jpg/80x80bb.webp",
+        "appleID": "wild-thoughts-feat-rihanna-bryson-tiller/1244230126"
+    },
+    {
+        "ranking": "26",
+        "title": "Call Me",
+        "artist": "angel",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/34/0c/98340c7e-2245-5038-2eb3-2cd83eaa28d2/3268709.jpg/80x80bb.webp",
+        "appleID": "call-me/6768748884"
+    },
+    {
+        "ranking": "27",
+        "title": "Don't Leave Me (feat. Kugypt)",
+        "artist": "Sean Rii",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/1e/76/fa1e766f-19c7-2d68-62ff-f2147399285a/415623.jpg/80x80bb.webp",
+        "appleID": "dont-leave-me-feat-kugypt/1870571174"
+    },
+    {
+        "ranking": "28",
+        "title": "Goh Weh Nau (feat. Jarahn & Jnr Kro)",
+        "artist": "Tonton Malele",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/94/97/d89497ad-9153-cd1f-9d07-2df634cfd75d/artwork.jpg/80x80bb.webp",
+        "appleID": "goh-weh-nau-feat-jarahn-jnr-kro/1686848296"
+    },
+    {
+        "ranking": "29",
+        "title": "Into the Sun",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "into-the-sun/1868862606"
+    },
+    {
+        "ranking": "30",
+        "title": "Balamaris (feat. Kronos_StyleKumul)",
+        "artist": "Tonton Malele",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/84/65/cf8465e2-0462-7bb7-e19f-a580e7750ebb/artwork.jpg/80x80bb.webp",
+        "appleID": "balamaris-feat-kronos-stylekumul/1680938911"
+    },
+    {
+        "ranking": "31",
+        "title": "Don’t Say You Love Me",
+        "artist": "Jin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/35/34/90353434-7681-fbf0-e425-8f0252f401d7/198704436611_Cover.jpg/80x80bb.webp",
+        "appleID": "dont-say-you-love-me/1808005215"
+    },
+    {
+        "ranking": "32",
+        "title": "Ok Love You Bye",
+        "artist": "Olivia Dean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/ed/42/31ed42f4-663c-5acc-e194-a795a032d993/19UMGIM50845.rgb.jpg/80x80bb.webp",
+        "appleID": "ok-love-you-bye/1486982852"
+    },
+    {
+        "ranking": "33",
+        "title": "Hooligan",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "hooligan/1868862377"
+    },
+    {
+        "ranking": "34",
+        "title": "Obvious",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/4f/c9/eb4fc96b-d446-6c6c-63e9-75fdbc420762/196874287347.jpg/80x80bb.webp",
+        "appleID": "obvious/1891759136"
+    },
+    {
+        "ranking": "35",
+        "title": "Shabang",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "shabang/6769568598"
+    },
+    {
+        "ranking": "36",
+        "title": "Aliens",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "aliens/1868862378"
+    },
+    {
+        "ranking": "37",
+        "title": "Classic",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/80x80bb.webp",
+        "appleID": "classic/6769551477"
+    },
+    {
+        "ranking": "38",
+        "title": "Let Alone The One You Love",
+        "artist": "Olivia Dean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+        "appleID": "let-alone-the-one-you-love/1817609508"
+    },
+    {
+        "ranking": "39",
+        "title": "Stuck with U",
+        "artist": "Ariana Grande",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ee/ec/56eeecfb-a5f3-ced0-fa69-4eda0e474aec/20UMGIM34924.rgb.jpg/80x80bb.webp",
+        "appleID": "stuck-with-u/1511562950"
+    },
+    {
+        "ranking": "40",
+        "title": "B’s On The Table",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "bs-on-the-table/6769568604"
+    },
+    {
+        "ranking": "41",
+        "title": "Best Friend",
+        "artist": "ADMT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/72/ad/4572adb2-3b1b-031f-64bf-0147d59971db/196871621731.jpg/80x80bb.webp",
+        "appleID": "best-friend/1715532999"
+    },
+    {
+        "ranking": "42",
+        "title": "Bliss",
+        "artist": "Naomi Scott",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/be/27/9dbe2762-0b17-07d3-b048-01a95bbb227d/8721416481741.png/80x80bb.webp",
+        "appleID": "bliss/1863525496"
+    },
+    {
+        "ranking": "43",
+        "title": "Plot Twist",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "plot-twist/6769568609"
+    },
+    {
+        "ranking": "44",
+        "title": "King of Kings",
+        "artist": "Terrian",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/94/b7/9894b70d-970a-b39b-b3d0-bfce85d2f130/669447021780.png/80x80bb.webp",
+        "appleID": "king-of-kings/1874010709"
+    },
+    {
+        "ranking": "45",
+        "title": "Make Them Remember",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "make-them-remember/6769568611"
+    },
+    {
+        "ranking": "46",
+        "title": "Girls Want Girls (feat. Lil Baby)",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+        "appleID": "girls-want-girls-feat-lil-baby/1584281482"
+    },
+    {
+        "ranking": "47",
+        "title": "Whisper My Name",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "whisper-my-name/6769568595"
+    },
+    {
+        "ranking": "48",
+        "title": "Make Them Pay",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "make-them-pay/6769568599"
+    },
+    {
+        "ranking": "49",
+        "title": "Leave Me Alone",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/2c/95/492c9561-9df1-bdfc-ad24-00e9f2403db2/196874328361.jpg/80x80bb.webp",
+        "appleID": "leave-me-alone/6764419105"
+    },
+    {
+        "ranking": "50",
+        "title": "Dust",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "dust/6769568594"
+    },
+    {
+        "ranking": "51",
+        "title": "Burning Bridges",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "burning-bridges/6769568602"
+    },
+    {
+        "ranking": "52",
+        "title": "Sweet Nausea",
+        "artist": "Naomi Scott",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/be/27/9dbe2762-0b17-07d3-b048-01a95bbb227d/8721416481741.png/80x80bb.webp",
+        "appleID": "sweet-nausea/1863525488"
+    },
+    {
+        "ranking": "53",
+        "title": "Residuals",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+        "appleID": "residuals/1740206493"
+    },
+    {
+        "ranking": "54",
+        "title": "Tekem yu lo Makira (feat. J LIKO & Jenieo)",
+        "artist": "Sean Rii",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/f4/97/e9f49760-013d-598f-702b-f66198a071f4/415608.jpg/80x80bb.webp",
+        "appleID": "tekem-yu-lo-makira-feat-j-liko-jenieo/1870561903"
+    },
+    {
+        "ranking": "55",
+        "title": "Come Closer (feat. Konecs, Reggie & Switch. E)",
+        "artist": "Fejoint",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/56/f8/9c56f8b8-2679-1d58-8226-37e7dee9a59d/11.jpg/80x80bb.webp",
+        "appleID": "come-closer-feat-konecs-reggie-switch-e/1660882150"
+    },
+    {
+        "ranking": "56",
+        "title": "It Depends (feat. Bryson Tiller)",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/f9/06/31f90614-92d5-b76d-747f-34564018b865/196873371504.jpg/80x80bb.webp",
+        "appleID": "it-depends-feat-bryson-tiller/1828289440"
+    },
+    {
+        "ranking": "57",
+        "title": "Gratitude",
+        "artist": "Brandon Lake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/4e/e8/0e4ee8cf-f624-42f6-4529-ea32b7b67809/671072650082_TImage.jpg/80x80bb.webp",
+        "appleID": "gratitude/1748026587"
+    },
+    {
+        "ranking": "58",
+        "title": "Reini lae",
+        "artist": "Sean Rii",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/7c/be/f97cbe00-250b-3d10-a1c9-8b37c21dabb5/415637.jpg/80x80bb.webp",
+        "appleID": "reini-lae/1870561567"
+    },
+    {
+        "ranking": "59",
+        "title": "2 Hard 4 The Radio",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "2-hard-4-the-radio/6769568610"
+    },
+    {
+        "ranking": "60",
+        "title": "Look Misst (feat. Stegga Bwoy & Nasty)",
+        "artist": "Young Davie",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/d6/65/ddd665fe-d903-a19c-623f-df40273846d9/747.jpg/80x80bb.webp",
+        "appleID": "look-misst-feat-stegga-bwoy-nasty/1737941713"
+    },
+    {
+        "ranking": "61",
+        "title": "Edge of the Earth",
+        "artist": "The Beaches",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/b6/fe/59b6fe2a-a068-5059-f0f0-f0ce78aefb7f/820233510868.jpg/80x80bb.webp",
+        "appleID": "edge-of-the-earth/6771070483"
+    },
+    {
+        "ranking": "62",
+        "title": "Q&A",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/c0/e6/25c0e60b-5e99-58b2-6a52-821602141cce/26UMGIM63615.rgb.jpg/80x80bb.webp",
+        "appleID": "q-a/6769557064"
+    },
+    {
+        "ranking": "63",
+        "title": "Consequences (feat. Tonton Malele)",
+        "artist": "Laku Mic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/c9/75/8cc9758e-3da1-a5a2-e221-7441844af606/artwork.jpg/80x80bb.webp",
+        "appleID": "consequences-feat-tonton-malele/1776487263"
+    },
+    {
+        "ranking": "64",
+        "title": "Dukduk (Enb Special)",
+        "artist": "Jarahn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/b9/ff/02b9ffbd-8a48-e695-5f43-0dd2dc46b3e4/423378.jpg/80x80bb.webp",
+        "appleID": "dukduk-enb-special/1878123071"
+    },
+    {
+        "ranking": "65",
+        "title": "Present",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/2c/95/492c9561-9df1-bdfc-ad24-00e9f2403db2/196874328361.jpg/80x80bb.webp",
+        "appleID": "present/6764419430"
+    },
+    {
+        "ranking": "66",
+        "title": "Got Your Back (feat. Keri Hilson)",
+        "artist": "T.I.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/9b/bb/709bbbe2-95ca-4563-c185-f754841d1a22/050742335366_art.jpg/80x80bb.webp",
+        "appleID": "got-your-back-feat-keri-hilson/1260881501"
+    },
+    {
+        "ranking": "67",
+        "title": "Honey Pack",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/2c/95/492c9561-9df1-bdfc-ad24-00e9f2403db2/196874328361.jpg/80x80bb.webp",
+        "appleID": "honey-pack/6764419261"
+    },
+    {
+        "ranking": "68",
+        "title": "Merry Go Round",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "merry-go-round/1868862386"
+    },
+    {
+        "ranking": "69",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "appleID": "not-like-us/1744776167"
+    },
+    {
+        "ranking": "70",
+        "title": "Won't Let Me Leave",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/2c/95/492c9561-9df1-bdfc-ad24-00e9f2403db2/196874328361.jpg/80x80bb.webp",
+        "appleID": "wont-let-me-leave/6764419287"
+    },
+    {
+        "ranking": "71",
+        "title": "Slow Jamz (feat. Lucky Daye)",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/2c/95/492c9561-9df1-bdfc-ad24-00e9f2403db2/196874328361.jpg/80x80bb.webp",
+        "appleID": "slow-jamz-feat-lucky-daye/6764419278"
+    },
+    {
+        "ranking": "72",
+        "title": "Sacrifice",
+        "artist": "Mariah the Scientist",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/06/86/2c068675-4814-c770-8da6-aaf1cc3fbdd0/196873376462.jpg/80x80bb.webp",
+        "appleID": "sacrifice/1824543089"
+    },
+    {
+        "ranking": "73",
+        "title": "Daddy Raus",
+        "artist": "Kronos_StyleKumul",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/4a/2f/0d4a2f7d-b65c-3be8-822c-f830f06b63bb/artwork.jpg/80x80bb.webp",
+        "appleID": "daddy-raus/1827753377"
+    },
+    {
+        "ranking": "74",
+        "title": "Lush Life",
+        "artist": "Zara Larsson",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/e6/3b/74e63bb4-d593-f926-85c7-df3ca43fcf3f/886446183473.jpg/80x80bb.webp",
+        "appleID": "lush-life/1201058113"
+    },
+    {
+        "ranking": "75",
+        "title": "Love In This Club (feat. Young Jeezy)",
+        "artist": "USHER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/2a/4e/112a4ebd-2cae-d2b9-9146-66eb8ed095d1/mzi.rlfesxkp.jpg/80x80bb.webp",
+        "appleID": "love-in-this-club-feat-young-jeezy/281698335"
+    },
+    {
+        "ranking": "76",
+        "title": "Masaga Eme (feat. Billy T)",
+        "artist": "Jarahn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/e6/b3/c6e6b381-8a7b-f660-8f05-609cd8bc135e/446243.jpg/80x80bb.webp",
+        "appleID": "masaga-eme-feat-billy-t/6770954383"
+    },
+    {
+        "ranking": "77",
+        "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/80x80bb.webp",
+        "appleID": "hold-on-were-going-home-feat-majid-jordan/1440829630"
+    },
+    {
+        "ranking": "78",
+        "title": "Cintaku (feat. Kugypt)",
+        "artist": "Sean Rii",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/90/d1/f790d100-f2d5-983f-9a5c-739feee604e6/6806.jpg/80x80bb.webp",
+        "appleID": "cintaku-feat-kugypt/1718423173"
+    },
+    {
+        "ranking": "79",
+        "title": "Call Out My Name",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/80x80bb.webp",
+        "appleID": "call-out-my-name/1363310482"
+    },
+    {
+        "ranking": "80",
+        "title": "Is It a Crime",
+        "artist": "Mariah the Scientist",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/06/86/2c068675-4814-c770-8da6-aaf1cc3fbdd0/196873376462.jpg/80x80bb.webp",
+        "appleID": "is-it-a-crime/1824543092"
+    },
+    {
+        "ranking": "81",
+        "title": "There Was Jesus",
+        "artist": "Zach Williams",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/5a/74/525a74dc-8286-a759-fe0c-6d2c6ee5caed/886447491034.jpg/80x80bb.webp",
+        "appleID": "there-was-jesus/1474695389"
+    },
+    {
+        "ranking": "82",
+        "title": "Best Kind",
+        "artist": "Naomi Scott",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/be/27/9dbe2762-0b17-07d3-b048-01a95bbb227d/8721416481741.png/80x80bb.webp",
+        "appleID": "best-kind/1863525493"
+    },
+    {
+        "ranking": "83",
+        "title": "Hellbent",
+        "artist": "Naomi Scott",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/be/27/9dbe2762-0b17-07d3-b048-01a95bbb227d/8721416481741.png/80x80bb.webp",
+        "appleID": "hellbent/1863525486"
+    },
+    {
+        "ranking": "84",
+        "title": "Kiss It Better",
+        "artist": "Rihanna",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/80x80bb.webp",
+        "appleID": "kiss-it-better/1440934015"
+    },
+    {
+        "ranking": "85",
+        "title": "Let Me Love You",
+        "artist": "Mario",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/77/72/6b777276-1f3d-8ecf-d9d2-06733e3d7dd3/828766188523.jpg/80x80bb.webp",
+        "appleID": "let-me-love-you/257524515"
+    },
+    {
+        "ranking": "86",
+        "title": "Bound",
+        "artist": "Naomi Scott",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/be/27/9dbe2762-0b17-07d3-b048-01a95bbb227d/8721416481741.png/80x80bb.webp",
+        "appleID": "bound/1863525494"
+    },
+    {
+        "ranking": "87",
+        "title": "What Do You Mean?",
+        "artist": "Justin Bieber",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/11/84/751184b0-77df-1eff-bb20-dac03247425d/15UMGIM59808.rgb.jpg/80x80bb.webp",
+        "appleID": "what-do-you-mean/1440829606"
+    },
+    {
+        "ranking": "88",
+        "title": "Holy Blindfold",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/8b/b3/b48bb3e6-28be-8a87-7929-7bdd7a848e1a/196873237800.jpg/80x80bb.webp",
+        "appleID": "holy-blindfold/1817448755"
+    },
+    {
+        "ranking": "89",
+        "title": "Lady Lady",
+        "artist": "Olivia Dean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/80x80bb.webp",
+        "appleID": "lady-lady/1817609407"
+    },
+    {
+        "ranking": "90",
+        "title": "Nice To Each Other",
+        "artist": "Olivia Dean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/80x80bb.webp",
+        "appleID": "nice-to-each-other/1814620247"
+    },
+    {
+        "ranking": "91",
+        "title": "Work (feat. Drake)",
+        "artist": "Rihanna",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/80x80bb.webp",
+        "appleID": "work-feat-drake/1440934019"
+    },
+    {
+        "ranking": "92",
+        "title": "FYA",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "fya/1868862379"
+    },
+    {
+        "ranking": "93",
+        "title": "The Other Side",
+        "artist": "Jason Derulo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/a3/2a/b4a32ac1-52a1-5523-68ee-9847d23e6795/093624938651.jpg/80x80bb.webp",
+        "appleID": "the-other-side/840493990"
+    },
+    {
+        "ranking": "94",
+        "title": "Larim Yu Kam",
+        "artist": "Dezine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/b5/82/39b58288-2b00-8a53-be8d-7378c3449da3/0.jpg/80x80bb.webp",
+        "appleID": "larim-yu-kam/1807940326"
+    },
+    {
+        "ranking": "95",
+        "title": "Angel Numbers / Ten Toes",
+        "artist": "Chris Brown",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/7b/f5/4c7bf575-5b86-222d-56b2-9637a68bb651/196871463010.jpg/80x80bb.webp",
+        "appleID": "angel-numbers-ten-toes/1715744237"
+    },
+    {
+        "ranking": "96",
+        "title": "Simel Purpur",
+        "artist": "Tonton Malele",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/cb/70/4ecb70cd-4a67-e197-414b-f5de061c2885/artwork.jpg/80x80bb.webp",
+        "appleID": "simel-purpur/1695432902"
+    },
+    {
+        "ranking": "97",
+        "title": "One More Night",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "one-more-night/1868862600"
+    },
+    {
+        "ranking": "98",
+        "title": "Like Animals",
+        "artist": "BTS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/80x80bb.webp",
+        "appleID": "like-animals/1868862388"
+    },
+    {
+        "ranking": "99",
+        "title": "Slide (feat. Frank Ocean & Migos)",
+        "artist": "Calvin Harris",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/32/8b/85328b3d-e117-0dfc-7366-d5eb639a4263/886446469607.jpg/80x80bb.webp",
+        "appleID": "slide-feat-frank-ocean-migos/1233869909"
+    },
+    {
+        "ranking": "100",
+        "title": "Down (feat. Lil Wayne)",
+        "artist": "Jay Sean",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/45/01/f34501c4-abc1-a635-7ebb-a62058eaf64b/09UMGIM40549.rgb.jpg/80x80bb.webp",
+        "appleID": "down-feat-lil-wayne/1443085141"
+    }
+]
