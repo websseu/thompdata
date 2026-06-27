@@ -1,0 +1,702 @@
+[
+    {
+        "ranking": "1",
+        "title": "Прахосмукачка",
+        "artist": "SIMONA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/f7/59/70f75918-8e93-a942-fa56-4a105bfffb58/AEFC472C-566A-11F1-9B0F-808BEA037AE6.jpg/80x80bb.webp",
+        "appleID": "%D0%BF%D1%80%D0%B0%D1%85%D0%BE%D1%81%D0%BC%D1%83%D0%BA%D0%B0%D1%87%D0%BA%D0%B0/6773053540"
+    },
+    {
+        "ranking": "2",
+        "title": "Скъсаняк",
+        "artist": "DJORDAN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/cd/ea/56cdea4b-9ba9-89ae-5f29-210e17fcbae0/B31042AE-666A-11F1-9D7F-74CE538BE8A9.jpg/80x80bb.webp",
+        "appleID": "%D1%81%D0%BA%D1%8A%D1%81%D0%B0%D0%BD%D1%8F%D0%BA/6780066350"
+    },
+    {
+        "ranking": "3",
+        "title": "Кеш, кеш",
+        "artist": "Selina",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/ec/6e/4aec6e64-4bf4-6a3e-6896-19d88048cc5a/820233428439.jpg/80x80bb.webp",
+        "appleID": "%D0%BA%D0%B5%D1%88-%D0%BA%D0%B5%D1%88/6770499597"
+    },
+    {
+        "ranking": "4",
+        "title": "Jamaican (Bam Bam)",
+        "artist": "HUGEL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/80x80bb.webp",
+        "appleID": "jamaican-bam-bam/1883679876"
+    },
+    {
+        "ranking": "5",
+        "title": "Bangaranga",
+        "artist": "Dara",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/4f/39/ce4f39c7-e885-bfe6-c12b-115416a92b90/1013235.jpg/80x80bb.webp",
+        "appleID": "bangaranga/1881672024"
+    },
+    {
+        "ranking": "6",
+        "title": "Времето лекува",
+        "artist": "Medi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/87/67/ff876777-7834-942a-a91d-8994a6fdd90c/820233664431.jpg/80x80bb.webp",
+        "appleID": "%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D1%82%D0%BE-%D0%BB%D0%B5%D0%BA%D1%83%D0%B2%D0%B0/6778481503"
+    },
+    {
+        "ranking": "7",
+        "title": "Bad Boys",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/35/31/35353110-e2bd-887c-32af-e8c4fc3f021b/2FF87378-4AF9-11F1-BD24-E7B41A047AE6.jpg/80x80bb.webp",
+        "appleID": "bad-boys/6769545045"
+    },
+    {
+        "ranking": "8",
+        "title": "Orient Express (feat. Krisko)",
+        "artist": "MBT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/ed/1d/5aed1d14-5106-b1c9-d229-36bf1c4ba287/artwork.jpg/80x80bb.webp",
+        "appleID": "orient-express-feat-krisko/6770520008"
+    },
+    {
+        "ranking": "9",
+        "title": "Катинара",
+        "artist": "SIMONA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/d8/f2/add8f254-e922-4fe9-fc66-cf6a6d042a39/281628D0-452D-11F0-935C-35E4794B0540.jpg/80x80bb.webp",
+        "appleID": "%D0%BA%D0%B0%D1%82%D0%B8%D0%BD%D0%B0%D1%80%D0%B0/1819892562"
+    },
+    {
+        "ranking": "10",
+        "title": "Няма да ти пиша",
+        "artist": "Преслава",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/22/ed/1a22ed96-376d-0e0c-8785-e839cf9932cd/247578.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D1%8F%D0%BC%D0%B0-%D0%B4%D0%B0-%D1%82%D0%B8-%D0%BF%D0%B8%D1%88%D0%B0/1888530800"
+    },
+    {
+        "ranking": "11",
+        "title": "Movin' To The Sun",
+        "artist": "HUGEL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/80x80bb.webp",
+        "appleID": "movin-to-the-sun/6769070199"
+    },
+    {
+        "ranking": "12",
+        "title": "Тарикат",
+        "artist": "Mirela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/4e/5f/bf4e5f38-586d-2880-13dc-a1790e04df1d/BD4A4DB6-3189-11F1-97CD-5C45FA037AE6.jpg/80x80bb.webp",
+        "appleID": "%D1%82%D0%B0%D1%80%D0%B8%D0%BA%D0%B0%D1%82/1891693502"
+    },
+    {
+        "ranking": "13",
+        "title": "Тактика",
+        "artist": "Galin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/7c/de/237cdef7-d8e7-fee4-7eec-ae8d987fcafd/00513FE4-6B1D-11F1-BFFD-85B3AC548C1F.jpg/80x80bb.webp",
+        "appleID": "%D1%82%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/6782202292"
+    },
+    {
+        "ranking": "14",
+        "title": "Хващаме бас",
+        "artist": "Preslava",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/4b/f9/684bf918-72fa-a787-ecb0-78a9b5f3bf36/820233297301.jpg/80x80bb.webp",
+        "appleID": "%D1%85%D0%B2%D0%B0%D1%89%D0%B0%D0%BC%D0%B5-%D0%B1%D0%B0%D1%81/6766206744"
+    },
+    {
+        "ranking": "15",
+        "title": "Вдига му бившата",
+        "artist": "Selina",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/63/44/dc63446b-191b-964f-9775-64b25ebef296/199806515754.jpg/80x80bb.webp",
+        "appleID": "%D0%B2%D0%B4%D0%B8%D0%B3%D0%B0-%D0%BC%D1%83-%D0%B1%D0%B8%D0%B2%D1%88%D0%B0%D1%82%D0%B0/1853886913"
+    },
+    {
+        "ranking": "16",
+        "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+        "artist": "Ankara Echoes",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/3c/a9/b73ca9b6-24f0-91ee-cd96-d967a18531f9/0.jpg/80x80bb.webp",
+        "appleID": "beni-al-ta-ki-seni-g%C3%B6rene-kadar-beni-al-afro-house-remix/6772928175"
+    },
+    {
+        "ranking": "17",
+        "title": "Ne be nqmam",
+        "artist": "MBT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/ed/1d/5aed1d14-5106-b1c9-d229-36bf1c4ba287/artwork.jpg/80x80bb.webp",
+        "appleID": "ne-be-nqmam/6770520005"
+    },
+    {
+        "ranking": "18",
+        "title": "Мамиш (feat. Azis)",
+        "artist": "Galin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/5a/9e/045a9e17-59ea-3b8a-6f51-c66c76408841/243404.jpg/80x80bb.webp",
+        "appleID": "%D0%BC%D0%B0%D0%BC%D0%B8%D1%88-feat-azis/1889639416"
+    },
+    {
+        "ranking": "19",
+        "title": "Трафик",
+        "artist": "Selina",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/79/f1/d179f144-4863-4411-b0db-1da5e57cd603/199538210057.jpg/80x80bb.webp",
+        "appleID": "%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA/1824643351"
+    },
+    {
+        "ranking": "20",
+        "title": "Нотариално заверен",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/8b/95/6f8b9510-e728-3572-069d-de0388894d0d/266561.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D0%BE%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D0%BB%D0%BD%D0%BE-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D0%B5%D0%BD/1894361512"
+    },
+    {
+        "ranking": "21",
+        "title": "Малката, Сладката",
+        "artist": "Tereza",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/5e/11/8e5e1131-7b37-fcb8-7981-e5c5c82a3564/41125.jpg/80x80bb.webp",
+        "appleID": "%D0%BC%D0%B0%D0%BB%D0%BA%D0%B0%D1%82%D0%B0-%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%82%D0%B0/1869386460"
+    },
+    {
+        "ranking": "22",
+        "title": "Охрана",
+        "artist": "Lidia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/d4/6f/a5d46fd3-46c0-2ad9-e760-24cf7eabcbd7/EAEBD434-F871-11F0-8822-D963FDCF65AF.jpg/80x80bb.webp",
+        "appleID": "%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B0/1872181159"
+    },
+    {
+        "ranking": "23",
+        "title": "Deja Vu",
+        "artist": "SIMONA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/fc/4a/0efc4a63-dc88-af15-97bc-a616ef9dc7f0/1A2D4A82-3A69-11EC-BBC2-89FC68900169.jpg/80x80bb.webp",
+        "appleID": "deja-vu/1593202840"
+    },
+    {
+        "ranking": "24",
+        "title": "365 (feat. Monkey)",
+        "artist": "Tedi Aleksandrova",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/e9/b3/1ae9b31a-80c9-9319-8a89-db808578d5f4/237468.jpg/80x80bb.webp",
+        "appleID": "365-feat-monkey/1888305617"
+    },
+    {
+        "ranking": "25",
+        "title": "Пълен цирк",
+        "artist": "Gabriella",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/a5/26/c0a526db-022e-4753-4c79-960836bcb833/820233840590.jpg/80x80bb.webp",
+        "appleID": "%D0%BF%D1%8A%D0%BB%D0%B5%D0%BD-%D1%86%D0%B8%D1%80%D0%BA/6783441539"
+    },
+    {
+        "ranking": "26",
+        "title": "100 живота",
+        "artist": "Galena",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/a9/f2/46a9f278-85d3-1778-d77a-3ca686657a7a/243665.jpg/80x80bb.webp",
+        "appleID": "100-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%B0/1889655860"
+    },
+    {
+        "ranking": "27",
+        "title": "И на всички като тебе",
+        "artist": "Desi Slava",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/94/71/a49471c3-f5c4-711f-1284-ffb30e09dc7b/235065.jpg/80x80bb.webp",
+        "appleID": "%D0%B8-%D0%BD%D0%B0-%D0%B2%D1%81%D0%B8%D1%87%D0%BA%D0%B8-%D0%BA%D0%B0%D1%82%D0%BE-%D1%82%D0%B5%D0%B1%D0%B5/1888306027"
+    },
+    {
+        "ranking": "28",
+        "title": "Направи така",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/fe/74/75fe7419-b2ea-26fa-ea1f-7d4da2b30b35/248202.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8-%D1%82%D0%B0%D0%BA%D0%B0/1888521956"
+    },
+    {
+        "ranking": "29",
+        "title": "Завърти Го",
+        "artist": "Kiara",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/b6/c9/4cb6c9d7-5485-4ef9-3808-8b1ea34b4d09/26SYMIM30849.rgb.jpg/80x80bb.webp",
+        "appleID": "%D0%B7%D0%B0%D0%B2%D1%8A%D1%80%D1%82%D0%B8-%D0%B3%D0%BE/6769532018"
+    },
+    {
+        "ranking": "30",
+        "title": "Вечно свързани",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/c1/aa/a1c1aaf3-1dfb-4357-d00e-7a3c7d2cf17f/246580.jpg/80x80bb.webp",
+        "appleID": "%D0%B2%D0%B5%D1%87%D0%BD%D0%BE-%D1%81%D0%B2%D1%8A%D1%80%D0%B7%D0%B0%D0%BD%D0%B8/1889797734"
+    },
+    {
+        "ranking": "31",
+        "title": "LET ME BE",
+        "artist": "The Second Voice",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/68/ba/0f68ba2b-f12c-4a5b-fa4f-b9c378be26a4/825204598296.jpg/80x80bb.webp",
+        "appleID": "let-me-be/1884898399"
+    },
+    {
+        "ranking": "32",
+        "title": "Болка моя",
+        "artist": "Tsvetelina Yaneva",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/84/6a/ef846abc-0bbf-1704-566e-6e0376a281fd/243355.jpg/80x80bb.webp",
+        "appleID": "%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0-%D0%BC%D0%BE%D1%8F/1889639356"
+    },
+    {
+        "ranking": "33",
+        "title": "Луда жена",
+        "artist": "DJORDAN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/c7/25/a7c725ab-d76a-880d-486a-227ee41c28ed/225267.jpg/80x80bb.webp",
+        "appleID": "%D0%BB%D1%83%D0%B4%D0%B0-%D0%B6%D0%B5%D0%BD%D0%B0/1888321282"
+    },
+    {
+        "ranking": "34",
+        "title": "Дискотека",
+        "artist": "Krissy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/e5/91/4ce59145-0217-5893-a9b3-7c91c08021e8/820233330657.jpg/80x80bb.webp",
+        "appleID": "%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D1%82%D0%B5%D0%BA%D0%B0/6766201118"
+    },
+    {
+        "ranking": "35",
+        "title": "Top",
+        "artist": "Tedi Aleksandrova",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/fe/d3/7dfed326-d26f-021f-cafa-19cf8478d6ec/233279.jpg/80x80bb.webp",
+        "appleID": "top/1891989581"
+    },
+    {
+        "ranking": "36",
+        "title": "Откачила",
+        "artist": "Selina",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/8e/04/b68e04d2-daaa-6927-dbf1-1b665c07f0f8/3800152413461.jpg/80x80bb.webp",
+        "appleID": "%D0%BE%D1%82%D0%BA%D0%B0%D1%87%D0%B8%D0%BB%D0%B0/1808045929"
+    },
+    {
+        "ranking": "37",
+        "title": "Greshni (feat. V:RGO & BM)",
+        "artist": "MBT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/ed/1d/5aed1d14-5106-b1c9-d229-36bf1c4ba287/artwork.jpg/80x80bb.webp",
+        "appleID": "greshni-feat-v-rgo-bm/6770520006"
+    },
+    {
+        "ranking": "38",
+        "title": "Наказвам",
+        "artist": "Tereza",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/2d/f3/922df3d0-9c79-5632-072f-9068165e5f7f/CEDE299C-CD40-11F0-A1E2-2F4402D065AF.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B2%D0%B0%D0%BC/1857993249"
+    },
+    {
+        "ranking": "39",
+        "title": "Dobre ti beshe (feat. Toni Storaro)",
+        "artist": "Alisia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/d4/90/4fd49005-cd7f-01e2-ac45-85c9b5ebd188/cover.jpg/80x80bb.webp",
+        "appleID": "dobre-ti-beshe-feat-toni-storaro/1724209387"
+    },
+    {
+        "ranking": "40",
+        "title": "KRUV I SOS",
+        "artist": "V:RGO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/54/73/1f547381-0618-f562-b603-6f119e308258/26SYMIM30600.rgb.jpg/80x80bb.webp",
+        "appleID": "kruv-i-sos/6780983128"
+    },
+    {
+        "ranking": "41",
+        "title": "Ustnite ti mrasni",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/0a/fb/c80afb34-9a63-dc40-1408-eba34686e6aa/AEB9C166-44C9-11F1-967F-F56612047AE6.jpg/80x80bb.webp",
+        "appleID": "ustnite-ti-mrasni/6767345900"
+    },
+    {
+        "ranking": "42",
+        "title": "HA-HA",
+        "artist": "Dessita",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/02/77/530277a2-030d-d1e1-c9e5-99c5a8d002aa/4F97B59E-51BC-11F1-AD47-C7D623047AE6.jpg/80x80bb.webp",
+        "appleID": "ha-ha/6771029454"
+    },
+    {
+        "ranking": "43",
+        "title": "Janice STFU",
+        "artist": "Drake",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/80x80bb.webp",
+        "appleID": "janice-stfu/6769568596"
+    },
+    {
+        "ranking": "44",
+        "title": "Euphoria",
+        "artist": "Galena",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/9d/70/e29d700a-78b9-4200-fd6b-31e97caef854/3800152334452.jpg/80x80bb.webp",
+        "appleID": "euphoria/1811175679"
+    },
+    {
+        "ranking": "45",
+        "title": "Podvodnitsa",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/3b/aa/483baa1d-f997-14a9-4d82-a639e5d13d41/3917C6BC-44C2-11F1-9681-BF6012047AE6.jpg/80x80bb.webp",
+        "appleID": "podvodnitsa/6766796753"
+    },
+    {
+        "ranking": "46",
+        "title": "Setiva",
+        "artist": "Dara Ekimova",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/93/c8/5093c835-f4a7-9e4c-0d01-0a3877f5e3c9/820233188630.jpg/80x80bb.webp",
+        "appleID": "setiva/6764269106"
+    },
+    {
+        "ranking": "47",
+        "title": "Смени паролата си",
+        "artist": "Desi Slava",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/ef/95/72ef95d9-af7c-c27d-5246-26567d10c67c/238565.jpg/80x80bb.webp",
+        "appleID": "%D1%81%D0%BC%D0%B5%D0%BD%D0%B8-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B0%D1%82%D0%B0-%D1%81%D0%B8/1888452917"
+    },
+    {
+        "ranking": "48",
+        "title": "Целувка с Tequila",
+        "artist": "Mirela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/02/d0/7f02d0db-d443-0806-6439-d07134c637f9/D5654D50-5FDF-11F0-8E29-25E92880193F.jpg/80x80bb.webp",
+        "appleID": "%D1%86%D0%B5%D0%BB%D1%83%D0%B2%D0%BA%D0%B0-%D1%81-tequila/1826590988"
+    },
+    {
+        "ranking": "49",
+        "title": "Скъпото се плаща",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/29/1a/fc291a6e-2131-78e7-780f-6965229e32d4/248178.jpg/80x80bb.webp",
+        "appleID": "%D1%81%D0%BA%D1%8A%D0%BF%D0%BE%D1%82%D0%BE-%D1%81%D0%B5-%D0%BF%D0%BB%D0%B0%D1%89%D0%B0/1888529113"
+    },
+    {
+        "ranking": "50",
+        "title": "Dai Dai",
+        "artist": "Shakira",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/80x80bb.webp",
+        "appleID": "dai-dai/6768469976"
+    },
+    {
+        "ranking": "51",
+        "title": "Рана",
+        "artist": "Medi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/10/c1/ae10c12a-2566-5ebf-a4dc-bd8f6ccb2074/3800152279395.jpg/80x80bb.webp",
+        "appleID": "%D1%80%D0%B0%D0%BD%D0%B0/1808045086"
+    },
+    {
+        "ranking": "52",
+        "title": "Сърце",
+        "artist": "Galena",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/f4/3f/11f43f2d-cbd2-5893-ab54-33a4c3bd4c39/245923.jpg/80x80bb.webp",
+        "appleID": "%D1%81%D1%8A%D1%80%D1%86%D0%B5/1888522654"
+    },
+    {
+        "ranking": "53",
+        "title": "С мен да вървиш (feat. Dzhena)",
+        "artist": "Galin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/ee/9f/beee9fc6-7335-64c4-d4a0-ffb0d1ba60d0/235593.jpg/80x80bb.webp",
+        "appleID": "%D1%81-%D0%BC%D0%B5%D0%BD-%D0%B4%D0%B0-%D0%B2%D1%8A%D1%80%D0%B2%D0%B8%D1%88-feat-dzhena/1888473348"
+    },
+    {
+        "ranking": "54",
+        "title": "Дивана",
+        "artist": "Medi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/bd/22/afbd22e4-6d1c-ef4f-9c6d-d2bab6c93218/3800152255290.jpg/80x80bb.webp",
+        "appleID": "%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/1808043852"
+    },
+    {
+        "ranking": "55",
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
+        "appleID": "billie-jean/269573364"
+    },
+    {
+        "ranking": "56",
+        "title": "How Deep Is Your Love",
+        "artist": "Calvin Harris",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/5c/85/045c85d9-94cb-a9c7-f39b-aa5b7e803c04/dj.dkdebfmh.jpg/80x80bb.webp",
+        "appleID": "how-deep-is-your-love/1001677305"
+    },
+    {
+        "ranking": "57",
+        "title": "Mi Chico",
+        "artist": "DJ Goja",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/77/e2/1377e282-b756-f06c-7d8f-46c68fbd7276/825700894823_cover.jpg/80x80bb.webp",
+        "appleID": "mi-chico/1890546068"
+    },
+    {
+        "ranking": "58",
+        "title": "Феноменален",
+        "artist": "Galena",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/38/fc/f838fc10-f5ba-1406-b767-9b235f48f048/246095.jpg/80x80bb.webp",
+        "appleID": "%D1%84%D0%B5%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0%D0%BB%D0%B5%D0%BD/1888521100"
+    },
+    {
+        "ranking": "59",
+        "title": "Не давам да си чужда (feat. Toni Storaro)",
+        "artist": "Alisia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/de/a8/f6dea871-b6c0-205f-ff19-06b5f143203b/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D0%B5-%D0%B4%D0%B0%D0%B2%D0%B0%D0%BC-%D0%B4%D0%B0-%D1%81%D0%B8-%D1%87%D1%83%D0%B6%D0%B4%D0%B0-feat-toni-storaro/1690248567"
+    },
+    {
+        "ranking": "60",
+        "title": "Tintiri Mintiri",
+        "artist": "Beatris",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/25/c4/1c25c43c-7384-a8cc-0210-1dd13c01041f/5026854675312.jpg/80x80bb.webp",
+        "appleID": "tintiri-mintiri/1875904800"
+    },
+    {
+        "ranking": "61",
+        "title": "Alchen",
+        "artist": "MBT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/ed/1d/5aed1d14-5106-b1c9-d229-36bf1c4ba287/artwork.jpg/80x80bb.webp",
+        "appleID": "alchen/6770520007"
+    },
+    {
+        "ranking": "62",
+        "title": "ΜΗ ΜΕ ΚΡΊΝΕΙΣ",
+        "artist": "PakelDj",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/49/aa/c649aadc-483a-ce05-b110-eeee2d452e04/artwork.jpg/80x80bb.webp",
+        "appleID": "%CE%BC%CE%B7-%CE%BC%CE%B5-%CE%BA%CF%81%CE%AF%CE%BD%CE%B5%CE%B9%CF%82/6769108588"
+    },
+    {
+        "ranking": "63",
+        "title": "Ангелът",
+        "artist": "Tsvetelina Yaneva",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/69/9c/ae699ce9-ec58-3a72-f99b-53b472d04e10/243628.jpg/80x80bb.webp",
+        "appleID": "%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8A%D1%82/1889797258"
+    },
+    {
+        "ranking": "64",
+        "title": "Zapali",
+        "artist": "Alisia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/a1/4f/61a14f9c-d63d-d6ff-646f-1e8712f3a4d7/cover.jpg/80x80bb.webp",
+        "appleID": "zapali/1724209284"
+    },
+    {
+        "ranking": "65",
+        "title": "Тази дискотека",
+        "artist": "Galin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/fc/81/c4fc810c-975e-3778-ce3f-a5bbdf5b67e9/0EFAA148-5296-11F0-97D3-57E18A4B0540.jpg/80x80bb.webp",
+        "appleID": "%D1%82%D0%B0%D0%B7%D0%B8-%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D1%82%D0%B5%D0%BA%D0%B0/1823205686"
+    },
+    {
+        "ranking": "66",
+        "title": "Take Me There",
+        "artist": "DA TI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/c9/84/e7c984a5-04db-aecf-baef-75a614fa938c/artwork.jpg/80x80bb.webp",
+        "appleID": "take-me-there/1886836654"
+    },
+    {
+        "ranking": "67",
+        "title": "California (feat. DJ Ceci Ludata Glava)",
+        "artist": "Emilia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/a8/4c/29a84c5f-b1fe-53b7-7b74-d56497a45f0a/238812.jpg/80x80bb.webp",
+        "appleID": "california-feat-dj-ceci-ludata-glava/1888437487"
+    },
+    {
+        "ranking": "68",
+        "title": "Не, мерси",
+        "artist": "Medi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/a3/be/c2a3be9c-1063-d076-8fd7-ba0856b67f46/3800152258024.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D0%B5-%D0%BC%D0%B5%D1%80%D1%81%D0%B8/1808045735"
+    },
+    {
+        "ranking": "69",
+        "title": "Дъното копай",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/45/0b/d6450b33-b8d8-2eed-6c39-4f79c37e7ce7/838E4D6C-44D4-11F1-9B66-896112047AE6.jpg/80x80bb.webp",
+        "appleID": "%D0%B4%D1%8A%D0%BD%D0%BE%D1%82%D0%BE-%D0%BA%D0%BE%D0%BF%D0%B0%D0%B9/6767354861"
+    },
+    {
+        "ranking": "70",
+        "title": "Злобари",
+        "artist": "Krasyo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/a9/dc/19a9dcd7-f635-8a0b-1c2c-019ee4d7dbbd/131009.jpg/80x80bb.webp",
+        "appleID": "%D0%B7%D0%BB%D0%BE%D0%B1%D0%B0%D1%80%D0%B8/1869612314"
+    },
+    {
+        "ranking": "71",
+        "title": "PORSCHE",
+        "artist": "V:RGO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/51/ea/7b51ea0d-8aae-5032-eb52-c26ea6e14067/cover.jpg/80x80bb.webp",
+        "appleID": "porsche/1843912058"
+    },
+    {
+        "ranking": "72",
+        "title": "Яко ми е",
+        "artist": "Djena",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/a5/fd/1ea5fd23-ed3a-7935-e54f-edbeaf6aff66/247882.jpg/80x80bb.webp",
+        "appleID": "%D1%8F%D0%BA%D0%BE-%D0%BC%D0%B8-%D0%B5/1888521850"
+    },
+    {
+        "ranking": "73",
+        "title": "Dirty Diana",
+        "artist": "Michael Jackson",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/9d/38/3d9d3811-71f0-3a0e-1ada-3004e56ff852/827969428726.jpg/80x80bb.webp",
+        "appleID": "dirty-diana/159294485"
+    },
+    {
+        "ranking": "74",
+        "title": "Maria",
+        "artist": "Medi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/72/f43c7202-582e-5260-a187-5bb23d08534b/3800152319374.jpg/80x80bb.webp",
+        "appleID": "maria/1808045554"
+    },
+    {
+        "ranking": "75",
+        "title": "Габриела (feat. Medi)",
+        "artist": "Gabriella",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/01/04/9b010444-1fd6-c1ec-c7f8-8dbea6c85549/199806638989.jpg/80x80bb.webp",
+        "appleID": "%D0%B3%D0%B0%D0%B1%D1%80%D0%B8%D0%B5%D0%BB%D0%B0-feat-medi/1858273301"
+    },
+    {
+        "ranking": "76",
+        "title": "Диамант",
+        "artist": "Selina",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/9b/4d/3a9b4df1-f2ac-d63f-5fd4-9ccd6ba0aa81/820233087063.jpg/80x80bb.webp",
+        "appleID": "%D0%B4%D0%B8%D0%B0%D0%BC%D0%B0%D0%BD%D1%82/6762468275"
+    },
+    {
+        "ranking": "77",
+        "title": "Вярно с оригинала",
+        "artist": "Anelia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/21/e0/7821e009-9060-caf3-47fe-36403cf6cd0e/820233791861.jpg/80x80bb.webp",
+        "appleID": "%D0%B2%D1%8F%D1%80%D0%BD%D0%BE-%D1%81-%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D0%B0/6781754701"
+    },
+    {
+        "ranking": "78",
+        "title": "Гот ми е",
+        "artist": "Anelia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/d5/a8/54d5a877-6aed-75a6-3e9f-ba7a374755f2/274807.jpg/80x80bb.webp",
+        "appleID": "%D0%B3%D0%BE%D1%82-%D0%BC%D0%B8-%D0%B5/6763514730"
+    },
+    {
+        "ranking": "79",
+        "title": "Heartless",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+        "appleID": "heartless/1499378597"
+    },
+    {
+        "ranking": "80",
+        "title": "БЕДНИ И БОГАТИ",
+        "artist": "Torino",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/a9/48/64a94843-586e-f377-8985-4a73d95b3b4f/cover.jpg/80x80bb.webp",
+        "appleID": "%D0%B1%D0%B5%D0%B4%D0%BD%D0%B8-%D0%B8-%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D0%B8/1887281443"
+    },
+    {
+        "ranking": "81",
+        "title": "Мъже милиарди",
+        "artist": "Desi Slava",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/53/6e/e3/536ee30f-a2fb-367a-47f8-dd72891cb459/190296161827.jpg/80x80bb.webp",
+        "appleID": "%D0%BC%D1%8A%D0%B6%D0%B5-%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D1%80%D0%B4%D0%B8/1616688920"
+    },
+    {
+        "ranking": "82",
+        "title": "Бавария (feat. Konstantin)",
+        "artist": "VANE$$A",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/ae/ee/6faeee28-6d1c-b518-e21a-61c58ac5d4fa/26UMGIM28131.rgb.jpg/80x80bb.webp",
+        "appleID": "%D0%B1%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D1%8F-feat-konstantin/6773365294"
+    },
+    {
+        "ranking": "83",
+        "title": "Tishinata im",
+        "artist": "MBT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/97/54/f297547a-2b57-ea4b-dd94-f4b3749a4596/artwork.jpg/80x80bb.webp",
+        "appleID": "tishinata-im/1723864036"
+    },
+    {
+        "ranking": "84",
+        "title": "Окадар",
+        "artist": "Dj Damyan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/77/be/a577be6b-fa5f-10f4-0a9e-40e6162d69fc/859788660711_cover.jpg/80x80bb.webp",
+        "appleID": "%D0%BE%D0%BA%D0%B0%D0%B4%D0%B0%D1%80/1747731520"
+    },
+    {
+        "ranking": "85",
+        "title": "stupid song",
+        "artist": "Olivia Rodrigo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/80x80bb.webp",
+        "appleID": "1889992115"
+    },
+    {
+        "ranking": "86",
+        "title": "hate that i made you love me",
+        "artist": "Ariana Grande",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/80x80bb.webp",
+        "appleID": "hate-that-i-made-you-love-me/6763656876"
+    },
+    {
+        "ranking": "87",
+        "title": "Cry For Me",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/9b/6e/499b6e2d-648f-1a4e-31b8-fb7f06a8123c/25UMGIM09490.rgb.jpg/80x80bb.webp",
+        "appleID": "cry-for-me/1793654350"
+    },
+    {
+        "ranking": "88",
+        "title": "209 (feat. BM, Shunaka & Bliznacite)",
+        "artist": "MBT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/ed/1d/5aed1d14-5106-b1c9-d229-36bf1c4ba287/artwork.jpg/80x80bb.webp",
+        "appleID": "209-feat-bm-shunaka-bliznacite/6770520010"
+    },
+    {
+        "ranking": "89",
+        "title": "JOHN CENA (feat. Tita)",
+        "artist": "Bandata Na Ruba",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/a4/22/ffa42223-5faa-3270-6fca-c8107e9ab2ff/cover.jpg/80x80bb.webp",
+        "appleID": "john-cena-feat-tita/6775783177"
+    },
+    {
+        "ranking": "90",
+        "title": "Няма да ми мине",
+        "artist": "Galin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/fe/4d/65fe4dce-430c-76e6-93c6-50d87fb3f03e/245938.jpg/80x80bb.webp",
+        "appleID": "%D0%BD%D1%8F%D0%BC%D0%B0-%D0%B4%D0%B0-%D0%BC%D0%B8-%D0%BC%D0%B8%D0%BD%D0%B5/1888529609"
+    },
+    {
+        "ranking": "91",
+        "title": "След 1000 жени",
+        "artist": "Desi Slava",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/83/2f/e9832f3a-14bd-b0dc-8e56-46d2147f7f60/245875.jpg/80x80bb.webp",
+        "appleID": "%D1%81%D0%BB%D0%B5%D0%B4-1000-%D0%B6%D0%B5%D0%BD%D0%B8/1889797659"
+    },
+    {
+        "ranking": "92",
+        "title": "Дай ми още",
+        "artist": "Anelia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/d5/a8/54d5a877-6aed-75a6-3e9f-ba7a374755f2/274807.jpg/80x80bb.webp",
+        "appleID": "%D0%B4%D0%B0%D0%B9-%D0%BC%D0%B8-%D0%BE%D1%89%D0%B5/6763514726"
+    },
+    {
+        "ranking": "93",
+        "title": "А+Г=ВНЛ",
+        "artist": "Galena",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/7b/d5/487bd57b-ebb2-0fd3-f91c-d6e248e0d2e4/3800152309559.jpg/80x80bb.webp",
+        "appleID": "%D0%B0-%D0%B3-%D0%B2%D0%BD%D0%BB/1811175687"
+    },
+    {
+        "ranking": "94",
+        "title": "Мамино синче",
+        "artist": "Emanuela",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/bf/54/8abf5480-ab17-223a-bb34-5fb527c3e47f/230538.jpg/80x80bb.webp",
+        "appleID": "%D0%BC%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE-%D1%81%D0%B8%D0%BD%D1%87%D0%B5/1888316360"
+    },
+    {
+        "ranking": "95",
+        "title": "Муцуна",
+        "artist": "DJORDAN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/b0/68/69b06890-8e58-dcd3-b21e-b63cb9abd6c4/247132.jpg/80x80bb.webp",
+        "appleID": "%D0%BC%D1%83%D1%86%D1%83%D0%BD%D0%B0/1890136274"
+    },
+    {
+        "ranking": "96",
+        "title": "Джумбаре",
+        "artist": "Krissy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/6e/7a/fb6e7ab4-20fc-1d28-b4ea-d42a476f0aeb/199538406627.jpg/80x80bb.webp",
+        "appleID": "%D0%B4%D0%B6%D1%83%D0%BC%D0%B1%D0%B0%D1%80%D0%B5/1830197256"
+    },
+    {
+        "ranking": "97",
+        "title": "Пистолет",
+        "artist": "Medi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/4a/44/c44a44fb-d334-9de7-345f-f7e3f6fec8d3/3800152335169.jpg/80x80bb.webp",
+        "appleID": "%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82/1808045774"
+    },
+    {
+        "ranking": "98",
+        "title": "Mi Amor",
+        "artist": "Dessita",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/14/c6/8b14c65b-c2ea-3c15-e3c3-a87077e957f6/4C19AD9C-35FC-11EF-8942-A697E6D9DD29.jpg/80x80bb.webp",
+        "appleID": "mi-amor/1755580990"
+    },
+    {
+        "ranking": "99",
+        "title": "Sujalqvam",
+        "artist": "MBT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/97/54/f297547a-2b57-ea4b-dd94-f4b3749a4596/artwork.jpg/80x80bb.webp",
+        "appleID": "sujalqvam/1723864035"
+    },
+    {
+        "ranking": "100",
+        "title": "Хотел",
+        "artist": "Ivayla",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/6d/61/ee6d6130-6973-9f2d-ee8b-fdc6b7c96e08/C245BB12-D693-11F0-8AAB-D73CCFCF65AF.jpg/80x80bb.webp",
+        "appleID": "%D1%85%D0%BE%D1%82%D0%B5%D0%BB/1861821008"
+    }
+]
